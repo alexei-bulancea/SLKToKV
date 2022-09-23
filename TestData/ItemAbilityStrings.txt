@@ -1,0 +1,2943 @@
+[AIsm]
+Name=Item Strength Gain
+[AIam]
+Name=Item Agility Gain
+[AIat]
+Name=Item Damage Bonus
+EditorSuffix=(+3)
+[AIde]
+Name=Item Armor Bonus
+[AIem]
+Name=Item Experience Gain
+[AIe2]
+Name=Item Experience Gain
+EditorSuffix= (Greater)
+[AIfn]
+Name=Item Capture The Flag
+EditorSuffix=(Night Elf)
+[AIlm]
+Name=Item Level Gain
+[AIim]
+Name=Item Intelligence Gain
+[AIxm]
+Name=Item Int/Agi/Str gain
+[AIhe]
+Name=Item Healing
+[AIha]
+Name=Item Area Healing
+[APh2]
+Name="Powerup Area Healing"
+[AIvi]
+Name=Item Temporary Invisibility
+[AIma]
+Name=Item Mana Regain
+[AIre]
+Name=Item Heal/Mana Regain
+[AIra]
+Name=Item Area Heal/Mana Regain
+[Bdef]
+Bufftip=Scroll of Protection
+Buffubertip="This unit is affected by a Scroll of Protection; its armor is temporarily increased."
+[AIrm]
+Name=Item Mana Regeneration
+[AIfi]
+Name=Item Firebolt
+[AIil]
+Name=Item Illusions
+[BIil]
+Bufftip=Illusion
+Buffubertip="This unit is an illusion; it takes extra damage from enemies."
+[AIfb]
+Name="Item Attack Fire BonuX"
+[AIob]
+Name=Item Attack Frost Bonus
+[AIpb]
+Name=Item Attack Poison Bonus
+[AIcb]
+Name=Item Attack Corruption Bonus
+[BIcb]
+Bufftip=Corruption
+Buffubertip="This unit was hit by an Orb of Corruption; its armor is temporarily reduced."
+[AIrc]
+Name=Item Reincarnation
+[AItp]
+Name=Item Town Portal
+[AIfr]
+Name=Item Rock Golem Summon
+[AIfu]
+Name=Item Doom Guard Summon
+[AIfs]
+Name=Item Skeleton Summon
+[BFig]
+Bufftip=Summoned Unit
+Buffubertip="Summoned units take additional damage from dispels."
+[AIaa]
+Name=Item Permanent Damage Gain
+[AImi]
+Name=Item Permanent Life Gain
+[AIva]
+Name=Item Life Steal
+[AIcf]
+Name=Item Immolation
+[BIcf]
+Bufftip=Cloak of Flames
+Buffubertip="This unit has a Cloak of Flames; nearby enemy ground units will take damage over time."
+[AIab]
+Name=Item Hero Stat Bonus
+[AIml]
+Name=Item Life Bonus
+[Arel]
+Name=Item Life Regeneration
+[Aami]
+Name=Item Anti-Magic Shell
+[AImm]
+Name=Item Mana Bonus
+[AImz]
+Name=Item Mana Bonus (100)
+[AImv]
+Name=Item Mana Bonus (75)
+[AI2m]
+Name=Item Mana Bonus (200)
+[AIas]
+Name=Item Attack Speed Bonus
+[AIsx]
+Name=Item Attack Speed Bonus
+EditorSuffix= (Gloves of Haste)
+[AIs2]
+Name=Item Attack Speed Bonus
+EditorSuffix= (Greater)
+[AIaa]
+Name=Item Attack Damage Gain
+[AImi]
+Name=Item Life Gain
+[AIms]
+Name=Item Move Speed Bonus
+[AIa4]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+4 Agility)
+[AIa6]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+6 Agility)
+[AIaz]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+10 Agility)
+[AIx5]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+5 All Stats)
+[AIx2]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+2 All Stats)
+[AIs4]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+4 Strength)
+[AIs6]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+6 Strength)
+[AIi3]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+3 Intelligence)
+[AIi4]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+4 Intelligence)
+[AIi6]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+6 Intelligence)
+[AIgm]
+Name=Item Agility Gain
+EditorSuffix=(+2)
+[AItm]
+Name=Item Intelligence Gain
+EditorSuffix=(+2)
+[AInm]
+Name=Item Strength Gain
+EditorSuffix=(+2)
+[AIt9]
+Name=Item Damage Bonus
+EditorSuffix=(+9)
+[AItc]
+Name=Item Damage Bonus
+EditorSuffix=(+12)
+[AItf]
+Name=Item Damage Bonus
+EditorSuffix=(+15)
+[AId1]
+Name=Item Armor Bonus
+EditorSuffix=(+1)
+[AId2]
+Name=Item Armor Bonus
+EditorSuffix=(+2)
+[AId3]
+Name=Item Armor Bonus
+EditorSuffix=(+3)
+[AId4]
+Name=Item Armor Bonus
+EditorSuffix=(+4)
+[AId5]
+Name=Item Armor Bonus
+EditorSuffix=(+5)
+[AId7]
+Name=Item Armor Bonus
+EditorSuffix=(+7)
+[AId8]
+Name=Item Armor Bonus
+EditorSuffix=(+8)
+[AId0]
+Name=Item Armor Bonus
+EditorSuffix=(+10)
+[AIl2]
+Name=Item Life Bonus
+EditorSuffix=(Greater)
+[AIm1]
+Name=Item Mana Regain
+EditorSuffix=(Lesser)
+[AIm2]
+Name=Item Mana Regain
+EditorSuffix=(Greater)
+[AIrn]
+EditorSuffix=(Lesser)
+[AIcd]
+EditorSuffix=(Item)
+[AIav]
+EditorSuffix=(Item)
+[AIar]
+EditorSuffix=(Item)
+[AIau]
+EditorSuffix=(Item)
+[AIev]
+Name=Evasion
+Ubertip="Gives a <AIev,DataA1,%>% chance to avoid an attack."
+EditorSuffix=(Item)
+[AIbm]
+Name=Item Mana Bonus
+EditorSuffix="(350)"
+[AImh]
+Name=Item Permanent Life Gain
+EditorSuffix=(+50)
+[AIa1]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+1 Agility)
+[AIx1]
+Name=Item Hero Stat Bonus
+EditorSuffix=(+1 All Stats)
+[AIfc]
+Name=Flying Carpet
+[BIrl]
+Bufftip=Regeneration
+Buffubertip="This unit has Regeneration on it; its hit points will regenerate over time."
+[AIpl]
+Name="Recover"
+Hotkey=W
+Tip="Recover [ |c00FFFC01W|r ]"
+Ubertip="Heal mana and life of hero, has 1 second casting time. Can be used 3 times.|n|n|cffc3dbffCooldown: 200 seconds|r."
+[AIp1]
+Name=Generic Item-Rejuv Effect
+[BIrm]
+Bufftip=Clarity Potion
+Buffubertip="This unit drank a Clarity Potion; its mana will regenerate over time."
+[AIp2]
+Name=Generic Item-Rejuv Effect
+EditorSuffix= (II)
+[AIp3]
+Name=Generic Item-Rejuv Effect
+EditorSuffix= (III)
+[AIp4]
+Name=Generic Item-Rejuv Effect
+EditorSuffix= (IV)
+[BIrg]
+Bufftip=Rejuvenation
+Buffubertip="This unit will regenerate health and mana over time."
+EditorSuffix= (Item)
+[AIgo]
+Name=Chest of Gold
+[Ablp]
+Name=Blight Placement
+[AIct]
+Name=Change Time of Day
+[AIpv]
+Name="Unholy Power"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Dante resort to his demon part to increases his damage and heal with the blood of his enemys. Cooldown improve per level.|n|n|cffffcc00Level 1|r - 20 damage, 20% life steal.|n|cffffcc00Level 2|r - 30 damage, 25% life steal.|n|cffffcc00Level 3|r - 40 damage, 30% life steal.|n|cffffcc00Level 4|r - 50 damage, 35% life steal.|n|cffffcc00Level 5|r - 70 damage, 40% life steal.|n|cffffcc00Level 6|r - 100 damage, 45% life steal.|n|cffffcc00Level 7|r - 140 damage, 50% life steal.|n|cffffcc00Level 8|r - 200 damage, 55% life steal.|n|cffffcc00Level 9|r - 380 damage, 60% life steal."
+Tip="Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Unholy Power [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Dante resort to his demon part to increases his damage in 20 and heal with the blood of his enemys, 20% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Dante resort to his demon part to increases his damage in 30 and heal with the blood of his enemys, 25% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Dante resort to his demon part to increases his damage in 40 and heal with the blood of his enemys, 30% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Dante resort to his demon part to increases his damage in 50 and heal with the blood of his enemys, 35% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r","Dante resort to his demon part to increases his damage in 70 and heal with the blood of his enemys, 40% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 32 seconds|r","Dante resort to his demon part to increases his damage in 100 and heal with the blood of his enemys, 45% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Dante resort to his demon part to increases his damage in 140 and heal with the blood of his enemys, 50% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 27 seconds|r","Dante resort to his demon part to increases his damage in 200 and heal with the blood of his enemys, 55% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","Dante resort to his demon part to increases his damage in 380 and heal with the blood of his enemys, 60% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+[BIpv]
+Bufftip=Unholy Power
+Buffubertip=The Hero has increased damage and a life-draining attack.
+[AIsr]
+Name=Spell Damage Reduction
+[AIbl]
+Name=Build Tiny Castle
+[AIbg]
+Name=Build Tiny Great Hall
+[AImt]
+Name=Staff of Teleportation
+[ANpr]
+Name=Staff of Preservation
+[ANss]
+Name=Spell Shield
+EditorSuffix= (Amulet)
+[BNss]
+Bufftip=Spell Shield
+Buffubertip="A protective shield that blocks a spell."
+[Aspb]
+Name=Spell Book
+[AIrd]
+Name=Raise Dead (Item)
+[AIsa]
+Name=Scroll of Haste
+[AItb]
+Name=Dust of Appearance
+[Bdet]
+Bufftip=Detected
+Buffubertip="This unit is detected; an enemy player can see it."
+[AIsb]
+Name=Orb of Slow
+[AIll]
+Name=Orb of Lightning (new)
+[AIxs]
+Name=Item Anti-Magic Shell
+[AIpg]
+Name=Item Purge
+EditorSuffix= (2)
+[AIth]
+Name=Item Damage Bonus
+EditorSuffix=(+2)
+[AIti]
+Name=Item Damage Bonus
+EditorSuffix=(+4)
+[AItj]
+Name=Item Damage Bonus
+EditorSuffix=(+5)
+[AItk]
+Name=Item Damage Bonus
+EditorSuffix=(+7)
+[AItl]
+Name=Item Damage Bonus
+EditorSuffix=(+8)
+[AItn]
+Name=Item Damage Bonus
+EditorSuffix=(+10)
+[AItx]
+Name=Item Damage Bonus
+EditorSuffix=(+20)
+[AIdd]
+Name=Defend
+EditorSuffix= (item)
+[AIft]
+Name=Melee Cold Damage Bonus
+[AIdd]
+Name=Passive Defense
+[AIxk]
+Name=Berserk
+EditorSuffix= (item)
+[Btrv]
+EditorName=Teleport Reveal
+[S016]
+EditorSuffix=""
+Name="Battle Wounds"
+Researchhotkey="E"
+Researchtip="Learn Battle Wounds - [|cffffcc00Level %d|r]"
+Researchubertip="The Pit Lord get stronger with each wound whenever his hit points get under %40 he increases his strength for a duration. Gained strength increase per level Duration increase per level."
+Tip="Battle Wounds - [|cffffcc00Level 1|r]","Battle Wounds - [|cffffcc00Level 2|r]","Battle Wounds - [|cffffcc00Level 3|r]","Battle Wounds - [|cffffcc00Level 4|r]"
+Ubertip="The Pit Lord get stronger with each wound whenever his hit points get under %40 he increases his strength by 30 for 10 seconds this abilty have 20 seconds cooldown. Also increases Pit Lords movement speed %5 attack speed %15","The Pit Lord get stronger with each wound whenever his hit points get under %40 he increases his strength by 150 for 15 seconds this abilty have 20 seconds cooldown. Also increases Pit Lords movement speed %10 attack speed %30","The Pit Lord get stronger with each wound whenever his hit points get under %40 he increases his strength by 600 for 20 seconds this abilty have 20 seconds cooldown. Also increases Pit Lords movement speed %15 attack speed %50","The Pit Lord get stronger with each wound whenever his hit points get under %40 he increases his strength by 1000 for 30 seconds this abilty have 20 seconds cooldown. increases Pit Lords movement speed %20 attack speed %75. Also if Pit Lord's level is greater than 35 he increase 1500 if greater than 42 he increase 2600 strength"
+[S00L]
+EditorSuffix=""
+Name="NAS"
+Tip="Attack Speed Aura"
+Ubertip="Increases all friendly units attack speed by 80%."
+[S00H]
+EditorSuffix=""
+Name="Divine Speed Dante"
+Tip="Divine Speed"
+Ubertip="Dante is the fastest being."
+[S00B]
+EditorSuffix=""
+Name="Book Move Speed Aura 3"
+Tip="Move Speed Aura"
+Ubertip="Increases all friendly units Move speed by 26%."
+[S00A]
+EditorSuffix=""
+Name="Book Move Speed Aura 2"
+Tip="Move Speed Aura"
+Ubertip="Increases all friendly units Move speed by 12%."
+[S009]
+EditorSuffix=""
+Name="Book Move Speed Aura"
+Tip="Move Speed Aura"
+Ubertip="Increases all friendly units Move speed by 6%."
+[A1JD]
+Name="Permanent Life Gain tom of hp"
+EditorSuffix=""
+[A1JC]
+Name="Item Agy Gain 400"
+EditorSuffix="(+6)"
+[A1JB]
+Name="Item str Gain 400"
+EditorSuffix="(+6)"
+[A1JA]
+Name="Item int Gain 200"
+EditorSuffix="(+6)"
+[A1IW]
+Name="Phoenix Fx"
+EditorSuffix=(+1)
+[A1IC]
+Name="mjolchain"
+EditorSuffix=""
+[A1IB]
+Name="mjolchainproc"
+[A1I5]
+Name="aldubreath"
+EditorSuffix=""
+[A1I3]
+EditorSuffix=""
+Name="promethemana"
+[A1I1]
+Name="Consume"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Consume [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Archimonde increases his damage and heal with the blood of his enemys. Cooldown improve per level.|n|n|cffffcc00Level 1|r - 20 damage, 20% life steal.|n|cffffcc00Level 2|r - 30 damage, 25% life steal.|n|cffffcc00Level 3|r - 40 damage, 30% life steal.|n|cffffcc00Level 4|r - 50 damage, 35% life steal.|n|cffffcc00Level 5|r - 70 damage, 40% life steal.|n|cffffcc00Level 6|r - 100 damage, 45% life steal.|n|cffffcc00Level 7|r - 140 damage, 50% life steal.|n|cffffcc00Level 8|r - 200 damage, 55% life steal.|n|cffffcc00Level 9|r - 500 damage, 60% life steal."
+Tip="Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Consume [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Archimonde increases his damage in 20 and heal with the blood of his enemys, 20% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Archimonde increases his damage in 30 and heal with the blood of his enemys, 25% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Archimonde increases his damage in 40 and heal with the blood of his enemys, 30% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Archimonde increases his damage in 50 and heal with the blood of his enemys, 35% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r","Archimonde increases his damage in 70 and heal with the blood of his enemys, 40% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 32 seconds|r","Archimonde increases his damage in 100 and heal with the blood of his enemys, 45% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Archimonde increases his damage in 140 and heal with the blood of his enemys, 50% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 27 seconds|r","Archimonde increases his damage in 200 and heal with the blood of his enemys, 55% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","Archimonde increases his damage in 500 and heal with the blood of his enemys, 60% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+[A1HS]
+EditorSuffix=""
+Name="Improve Scope"
+Researchhotkey="T"
+Researchtip="Learn Improve Scope [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Sniper equips a new  scope that gives him better aaccuracy at long ranges. On attack sniper will deal pure damage equal to his scope*distance between him and his target. Each level increases Sniper's range by 150 |n|n|cffffcc00Level 1|r - 2x Scope. |n|cffffcc00Level 2|r - 4x Scope. |n|cffffcc00Level 3|r - 6x Scope. |n|cffffcc00Level 4|r - 8x Scope."
+Tip="Improve Scope [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Improve Scope [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Improve Scope [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Improve Scope [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Sniper equips a new 2x scope that gives him better accuracy at long ranges. On attack sniper will deal pure damage equal to his scope*distance between him and his target. Also increases Sniper's range by 150","Sniper equips a new 4x scope that gives him better accuracy at long ranges. On attack sniper will deal pure damage equal to his scope*distance between him and his target.Also increases Sniper's range by 300","Sniper equips a new 4x scope that gives him better accuracy at long ranges. On attack sniper will deal pure damage equal to his scope*distance between him and his target.Also increases Sniper's range by 450","Sniper equips a new 8x scope that gives him better accuracy at long ranges. On attack sniper will deal pure damage equal to his scope*distance between him and his target.Also increases Sniper's range by 600"
+Hotkey=T
+[A1HR]
+Name="holyvetrege"
+[A1HO]
+Name="ward priest"
+Ubertip="Create a Healing ward that heals nearby friendly units for 7 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Create a Healing ward that heals nearby friendly units for 14 seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r.","Create a Healing ward that heals nearby friendly units for 20 seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r.","Create a Healing ward that heals nearby friendly units for 35 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r."
+EditorSuffix=""
+Researchhotkey="T"
+Researchtip="Learn Healing Wards [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Create an Healing Ward to heal nearby friendly units for 4% of their total hit points per second. Cooldown improvement per level. |n|n|cffffcc00Level 1|r - 7 Seconds. |n|cffffcc00Level 2|r - 14 Seconds. |n|cffffcc00Level 3|r - 20 Seconds. |n|cffffcc00Level 4|r - 35 Seconds"
+Tip="Healing Wards [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Healing Wards [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Healing Wards [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Healing Wards [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Hotkey=T
+Unhotkey=T
+[A1HN]
+Name="lunerspellresss"
+[A1HK]
+EditorSuffix=""
+Name="lunarspellresaur"
+[A1HA]
+Name="armscyth"
+EditorSuffix=""
+[A1H9]
+Name="Tp Horse"
+Tip="Teleport"
+Ubertip="Teleport [ |c00FFFC01Q|r ]"
+Untip="Teleport [ |c00FFFC01Q|r ]"
+Unubertip="Teleport"
+Hotkey=Q
+[A1H8]
+Name="ArchAngel"
+Ubertip="You can not be target of most of spell, have +20000 hit points and +1000 armor bonus."
+EditorSuffix=""
+Tip="|cffffcc00ArchAngel|r"
+[A1H7]
+Name="GRAB +1000"
+EditorSuffix=""
+[A1H6]
+Name="GRAF 40"
+EditorSuffix=""
+[A1H5]
+Name="GRAF +20000"
+EditorSuffix=""
+[A1H1]
+Name="DTU"
+EditorSuffix=""
+Researchhotkey="T"
+Researchtip="|cffffcc00Dante Ultimate|r - [|cffffcc00Level %d|r]"
+Researchubertip="Hero abilities for normal form and demon form |n|n|cffffcc00Divine Speed:|r Greately reduce the attack and move speed of everything in the world including allieds, except you. |n|cffffcc00Darkness Speed:|r Reduce the speed of enemies around you(less than Divine Speed) and increases your damage by a percentage."
+Tip="","s"
+Ubertip="","s"
+[A1GV]
+Name="+x Bonus Damage"
+EditorSuffix=""
+[A1GU]
+Name="LeaDomicProt"
+EditorSuffix=(least)
+[A1GT]
+Name="LeaVampBite"
+EditorSuffix=(least)
+[A1GQ]
+Name="LEA AL 7000"
+EditorSuffix=""
+[A1GG]
+Name="+1000 Bonus DamageDC"
+EditorSuffix=""
+[A1GF]
+Name="Armor Bonus +1000DC"
+EditorSuffix=""
+[A1G6]
+Name="ART-60AS"
+EditorSuffix="(Greater)"
+[A1G5]
+Name="ART-74"
+EditorSuffix=""
+[A1G4]
+Name="Art-DG"
+EditorSuffix=""
+[A1EZ]
+Name="RegDrg"
+EditorSuffix=(Lesser)
+[A1EV]
+Name="Item Experience Gain +3000"
+[A1EU]
+Name="Item Agy Gain 6"
+EditorSuffix="(+6)"
+[A1ET]
+Name="Item Strength Gain 6"
+EditorSuffix="(+6)"
+[A1ES]
+Name="Item Intelligence Gain 8"
+EditorSuffix="(+8)"
+[A1EH]
+Name=Spell Shield
+EditorSuffix="Celestial"
+[A1EG]
+Name="Armor life +20000"
+EditorSuffix=""
+[A1EF]
+Name="Item move speed 300"
+[A1ED]
+Name="Armor life 7000"
+EditorSuffix=""
+[A1E8]
+Name="SIDMP"
+[A1E5]
+Name="AL 2250 SIS"
+EditorSuffix=""
+[A1E4]
+Name="+285 BD SIS"
+EditorSuffix=""
+[A1E3]
+Name="Permanent Life Gain 800"
+EditorSuffix=""
+[A1E2]
+Name="Permanent Life Gain 280"
+EditorSuffix=""
+[A1E1]
+Name="Permanent Life Gain 100"
+EditorSuffix=""
+[A1DW]
+Name="+2600 Damage"
+EditorSuffix=""
+[A1DV]
+Name="+3000 Damage"
+EditorSuffix=""
+[A1DS]
+EditorSuffix=(Item)
+Name="SpAt 3"
+[A1DR]
+EditorSuffix=(Item)
+Name="SpAt 2"
+[A1DQ]
+EditorSuffix=(Item)
+Name="SpAt 1"
+[A1DM]
+Name="ABH"
+EditorSuffix=(least)
+[A1DH]
+Name="+600 DC"
+EditorSuffix=""
+[A1DG]
+Name="NGL -600"
+EditorSuffix=""
+[A1DC]
+Name="RegFBB"
+EditorSuffix=(Lesser)
+[A1D4]
+Name="Paf"
+EditorSuffix=""
+[A1CI]
+Name="Q God Chain Lighting"
+EditorSuffix="(Neutral Hostile)"
+Hotkey=X
+Tip="God Chain Lightning |cffffcc00X|r"
+Ubertip="Hurls a bolt of lightning that bounces up to 9 times, dealing 27500 damage to the primary target. Each jump deals less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+[A1C8]
+Name="ArmoDemo"
+EditorSuffix=""
+[A1C7]
+Name="DC Armor Demolish"
+EditorSuffix=""
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Learn Hell Li|cffffcc00g|rhtning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy. Cooldown improvement per level.  |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage.|n|cffffcc00Level 4|r - <AOcl,DataA4> damage.|n|cffffcc00Level 5|r - <AOcl,DataA5> damage.|n|cffffcc00Level 6|r - <AOcl,DataA6> damage.|n|cffffcc00Level 7|r - <AOcl,DataA7> damage.|n|cffffcc00Level 8|r - <AOcl,DataA8> damage.|n|cffffcc00Level 9|r - <AOcl,DataA9> damage."
+Tip="Armor Demolish [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Armor Demolish [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Armor Demolish [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]"
+Ubertip="Damage target for 5000, reduce his armor by 270, increases your damage and armor by 1000. Last 5 seconds. Effect can not be removed before the duration is over.|n|n|cffc3dbffCooldown: 285 seconds.|r","Damage target for 9000, reduce his armor by 270, increases your damage and armor by 1000. Last 10 seconds.|n|n|cffc3dbffCooldown: 250 seconds.|r","Damage target for 19000, reduce his armor by 270, increases your damage and armor by 1000. Last 15 seconds.|n|n|cffc3dbffCooldown: 90 seconds.|r"
+[A1C6]
+Name="DC SS3"
+EditorSuffix=""
+Researchhotkey="E"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Mutilation:|r Deal high damage based on the number of tasks you have completed, make target unable to attack for a short duration, moderated cooldown. |n|cffffcc00Dragon Blood:|r Increases Regeneration, Armor and sligtlhy Damage for a duration.|n|cffffcc00Stamina:|r Increases Hit Points permanently each time you use this ability."
+Tip="","s"
+Ubertip="","s"
+[A1C5]
+Name="DC SS2"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Tharos Clap:|r Deal damage around you, reduce enemies movement and attack speed for a long duration and heal yourself based on the number of tasks you have completed, moderated cooldown. |n|cffffcc00Dragon Skin:|r Passive ability that increases Hit points, regeneration and move speed.|n|cffffcc00Cutting Scales:|r When you are attacked return damage based in the number of tasks you have completed."
+Tip="","s"
+Ubertip="","s"
+[A1C4]
+Name="DC SS1"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Dragon Breath:|r Burn multiple enemies in a big area of effect. |n|cffffcc00Dragon Slash:|r Big damage to the target based in your strength and small damage around the target.|n|cffffcc00Tharos Blow:|r Bigger damage based in the number of tasks you have completed but single target."
+Tip="","s"
+Ubertip="","s"
+[A1BP]
+Name="DCBD"
+[A1BN]
+Name="+190 Bonus Damage DC"
+EditorSuffix=""
+[A1BM]
+Name="SE +"
+[A1BL]
+Name="SE -"
+[A1BK]
+Name="NGH -2700"
+EditorSuffix=""
+[A1BI]
+Name="Armor Bonus +350"
+EditorSuffix=""
+[A1BG]
+Name="+250 Bonus DamageID"
+EditorSuffix=""
+[A1BF]
+Name="Hit Points +1800D"
+EditorSuffix=(least)
+[A1BE]
+Name="Attack Speed +82%"
+EditorSuffix=""
+[A1AZ]
+Name="Rune bird Area Heal/Mana Regain"
+Tip="Area Heal"
+Ubertip="Heal all allieds around and restore mana."
+[A1AY]
+Name="Armor life -11000"
+EditorSuffix=""
+[A1AX]
+Name="Attack Speed -63%"
+EditorSuffix="(Greater)"
+[A1AW]
+Name="Armor Bonus -117"
+EditorSuffix=""
+[A1AV]
+Name="-680 BD"
+EditorSuffix=""
+[A1AR]
+Name="Attack Speed +1200%"
+EditorSuffix="(Greater)"
+[A1AP]
+Name="Wind"
+[A1AN]
+Name="StPotionsOnHP"
+[A1AK]
+Name="En Armor life +3700"
+EditorSuffix=""
+[A1AJ]
+Name="En +1200 Bonus Damage"
+EditorSuffix=""
+[A1AI]
+Name="Rege HP300"
+[A1AH]
+Name="Tauren -"
+EditorSuffix=(least)
+[A1AG]
+Name="Tauren +"
+EditorSuffix=(least)
+[A1AE]
+Name="Permanent Life Gain 380"
+EditorSuffix=""
+[A1AD]
+Name="Permanent Life Gain 42"
+EditorSuffix=""
+[A1A7]
+Name="StPotionsHealandmana"
+[A1A3]
+Name="Permanent Life GainGTU"
+EditorSuffix=""
+[A1A2]
+Name="Permanent Life Gain GTU"
+EditorSuffix=""
+[A19Y]
+Name="+3800 Bonus Damage"
+EditorSuffix=""
+[A19W]
+Name="Item Mana Bonus 16000"
+[A19U]
+Name="Ench Armor life 1700"
+EditorSuffix=""
+[A19T]
+Name="+200 Ench Bonus Damage"
+EditorSuffix=""
+[A19R]
+Name="Permanent Life Gain 618"
+EditorSuffix=""
+[A19Q]
+Name="Permanent Life Gain 573"
+EditorSuffix=""
+[A19P]
+Name="+340 BD NI"
+EditorSuffix=""
+[A19O]
+Name="+168 BD NI"
+EditorSuffix=""
+[A19N]
+Name="+135 BD NI"
+EditorSuffix=""
+[A19K]
+Name="Permanent Life Gain 120"
+EditorSuffix=""
+[A19J]
+Name="Life Steal DemcS"
+[A19A]
+Name="+1400 Bonus Damage"
+EditorSuffix=""
+[A199]
+Name="+1200 Bonus Damage"
+EditorSuffix=""
+[A195]
+Name="WB SS5"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Battle Experience:|r Single target ability that deal damage based on how much you are damaged. |n|cffffcc00Road To Victory:|r Single target ability that deal small damage to the target and you based in your total hit points after some seconds heal you for a bigger amount.|n|cffffcc00Cutter:|r Passive ability that give a chance to deal spell damage in an small aoe each time you attack."
+Tip="","s"
+Ubertip="","s"
+[A194]
+Name="WB SS4"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Berseker:|r Single target ability that deal damage based on your total hit points also damage you. |n|cffffcc00Feel my Pain:|r Target take pure damage for all the hit points you have lose during the effect of this ability.|n|cffffcc00Hidden Power:|r Reduce your own stats saving them for later, after you release your power you gain a lot more stats than the ones you losed."
+Tip="","s"
+Ubertip="","s"
+[A192]
+Name="WB SS2"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Rage:|r Increases attack, move speed, damage taken for you and if you have less than 50% of hit points give damage bonus based in strength. |n|cffffcc00Critical Strike:|r Passive ability, give a chance to deal x times your normal damage when attack.|n|cffffcc00Revenge:|r Single target spell, high  damage based in your level, high cooldown, you must be damaged to you use it."
+Tip="","s"
+Ubertip="","s"
+[A191]
+Name="WB SS1"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Furious Stomp:|r AOE spell Damage around you, reduce enemies attack and move speed. |n|cffffcc00Double Edge:|r High damage in an small aoe and to you with low cooldown.|n|cffffcc00Maim:|r Single target spell, damage based in strength and reduce attack and move speed for a short duration."
+Tip="","s"
+Ubertip="","s"
+[A18R]
+Name="WB Skin Breaker"
+EditorSuffix=""
+Hotkey=E
+Researchhotkey="E"
+Researchtip="Learn Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. Range of jumps and damage reduction per target improve per level. |n|n|cffffcc00Level 1|r - 90 damage, jumps 5 times. |n|cffffcc00Level 2|r - 150 damage, jumps 6 times.|n|cffffcc00Level 3|r - 220 damage, jumps 7 times.|n|cffffcc00Level 4|r - 300 damage, jumps 8 times.|n|cffffcc00Level 5|r - 400 damage, jumps 9 times.|n|cffffcc00Level 6|r - 520 damage, jumps 10 times.|n|cffffcc00Level 7|r - 680 damage, jumps 12 times.|n|cffffcc00Level 8|r - 900 damage, jumps 14 times.|n|cffffcc00Level 9|r - 1200 damage, jumps 16 times."
+Tip="Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Skin Breaker [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Deal 10% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 40 seconds.|r","Deal 11% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 38 seconds.|r","Deal 12% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 36 seconds.|r","Deal 13% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 34 seconds.|r","Deal 14% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 32 seconds.|r","Deal 15% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 30 seconds.|r","Deal 16% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 27 seconds.|r","Deal 17% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown: 24 seconds.|r","Deal 21% of target current life in pure damage and yourself of your current life.|n|n|cffc3dbffCooldown:15 seconds.|r"
+[A18M]
+Name="WD NASpeed"
+EditorSuffix=""
+[A18L]
+Name="WD NDamage"
+EditorSuffix="(MarineL1)"
+[A18K]
+Name="WD SS5"
+EditorSuffix=""
+Researchhotkey="T"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Unbreakable:|r Greatly increases your armor for a duration. |n|cffffcc00Protector:|r Big armor bonus to your allieds heroes but reduce your own armor for a duration.|n|cffffcc00Immortal:|r Passive ability that increases your regeneration rate normal or % depending on the level."
+Tip="","Uncomun|cffffcc00P|rower - [|cffffcc00Level 2|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 3|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 4|r]"
+Ubertip="","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence","Increases Hero Stats + 16 to Strength +12 to Agility +12 to Intelligence"
+[A18J]
+Name="WD SS4"
+EditorSuffix=""
+Researchhotkey="R"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Divine Thoughness:|r Increases your strength based in your base armor for a duration but greatly reduce your damage and attack speed. |n|cffffcc00Mega Heal:|r Heal someone for a big amount, damage a % of that in a small AOE, give you a random stat each time is used, very high cooldown.|n|cffffcc00Damage Breaker:|r Reduce damage, attack and move speed and deal % of target max hp in spell damage."
+Tip="","Uncomun|cffffcc00P|rower - [|cffffcc00Level 2|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 3|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 4|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 5|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 6|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 7|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 8|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 9|r]"
+Ubertip="","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence","Increases Hero Stats + 16 to Strength +12 to Agility +12 to Intelligence","Increases Hero Stats + 20 to Strength +15 to Agility +15 to Intelligence","Increases Hero Stats + 24 to Strength +18 to Agility +18 to Intelligence","Increases Hero Stats + 28 to Strength +22 to Agility +22 to Intelligence","Increases Hero Stats + 32 to Strength +26 to Agility +26 to Intelligence","Increases Hero Stats + 40 to Strength +30 to Agility +30 to Intelligence"
+[A18I]
+Name="WD SS3"
+EditorSuffix=""
+Researchhotkey="E"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Steel:|r Passive ability that increases your base armor and give you a chance to stun and deal bonus damage on each attack. |n|cffffcc00Sacrifice:|r High damage in a big AOE and long stun but deal damage to yourself, high cooldown.|n|cffffcc00Armor Up:|r Increases your base armor each time is used."
+Tip="","Uncomun|cffffcc00P|rower - [|cffffcc00Level 2|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 3|r]"
+Ubertip="","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence"
+[A18E]
+Name="+170 Eli3"
+EditorSuffix=""
+[A18D]
+Name="+160 Eli2"
+EditorSuffix=""
+[A18C]
+Name="+160 Eli"
+EditorSuffix=""
+[A189]
+Name="Spell DR BK"
+[A17J]
+Name="Powerup Area Healing 3"
+[A17I]
+Name="Powerup Area Healing 2"
+[A17H]
+Name="Armor life 3000"
+EditorSuffix=""
+[A17G]
+Name="+1700 Bonus Damage"
+EditorSuffix=""
+[A17F]
+Name="Armor life 13000"
+EditorSuffix=""
+[A17E]
+Name="Armor life 12000"
+EditorSuffix=""
+[A174]
+Name="AM 2"
+EditorSuffix=""
+[A173]
+Name="AM"
+EditorSuffix=""
+[A172]
+Name="MS"
+EditorSuffix=""
+[A16K]
+Name="Armor Bonus -100"
+EditorSuffix=""
+[A16G]
+Name="+40000 Bonus Damage"
+EditorSuffix=""
+[A16F]
+Name="Armor life +1000000"
+EditorSuffix=""
+[A168]
+Name="Armor life +18000"
+EditorSuffix=""
+[A162]
+Name="En +340 Bonus Damage"
+EditorSuffix=""
+[A160]
+Name="En Armor life +4200"
+EditorSuffix=""
+[A15Z]
+Name="En Armor Bonus +155"
+EditorSuffix=""
+[A15G]
+Name="350 A"
+EditorSuffix="(MarineL1)"
+[A150]
+Name="Armor life +50000"
+EditorSuffix=""
+[A14Z]
+Name="Rege HP500"
+[A14Y]
+Name="-3000 Bonus Damage"
+EditorSuffix=""
+[A14Q]
+Name="TPAAC"
+EditorSuffix=""
+[A149]
+EditorSuffix=""
+Name="TPT Bouler Covering"
+Researchhotkey="B"
+Researchtip="Learn |cffffcc00B|rouler Covering - [|cffffcc00Level %d|r]"
+Researchubertip="Increases hit points and give a chance to damage attackers. |n|n|cffffcc00Level 1|r - 11% chance. |n|cffffcc00Level 2|r - 13% chance.|n|cffffcc00Level 3|r - 15% chance.|n|cffffcc00Level 4|r - 17% chance.|n|cffffcc00Level 5|r - 19% chance.|n|cffffcc00Level 6|r - 21% chance.|n|cffffcc00Level 7|r - 23% chance.|n|cffffcc00Level 8|r - 25% chance.|n|cffffcc00Level 9|r - 27% chance.|n|cffffcc00Level 10|r - 29% chance.|n|cffffcc00Level 11|r - 31% chance."
+Tip="|cffffcc00B|rouler Covering - [|cffffcc00Level 1|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 2|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 3|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 4|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 5|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 6|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 7|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 8|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 9|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 10|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 11|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 12|r]","|cffffcc00B|rouler Covering - [|cffffcc00Level 13|r]"
+Ubertip="Increases hit points by 100 and give 11% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 300 and give 13% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 500 and give 15% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 700 and give 17% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 900 and give 19% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1100 and give 21% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1300 and give 23% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1500 and give 25% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1700 and give 27% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1900 and give 29% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 2100 and give 31% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 2300 and give 33% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 2500 and give 35% chance to deal 3 x your strength in spell damage to the attacker."
+[A145]
+EditorSuffix=""
+Name="TPA Archery Mastery"
+Researchhotkey="A"
+Researchtip="Learn |cffffcc00A|rrchery - [|cffffcc00Level %d|r]"
+Researchubertip="Increases base damage of Archer. |n|n|cffffcc00Level 1|r - Increases base Damage by 4. |n|cffffcc00Level 2|r - Increases base Damage by 22. |n|cffffcc00Level 3|r - Increases base Damage by 40. |n|cffffcc00Level 4|r - Increases base Damage by 58. |n|cffffcc00Level 5|r - Increases base Damage by 76. |n|cffffcc00Level 6|r - Increases base Damage by 94. |n|cffffcc00Level 7|r - Increases base Damage by 112. |n|cffffcc00Level 8|r - Increases base Damage by 130. |n|cffffcc00Level 9|r - Increases base Damage by 148. |n|cffffcc00Level 10|r - Increases base Damage by 166. |n|cffffcc00Level 11|r - Increases base Damage by 184."
+Tip="|cffffcc00A|rrchery - [|cffffcc00Level 1|r]","|cffffcc00A|rrchery - [|cffffcc00Level 2|r]","|cffffcc00A|rrchery - [|cffffcc00Level 3|r]","|cffffcc00A|rrchery - [|cffffcc00Level 4|r]","|cffffcc00A|rrchery - [|cffffcc00Level 5|r]","|cffffcc00A|rrchery - [|cffffcc00Level 6|r]","|cffffcc00A|rrchery - [|cffffcc00Level 7|r]","|cffffcc00A|rrchery - [|cffffcc00Level 8|r]","|cffffcc00A|rrchery - [|cffffcc00Level 9|r]","|cffffcc00A|rrchery - [|cffffcc00Level 10|r]","|cffffcc00A|rrchery - [|cffffcc00Level 11|r]","|cffffcc00A|rrchery - [|cffffcc00Level 12|r]","|cffffcc00A|rrchery - [|cffffcc00Level 13|r]"
+Ubertip="Increases base damage of Archer by 4.","Increases base damage of Archer by 22.","Increases base damage of Archer by 40.","Increases base damage of Archer by 58.","Increases base damage of Archer by 76.","Increases base damage of Archer by 94.","Increases base damage of Archer by 112.","Increases base damage of Archer by 130.","Increases base damage of Archer by 148.","Increases base damage of Archer by 166.","Increases base damage of Archer by 184.","Increases base damage of Archer by 202.","Increases base damage of Archer by 220."
+[A144]
+Name="Armor Bonus -130"
+EditorSuffix=""
+[A141]
+Name="TPT Rhazin Rage"
+Hotkey=R
+Researchhotkey="R"
+Researchtip="Learn |cffffcc00R|rhazin Rage - [|cffffcc00Level %d|r]"
+Researchubertip="Increases Rhazin damage give him Life steal."
+Tip="|cffffcc00R|rhazin Rage - [|cffffcc00Level 1|r]","|cffffcc00R|rhazin Rage - [|cffffcc00Level 2|r]","|cffffcc00R|rhazin Rage - [|cffffcc00Level 3|r]","|cffffcc00R|rhazin Rage - [|cffffcc00Level 4|r]"
+Ubertip="Increases damage in 200 and 80% life steal. Last 35 seconds.|n|n|cffc3dbffCooldown: 130 seconds|r","Increases damage in 400 and 100% life steal. Last 35 seconds.|n|n|cffc3dbffCooldown: 110 seconds|r","Increases damage in 600 and 130% life steal. Last 35 seconds.|n|n|cffc3dbffCooldown: 90 seconds|r","Increases damage in 1000 and 180% life steal. Last 35 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r"
+[A13Y]
+Name="TPPD Holy Blast Fake"
+EditorSuffix=""
+Hotkey=T
+Researchtip="Holy Blas|cffffcc00t|r - [|cffffcc00Level %d|r]"
+Researchubertip="Heal a friendly unit or damage an enemy based in intelligence.|n|n|cffffcc00Level 1|r - 3 x Intelligence Damage/Heal. |n|cffffcc00Level 2|r - 4 x Intelligence Damage/Heal. |n|cffffcc00Level 3|r - 5 x Intelligence Damage/Heal. |n|cffffcc00Level 4|r - 6 x Intelligence Damage/Heal. |n|cffffcc00Level 5|r - 7 x Intelligence Damage/Heal. |n|cffffcc00Level 6|r - 8 x Intelligence Damage/Heal. |n|cffffcc00Level 7|r - 9 x Intelligence Damage/Heal. |n|cffffcc00Level 8|r - 10 x Intelligence Damage/Heal. |n|cffffcc00Level 9|r - 11 x Intelligence Damage/Heal. |n|cffffcc00Level 10|r - 12 x Intelligence Damage/Heal. |n|cffffcc00Level 11|r - 13 x Intelligence Damage/Heal."
+Tip="Holy Blas|cffffcc00t|r - [|cffffcc00Level 1|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 2|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 3|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 4|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 5|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 6|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 7|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 8|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 9|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 10|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 11|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 12|r]","Holy Blas|cffffcc00t|r - [|cffffcc00Level 13|r]"
+Ubertip="Heal a friendly unit or damage an enemy for 3 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 4 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 5 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 6 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 7 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 8 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 9 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 10 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 11 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 12 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 13 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 14 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r","Heal a friendly unit or damage an enemy for 15 x  intelligence.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+[A13W]
+Name="TPPD AB 6"
+EditorSuffix=""
+[A13V]
+Name="TPPD AB 5"
+EditorSuffix=""
+[A13U]
+Name="TPPD AB 4"
+EditorSuffix=""
+[A13T]
+Name="TPPD AB 3"
+EditorSuffix=""
+[A13S]
+Name="TPPD AB 2"
+EditorSuffix=""
+[A13R]
+Name="TPPD AB 1"
+EditorSuffix=""
+[A13Q]
+Name="TPPD DB 6"
+EditorSuffix=""
+[A13P]
+Name="TPPD DB 5"
+EditorSuffix=""
+[A13O]
+Name="TPPD DB 4"
+EditorSuffix=""
+[A13N]
+Name="TPPD DB 3"
+EditorSuffix=""
+[A13M]
+Name="TPPD DB 2"
+EditorSuffix=""
+[A13L]
+Name="TPPD DB 1"
+EditorSuffix=""
+[A13H]
+Name="Armor Bonus Adriels "
+EditorSuffix=""
+[A13A]
+Name="TPM Mass Shock"
+EditorSuffix=""
+Hotkey=R
+Researchhotkey="R"
+Researchtip="Learn Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of lightning at a target enemy dealing damage based in Intelligence and electrify enemies around damaged them too and reducing their move and attack speed. |n|n|cffffcc00Level 1|r - 1 x Intelligence Damage. |n|cffffcc00Level 2|r - 3 x Intelligence Damage.|n|cffffcc00Level 3|r - 5 x Intelligence Damage.|n|cffffcc00Level 4|r - 7 x Intelligence Damage.|n|cffffcc00Level 5|r - 9 x Intelligence Damage.|n|cffffcc00Level 6|r - 11 x Intelligence Damage.|n|cffffcc00Level 7|r - 13 x Intelligence Damage.|n|cffffcc00Level 8|r - 15 x Intelligence Damage.|n|cffffcc00Level 9|r - 17 x Intelligence Damage.|n|cffffcc00Level 10|r - 19 x Intelligence Damage.|n|cffffcc00Level 11|r - 21 x Intelligence Damage."
+Tip="Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 1|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 2|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 3|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 4|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 5|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 6|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 7|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 8|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 9|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 10|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 11|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 12|r]","Mass Shock - [|cffffcc00R|r] - [|cffffcc00Level 13|r]"
+Ubertip="Hurls a bolt of lightning at a target enemy dealing Intelligence x 1 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 39 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 3 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 37 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 5 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 7 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 33 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 9 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 31 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 11 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 29 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 13 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 27 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 15 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 17 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 19 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 21 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 21 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 19 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 23 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a bolt of lightning at a target enemy dealing Intelligence x 25 damage and electrified nearby enemy units damage them for 300 and reducing move by 35% and attack speed by 55% last 5 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r"
+[A130]
+Name="+200 Bonus Damage Ill"
+EditorSuffix=""
+[A12S]
+Name="Spell Damage Reduction 75"
+[A12R]
+Name="Attack Speed -150%"
+EditorSuffix=""
+[A12Q]
+Name="Armor Bonus -200"
+EditorSuffix=""
+[A12P]
+Name="-500 Bonus Damage"
+EditorSuffix=""
+[A12K]
+Name="Attack Speed -85%"
+EditorSuffix=""
+[A12G]
+Name="Item Mana Bonus 6000"
+[A129]
+Name="Armor Bonus -220"
+EditorSuffix=""
+[A128]
+Name="+1800 Bonus Damage"
+EditorSuffix=""
+[A127]
+Name="Life Steal VR Claws"
+[A122]
+Name="Item Mana Bonus 1700"
+[A121]
+Name="50% Accurate"
+EditorSuffix=""
+Tip="50%"
+Ubertip="50%"
+[A10Q]
+Name="Armor Bonus K +80"
+EditorSuffix=""
+[A10P]
+Name="Armor Bonus K +40"
+EditorSuffix=""
+[A10O]
+Name="Armor Bonus K +20"
+EditorSuffix=""
+[A10N]
+Name="Armor Bonus K +10"
+EditorSuffix=""
+[A10M]
+Name="Armor Bonus K +5"
+EditorSuffix=""
+[A10L]
+Name="Item Illusions 2nd"
+[A10K]
+Name="Hit Points +1100 ID5"
+EditorSuffix=(least)
+[A10J]
+Name="Hit Points +1100 ID4"
+EditorSuffix=(least)
+[A10I]
+Name="Hit Points +1100 ID3"
+EditorSuffix=(least)
+[A10H]
+Name="Hit Points +1100 ID2"
+EditorSuffix=(least)
+[A10G]
+Name="+160 Bonus Damage ID5"
+EditorSuffix=""
+[A10F]
+Name="+160 Bonus Damage ID4"
+EditorSuffix=""
+[A10E]
+Name="+160 Bonus Damage ID3"
+EditorSuffix=""
+[A10D]
+Name="+160 Bonus Damage ID2"
+EditorSuffix=""
+[A10C]
+Name="Armor Bonus +40 ID5"
+EditorSuffix=""
+[A10B]
+Name="Armor Bonus +40 ID4"
+EditorSuffix=""
+[A10A]
+Name="Armor Bonus +40 ID3"
+EditorSuffix=""
+[A109]
+Name="Armor Bonus +40 ID2"
+EditorSuffix=""
+[A105]
+Name="Density"
+Ubertip="Aegaleus reach the maximum density for 16 seconds."
+EditorSuffix="(Skeletal Orc Champion)"
+Hotkey=D
+Tip="Hardness |cffffcc00D|rensity"
+[A102]
+Name="Armor Bonus Mur"
+EditorSuffix=""
+[A0ZY]
+Name="Reaper"
+EditorSuffix="(Neutral Hostile)"
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Learn Reaper [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="When a unit is hitting by Reaper more than one time it deal a bonus damage greater than the last one. Stack infinite times. "
+Tip="Reaper [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Reaper [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Reaper [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Reaper [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Attack a unit with reaper dealing 600 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 26 seconds the count is reset.|n|n|cffc3dbffCooldown: 10 seconds.|r","Attack a unit with reaper dealing 1000 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 16 seconds the count is reset.|n|n|cffc3dbffCooldown: 8 seconds.|r","Attack a unit with reaper dealing 1500 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 26 seconds the count is reset.|n|n|cffc3dbffCooldown: 6 seconds.|r","Attack a unit with reaper dealing 2300 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 26 seconds the count is reset.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+[A0ZU]
+Name="-180 damage Arc"
+EditorSuffix=""
+[A0ZT]
+Name="Item move speed -280 ARC"
+[A0ZS]
+Name="Attack Speed -80 ARC"
+EditorSuffix="(Greater)"
+[A0ZO]
+Name="Ass Critical Strike"
+EditorSuffix=""
+Tip="Execution "
+Ubertip="Attack target enemy to deal 20 times your normal damage.","Attack target enemy to deal 25 times your normal damage.","Attack target enemy to deal 30 times your normal damage.","Attack target enemy to deal 40 times your normal damage."
+[A0ZJ]
+EditorSuffix=""
+Name="Ass Mastery"
+Researchhotkey="R"
+Researchtip="Learn Mastery [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was. |n|n|cffffcc00Level 1|r - Minimum 0.06.|n|cffffcc00Level 2|r - Minimum 0.10.|n|cffffcc00Level 3|r - Minimum 0.14.|n|cffffcc00Level 4|r - Minimum 0.18.|n|cffffcc00Level 5|r - Minimum 0.22.|n|cffffcc00Level 6|r - Minimum 0.26.|n|cffffcc00Level 7|r - Minimum 0.30.|n|cffffcc00Level 8|r - Minimum 0.34.|n|cffffcc00Level 9|r - Minimum 0.38."
+Tip="Mastery - [|cffffcc00Level 1|r]","Mastery - [|cffffcc00Level 2|r]","Mastery - [|cffffcc00Level 3|r]","Mastery - [|cffffcc00Level 4|r]","Mastery - [|cffffcc00Level 5|r]","Mastery - [|cffffcc00Level 6|r]","Mastery - [|cffffcc00Level 7|r]","Mastery - [|cffffcc00Level 8|r]","Mastery - [|cffffcc00Level 9|r]"
+Ubertip="Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.06. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.10. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.14. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.18. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.22. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.26. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.30. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.34. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.38. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now."
+[A0ZG]
+Name="+120 Bonus Damage CI"
+EditorSuffix=""
+[A0Z9]
+EditorSuffix=""
+Name="Counter Attack [R]"
+Researchhotkey="R"
+Researchtip="Learn Counter Attack - [|cffffcc00Level %d|r]"
+Researchubertip="Every time you are attacked you have a chance to counter-attack a unit around you dealing high pure damage based on your strength, also gives armor bonus.  |n|n|cffffcc00Level 1|r - 8% chance.|n|cffffcc00Level 2|r - 14% chance.|n|cffffcc00Level 3|r - 20% chance.|n|cffffcc00Level 4|r - 26% chance.|n|cffffcc00Level 5|r - 32% chance.|n|cffffcc00Level 6|r - 38% chance.|n|cffffcc00Level 7|r - 44% chance.|n|cffffcc00Level 8|r - 50% chance.|n|cffffcc00Level 9|r - 56% chance."
+Tip="Counter Attack - [|cffffcc00Level 1|r]","Counter Attack - [|cffffcc00Level 2|r]","Counter Attack - [|cffffcc00Level 3|r]","Counter Attack - [|cffffcc00Level 4|r]","Counter Attack - [|cffffcc00Level 5|r]","Counter Attack - [|cffffcc00Level 6|r]","Counter Attack - [|cffffcc00Level 7|r]","Counter Attack - [|cffffcc00Level 8|r]","Counter Attack - [|cffffcc00Level 9|r]"
+Ubertip="Every time you are attacked you have a 8% chance to counter-attack a unit around you dealing 100 + 5 x your strength in pure damage with 4.9 seconds cooldown, also gives 1 armor bonus.","Every time you are attacked you have a 14% chance to counter-attack a unit around you dealing 100 + 6 x your strength in pure damage with 4.4 seconds cooldown, also gives 3 armor bonus.","Every time you are attacked you have a 20% chance to counter-attack a unit around you dealing 100 + 7 x your strength in pure damage with 3.9 seconds cooldown, also gives 5 armor bonus.","Every time you are attacked you have a 26% chance to counter-attack a unit around you dealing 100 + 8 x your strength in pure damage with 3.4 seconds cooldown, also gives 7 armor bonus.","Every time you are attacked you have a 32% chance to counter-attack a unit around you dealing 100 + 9 x your strength in pure damage with 2.9 seconds cooldown, also gives 9 armor bonus.","Every time you are attacked you have a 36% chance to counter-attack a unit around you dealing 100 + 10 x your strength in pure damage with 2.4 seconds cooldown, also gives 12 armor bonus.","Every time you are attacked you have a 42% chance to counter-attack a unit around you dealing 100 + 11 x your strength in pure damage with 1.9 seconds cooldown, also gives 16 armor bonus.","Every time you are attacked you have a 48% chance to counter-attack a unit around you dealing 100 + 12 x your strength in pure damage with 1.4 seconds cooldown, also gives 22 armor bonus.","Every time you are attacked you have a 54% chance to counter-attack a unit around you dealing 100 + 13 x your strength in pure damage with 0.9 seconds cooldown, also gives 30 armor bonus."
+[A0Z7]
+Name="Armor Bonus +300 GR"
+EditorSuffix=""
+[A0YU]
+Name="+4000 Bonus Damage"
+EditorSuffix=""
+[A0YT]
+Name="+10000 Bonus Damage"
+EditorSuffix=""
+[A0YS]
+Name="Armor Bonus +150 Knight"
+EditorSuffix=""
+[A0YO]
+Name="Rege HP100"
+[A0YH]
+Name="-80 Armor"
+EditorSuffix=""
+[A0YG]
+Name="-40 Armor"
+EditorSuffix=""
+[A0YF]
+Name="-20 Armor"
+EditorSuffix=""
+[A0YE]
+Name="-10 Armor"
+EditorSuffix=""
+[A0YD]
+Name="-5 Armor"
+EditorSuffix=""
+[A0XP]
+Name="Item move speed 50"
+[A0XM]
+Name="Life Steal Vampiric Sword"
+[A0XK]
+Name="Rege HP200"
+[A0XJ]
+Name="+1600 Bonus Damage"
+EditorSuffix=""
+[A0X8]
+EditorSuffix=(Item)
+Name="Ruby Celestial Sword"
+[A0X7]
+EditorSuffix=(Item)
+Name="Ruby Divine Sword"
+[A0X6]
+EditorSuffix=(Item)
+Name="Ruby Perfect"
+[A0X4]
+EditorSuffix=""
+Name="DSA"
+Researchhotkey="B"
+Researchtip="Learn |cffffcc00B|rlind Spots - [|cffffcc00Level %d|r]"
+Researchubertip="See throught the enemys weakness, nearby enemys units has their armor reduced. AOE improve per level. |n|n|cffffcc00Level 1|r - Decrease armor by 2.|n|cffffcc00Level 2|r - Decrease armor by 4.|n|cffffcc00Level 3|r - Decrease armor by 6.|n|cffffcc00Level 4|r - Decrease armor by 8.|n|cffffcc00Level 5|r - Decrease armor by 10.|n|cffffcc00Level 6|r - Decrease armor by 14.|n|cffffcc00Level 7|r - Decrease armor by 20.|n|cffffcc00Level 8|r - Decrease armor by 30.|n|cffffcc00Level 9|r - Decrease armor by 45."
+Tip="Blind Spots - [|cffffcc00Level 1|r]"
+Ubertip="See throught the enemys weakness, nearby enemys units have their armor reduced by 2 in 250 AOE."
+[A0X3]
+Name="Attack Speed +500%"
+EditorSuffix="(Greater)"
+[A0WZ]
+Name="Armor Bonus +800"
+EditorSuffix=""
+[A0WY]
+Name="Attack Speed -250%"
+EditorSuffix=""
+[A0WX]
+Name="Attack Speed -80%"
+EditorSuffix=""
+[A0WW]
+Name="Armor Bonus +150"
+EditorSuffix=""
+[A0WV]
+Name="Rege HP150"
+[A0WU]
+Name="Spell Damage Reduction 80"
+[A0WT]
+Name="+2000 Bonus Damage"
+EditorSuffix=""
+[A0WS]
+Name="+1000 Bonus Damage"
+EditorSuffix=""
+[A0WR]
+Name="+700 Bonus Damage"
+EditorSuffix=""
+[A0WE]
+Name="Attack Corruption Bonus 40"
+[A0W8]
+Name="Item Mana Bonus 20000"
+[A0W7]
+Name="Item Mana Bonus 4000"
+[A0W3]
+Name="Mana regeneration 500%"
+[A0W1]
+Name="Armor life +15000"
+EditorSuffix=""
+[A0VZ]
+Name="Item move speed 250"
+[A0VY]
+Name="Item move speed 150"
+[A0VN]
+Name="Attack Speed +30%"
+EditorSuffix="(Greater)"
+[A0VM]
+Name="Item move speed 135"
+[A0VL]
+Name="Item move speed 100"
+[A0VK]
+Name="Item move speed X"
+[A0VJ]
+Name="Attack Speed +10%"
+EditorSuffix="(Greater)"
+[A0VG]
+Name="Armor Bonus +1000"
+EditorSuffix=""
+[A0VF]
+Name="Spell Damage Reduction 02"
+[A0VE]
+Name="Spell Damage Reduction 15"
+[A0VA]
+Name="T.Armor life L4"
+EditorSuffix=(least)
+[A0V9]
+Name="T.Armor life L3"
+EditorSuffix=(least)
+[A0V8]
+Name="T.Armor life L2"
+EditorSuffix=(least)
+[A0V7]
+Name="T.Armor life L1"
+EditorSuffix=(least)
+[A0V5]
+Name="80% Accurate"
+EditorSuffix=""
+Tip="80% Accurate"
+Ubertip="80% chance to not miss."
+[A0V4]
+Name="Attack Speed +300%"
+EditorSuffix=""
+[A0V2]
+Name="Unbroken ilusions"
+[A0UY]
+Name="Armor life 5000"
+EditorSuffix=""
+[A0UX]
+Name="Armor Bonus +260"
+EditorSuffix=""
+[A0UU]
+Name="Attack Speed +160%"
+EditorSuffix=""
+[A0UT]
+Name="Eternity"
+Hotkey=R
+Tip="sss"
+Ubertip="ss"
+[A0US]
+Name="Rege HP80"
+[A0UP]
+Name="Armor life 4000"
+EditorSuffix=""
+[A0UF]
+Name="Batallion +1600"
+EditorSuffix=""
+[A0U8]
+Name="Spell DR -120%"
+[A0U6]
+Name="Mana regeneration 425%"
+[A0U4]
+Name="Spell DR -85"
+[A0U0]
+Name="+160 Bonus Damage"
+EditorSuffix=""
+[A0TK]
+EditorSuffix=""
+Name="Frost Aura [E]"
+Researchhotkey="E"
+Researchtip="Learn Frost Aura - [|cffffcc00Level %d|r]"
+Researchubertip="Wendigo frezzing aura decrease nearby enemys units' movement speed, attack speed and increases his base strength by 3 per level.If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking.|n|n|cffffcc00Level 1|r - -6% movement, -10% attack. |n|cffffcc00Level 2|r - -8% movement, -13% attack. |n|cffffcc00Level 3|r - -10% movement, -16% attack.|n|cffffcc00Level 4|r - -12% movement, -20% attack.|n|cffffcc00Level 5|r - -14% movement, -24% attack.|n|cffffcc00Level 6|r - -17% movement, -28% attack.|n|cffffcc00Level 7|r - -20% movement, -32% attack.|n|cffffcc00Level 8|r - -23% movement, -38% attack.|n|cffffcc00Level 9|r - -35% movement, -80% attack."
+Tip="Frost Aura - [|cffffcc00Level 1|r]","Frost Aura - [|cffffcc00Level 2|r]","Frost Aura - [|cffffcc00Level 3|r]","Frost Aura - [|cffffcc00Level 4|r]","Frost Aura - [|cffffcc00Level 5|r]","Frost Aura - [|cffffcc00Level 6|r]","Frost Aura - [|cffffcc00Level 7|r]","Frost Aura - [|cffffcc00Level 8|r]","Frost Aura - [|cffffcc00Level 9|r]"
+Ubertip="Reduce nearby enemy units' movement speed by -6%, attack speed by -10% and increases base strength by 3. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -8%, attack speed by -13% and increases base strength by 6. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -10%, attack speed by -16% and increases base strength by 9. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -12%, attack speed by -20% and increases base strength by 12. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -14%, attack speed by -24% and increases base strength by 15. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -17%, attack speed by -28% and increases base strength by 18. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -20%, attack speed by -32% and increases base strength by 21. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -23%, attack speed by -38% and increases base strength by 24. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -45%, attack speed by -80% and increases base strength by 27. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage."
+Hotkey=E
+[A0TJ]
+EditorSuffix=""
+Name="Glacial Toughness [R]"
+Researchhotkey="R"
+Researchtip="Learn Glacial Toughness - [|cffffcc00Level %d|r]"
+Researchubertip="Whenever a wendigo eats one of his victims it grows increasing his hit points permanently hl. |n|n|cffffcc00Level 1|r - Increase hit points by 3 per kill. |n|cffffcc00Level 2|r - Increase hit points by 6 per kill.  |n|cffffcc00Level 3|r - Increase hit points by 9 per kill. |n|cffffcc00Level 4|r - Increase hit points by 16 per kill. |n|cffffcc00Level 5|r - Increase hit points by 20 per kill. |n|cffffcc00Level 6|r - Increase hit points by 27 per kill. |n|cffffcc00Level 7|r - Increase hit points by 30 per kill. |n|cffffcc00Level 8|r - Increase hit points by 36 per kill. |n|cffffcc00Level 9|r - Increase hit points by 50 per kill."
+Tip="Glacial Toughness - [|cffffcc00Level 1|r]","Glacial Toughness - [|cffffcc00Level 2|r]","Glacial Toughness - [|cffffcc00Level 3|r]","Glacial Toughness - [|cffffcc00Level 4|r]","Glacial Toughness - [|cffffcc00Level 5|r]","Glacial Toughness - [|cffffcc00Level 6|r]","Glacial Toughness - [|cffffcc00Level 7|r]","Glacial Toughness - [|cffffcc00Level 8|r]","Glacial Toughness - [|cffffcc00Level 9|r]"
+Ubertip="Whenever a wendigo ate one of his victims it would grow increasing his hit points by 3 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 6 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 9 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 16 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 20 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 27 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 30 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 36 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 50 permanently."
+Hotkey=R
+[A0TG]
+Name="Gold +2000"
+[A0TF]
+Name="Gold +1000"
+[A0TE]
+Name="Gold +700"
+[A0TD]
+Name="Gold +500"
+[A0TC]
+Name="Gold +300"
+[A0TB]
+Name="Gold +150"
+[A0T9]
+EditorSuffix=(Item)
+Name="Vampiric Aura NosfeFGS"
+[A0SX]
+Name="Armor life 9000"
+EditorSuffix=""
+[A0SV]
+Name="Life Steal Halberd"
+[A0SU]
+Name="Rege HP20"
+EditorSuffix=(Lesser)
+[A0ST]
+Name="+250 Bonus Damage"
+EditorSuffix=(+20)
+[A0SS]
+Name="+3000 BD"
+EditorSuffix=""
+[A0SR]
+Name=Spell Shield
+EditorSuffix=" (Shield)"
+[A0SN]
+Name="Armor Bonus +400"
+EditorSuffix=""
+[A0SM]
+Name="Armor life +25000"
+EditorSuffix=""
+[A0SL]
+Name="Armor life 96000"
+EditorSuffix=""
+[A0SK]
+Name="+26000 Bonus Damage"
+EditorSuffix=""
+[A0SF]
+Name="Ultimate Footman"
+EditorSuffix=""
+[A0QO]
+Name="Black mage Finger"
+EditorSuffix="(Neutral Hostile)"
+Hotkey=D
+Researchhotkey="D"
+Researchtip="Learn Finger |cffffcc00D|reath - [|cffffcc00Level %d|r]"
+Researchubertip="Horribly cripples the innards of a creature or building.|n|n|cffffcc00Level 1|r - 1300 damage.|n|cffffcc00Level 2|r - 2000 damage.|n|cffffcc00Level 3|r - 3000 damage.|n|cffffcc00Level 4|r - 4000 damage.|n|cffffcc00Level 5|r - 5000 damage.|n|cffffcc00Level 6|r - 7000 damage.|n|cffffcc00Level 7|r - 9000 damage.|n|cffffcc00Level 8|r - 12000 damage.|n|cffffcc00Level 9|r - 18000 damage."
+Tip="Finger |cffffcc00D|reath - [|cffffcc00Level 1|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 2|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 3|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 4|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 5|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 6|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 7|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 8|r]","Finger |cffffcc00D|reath - [|cffffcc00Level 9|r]"
+Ubertip="Horribly cripples the innards of a creature dealing 1300 damage.|n|n|cffc3dbffCooldown: 26 seconds.|r","Horribly cripples the innards of a creature dealing 2000 damage.|n|n|cffc3dbffCooldown: 25 seconds.|r","Horribly cripples the innards of a creature dealing 3000 damage.|n|n|cffc3dbffCooldown: 24 seconds.|r","Horribly cripples the innards of a creature dealing 4000 damage.|n|n|cffc3dbffCooldown: 23 seconds.|r","Horribly cripples the innards of a creature dealing 5000 damage.|n|n|cffc3dbffCooldown: 22 seconds.|r","Horribly cripples the innards of a creature dealing 7000 damage.|n|n|cffc3dbffCooldown: 21 seconds.|r","Horribly cripples the innards of a creature dealing 9000 damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Horribly cripples the innards of a creature dealing 12000 damage.|n|n|cffc3dbffCooldown: 19 seconds.|r","Horribly cripples the innards of a creature dealing 18000 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+[A0PZ]
+Name="White mage Holy Light 4"
+EditorSuffix=""
+Hotkey=Y
+Researchhotkey="Y"
+Researchtip="Learn God's Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self and gives them a blessing (random buff). |n|n|cffffcc00Level 1|r - Heals for 1x spellpower in hit points. |n|cffffcc00Level 2|r - Heals for 2x spellpower in hit points. |n|cffffcc00Level 3|r - Heals for 3x spellpower in hit points. |n|cffffcc00Level 4|r - Heals for 4x spellpower in hit points. |n|cffffcc00Level 5|r - Heals for 5x spellpower in hit points. |n|cffffcc00Level 6|r - Heals for 6x spellpower in hit points. |n|cffffcc00Level 7|r - Heals for 7x spellpower in hit points. |n|cffffcc00Level 8|r - Heals for 8x spellpower in hit points. |n|cffffcc00Level 9|r - Heals for 9x spellpower in hit points. "
+Tip="God's Hol|cffffcc00y|r Light - [|cffffcc00Level 1|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 2|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 3|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 4|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 5|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 6|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 7|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 8|r]","God's Hol|cffffcc00y|r Light - [|cffffcc00Level 9|r]"
+Ubertip="A holy light that can heal a friendly unit for 1x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc3dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 2x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc3dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 3x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc3dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 4x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc4dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 5x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc5dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 6x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc6dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 7x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc7dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 8x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc8dbffCooldown: 42 seconds.|r","A holy light that can heal a friendly unit for 9x spellpower and give a random buff. Have 1800 cast range.|n|n|cffc9dbffCooldown: 30 seconds.|r"
+[A0PY]
+Name="White mage Holy Light 3"
+EditorSuffix=""
+Hotkey=Y
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self. |n|n|cffffcc00Level 1|r - Heals for 1x spellpower in hit points. |n|cffffcc00Level 2|r - Heals for 2x spellpower in hit points. |n|cffffcc00Level 3|r - Heals for 3x spellpower in hit points. |n|cffffcc00Level 4|r - Heals for 4x spellpower in hit points. |n|cffffcc00Level 5|r - Heals for 5x spellpower in hit points. |n|cffffcc00Level 6|r - Heals for 6x spellpower in hit points. |n|cffffcc00Level 7|r - Heals for 7x spellpower in hit points. |n|cffffcc00Level 8|r - Heals for 8x spellpower in hit points. |n|cffffcc00Level 9|r - Heals for 9x spellpower in hit points. "
+Tip="Hol|cffffcc00y|r Light - [|cffffcc00Level 1|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 2|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 3|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 4|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 5|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 6|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 7|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 8|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 9|r]"
+Ubertip="A holy light that can heal a friendly unit for 1x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 2x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 3x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 4x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 5x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 6x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 7x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 8x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 9x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+[A0PX]
+Name="White mage Holy Light 2"
+EditorSuffix=""
+Hotkey=Y
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self. |n|n|cffffcc00Level 1|r - Heals for 0.5x spellpower in hit points. |n|cffffcc00Level 2|r - Heals for 1x spellpower in hit points. |n|cffffcc00Level 3|r - Heals for 1.5x spellpower in hit points. |n|cffffcc00Level 4|r - Heals for 2x spellpower in hit points. |n|cffffcc00Level 5|r - Heals for 2.5x spellpower in hit points. |n|cffffcc00Level 6|r - Heals for 3x spellpower hit points. |n|cffffcc00Level 7|r - Heals for 3.5x spellpower in hit points. |n|cffffcc00Level 8|r - Heals for 4x spellpower in hit points. |n|cffffcc00Level 9|r - Heals for 4.5x spellpower in hit points. "
+Tip="Hol|cffffcc00y|r Light - [|cffffcc00Level 1|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 2|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 3|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 4|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 5|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 6|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 7|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 8|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 9|r]"
+Ubertip="A holy light that can heal a friendly unit for 0.5x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 1x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 1.5x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 2x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 2.5x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 3x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 3.5x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 4x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r","A holy light that can heal a friendly unit for 4.5x spell power. Have 1100 cast range.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+[A0PW]
+Name="White mage Holy Light 1"
+EditorSuffix=""
+Hotkey=Y
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self. |n|n|cffffcc00Level 1|r - Heals for 150 hit points. |n|cffffcc00Level 2|r - Heals for 300 hit points. |n|cffffcc00Level 3|r - Heals for 450 hit points. |n|cffffcc00Level 4|r - Heals for 600 hit points. |n|cffffcc00Level 5|r - Heals for 750 hit points. |n|cffffcc00Level 6|r - Heals for 900 hit points. |n|cffffcc00Level 7|r - Heals for 1100 hit points. |n|cffffcc00Level 8|r - Heals for 1300 hit points. |n|cffffcc00Level 9|r - Heals for 1600 hit points. "
+Tip="Hol|cffffcc00y|r Light - [|cffffcc00Level 1|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 2|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 3|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 4|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 5|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 6|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 7|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 8|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 9|r]"
+Ubertip="",",",",",",",",","A holy light that can heal a friendly unit for 1100. Have 800 cast range.|n|n|cffc3dbffCooldown: 6 seconds.|r","","A holy light that can heal a friendly unit for 1300. Have 800 cast range.|n|n|cffc3dbffCooldown: 6 seconds.|r","A holy light that can heal a friendly unit for 1600. Have 800 cast range.|n|n|cffc3dbffCooldown: 6 seconds.|r"
+[A0PT]
+Name="Monk Metitation"
+EditorSuffix=""
+Hotkey=D
+Researchhotkey="D"
+Researchtip="Learn Me|cffffcc00d|ritation - [|cffffcc00Level %d|r]"
+Researchubertip="Monk meditates to heal himself. |n|n|cffffcc00Level 1|r - Heals for 300 hit points. |n|cffffcc00Level 2|r - Heals for 600 hit points. |n|cffffcc00Level 3|r - Heals for 900 hit points. |n|cffffcc00Level 4|r - Heals for 1200 hit points. |n|cffffcc00Level 5|r - Heals for 1500 hit points. |n|cffffcc00Level 6|r - Heals for 2000 hit points. |n|cffffcc00Level 7|r - Heals for 2800 hit points. |n|cffffcc00Level 8|r - Heals for 4000 hit points. |n|cffffcc00Level 9|r - Heals for 6000 hit points. "
+Tip="Me|cffffcc00d|ritation - [|cffffcc00Level 1|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 2|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 3|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 4|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 5|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 6|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 7|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 8|r]","Me|cffffcc00d|ritation - [|cffffcc00Level 9|r]"
+Ubertip="",",",",",",",",","Monk meditates to heal himself for 2800 hit points.|n|n|cffc3dbffCooldown: 14 seconds.|r","","Monk meditates to heal himself for 4000 hit points.|n|n|cffc3dbffCooldown: 14 seconds.|r","Monk meditates to heal himself for 6000 hit points.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+[A0PE]
+Name="Swordman chain Lightning 3"
+EditorSuffix=""
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Lightning S|cffffcc00w|rord - [|cffffcc00Level %d|r]"
+Researchubertip="A bolt of damaging lightning at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage. |n|n|cffffcc00Level 1|r - 400 damage. |n|cffffcc00Level 2|r - 900 damage.|n|cffffcc00Level 3|r - 1500 damage.|n|cffffcc00Level 4|r - 2500 damage.|n|cffffcc00Level 5|r - 4300 damage.|n|cffffcc00Level 6|r - 7700 damage.|n|cffffcc00Level 7|r - 10300 damage.|n|cffffcc00Level 8|r - 15000 damage.|n|cffffcc00Level 9|r - 22500 damage."
+Tip="Lightning S|cffffcc00w|rord - [|cffffcc00Level 1|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 2|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 3|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 4|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 5|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 6|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 7|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 8|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 9|r]"
+Ubertip="A bolt of lightning that deal 400 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 900 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 1500 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 2500 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 4300 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 7700 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 10300 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 15000 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 22500 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+[A0PD]
+Name="Swordman chain Lightning 2"
+EditorSuffix=""
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Lightning S|cffffcc00w|rord - [|cffffcc00Level %d|r]"
+Researchubertip="A bolt of damaging lightning at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage. |n|n|cffffcc00Level 1|r - 200 damage. |n|cffffcc00Level 2|r - 400 damage.|n|cffffcc00Level 3|r - 600 damage.|n|cffffcc00Level 4|r - 800 damage.|n|cffffcc00Level 5|r - 1000 damage.|n|cffffcc00Level 6|r - 1300 damage.|n|cffffcc00Level 7|r - 1600 damage.|n|cffffcc00Level 8|r - 2000 damage.|n|cffffcc00Level 9|r - 2800 damage."
+Tip="Lightning S|cffffcc00w|rord - [|cffffcc00Level 1|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 2|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 3|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 4|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 5|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 6|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 7|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 8|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 9|r]"
+Ubertip="A bolt of lightning that deal 200 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 400 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 600 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 800 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 1000 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 1300 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 1600 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 2000 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","A bolt of lightning that deal 2800 damage at a target enemy that jumps up to 5 nearby enemies. Each jump deals 25% less damage.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+[A0PC]
+Name="Swordman chain Lightning 1"
+EditorSuffix=""
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Lightning S|cffffcc00w|rord - [|cffffcc00Level %d|r]"
+Researchubertip="A bolt of damaging lightning at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage. |n|n|cffffcc00Level 1|r - 200 damage. |n|cffffcc00Level 2|r - 300 damage.|n|cffffcc00Level 3|r - 500 damage.|n|cffffcc00Level 4|r - 700 damage.|n|cffffcc00Level 5|r - 900 damage.|n|cffffcc00Level 6|r - 1200 damage.|n|cffffcc00Level 7|r - 1500 damage.|n|cffffcc00Level 8|r - 1800 damage.|n|cffffcc00Level 9|r - 2100 damage."
+Tip="Lightning S|cffffcc00w|rord - [|cffffcc00Level 1|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 2|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 3|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 4|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 5|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 6|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 7|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 8|r]","Lightning S|cffffcc00w|rord - [|cffffcc00Level 9|r]"
+Ubertip="A bolt of lightning that deal 200 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 300 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 500 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 700 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 900 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 1200 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 1500 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 1800 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","A bolt of lightning that deal 2100 damage at a target enemy that jumps up to 6 nearby enemies. Each jump deals 30% less damage.|n|n|cffc3dbffCooldown: 9 seconds.|r"
+[A0P9]
+Name="Footman Holy Light"
+EditorSuffix=""
+Hotkey=Y
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal you for a large amount. "
+Tip="Hol|cffffcc00y|r Light - [|cffffcc00Level 1|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 2|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 3|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 4|r]","Hol|cffffcc00y|r Light - [|cffffcc00Level 5|r]"
+Ubertip="",","
+[A0P8]
+EditorSuffix=""
+Name="Footman Counter"
+Researchtip="Learn |cffffcc00C|rounter - [|cffffcc00Level %d|r]"
+Researchubertip="When Footman is attacked he have 16% change to counter attack also increases move speed by 20% and attack speed by 45%. |n|n|cffffcc00Level 1|r - Str x2 damage. |n|cffffcc00Level 2|r - Str x3 damage.|n|cffffcc00Level 3|r - Str x4 damage.|n|cffffcc00Level 4|r - Str x5 damage.|n|cffffcc00Level 5|r - Str x6 damage.|n|cffffcc00Level 6|r - Str x7 damage.|n|cffffcc00Level 7|r - Str x8 damage.|n|cffffcc00Level 8|r - Str x9 damage.|n|cffffcc00Level 9|r - Str x10 damage."
+Tip="Counter  - [|cffffcc00Level 1|r]","Counter  - [|cffffcc00Level 2|r]","Counter  - [|cffffcc00Level 3|r]","Counter  - [|cffffcc00Level 4|r]","Counter  - [|cffffcc00Level 5|r]","Counter  - [|cffffcc00Level 6|r]","Counter  - [|cffffcc00Level 7|r]","Counter  - [|cffffcc00Level 8|r]","Counter  - [|cffffcc00Level 9|r]"
+Ubertip="When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 2 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 3 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 4 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 5 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 6 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 7 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 8 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 9 damage.","When Footman is attacked he has 16% chance to counter attack Dealing 20 + strength x 10 damage."
+[A0ON]
+Name="Skeleton Dead Rage"
+Hotkey=D
+Researchhotkey="D"
+Researchtip="Learn |cffffcc00D|read Rage - [|cffffcc00Level %d|r]"
+Researchubertip="Increases damage a lot and give Life steal."
+Tip="|cffffcc00D|read Rage - [|cffffcc00Level 1|r]","|cffffcc00D|read Rage - [|cffffcc00Level 2|r]","|cffffcc00D|read Rage - [|cffffcc00Level 3|r]","|cffffcc00D|read Rage - [|cffffcc00Level 4|r]","|cffffcc00D|read Rage - [|cffffcc00Level 5|r]"
+Ubertip="Increases damage in 300 and 80% life steal. Last 22 seconds.|n|n|cffc3dbffCooldown: 100 seconds|r","Increases damage in 500 and 100% life steal. Last 25 seconds.|n|n|cffc3dbffCooldown: 80 seconds|r","Increases damage in 800 and 140% life steal. Last 29 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases damage in 1200 and 200% life steal. Last 34 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Increases damage in 2000 and 300% life steal. Last 40 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r"
+[A0O7]
+EditorSuffix=""
+Name="Vampire Vampiric Aura 2"
+Researchhotkey="V"
+Researchtip="Learn |cffffcc00V|rampiric Bite - [|cffffcc00Level %d|r]"
+Researchubertip="Vampire feed with the blood his enemies, Vampire gain hit points based on damage. |n|n|cffffcc00Level 1|r - Gains 12% of attack damage. |n|cffffcc00Level 2|r - Gains 15% of attack damage. |n|cffffcc00Level 3|r - Gains 18% of attack damage.|n|cffffcc00Level 4|r - Gains 22% of attack damage.|n|cffffcc00Level 5|r - Gains 26% of attack damage.|n|cffffcc00Level 6|r - Gains 30% of attack damage.|n|cffffcc00Level 7|r - Gains 35% of attack damage.|n|cffffcc00Level 8|r - Gains 40% of attack damage.|n|cffffcc00Level 9|r - Gains 50% of attack damage."
+Tip="Vampiric Bite - [|cffffcc00Level 1|r]","Vampiric Bite - [|cffffcc00Level 2|r]","Vampiric Bite - [|cffffcc00Level 3|r]","Vampiric Bite - [|cffffcc00Level 4|r]","Vampiric Bite - [|cffffcc00Level 5|r]","Vampiric Bite - [|cffffcc00Level 6|r]","Vampiric Bite - [|cffffcc00Level 7|r]","Vampiric Bite - [|cffffcc00Level 8|r]","Vampiric Bite - [|cffffcc00Level 9|r]"
+Ubertip="Ancient Vampire gain 12% of their attack damage when they hit enemy units.","Ancient Vampire gain 15% of their attack damage when they hit enemy units.","Ancient Vampire gain 18% of their attack damage when they hit enemy units.","Ancient Vampire gain 22% of their attack damage when they hit enemy units.","Ancient Vampire gain 26% of their attack damage when they hit enemy units.","Ancient Vampire gain 30% of their attack damage when they hit enemy units.","Ancient Vampire gain 35% of their attack damage when they hit enemy units.","Ancient Vampire gain 40% of their attack damage when they hit enemy units.","Ancient Vampire gain 50% of their attack damage when they hit enemy units."
+[A0NT]
+Name="SM life towers "
+EditorSuffix=""
+[A0NQ]
+Name="Item Mana Bonus 1300"
+[A0NP]
+Name="Lich Frost Nova IT"
+[A0NI]
+Name="Panda Chain light IT"
+[A0NE]
+Name="Breath of fire TM ORB"
+[A0MQ]
+Name="+40 Bonus Damage"
+EditorSuffix=""
+[A0MP]
+Name="+35 Bonus Damage"
+EditorSuffix=""
+[A0MO]
+Name="+25 Bonus Damage"
+EditorSuffix=""
+[A0MN]
+Name="Satyr Damage P L9"
+EditorSuffix=""
+[A0MM]
+Name="Satyr Damage P L8"
+EditorSuffix=""
+[A0ML]
+Name="Satyr Damage P L7"
+EditorSuffix=""
+[A0MK]
+Name="Satyr Damage P L6"
+EditorSuffix=""
+[A0MJ]
+Name="Satyr Damage P L5"
+EditorSuffix=""
+[A0MI]
+Name="Satyr Damage P L4"
+EditorSuffix=""
+[A0MH]
+Name="Satyr Damage P L3"
+EditorSuffix=""
+[A0MG]
+Name="Satyr Damage P L2"
+EditorSuffix=""
+[A0MF]
+Name="Satyr Damage N L9"
+EditorSuffix=""
+[A0ME]
+Name="Satyr Damage N L8"
+EditorSuffix=""
+[A0MD]
+Name="Satyr Damage N L7"
+EditorSuffix=""
+[A0MC]
+Name="Satyr Damage N L6"
+EditorSuffix=""
+[A0MB]
+Name="Satyr Damage N L5"
+EditorSuffix=""
+[A0MA]
+Name="Satyr Damage N L4"
+EditorSuffix=""
+[A0M9]
+Name="Satyr Damage N L3"
+EditorSuffix=""
+[A0M8]
+Name="Satyr Damage N L2"
+EditorSuffix=""
+[A0M7]
+Name="Shadow Stealer S CS L4"
+EditorSuffix=""
+Tip="Assassin Path"
+Ubertip="All your attacks will deal 9 times of your total damage and you cant miss."
+[A0M6]
+Name="Shadow Stealer S CS L3"
+EditorSuffix=""
+Tip="Assassin Path"
+Ubertip="All your attacks will deal 7 times of your total damage and you cant miss."
+[A0M5]
+Name="Shadow Stealer S CS L2"
+EditorSuffix=""
+Tip="Assassin Path"
+Ubertip="All your attacks will deal 6 times of your total damage and you cant miss."
+[A0LU]
+Name="Shadow Stealer S CS L1"
+EditorSuffix=""
+Tip="Assassin Path"
+Ubertip="All your attacks will deal 5 times of your total damage and you cant miss."
+[A0LQ]
+Name="Satyr Damage N L1"
+EditorSuffix=""
+[A0LP]
+Name="Satyr Damage P L1"
+EditorSuffix=""
+[A0L5]
+Name="Obelisk Heal "
+EditorSuffix=""
+Hotkey=E
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self. Cast range improvement per level. |n|n|cffffcc00Level 1|r - Heals for <AHhb,DataA1> hit points. |n|cffffcc00Level 2|r - Heals for <AHhb,DataA2> hit points. |n|cffffcc00Level 3|r - Heals for <AHhb,DataA3> hit points. |n|cffffcc00Level 4|r - Heals for <AHhb,DataA4> hit points. |n|cffffcc00Level 5|r - Heals for <AHhb,DataA5> hit points. |n|cffffcc00Level 6|r - Heals for <AHhb,DataA6> hit points. |n|cffffcc00Level 7|r - Heals for <AHhb,DataA7> hit points. |n|cffffcc00Level 8|r - Heals for <AHhb,DataA8> hit points. |n|cffffcc00Level 9|r - Heals for <AHhb,DataA9> hit points. "
+Tip="H|cffffcc00e|ral - [|cffffcc00Level 1|r]","H|cffffcc00e|ral - [|cffffcc00Level 2|r]","H|cffffcc00e|ral - [|cffffcc00Level 3|r]","H|cffffcc00e|ral - [|cffffcc00Level 4|r]"
+Ubertip="Heals the target for 1000 hitpoints.","Heals the target for 2000 hitpoints.","Heals the target for 3500 hitpoints.","Heals the target for 7000 hitpoints."
+[A0KV]
+Name="Priest Heal "
+EditorSuffix=""
+Hotkey=E
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self. Cast range improvement per level. |n|n|cffffcc00Level 1|r - Heals for <AHhb,DataA1> hit points. |n|cffffcc00Level 2|r - Heals for <AHhb,DataA2> hit points. |n|cffffcc00Level 3|r - Heals for <AHhb,DataA3> hit points. |n|cffffcc00Level 4|r - Heals for <AHhb,DataA4> hit points. |n|cffffcc00Level 5|r - Heals for <AHhb,DataA5> hit points. |n|cffffcc00Level 6|r - Heals for <AHhb,DataA6> hit points. |n|cffffcc00Level 7|r - Heals for <AHhb,DataA7> hit points. |n|cffffcc00Level 8|r - Heals for <AHhb,DataA8> hit points. |n|cffffcc00Level 9|r - Heals for <AHhb,DataA9> hit points. "
+Tip="H|cffffcc00e|ral"
+Ubertip="Heals a targeted unit for 1200 hitpoints."
+[A0KH]
+Name="House Gold"
+[A0K2]
+EditorSuffix=""
+Name="Healing Tower Aura L3"
+Researchhotkey="U"
+Researchtip="Learn |cffffcc00H|roly Aura - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, 2 regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, 3 regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, 4 regeneration bonus.|n|cffffcc00Level 4|r - <AUau,DataA4,%>% movement, 5 regeneration bonus.|n|cffffcc00Level 5|r - <AUau,DataA5,%>% movement, 6 regeneration bonus.|n|cffffcc00Level 6|r - <AUau,DataA6,%>% movement, 7 regeneration bonus.|n|cffffcc00Level 7|r - <AUau,DataA7,%>% movement, 8 regeneration bonus.|n|cffffcc00Level 8|r - <AUau,DataA8,%>% movement, 9 regeneration bonus.|n|cffffcc00Level 9|r - <AUau,DataA9,%>% movement, 10 regeneration bonus."
+Tip="Healing Tower Aura"
+Ubertip="Increases nearby friendly towers life regeneration rate by 8 in 1000 area of effect."
+[A0K1]
+EditorSuffix=""
+Name="Healing Tower Aura L2"
+Researchhotkey="U"
+Researchtip="Learn |cffffcc00H|roly Aura - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, 2 regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, 3 regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, 4 regeneration bonus.|n|cffffcc00Level 4|r - <AUau,DataA4,%>% movement, 5 regeneration bonus.|n|cffffcc00Level 5|r - <AUau,DataA5,%>% movement, 6 regeneration bonus.|n|cffffcc00Level 6|r - <AUau,DataA6,%>% movement, 7 regeneration bonus.|n|cffffcc00Level 7|r - <AUau,DataA7,%>% movement, 8 regeneration bonus.|n|cffffcc00Level 8|r - <AUau,DataA8,%>% movement, 9 regeneration bonus.|n|cffffcc00Level 9|r - <AUau,DataA9,%>% movement, 10 regeneration bonus."
+Tip="Healing Tower Aura"
+Ubertip="Increases nearby friendly towers life regeneration rate by 5 in 900 area of effect."
+[A0JV]
+EditorSuffix=""
+Name="Healing Tower Aura L1"
+Researchhotkey="U"
+Researchtip="Learn |cffffcc00H|roly Aura - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed and life regeneration rate of nearby friendly units. |n|n|cffffcc00Level 1|r - <AUau,DataA1,%>% movement, 2 regeneration bonus. |n|cffffcc00Level 2|r - <AUau,DataA2,%>% movement, 3 regeneration bonus. |n|cffffcc00Level 3|r - <AUau,DataA3,%>% movement, 4 regeneration bonus.|n|cffffcc00Level 4|r - <AUau,DataA4,%>% movement, 5 regeneration bonus.|n|cffffcc00Level 5|r - <AUau,DataA5,%>% movement, 6 regeneration bonus.|n|cffffcc00Level 6|r - <AUau,DataA6,%>% movement, 7 regeneration bonus.|n|cffffcc00Level 7|r - <AUau,DataA7,%>% movement, 8 regeneration bonus.|n|cffffcc00Level 8|r - <AUau,DataA8,%>% movement, 9 regeneration bonus.|n|cffffcc00Level 9|r - <AUau,DataA9,%>% movement, 10 regeneration bonus."
+Tip="Healing Tower Aura"
+Ubertip="Increases nearby friendly towers life regeneration rate by 3 in 700 area of effect."
+[A0IU]
+Name="Move Speed Admiral"
+[A0IO]
+Name="Attack Corruption Defiler"
+[A0IJ]
+Name="Admiral Armor (L9)"
+EditorSuffix=""
+[A0II]
+Name="Admiral Armor (L8)"
+EditorSuffix=""
+[A0IH]
+Name="Admiral Armor (L7)"
+EditorSuffix=""
+[A0IG]
+Name="Admiral Armor (L6)"
+EditorSuffix=""
+[A0IF]
+Name="Admiral Armor (L5)"
+EditorSuffix=""
+[A0IE]
+Name="Admiral Armor (L4)"
+EditorSuffix=""
+[A0ID]
+Name="Admiral Armor (L3)"
+EditorSuffix=""
+[A0IC]
+Name="Admiral Armor (L2)"
+EditorSuffix=""
+[A0IB]
+Name="Admiral Armor (L1)"
+EditorSuffix=""
+[A0IA]
+EditorSuffix="(Cairne)"
+Name="Battle Knowledge"
+Researchhotkey="R"
+Researchtip="Learn Battle Knowledge - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the attack rate of Admiral. |n|n|cffffcc00Level 1|r - 20% attack speed.|n|cffffcc00Level 2|r - 30% attack speed.|n|cffffcc00Level 3|r - 40% attack speed.|n|cffffcc00Level 4|r - 50% attack speed.|n|cffffcc00Level 5|r - 60% attack speed.|n|cffffcc00Level 6|r - 75% attack speed.|n|cffffcc00Level 7|r - 90% attack speed.|n|cffffcc00Level 8|r - 110% attack speed.|n|cffffcc00Level 9|r - 135% attack speed."
+Tip="Battle Knowledge - [|cffffcc00Level 1|r]","Battle Knowledge - [|cffffcc00Level 2|r]","Battle Knowledge - [|cffffcc00Level 3|r]","Battle Knowledge - [|cffffcc00Level 4|r]","Battle Knowledge - [|cffffcc00Level 5|r]","Battle Knowledge - [|cffffcc00Level 6|r]","Battle Knowledge - [|cffffcc00Level 7|r]","Battle Knowledge - [|cffffcc00Level 8|r]","Battle Knowledge - [|cffffcc00Level 9|r]"
+Ubertip="Increases Admiral attack speed by 20%.","Increases Admiral attack speed by 30%.","Increases Admiral attack speed by 40%.","Increases Admiral attack speed by 50%.","Increases Admiral attack speed by 60%.","Increases Admiral attack speed by 75%.","Increases Admiral attack speed by 90%.","Increases Admiral attack speed by 110%.","Increases Admiral attack speed by 135%."
+Hotkey=R
+[A0I5]
+Name="Strength Gain"
+EditorSuffix="(+3)"
+[A0I4]
+Name="WD SS2"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Revenge:|r Single target spell, high  damage based in your level, high cooldown, you must be damaged to you use it. |n|cffffcc00Block:|r Passive block ability, chance to prevent an amount of damage, do not stack with others block abilities.|n|cffffcc00Armored:|r Strong armor aura but in a very small AOE."
+Tip="","Uncomun|cffffcc00P|rower - [|cffffcc00Level 2|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 3|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 4|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 5|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 6|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 7|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 8|r]","Uncomun|cffffcc00P|rower - [|cffffcc00Level 9|r]"
+Ubertip="","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence","Increases Hero Stats + 16 to Strength +12 to Agility +12 to Intelligence","Increases Hero Stats + 20 to Strength +15 to Agility +15 to Intelligence","Increases Hero Stats + 24 to Strength +18 to Agility +18 to Intelligence","Increases Hero Stats + 28 to Strength +22 to Agility +22 to Intelligence","Increases Hero Stats + 32 to Strength +26 to Agility +26 to Intelligence","Increases Hero Stats + 40 to Strength +30 to Agility +30 to Intelligence"
+[A0I3]
+Name="WD SS1"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Hero Ability|r - [|cffffcc00Level %d|r]"
+Researchubertip="Choose your hero ability between this options, level up this ability to increases the level of the chosen ability. |n|n|cffffcc00Furious Stomp:|r AOE spell Damage around you, reduce enemies attack and move speed. |n|cffffcc00Shield Slam:|r Single target spell,deal damage based in your base armor.|n|cffffcc00Defensive:|r Increases your armor and regeneration rate for a duration."
+Tip="","s"
+Ubertip="","s"
+[A0I2]
+EditorSuffix=""
+Name="WD Immortal"
+Researchhotkey="T"
+Researchtip="Learn Immortal - [|cffffcc00Level %d|r]"
+Researchubertip="Increases Regeneration Rate. |n|n|cffffcc00Level 1|r - 60 Regeneration bonus. |n|cffffcc00Level 2|r - 12% Movement, 1% regeneration bonus. |n|cffffcc00Level 3|r - 35% movement, 180 regeneration bonus.|n|cffffcc00Level 4|r - 3% Regeneration bonus."
+Tip="Irmmortal - [|cffffcc00Level 1|r]","Irmmortal - [|cffffcc00Level 2|r]","Irmmortal - [|cffffcc00Level 3|r]","Irmmortal - [|cffffcc00Level 4|r]"
+Ubertip="Increases hit points regeneration per second by 1% of your total hit points.","Increases hit points regeneration per second by 1% of your total hit points and increases your move speed by 10%.","Increases hit points regeneration per second by 1% of your total hit points and increases your move speed by 25%. ","Increases hit points regeneration per second by 2% of your total hit points. "
+Hotkey=T
+[A0I1]
+EditorSuffix=""
+Name="WD DDAa"
+Researchhotkey="B"
+Researchtip="Learn |cffffcc00B|rlind Spots - [|cffffcc00Level %d|r]"
+Researchubertip="See throught the enemys weakness, nearby enemys units has their armor reduced. AOE improve per level. |n|n|cffffcc00Level 1|r - Decrease armor by 2.|n|cffffcc00Level 2|r - Decrease armor by 4.|n|cffffcc00Level 3|r - Decrease armor by 6.|n|cffffcc00Level 4|r - Decrease armor by 10.|n|cffffcc00Level 5|r - Decrease armor by 14.|n|cffffcc00Level 6|r - Decrease armor by 20.|n|cffffcc00Level 7|r - Decrease armor by 30.|n|cffffcc00Level 8|r - Decrease armor by 50.|n|cffffcc00Level 9|r - Decrease armor by 75."
+Tip="Blind Spots - [|cffffcc00Level 1|r]","Blind Spots - [|cffffcc00Level 2|r]","Blind Spots - [|cffffcc00Level 3|r]","Blind Spots - [|cffffcc00Level 4|r]"
+Ubertip="See throught the enemys weakness, nearby enemys units have their armor reduced by 2 in 250 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 4 in 300 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 6 in 350 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 10 in 400 AOE."
+[A0HN]
+EditorSuffix=""
+Name="WD Armored"
+Researchhotkey="W"
+Researchtip="Learn Armored - [|cffffcc00Level %d|r]"
+Researchubertip="Gives additional armor to nearby friendly units in an small aoe. |n|n|cffffcc00Level 1|r - Increases bonus armor by 15. |n|cffffcc00Level 2|r - Increases bonus armor by 30. |n|cffffcc00Level 3|r - Increases bonus armor by 45.|n|cffffcc00Level 4|r - Increases bonus armor by 60.|n|cffffcc00Level 5|r - Increases bonus armor by 75.|n|cffffcc00Level 6|r - Increases bonus armor by 90.|n|cffffcc00Level 7|r - Increases bonus armor by 105.|n|cffffcc00Level 8|r - Increases bonus armor by 120.|n|cffffcc00Level 2|r - Increases bonus armor by 150."
+Tip="Armored - [|cffffcc00Level 1|r]","Armored - [|cffffcc00Level 2|r]","Armored - [|cffffcc00Level 3|r]","Armored - [|cffffcc00Level 4|r]","Armored - [|cffffcc00Level 5|r]","Armored - [|cffffcc00Level 6|r]","Armored - [|cffffcc00Level 7|r]","Armored - [|cffffcc00Level 8|r]","Armored - [|cffffcc00Level 9|r]"
+Ubertip="Gives 15 additional armor to nearby friendly units.","Gives 30 additional armor to nearby friendly units.","Gives 45 additional armor to nearby friendly units.","Gives 60 additional armor to nearby friendly units.","Gives 75 additional armor to nearby friendly units.","Gives 90 additional armor to nearby friendly units.","Gives 105 additional armor to nearby friendly units.","Gives 120 additional armor to nearby friendly units.","Gives 150 additional armor to nearby friendly units."
+Hotkey=W
+[A0HJ]
+Name=""
+EditorSuffix=""
+[A0HI]
+Name="Bonus Damage Black Citadel 2"
+EditorSuffix=""
+[A0HH]
+Name="Armor life towers 8"
+EditorSuffix=""
+[A0HG]
+Name="Armor life towers 7"
+EditorSuffix=""
+[A0HF]
+Name="Armor life towers 6"
+EditorSuffix=""
+[A0HE]
+Name="Armor life towers 5"
+EditorSuffix=""
+[A0HD]
+Name="Bonus Damage Tower 8"
+EditorSuffix=""
+[A0HC]
+Name="Bonus Damage Tower 7"
+EditorSuffix=""
+[A0HB]
+Name="Bonus Damage Tower 6"
+EditorSuffix=""
+[A0HA]
+Name="Bonus Damage Tower 5"
+EditorSuffix=""
+[A0H8]
+Name="Spell Damage Reduction 70"
+[A0H7]
+Name="Rege HP60"
+[A0H6]
+Name="Armor life 5600"
+EditorSuffix=""
+[A0H5]
+Name="Armor Bonus +200"
+EditorSuffix=""
+[A0H4]
+Name="+400 Bonus Damage"
+EditorSuffix=""
+[A0H3]
+Name="40% Accurate"
+EditorSuffix=""
+Tip="100% Accurate"
+Ubertip="Gillermo Tell never miss."
+[A0H2]
+Name="Spell Damage Reduction 50"
+[A0GX]
+EditorSuffix=(Item)
+Name="Ruby of War"
+[A0GW]
+Name="Armor life 1400"
+EditorSuffix=""
+[A0GU]
+Name="Attack Corruption Soul Cutter"
+[A0GS]
+Name="Armor Bonus +55"
+EditorSuffix=""
+[A0GP]
+Name="Armor life 420"
+EditorSuffix=(least)
+[A0GO]
+Name="Armor Bonus +25"
+EditorSuffix=""
+[A0GN]
+Name="Rege HP 12"
+EditorSuffix=(Lesser)
+[A0GI]
+Name="Demonicz Sword"
+[A0GG]
+Name="Attack Speed +50%"
+EditorSuffix="(Greater)"
+[A0GE]
+Name="+310 Bonus Damage"
+EditorSuffix=""
+[A0G4]
+Name="CC.Chest of Gold"
+[A0G3]
+Name="Recover 3"
+Hotkey=W
+Tip="Recover [ |c00FFFC01W|r ]"
+Ubertip="Heal mana and life of hero, 1 second casting time. Last time.|n|n|cffc3dbffCooldown: 200 seconds|r."
+[A0G2]
+Name="Recover 2"
+Hotkey=W
+Tip="Recover [ |c00FFFC01W|r ]"
+Ubertip="Heal mana and life of hero, 1 second casting time. 2 more times.|n|n|cffc3dbffCooldown: 200 seconds|r."
+[A0FZ]
+Name="Bonus Damage Tower 4"
+EditorSuffix=""
+[A0FY]
+Name="Bonus Damage Tower 3"
+EditorSuffix=""
+[A0FX]
+Name="Bonus Damage Tower 2"
+EditorSuffix=""
+[A0FW]
+Name="Bonus Damage Tower 1"
+EditorSuffix=""
+[A0FV]
+Name="Armor life towers 4"
+EditorSuffix=""
+[A0FU]
+Name="Armor life towers 3"
+EditorSuffix=""
+[A0FT]
+Name="Armor life towers 2"
+EditorSuffix=""
+[A0FS]
+Name="Armor life towers 1"
+EditorSuffix=""
+[A0EF]
+Name="+300 Bonus Damage Maiev"
+EditorSuffix=""
+[A0ED]
+Name="Gods Essence Punishment"
+EditorSuffix=""
+Tip="Gods Essence Punishment"
+Ubertip="Gillermo Tell never miss."
+[A0EC]
+Name="Spell Damage Reduction KB"
+[A0E7]
+Name="Attack Speed Devil Fury"
+EditorSuffix=""
+[A0E6]
+Name="Spell Damage Reduction 86"
+[A0E4]
+Name="+770 Bonus Damage"
+EditorSuffix=""
+[A0E1]
+Name="Armor Bonus +90"
+EditorSuffix=""
+[A0DZ]
+Name="Item Mana Bonus 3000"
+[A0DS]
+Name="Rege HP 26"
+EditorSuffix=(Lesser)
+[A0DR]
+Name="Rege HP 16"
+EditorSuffix=(Lesser)
+[A0DM]
+Name="Muradin mana bonus L9"
+[A0DL]
+Name="Muradin mana bonus L8"
+[A0DK]
+Name="Muradin mana bonus L7"
+[A0DJ]
+Name="Muradin mana bonus L6"
+[A0DI]
+Name="Muradin mana bonus L5"
+[A0DH]
+Name="Muradin mana bonus L4"
+[A0DG]
+Name="Muradin mana bonus L3"
+[A0DF]
+Name="Muradin mana bonus L2"
+[A0DE]
+Name="Muradin mana bonus L1"
+[A0DD]
+Name="Muradin hit points L9"
+EditorSuffix=(least)
+[A0DC]
+Name="Muradin hit points L8"
+EditorSuffix=(least)
+[A0DB]
+Name="Muradin hit points L7"
+EditorSuffix=(least)
+[A0DA]
+Name="Muradin hit points L6"
+EditorSuffix=(least)
+[A0D9]
+Name="Muradin hit points L5"
+EditorSuffix=(least)
+[A0D8]
+Name="Muradin hit points L4"
+EditorSuffix=(least)
+[A0D7]
+Name="Muradin hit points L3"
+EditorSuffix=(least)
+[A0D6]
+Name="Muradin hit points L2"
+EditorSuffix=(least)
+[A0D5]
+Name="Muradin hit points L1"
+EditorSuffix=(least)
+[A0D3]
+EditorSuffix=""
+Name="Battle Attributes"
+Researchhotkey="B"
+Researchtip="Learn |cffffcc00B|rattle Attributes - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the attack speed and the base armor of the mountain king. |n|n|cffffcc00Level 1|r - 6 armor, 10% attack speed. |n|cffffcc00Level 2|r - 12 armor, 16% attack speed.|n|cffffcc00Level 3|r - 18 armor, 22% attack speed.|n|cffffcc00Level 4|r - 24 armor, 28% attack speed.|n|cffffcc00Level 5|r - 30 armor, 34% attack speed.|n|cffffcc00Level 6|r - 36 armor, 40% attack speed.|n|cffffcc00Level 7|r - 42 armor, 46% attack speed.|n|cffffcc00Level 8|r - 48 armor, 52% attack speed.|n|cffffcc00Level 9|r - 54 armor, 60% attack speed."
+Tip="Battle Attributes - [|cffffcc00Level 1|r]","Battle Attributes - [|cffffcc00Level 2|r]","Battle Attributes - [|cffffcc00Level 3|r]","Battle Attributes - [|cffffcc00Level 4|r]","Battle Attributes - [|cffffcc00Level 5|r]","Battle Attributes - [|cffffcc00Level 6|r]","Battle Attributes - [|cffffcc00Level 7|r]","Battle Attributes - [|cffffcc00Level 8|r]","Battle Attributes - [|cffffcc00Level 9|r]"
+Ubertip="Increases the mountain king attack speed by 10% and the base armor by 6.","Increases the mountain king attack speed by 16% and the base armor by 12.","Increases the mountain king attack speed by 22% and the base armor by 18.","Increases the mountain king attack speed by 28% and the base armor by 24.","Increases the mountain king attack speed by 34% and the base armor by 30.","Increases the mountain king attack speed by 40% and the base armor by 36.","Increases the mountain king attack speed by 46% and the base armor by 42.","Increases the mountain king attack speed by 52% and the base armor by 48.","Increases the mountain king attack speed by 60% and the base armor by 54."
+[A0CW]
+EditorSuffix=""
+Name="Move speed regeneration"
+Researchhotkey="R"
+Researchtip="Learn Power and Speed - [|cffffcc00Level %d|r]"
+Researchubertip="Increases your base strength and your move speed. |n|n|cffffcc00Level 1|r - 3% movement, 6 strength. |n|cffffcc00Level 2|r - 5% movement, 12 strength. |n|cffffcc00Level 3|r - 7% movement, 18 strength..|n|cffffcc00Level 4|r - 9% movement, 24 strength.|n|cffffcc00Level 5|r - 11% movement, 30 strength.|n|cffffcc00Level 6|r - 13% movement, 36 strength.|n|cffffcc00Level 7|r - 16% movement, 42 strength.|n|cffffcc00Level 8|r - 20% movement, 48 strength.|n|cffffcc00Level 9|r - 32% movement, 54 strength."
+Tip="Power and Speed - [|cffffcc00Level 1|r]","Power and Speed - [|cffffcc00Level 2|r]","Power and Speed - [|cffffcc00Level 3|r]","Power and Speed - [|cffffcc00Level 4|r]","Power and Speed - [|cffffcc00Level 5|r]","Power and Speed - [|cffffcc00Level 6|r]","Power and Speed - [|cffffcc00Level 7|r]","Power and Speed - [|cffffcc00Level 8|r]","Power and Speed - [|cffffcc00Level 9|r]"
+Ubertip="Increases your base strength by 6 and your move speed by 3%","Increases your base strength by 12 and your move speed by 5%","Increases your base strength by 18 and your move speed by 7%","Increases your base strength by 24 and your move speed by 9%","Increases your base strength by 30 and your move speed by 11%","Increases your base strength by 36 and your move speed by 13%","Increases your base strength by 42 and your move speed by 16%","Increases your base strength by 48 and your move speed by 20%","Increases your base strength by 54 and your move speed by 32%"
+[A0CT]
+Name="Rege HP Devil s"
+[A0CS]
+Name="Rege HP Devil F"
+[A0CO]
+EditorSuffix=""
+Name="Ferocity"
+Researchhotkey="R"
+Researchtip="Learn Ferocity - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed and attack speed of you and your summoned units. |n|n|cffffcc00Level 1|r - 5% movement, 8% attack. |n|cffffcc00Level 2|r - 8% movement, 16% attack. |n|cffffcc00Level 3|r - 11% movement, 24% attack.|n|cffffcc00Level 4|r - 14% movement, 32% attack.|n|cffffcc00Level 5|r - 17% movement, 40% attack.|n|cffffcc00Level 6|r - 20% movement, 48% attack.|n|cffffcc00Level 7|r - 23% movement, 56% attack.|n|cffffcc00Level 8|r - 26% movement, 62% attack.|n|cffffcc00Level 9|r - 30% movement, 70% attack."
+Tip="Ferocity - [|cffffcc00Level 1|r]","Ferocity - [|cffffcc00Level 2|r]","Ferocity - [|cffffcc00Level 3|r]","Ferocity - [|cffffcc00Level 4|r]","Ferocity - [|cffffcc00Level 5|r]","Ferocity - [|cffffcc00Level 6|r]","Ferocity - [|cffffcc00Level 7|r]","Ferocity - [|cffffcc00Level 8|r]","Ferocity - [|cffffcc00Level 9|r]"
+Ubertip="Increases  your and your summoned units movement speed by 5% and attack rate by 8% in 1500 AOE.","Increases  your and your summoned units movement speed by 8% and attack rate by 16% in 1500 AOE.","Increases  your and your summoned units movement speed by 11% and attack rate by 24% in 1500 AOE.","Increases  your and your summoned units movement speed by 14% and attack rate by 32% in 1500 AOE.","Increases  your and your summoned units movement speed by 17% and attack rate by 40% in 1500 AOE.","Increases  your and your summoned units movement speed by 20% and attack rate by 48% in 1500 AOE.","Increases  your and your summoned units movement speed by 23% and attack rate by 56% in 1500 AOE.","Increases  your and your summoned units movement speed by 26% and attack rate by 62% in 1500 AOE.","Increases  your and your summoned units movement speed by 30% and attack rate by 70% in 1500 AOE."
+Hotkey=R
+[A0CA]
+Name="Shuriken"
+EditorSuffix=""
+Hotkey=L
+Researchhotkey="L"
+Researchtip="Learn Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. Range of jumps and damage reduction per target improve per level. |n|n|cffffcc00Level 1|r - 90 damage, jumps 5 times. |n|cffffcc00Level 2|r - 150 damage, jumps 6 times.|n|cffffcc00Level 3|r - 220 damage, jumps 7 times.|n|cffffcc00Level 4|r - 300 damage, jumps 8 times.|n|cffffcc00Level 5|r - 400 damage, jumps 9 times.|n|cffffcc00Level 6|r - 520 damage, jumps 10 times.|n|cffffcc00Level 7|r - 680 damage, jumps 12 times.|n|cffffcc00Level 8|r - 900 damage, jumps 14 times.|n|cffffcc00Level 9|r - 1200 damage, jumps 16 times."
+Tip="Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 1|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 2|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 3|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 4|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 5|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 6|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 7|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 8|r]","Alpha Lightning - [|cffffcc00D|r] - [|cffffcc00Level 9|r]"
+Ubertip="Calls forth a bolt of lightning that bounces up to 5 times, dealing 90 damage on the primary target. Each jump deals 15% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 6 times, dealing 150 damage on the primary target. Each jump deals 14% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 7 times, dealing 220 damage on the primary target. Each jump deals 13% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 8 times, dealing 300 damage on the primary target. Each jump deals 12% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 9 times, dealing 400 damage on the primary target. Each jump deals 10% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 10 times, dealing 520 damage on the primary target. Each jump deals 8% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 12 times, dealing 680 damage on the primary target. Each jump deals 6% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 14 times, dealing 900 damage on the primary target. Each jump deals 4% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 16 times, dealing 1200 damage on the primary target. Each jump deals 2% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r"
+[A0C9]
+EditorSuffix=""
+Name="Blind Spots"
+Researchhotkey="R"
+Researchtip="Learn Blind Spots [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="See throught the enemys weakness, nearby enemys units has their armor reduced. AOE improve per level. |n|n|cffffcc00Level 1|r - Decrease armor by 4.|n|cffffcc00Level 2|r - Decrease armor by 6.|n|cffffcc00Level 3|r - Decrease armor by 10.|n|cffffcc00Level 4|r - Decrease armor by 14.|n|cffffcc00Level 5|r - Decrease armor by 20.|n|cffffcc00Level 6|r - Decrease armor by 30.|n|cffffcc00Level 7|r - Decrease armor by 50.|n|cffffcc00Level 8|r - Decrease armor by 75.|n|cffffcc00Level 9|r - Decrease armor by 150."
+Tip="Blind Spots - [|cffffcc00Level 1|r]","Blind Spots - [|cffffcc00Level 2|r]","Blind Spots - [|cffffcc00Level 3|r]","Blind Spots - [|cffffcc00Level 4|r]","Blind Spots - [|cffffcc00Level 5|r]","Blind Spots - [|cffffcc00Level 6|r]","Blind Spots - [|cffffcc00Level 7|r]","Blind Spots - [|cffffcc00Level 8|r]","Blind Spots - [|cffffcc00Level 9|r]"
+Ubertip="See throught the enemys weakness, nearby enemys units have their armor reduced by 4 in 250 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 6 in 300 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 10 in 350 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 14 in 400 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 20 in 450 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 30 in 470 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 50 in 480 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 75 in 490 AOE.","See throught the enemys weakness, nearby enemys units have their armor reduced by 150 in 500 AOE."
+[A0C2]
+EditorSuffix=""
+Name="BloodThirsty"
+Researchhotkey="E"
+Researchtip="Learn BloodThirsty - [|cffffcc00Level %d|r]"
+Researchubertip="Hero Feeds with the blood of his enemies healing himself for a percentage of the total life of the victim. Also increases his attack speed and hp permanently with every level.|n|n|cffffcc00Level 1|r - 10% Heal.|n|cffffcc00Level 2|r - 12.5% Heal.|n|cffffcc00Level 3|r - 14% Heal.|n|cffffcc00Level 4|r - 16% Heal.|n|cffffcc00Level 5|r - 20% Heal.|n|cffffcc00Level 6|r - 25% Heal.|n|cffffcc00Level 7|r - 32% Heal.|n|cffffcc00Level 8|r - 40% Heal.|n|cffffcc00Level 9|r - 60% Heal."
+Tip="BoodThirsty - [|cffffcc00Level 1|r]","BoodThirsty - [|cffffcc00Level 2|r]","BoodThirsty - [|cffffcc00Level 3|r]","BoodThirsty - [|cffffcc00Level 4|r]","BoodThirsty - [|cffffcc00Level 5|r]","BoodThirsty - [|cffffcc00Level 6|r]","BoodThirsty - [|cffffcc00Level 7|r]","BoodThirsty - [|cffffcc00Level 8|r]","BoodThirsty - [|cffffcc00Level 9|r]"
+Ubertip="Hero Feed with the blood of his enemys healing himself for 10% of the total life of the dead unit. Also increases hitpoints by 1 on kill.","Hero Feed with the blood of his enemys healing himself for 12.5% of the total life of the dead unit. Also increases hitpoints by 2 on kill.","Hero Feed with the blood of his enemys healing himself for 14% of the total life of the dead unit. Also increases hitpoints by 3 on kill.","Hero Feed with the blood of his enemys healing himself for 16% of the total life of the dead unit. Also increases hitpoints by 4 on kill.","Hero Feed with the blood of his enemys healing himself for 20% of the total life of the dead unit. Also increases hitpoints by 5 on kill.","Hero Feed with the blood of his enemys healing himself for 25% of the total life of the dead unit. Also increases hitpoints by 7 on kill.","Hero Feed with the blood of his enemys healing himself for 32% of the total life of the dead unit. Also increases hitpoints by 9 on kill.","Hero Feed with the blood of his enemys healing himself for 40% of the total life of the dead unit. Also increases hitpoints by 11 on kill.","Hero Feed with the blood of his enemys healing himself for 60% of the total life of the dead unit. Also increases hitpoints by 15 on kill."
+[A0BU]
+Name="Alpha Lightning"
+EditorSuffix=""
+Hotkey=E
+Researchhotkey="E"
+Researchtip="Learn Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. Range of jumps and damage reduction per target improve per level. |n|n|cffffcc00Level 1|r - 90 damage, jumps 5 times. |n|cffffcc00Level 2|r - 150 damage, jumps 6 times.|n|cffffcc00Level 3|r - 220 damage, jumps 7 times.|n|cffffcc00Level 4|r - 300 damage, jumps 8 times.|n|cffffcc00Level 5|r - 400 damage, jumps 9 times.|n|cffffcc00Level 6|r - 520 damage, jumps 10 times.|n|cffffcc00Level 7|r - 680 damage, jumps 12 times.|n|cffffcc00Level 8|r - 900 damage, jumps 14 times.|n|cffffcc00Level 9|r - 1200 damage, jumps 16 times."
+Tip="Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Alpha Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Calls forth a bolt of lightning that bounces up to 5 times, dealing 90 damage on the primary target. Each jump deals 15% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 6 times, dealing 150 damage on the primary target. Each jump deals 14% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 7 times, dealing 220 damage on the primary target. Each jump deals 13% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 8 times, dealing 300 damage on the primary target. Each jump deals 12% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 9 times, dealing 400 damage on the primary target. Each jump deals 10% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 10 times, dealing 520 damage on the primary target. Each jump deals 8% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 12 times, dealing 680 damage on the primary target. Each jump deals 6% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 14 times, dealing 900 damage on the primary target. Each jump deals 4% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 16 times, dealing 1200 damage on the primary target. Each jump deals 2% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r"
+[A0BO]
+Name="Ghost Heal "
+EditorSuffix=""
+Hotkey=F
+Researchhotkey="Y"
+Researchtip="Learn Hol|cffffcc00y|r Light - [|cffffcc00Level %d|r]"
+Researchubertip="A holy light that can heal a friendly unit or your self. Cast range improvement per level. |n|n|cffffcc00Level 1|r - Heals for <AHhb,DataA1> hit points. |n|cffffcc00Level 2|r - Heals for <AHhb,DataA2> hit points. |n|cffffcc00Level 3|r - Heals for <AHhb,DataA3> hit points. |n|cffffcc00Level 4|r - Heals for <AHhb,DataA4> hit points. |n|cffffcc00Level 5|r - Heals for <AHhb,DataA5> hit points. |n|cffffcc00Level 6|r - Heals for <AHhb,DataA6> hit points. |n|cffffcc00Level 7|r - Heals for <AHhb,DataA7> hit points. |n|cffffcc00Level 8|r - Heals for <AHhb,DataA8> hit points. |n|cffffcc00Level 9|r - Heals for <AHhb,DataA9> hit points. "
+Tip="Ghost Heal |cffffcc00(F)|r"
+[A0BJ]
+Name="+500 Bonus Damage"
+EditorSuffix=""
+[A0BD]
+Name="Attack Corruption Bonus -60"
+[A0BB]
+Name="Second Chance"
+EditorSuffix=""
+[A0BA]
+Name="Armor life 1800"
+EditorSuffix=""
+[A0B9]
+Name="Armor life 2300"
+EditorSuffix=""
+[A0B8]
+Name="Armor Bonus +180"
+EditorSuffix=""
+[A0B4]
+Name="Armor life 350"
+EditorSuffix=(least)
+[A0B3]
+Name="Warrior Boots"
+[A0B0]
+Name="Rege HP+10"
+EditorSuffix=(Lesser)
+[A0AZ]
+Name="Armor Bonus +18"
+EditorSuffix=""
+[A0AW]
+Name="+380 Bonus Damage"
+EditorSuffix=(+20)
+[A0AQ]
+Name="Soul Annihilation"
+EditorSuffix=""
+Hotkey=U
+Researchtip="Learn So|cffffcc00u|rl Annihilation - [|cffffcc00Level %d|r]"
+Researchubertip="The Dark Wizard concetrate all his energy to release a forbidden spell that destroy the soul of one enemy."
+Tip="So|cffffcc00u|rl Annihilation - [|cffffcc00Level 1|r]","So|cffffcc00u|rl Annihilation - [|cffffcc00Level 2|r]","So|cffffcc00u|rl Annihilation - [|cffffcc00Level 3|r]","So|cffffcc00u|rl Annihilation - [|cffffcc00Level 4|r]"
+Ubertip="The Dark Wizard concetrate all his energy to release a forbidden spell that destroy the soul of a enemy dealing 3200 damage.|n|n|cffc3dbffCooldown: 300 seconds|r.","The Dark Wizard concetrate all his energy to release a forbidden spell that destroy the soul of a enemy dealing 8000 damage.|n|n|cffc3dbffCooldown: 280 seconds|r.","The Dark Wizard concetrate all his energy to release a forbidden spell that destroy the soul of a enemy dealing 15000 damage.|n|n|cffc3dbffCooldown: 260 seconds|r.","The Dark Wizard concetrate all his energy to release a forbidden spell that destroy the soul of a enemy dealing 40000 damage.|n|n|cffc3dbffCooldown: 240 seconds|r."
+[A0AL]
+Name="W.Teleport"
+Hotkey=T
+Researchhotkey="B"
+Researchtip="Learn |cffffcc00B|rlink - [|cffffcc00Level %d|r]"
+Researchubertip="Short distance teleportation that allows the Warden to move in and out of combat. |n|n|cffffcc00Level 1|r - <AEbl,Cool1> second cooldown, <AEbl,Cost1> mana. |n|cffffcc00Level 2|r - <AEbl,Cool2> second cooldown, <AEbl,Cost2> mana. |n|cffffcc00Level 3|r - <AEbl,Cool3> second cooldown, <AEbl,Cost3> mana."
+Tip="Subsoil |cffffcc00T|rrave"
+Ubertip="Teleports to any explorer place."
+[A0A3]
+Name="Life Steal Nosferatu"
+[A0A2]
+Name="Breath of Darigaaz"
+[A0A0]
+Name="Web T"
+[A09M]
+Name="Crushin Wave ITWildkin"
+[A09B]
+Name="+120 Bonus Damage"
+EditorSuffix=""
+[A099]
+Name="+500 Bonus Damage"
+EditorSuffix=(+20)
+[A098]
+Name="Attack Corruption Assassin BL2"
+[A097]
+Name="Attack Corruption Assassin BL1"
+[A096]
+Name="Staff of Teleportation 2"
+[A095]
+Name="Wind Boots"
+[A092]
+Name="Attack Speed +140%"
+EditorSuffix=""
+[A091]
+Name="+280 Bonus Damage"
+EditorSuffix=(+20)
+[A08Y]
+Name="Hit Points +1600"
+EditorSuffix=(least)
+[A08X]
+Name="Hit Points +1300"
+EditorSuffix=(least)
+[A08W]
+Name="Mana regeneration 400%"
+[A08V]
+Name="Mana regeneration 375%"
+[A08S]
+Name="Hit Points +1100"
+EditorSuffix=(least)
+[A08R]
+Name="Hit Points +1000"
+EditorSuffix=(least)
+[A08Q]
+Name="+180 Bonus Damage"
+EditorSuffix=""
+[A08P]
+Name="Rege HP40"
+[A08O]
+Name="Rege HP50"
+[A08N]
+Name="Armor Bonus +80"
+EditorSuffix=""
+[A08M]
+Name="Rege L8"
+EditorSuffix=(Lesser)
+[A08L]
+Name="Rege L7"
+EditorSuffix=(Lesser)
+[A08K]
+Name="Rege L9"
+EditorSuffix=(Lesser)
+[A08J]
+Name="Rege L6"
+EditorSuffix=(Lesser)
+[A08I]
+Name="Rege L5"
+EditorSuffix=(Lesser)
+[A08H]
+Name="Rege L4"
+EditorSuffix=(Lesser)
+[A08G]
+Name="Rege L3"
+EditorSuffix=(Lesser)
+[A08F]
+Name="Rege L2"
+EditorSuffix=(Lesser)
+[A08E]
+Name="Rege L1"
+EditorSuffix=(Lesser)
+[A089]
+Name="Bonus Damage"
+EditorSuffix="(MarineL9)"
+[A088]
+Name="Bonus Damage"
+EditorSuffix="(MarineL8)"
+[A087]
+Name="Bonus Damage"
+EditorSuffix="(MarineL7)"
+[A086]
+Name="Bonus Damage"
+EditorSuffix="(MarineL6)"
+[A085]
+Name="Bonus Damage"
+EditorSuffix="(MarineL5)"
+[A084]
+Name="Bonus Damage"
+EditorSuffix="(MarineL4)"
+[A083]
+Name="Bonus Damage"
+EditorSuffix="(MarineL3)"
+[A082]
+Name="Bonus Damage"
+EditorSuffix="(MarineL2)"
+[A081]
+Name="+10 Bonus Damage"
+EditorSuffix="(MarineL1)"
+[A07P]
+Name="Permanent Inml ( especial3)"
+[A07O]
+Name="Permanent Inml ( especial2)"
+[A07N]
+Name="Permanent Inml ( especial1)"
+[A07E]
+EditorSuffix=""
+Hotkey=G
+Name="based on Infern"
+Researchhotkey="G"
+Researchtip="Learn |cffffcc00G|rolem - [|cffffcc00Level %d|r]"
+Researchubertip="Fausto the Necromancer also have Knoledge in alchemist and can control some elements, he create a golem of one of this elements and give a powerfull soul. "
+Tip="|cffffcc00G|rolem - [|cffffcc00Level 1|r]","|cffffcc00G|rolem - [|cffffcc00Level 2|r]","|cffffcc00G|rolem - [|cffffcc00Level 3|r]","|cffffcc00G|rolem - [|cffffcc00Level 4|r]"
+Ubertip="Fausto is capable to control the clay. when he summon the clay golem it deal 200 damage to enemy units and stunning them for 4 seconds.","Fausto is capable to control the rock. when he summon the rock golem it deal 400 damage to enemy units and stunning them for 5 seconds.","Fausto is capable to control the iron. when he summon the iron golem it deal 700 damage to enemy units and stunning them for 6 seconds.","Fausto is capable to control the titanium. when he summon the titanium golem it deal 1000 damage to enemy units and stunning them for 8 seconds."
+[A06M]
+Name="Firebolt (Final)t"
+[A06J]
+Name="Spell Damage Reduction 40"
+[A06I]
+Name="Armor Bonus +50"
+EditorSuffix=""
+[A06C]
+Name="Attack Corruption Bonus Level 4"
+[A06B]
+Name="Attack Corruption Bonus Level 3"
+[A06A]
+Name="Attack Corruption Bonus Level 2"
+[A069]
+Name="Attack Corruption Bonus Level 1"
+Untip="attack C"
+Unubertip="Reduce armor by 4"
+[A061]
+Name=Spell Shield
+EditorSuffix=" (Darigaaz)"
+[A060]
+Name=Spell Shield
+EditorSuffix=" (Black Dragon)"
+[A05Y]
+Name="B.D.Darigaaz IT"
+[A05U]
+Name="Chain L.Salam IT"
+[A05E]
+Name="Chain lighting IT"
+[A05D]
+Name="Swamp IT"
+[A05C]
+Name="Slamt IT"
+[A058]
+Name="Mana regeneration 350%"
+[A057]
+Name="Attack Speed +80%"
+EditorSuffix=""
+[A054]
+Name="Attack Speed +120%"
+EditorSuffix=""
+[A052]
+Name="+240 Bonus Damage"
+EditorSuffix=(+20)
+[A050]
+Name="Armor Bonus +60"
+EditorSuffix=""
+[A04Z]
+Name="Armor Bonus +100"
+EditorSuffix=""
+[A04Y]
+Name="Armor life 2000"
+EditorSuffix=""
+[A04X]
+Name="Armor life 1500"
+EditorSuffix=""
+[A04W]
+Name="+300 Bonus Damage"
+EditorSuffix=""
+[A04U]
+Name="Rege HP Inmortal"
+EditorSuffix=(Lesser)
+[A04T]
+Name="Spell Damage Reduction 30"
+[A04S]
+Name="Spell Damage Reduction 60"
+[A04R]
+Name="Spell Damage Reduction 25"
+[A04Q]
+Name="Rege HP 6"
+EditorSuffix=(Lesser)
+[A04O]
+Name="Glacial Sword"
+[A04J]
+Name="Item Mana Bonus 2000"
+[A04I]
+Name="Mana regeneration 300%"
+[A04H]
+Name="+30 Bonus Damage"
+EditorSuffix=""
+[A04E]
+Name="+200 Bonus Damage"
+EditorSuffix=""
+[A04C]
+Name="Rege HP G.Helm"
+EditorSuffix=(Lesser)
+[A04A]
+Name="Armor Bonus +40"
+EditorSuffix=""
+[A047]
+Name="Armor life 900"
+EditorSuffix=(least)
+[A046]
+Name="100% Accurate"
+EditorSuffix=""
+Tip="100% Accurate"
+Ubertip="Gillermo Tell never miss."
+[A045]
+Name="Final Weapon A"
+EditorSuffix=""
+[A044]
+Name="Final Weapon D"
+EditorSuffix=""
+[A042]
+Name="V. Blood"
+EditorSuffix=""
+[A041]
+Name="Item move Dragon"
+[A040]
+Name="B.of Dragon"
+[A03W]
+Name="Attack Speed +100%"
+EditorSuffix=""
+[A03V]
+Name="+350 Bonus Damage"
+EditorSuffix=""
+[A03U]
+Name="Dragon Blood"
+EditorSuffix=""
+[A03T]
+Name="Attack Speed +46%"
+EditorSuffix="(Greater)"
+[A03S]
+Name="+150 Bonus Damage"
+EditorSuffix=""
+[A03N]
+Name="B.Fire IT"
+[A03K]
+Name="Item Heal/Mana RegainMAX"
+[A03J]
+Name="Item Heal/Mana RegainX"
+[A03G]
+Name="Rege HP L.Armor"
+EditorSuffix=(Lesser)
+[A03F]
+Name="Armor life 2500"
+EditorSuffix=""
+[A03E]
+Name="Item Armor Bonus (+120)"
+EditorSuffix=(+10)
+[A03C]
+Name="Rege HP(11)"
+EditorSuffix=(Lesser)
+[A03B]
+Name="Item Mana Bonus 900"
+[A036]
+Name="G.Shield Life Bonus "
+EditorSuffix=(least)
+[A02P]
+EditorSuffix=""
+Name="Dexterity"
+Researchhotkey="T"
+Researchtip="Learn Dexterity [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]."
+Researchubertip="Increases base agility of the archer."
+Tip="Dexterity - [|cffffcc00Level 1|r]","Dexterity - [|cffffcc00Level 2|r]","Dexterity - [|cffffcc00Level 3|r]","Dexterity - [|cffffcc00Level 4|r]"
+Ubertip="Increases base agility by 20.|n|n|CFF00FFFFFocus|r: Each time Archer attacks same target she will increase base damage by 40 for a maximum of 25 attacks.|n If Archer doesn't attack same target again in 7 seconds or attacks new target this bonus will reset.","Increases base agility by 50.|n|n|CFF00FFFFFocus|r: Each time Archer attacks same target she will increase base damage by 40 for a maximum of 50 attacks.|n If Archer doesn't attack same target again in 7 seconds or attacks new target this bonus will reset.","Increases base agility by 90.|n|n|CFF00FFFFFocus|r: Each time Archer attacks same target she will increase base damage by 40 for a maximum of 75 attacks .|n If Archer doesn't attack same target again in 7 seconds or attacks new target this bonus will reset.","Increases base agility by 140 and 10% movement speed.|n|n|CFF00FFFFFocus|r: Each time Archer attacks same target she will increase base damage by 40 for a maximum of 125 attacks.|n If Archer doesn't attack same target again in 7 seconds or attacks new target this bonus will reset."
+[A02N]
+Name="M.GLife 9"
+EditorSuffix=(least)
+[A02M]
+Name="M.GLife 8"
+EditorSuffix=(least)
+[A02L]
+Name="M.GLife 7"
+EditorSuffix=(least)
+[A02K]
+Name="M.GLife 6"
+EditorSuffix=(least)
+[A02J]
+Name="Spellbook 2"
+[A02I]
+Name="Spellbook"
+[A02H]
+Name="M.GLife 5"
+EditorSuffix=(least)
+[A02G]
+Name="M.GLife 4"
+EditorSuffix=(least)
+[A02F]
+Name="M.GLife 3"
+EditorSuffix=(least)
+[A02E]
+Name="M.GLife 2"
+EditorSuffix=(least)
+[A02D]
+Name="M.GLife 1"
+EditorSuffix=(least)
+[A02B]
+Name="............."
+EditorSuffix=(least)
+[A029]
+Name="Item Mana Bonus 500"
+EditorSuffix="(500)"
+[A027]
+Name="Armor Bonus +14"
+EditorSuffix=""
+[A026]
+Name="+32 Bonus Damage"
+EditorSuffix=""
+[A023]
+Name="Mana regeneration 250%"
+[A01W]
+Name="Rege HPZombi H"
+EditorSuffix=(Lesser)
+[A01S]
+Name="Armor Bonus +30"
+EditorSuffix=""
+[A01R]
+Name="Armor Bonus +22"
+EditorSuffix=""
+[A01Q]
+Name="D.Rune Life "
+EditorSuffix=(least)
+[A01P]
+Name="Armor life 800"
+EditorSuffix=(least)
+[A01N]
+Name="Armor Bonus +16"
+EditorSuffix=(+10)
+[A01J]
+Name="Life Steal MOD"
+[A01G]
+Name="Life Steal Corrupted Sword"
+[A01E]
+Name="Attack Speed +70%"
+EditorSuffix="(Greater)"
+[A01D]
+Name="+50 Bonus Damage"
+EditorSuffix=(+20)
+[A01C]
+Name="+70 Bonus Damage"
+EditorSuffix=(+20)
+[A019]
+Name="F.Sword"
+[A017]
+Name="Attack Speed +25%"
+EditorSuffix="(Greater)"
+[A016]
+Name="+44 Bonus Damage"
+EditorSuffix=(+20)
+[A015]
+Name="+70 Bonus Damage"
+EditorSuffix=(+20)
+[A014]
+Name="F.bolt IT"
+Tip="Pasive Firebolt"
+Ubertip="Have a high change to cast a firebolt when attack."
+[A013]
+Name="Swamp IT TT"
+[A012]
+Name="Potion 2h"
+EditorSuffix=""
+[A011]
+Name="MP G"
+EditorSuffix=(Lesser)
+[A010]
+Name="MOT"
+[A00Z]
+Name="HSX"
+[A00Y]
+Name="Potion 1 H"
+EditorSuffix=(Lesser)
+[A00X]
+Name="Item move speed 70"
+[A00S]
+Name="Item Mana Regeneration"
+EditorSuffix="(Greater)"
+[A00R]
+Name="Mana regeneration 160%"
+[A00Q]
+Name="Mana regeneration 75%"
+[A00P]
+Name="Mana regeneration 100%"
+[A00O]
+Name="Mana regeneration 50%"
+[A00L]
+Name="Rege HP3"
+EditorSuffix=(Lesser)
+[A00K]
+Name="Rege HP2"
+EditorSuffix=(Lesser)
+[A00J]
+Name="Rege HP1"
+EditorSuffix=(Lesser)
+[A00I]
+Name="Armor life 4"
+EditorSuffix=(least)
+[A00D]
+Name="Armor life 3"
+EditorSuffix=(least)
+[A00C]
+Name="Armor life 2"
+EditorSuffix=(least)
+[A00B]
+Name="Armor life"
+EditorSuffix=(least)
+[A009]
+Name="........"
+[A008]
+Name="D.Shield"
+Researchhotkey="D"
+Researchtip="Learn |cffffcc00D|rivine Shield - [|cffffcc00Level %d|r]"
+Researchubertip="An impenetrable shield surrounds the Paladin, protecting him from all damage and spells for a set amount of time. |n|n|cffffcc00Level 1|r - Lasts <AHds,Dur1> seconds. |n|cffffcc00Level 2|r - Lasts <AHds,Dur2> seconds. |n|cffffcc00Level 3|r - Lasts <AHds,Dur3> seconds."
+Tip="|cffffcc00D|rivine Shield - [|cffffcc00Level 1|r]"
+Ubertip="An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur1> seconds."
+Untip="Deactivate |cffffcc00D|rivine Shield"
+[A007]
+Name="Dispel Magic"
+EditorSuffix="(item)"
+[A0M4]
+Name="MAM Constitution"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Constitution|r - [|cffffcc00Level %d|r]"
+Researchubertip="+2 Strength and +1 Intelligence."
+Tip="","s"
+Ubertip="","s"
+[A1HC]
+Name="Hit Points +11000 MAT"
+EditorSuffix=""
+[A1K4]
+Name="MAM Perception"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Perception|r - [|cffffcc00Level %d|r]"
+Researchubertip="+1 Spell Power +1 Intelligence and +30 Hit Points."
+Tip="","s"
+Ubertip="","s"
+[A1K5]
+Name="MAM Serenity"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Serenity|r - [|cffffcc00Level %d|r]"
+Researchubertip="Gives +1 to Strength, + 1 to Agility, + 1 to Intelligence and +30 Gold."
+Tip="","s"
+Ubertip="","s"
+[A1K6]
+Name="MAM Stamina"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Stamina|r - [|cffffcc00Level %d|r]"
+Researchubertip="Increases mana points by 80."
+Tip="","s"
+Ubertip="","s"
+[A1K7]
+Name="MAM Vitality"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Vitality|r - [|cffffcc00Level %d|r]"
+Researchubertip="Increases hit points by 70."
+Tip="","s"
+Ubertip="","s"
+[A1K8]
+Name="MAM Wisdom"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Wisdom|r - [|cffffcc00Level %d|r]"
+Researchubertip="Increases Spell Power by 3."
+Tip="","s"
+Ubertip="","s"
+[A1K9]
+Name="MAMcarrior"
+EditorSuffix=""
+[A1KA]
+Name="life MAM S"
+EditorSuffix=""
+[A1KB]
+Name="life MAM W"
+EditorSuffix=""
+[A1KI]
+Name="-1250 BD"
+EditorSuffix=""
+[A1KM]
+Name="MAM Strongest and longest"
+EditorSuffix="(Neutral Hostile)"
+Hotkey=G
+Researchhotkey="M"
+Researchtip="Learn Finger |cffffcc00D|reath - [|cffffcc00Level %d|r]"
+Researchubertip="Horribly cripples the innards of a creature or building.|n|n|cffffcc00Level 1|r - 1300 damage.|n|cffffcc00Level 2|r - 2000 damage.|n|cffffcc00Level 3|r - 3000 damage.|n|cffffcc00Level 4|r - 4000 damage.|n|cffffcc00Level 5|r - 5000 damage.|n|cffffcc00Level 6|r - 7000 damage.|n|cffffcc00Level 7|r - 9000 damage.|n|cffffcc00Level 8|r - 12000 damage.|n|cffffcc00Level 9|r - 18000 damage."
+Tip="Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 1|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 2|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 3|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 4|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 5|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 6|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 7|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 8|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 9|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 10|r]","Antimatter [ |c00FFFC01G|r ] - [|cffffcc00Level 11|r]"
+Ubertip="Deal 20 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 280 seconds.|r","Deal 28 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 270 seconds.|r","Deal 36 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 260 seconds.|r","Deal 44 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 250 seconds.|r","Deal 52 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 240 seconds.|r","Deal 60 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 230 seconds.|r","Deal 68 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 220 seconds.|r","Deal 76 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 210 seconds.|r","Deal 84 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 200 seconds.|r","Deal 92 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 190 seconds.|r","Deal 100 + each time you has casted this ability x Spell Power Damage.|n|n|cffc3dbffCooldown: 150 seconds.|r"
+[A1KU]
+Name="Armor life +10000"
+EditorSuffix=""
+[A1L6]
+Name="Disarming Cannons"
+EditorSuffix=(item)
+Tip="Disarming Cannons [|cffffcc00E|r]"
+Ubertip="Load the Flak Cannon with Disarming Cannons. Each attack will reduce attack damage of target by 5% for maximum of 80%. If Flak cannon doesn't attack target again in 6 seconds or attacks a new target effect will be reset."
+Hotkey=E
+[A1L8]
+Name="-Armor FLAK"
+EditorSuffix=""
+[A1L9]
+Name="Attack Speed -flak%"
+EditorSuffix=""
+[A1LX]
+Name="divinebreath"
+EditorSuffix=""
+[A1M3]
+Name="archer40"
+[A1M8]
+Name="archer-1000"
+[A1MB]
+Name="archer-20"
+[A1JE]
+Name="-Armor blade"
+EditorSuffix=""
+[A1M4]
+Name="-asblade"
+EditorSuffix=""
+[A1MC]
+Name="Armor Bonus +500"
+EditorSuffix=""
+[A1MM]
+Name="DCBD9"
+[A1MO]
+EditorSuffix=(Item)
+Name="Riddle of Onyx"
+[A1MW]
+EditorSuffix=(Item)
+Name="Blue Blessed Blade Aura"
+[A1N8]
+Name="Armor Bonus (Necro Skeleton)"
+EditorSuffix=""
+[A1N9]
+Name="Attack Speed Bonus"
+EditorSuffix="(Necro Skeleton)"
+[A1NA]
+Name="Bonus Damage (Necro Skeleton)"
+EditorSuffix=""
+[A1ND]
+Name="Armor Bonus (Skeletal Mage)"
+EditorSuffix=""
+[A1NE]
+Name="Mana Bonus (Skeletal Mage)"
+EditorSuffix=""
+[A1NH]
+Name="Armor Bonus (Golem)"
+EditorSuffix=""
+[A1NB]
+Name="Armor life 50"
+EditorSuffix=(least)
+[A1NI]
+Name="Armor life 100"
+EditorSuffix=(least)
+[A1NG]
+Name="Armor life +28000"
+EditorSuffix=""
+[A1NJ]
+Name="SetUnitMax - Life"
+EditorSuffix=(least)
+[A1NK]
+Name="SetUnitMax - mana"
+[A1NL]
+Name="BonusMod Armor +1"
+EditorSuffix=""
+[A1NM]
+Name="BonusMod Armor +2"
+EditorSuffix=""
+[A1NN]
+Name="BonusMod Armor +4"
+EditorSuffix=""
+[A1NO]
+Name="BonusMod Armor +8"
+EditorSuffix=""
+[A1NP]
+Name="BonusMod Armor +16"
+EditorSuffix=""
+[A1NQ]
+Name="BonusMod Armor +32"
+EditorSuffix=""
+[A1NR]
+Name="BonusMod Armor +64"
+EditorSuffix=""
+[A1NS]
+Name="BonusMod Armor +128"
+EditorSuffix=""
+[A1NT]
+Name="BonusMod Armor +256"
+EditorSuffix=""
+[A1NU]
+Name="BonusMod Armor +512"
+EditorSuffix=""
+[A1NV]
+Name="BonusMod Armor +1024"
+EditorSuffix=""
+[A1NW]
+Name="BonusMod Armor +2048"
+EditorSuffix=""
+[A1NX]
+Name="BonusMod Armor +4096"
+EditorSuffix=""
+[A1NY]
+Name="BonusMod Hp regen 1"
+EditorSuffix=""
+[A1NZ]
+Name="BonusMod Hp regen 2"
+EditorSuffix=""
+[A1O0]
+Name="BonusMod Hp regen 4"
+EditorSuffix=""
+[A1O1]
+Name="BonusMod Hp regen 8"
+EditorSuffix=""
+[A1O2]
+Name="BonusMod Hp regen 16"
+EditorSuffix=""
+[A1O3]
+Name="BonusMod Hp regen 32"
+EditorSuffix=""
+[A1O4]
+Name="BonusMod Hp regen 64"
+EditorSuffix=""
+[A1O5]
+Name="BonusMod Hp regen 128"
+EditorSuffix=""
+[A1O6]
+Name="BonusMod Hp regen 256"
+EditorSuffix=""
+[A1O7]
+Name="BonusMod Hp regen 512"
+EditorSuffix=""
+[A1O8]
+Name="BonusMod Hp regen 1024"
+EditorSuffix=""
+[A1O9]
+Name="BonusMod Hp regen 2048"
+EditorSuffix=""
+[A1OA]
+Name="BonusMod Hp regen +4096"
+EditorSuffix=""
+[A1OB]
+Name="BonusMod Damage +1"
+EditorSuffix=""
+[A1OC]
+Name="BonusMod Damage +2"
+EditorSuffix=""
+[A1OD]
+Name="BonusMod Damage +4"
+EditorSuffix=""
+[A1OE]
+Name="BonusMod Damage +8"
+EditorSuffix=""
+[A1OF]
+Name="BonusMod Damage +16"
+EditorSuffix=""
+[A1OG]
+Name="BonusMod Damage +32"
+EditorSuffix=""
+[A1OH]
+Name="BonusMod Damage +64"
+EditorSuffix=""
+[A1OI]
+Name="BonusMod Damage +128"
+EditorSuffix=""
+[A1OJ]
+Name="BonusMod Damage +256"
+EditorSuffix=""
+[A1OK]
+Name="BonusMod Damage +512"
+EditorSuffix=""
+[A1OL]
+Name="BonusMod Damage +1024"
+EditorSuffix=""
+[A1OM]
+Name="BonusMod Damage +2048"
+EditorSuffix=""
+[A1ON]
+Name="BonusMod Damage +4096"
+EditorSuffix=""
+[A1OO]
+Name="BonusMod Damage +8192"
+EditorSuffix=""
+[A1OP]
+Name="BonusMod Damage +16384"
+EditorSuffix=""
+[A1OQ]
+Name="BonusMod Damage -32768"
+EditorSuffix=""
+[A1OR]
+Name="BonusMod Armor +8192"
+EditorSuffix=""
+[A1OS]
+Name="BonusMod Armor +16384"
+EditorSuffix=""
+[A1OT]
+Name="BonusMod Armor -32768"
+EditorSuffix=""
+[A1OU]
+Name="BonusMod Hp regen +8192"
+EditorSuffix=""
+[A1OV]
+Name="BonusMod Hp regen +16384"
+EditorSuffix=""
+[A1OW]
+Name="BonusMod Hp regen -32768"
+EditorSuffix=""
+[A1P8]
+Name="Attack Speed bonus (Vampire control)"
+EditorSuffix=(Greater)
+[A1P9]
+Name="Bonus Damage (Vampire Control)"
+EditorSuffix=""
+[A1PA]
+Name="Bonus Armor (Vampire Control)"
+EditorSuffix=""
+[A1PB]
+Name="Hitpoints Bonus (Vampire Control)"
+EditorSuffix=""
+[A1PW]
+Name="A+ R-"
+[A1PX]
+Name="I+ R-"
+[A1PY]
+Name="S+ R-"
+[A1QC]
+Name="+5000 Bonus Damage"
+EditorSuffix=""
+[A1QI]
+Name="-Armor mura"
+EditorSuffix=""
+[A1QJ]
+Name="+Armor mura"
+EditorSuffix=""
+[A1QK]
+Name="-Armor mura perm"
+EditorSuffix=""
+[A1QL]
+Name="-as mura"
+EditorSuffix=""
+[A1QM]
+Name="-BD mura"
+EditorSuffix=""
+[A1PO]
+Name="illuswmit"
+[A1Q7]
+Name="Heavy Armor bonus 2"
+EditorSuffix=""
+[A1Q8]
+Name="Heavy Armor bonus"
+EditorSuffix=""
+[A1QR]
+Name="Spell Damage Reduction swordman"
+[A1QU]
+Name="Spell DR curse of zuljin"
+[A1QV]
+Name="Curse of zuljin -armor"
+EditorSuffix=""
+[A1QW]
+Name="curse of zul'jin -damage"
+EditorSuffix=""
+[A1QZ]
+Name="LC healer damage buff"
+EditorSuffix=""
+[A1R0]
+Name="LC healer armor buff"
+EditorSuffix=(+10)
+[A1R1]
+Name="LC healer hp buff"
+EditorSuffix=(least)
+[A1R2]
+Name="LC healer mana buff"
+[A1R3]
+Name="LC healer Spell resis buff"
+[A1P3]
+Name="LC healer as buff"
+EditorSuffix=(Gloves of Haste)
+[A1R7]
+Name="Broken attack speed bonus"
+EditorSuffix=(Greater)
+[A1RA]
+Name="Broken +armor"
+EditorSuffix=""
+[A1RE]
+Name="Master of elements fire effect"
+EditorSuffix=""
+[A1RN]
+Name="Spell DR curse of zuljin 2"
+[A1RR]
+Name="DT1"
+EditorSuffix=""
+Researchhotkey="W"
+Researchtip="|cffffcc00Dante combat skill|r - [|cffffcc00Level %d|r]"
+Researchubertip="Hero abilities for normal form and demon form |n|n|cffffcc00Circle Blades:|r Deal damage to all enemies around you and increase your agility permanently. |n|cffffcc00Demonic Aura:|r Gives lifesteal % increases per level.|n|nalso increases your base agility by 5 per level."
+Tip="","s"
+Ubertip="","s"
+Hotkey=W
+[A1RS]
+EditorSuffix="(dante)"
+Tip="Demonic Aura - [|cffffcc00Level 1|r]","Demonic Aura - [|cffffcc00Level 2|r]","Demonic Aura - [|cffffcc00Level 3|r]","Demonic Aura - [|cffffcc00Level 4|r]","Demonic Aura - [|cffffcc00Level 5|r]","Demonic Aura - [|cffffcc00Level 6|r]","Demonic Aura - [|cffffcc00Level 7|r]","Demonic Aura - [|cffffcc00Level 8|r]","Demonic Aura - [|cffffcc00Level 9|r]"
+Ubertip="Gain 5% of your attack damage in hitpoints","Gain 11% of your attack damage in hitpoints","Gain 17% of your attack damage in hitpoints","Gain 22% of your attack damage in hitpoints","Gain 28% of your attack damage in hitpoints","Gain 32% of your attack damage in hitpoints","Gain 38% of your attack damage in hitpoints","Gain 42% of your attack damage in hitpoints","Gain 46% of your attack damage in hitpoints"
+Name="Demonic Aura"
+[A1RT]
+Name="DT2"
+EditorSuffix=""
+Researchhotkey="E"
+Researchtip="|cffffcc00Dante combat skill|r - [|cffffcc00Level %d|r]"
+Researchubertip="Hero abilities for normal form and demon form |n|n|cffffcc00Divine Aura:|r Increases nearby friendly units their life regeneration and movement speed. |n|cffffcc00Dark Enhancement:|r Gives a chance to crit upon attack and a chance to evade an attack.|n|nGives 4 base strength per level."
+Tip="","s"
+Ubertip="","s"
+Hotkey=E
+[A1RV]
+Name="Dark Blade"
+EditorSuffix=(least)
+[A1RX]
+Name="DT3"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Dante combat skill|r - [|cffffcc00Level %d|r]"
+Researchubertip="Hero abilities for normal form and demon form.|n|n|cffffcc00Decisive Strike:|r Deal damage an enemy and increase your agility for a short time based on your level. |n|cffffcc00Dark Blade:|r Deal damage based off your agility and increases your movement/attackspeed for a short amount of time. |n|nIncreases your Strength and Agility by 2 each level."
+Tip="","s"
+Ubertip="","s"
+Hotkey=Q
+[A1RU]
+Name="DT4"
+EditorSuffix=""
+Researchhotkey="R"
+Researchtip="|cffffcc00Dante combat skill|r - [|cffffcc00Level %d|r]"
+Researchubertip="Hero abilities for normal form and demon form.|n|n|cffffcc00Night elf Blood:|r 10% chance to heal an amount based off your agility upon being attacked |n|cffffcc00Dark Pact:|r Claim a piece of their soul and deal % damage based off their max hitpoints and stun them for 5 seconds. |n|nIncreases your intelligence by 4 each level."
+Tip="","s"
+Ubertip="","s"
+Hotkey=R
+[A1RP]
+Name="Demon form attack speed"
+EditorSuffix=""
+[A1QX]
+Name="Item Granite Golem Summon"
+[A1S2]
+Name="Item Reincarnation (100000 life)"
+[A1S7]
+Name="Armor Bonus +25"
+EditorSuffix="(beast master)"
+[A1S8]
+Name=Item Life Regeneration
+EditorSuffix="(beast master)"
+[A1S9]
+Name="Bonus Damage BeastMaster"
+EditorSuffix=""
+[A1SA]
+Name="Attack Speed BeastMaster"
+EditorSuffix="(Greater)"
+[A1SB]
+Name="+500 damage"
+[A1SD]
+Name="Death pact"
+EditorSuffix=""
+[A1SE]
+Name="Forge learn"
+EditorSuffix=""
+Researchhotkey="T"
+Researchtip="Learn Forge [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Forge an item of your choice."
+Tip="","s"
+Ubertip="","s"
+[A1SF]
+Name="Armor life 80000"
+EditorSuffix=""
+[A1SK]
+EditorSuffix=""
+Name="DSA2"
+Researchhotkey="B"
+Researchtip="Learn |cffffcc00B|rlind Spots - [|cffffcc00Level %d|r]"
+Researchubertip="See throught the enemys weakness, nearby enemys units has their armor reduced. AOE improve per level. |n|n|cffffcc00Level 1|r - Decrease armor by 2.|n|cffffcc00Level 2|r - Decrease armor by 4.|n|cffffcc00Level 3|r - Decrease armor by 6.|n|cffffcc00Level 4|r - Decrease armor by 8.|n|cffffcc00Level 5|r - Decrease armor by 10.|n|cffffcc00Level 6|r - Decrease armor by 14.|n|cffffcc00Level 7|r - Decrease armor by 20.|n|cffffcc00Level 8|r - Decrease armor by 30.|n|cffffcc00Level 9|r - Decrease armor by 45."
+Tip="Blind Spots - [|cffffcc00Level 1|r]"
+Ubertip="See throught the enemys weakness, nearby enemys units have their armor reduced by 2 in 250 AOE."
+[A1U2]
+Name="Rege HP800"
+[A1U4]
+Name="Tp God skill tome"
+Tip="Teleport [ |c00FFFC01X|r ]"
+Ubertip="Active: Teleport to a friendly unit.|nPassive: +150 to all stats.|n|n|cffc3dbffCooldown: 40 seconds.|r"
+Hotkey=X
+[A1UH]
+Name="Blood Rage check"
+EditorSuffix=""
+Researchhotkey="T"
+Researchtip="|cffffcc00Dante Ultimate|r - [|cffffcc00Level %d|r]"
+Researchubertip="Hero abilities for normal form and demon form |n|n|cffffcc00Divine Speed:|r Greately reduce the attack and move speed of everything in the world including allieds, except you. |n|cffffcc00Darkness Speed:|r Reduce the speed of enemies around you(less than Divine Speed) and increases your damage by a percentage."
+Tip="","s"
+Ubertip="","s"
+[A1UI]
+Name="BG4"
+EditorSuffix=""
+Researchhotkey="T"
+Researchtip="|cffffcc00Blood Grunt Growth|r - [|cffffcc00Level %d|r]"
+Researchubertip="Pick between hero abilities:|n|cffffcc00Stamina|r - Increases your maximum hitpoints by 360 on cast.|n|cffffcc00Blood Thirsty|r - Gain a portion of a killed unit's health, increase attack/movement speed and gain permanent hp upon kill"
+Tip="","s"
+Ubertip="","s"
+[A1UC]
+Name="Spell Damage Reduction 10"
+[A1UN]
+Name="Attack Speed -50%"
+EditorSuffix="(Greater)"
+[A1UO]
+Name="En +800 Bonus Damage"
+EditorSuffix=""
+[A1US]
+Name="-Armor orbtest"
+EditorSuffix=""
+[A1UT]
+Name="+222 Armor"
+EditorSuffix=""
+[A1UU]
+Name="900 damage claws"
+EditorSuffix=""
+[A1UV]
+Name="Armor life +1000"
+EditorSuffix=""
+[A1UW]
+Name="Bonus Damage +120"
+EditorSuffix=""
+[A1UX]
+Name="Armor bonys +80"
+EditorSuffix=""
+[A1UY]
+Name="Item Mana Bonus 4000"
+EditorSuffix="(Emily)"
+[A1V2]
+Name="DDS System"
+[A1V3]
+Name="DDS Sytem Life"
+EditorSuffix=(least)
+[A1V5]
+Name="Recipes"
+Tip="Recipes"
+Ubertip="Shows the list of Hidden Recipes"
+[A1VB]
+Name="Searing Arrows Pick archer"
+EditorSuffix=""
+Researchhotkey="Q"
+Researchtip="|cffffcc00Searing Arrow|r [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the damage by adding fire. Cooldown and cast range improved per level. |n|n|cffffcc00Level 1|r - <AHfa,DataA1> bonus damage. |n|cffffcc00Level 2|r - <AHfa,DataA2> bonus damage. |n|cffffcc00Level 3|r - <AHfa,DataA3> bonus damage. |n|cffffcc00Level 4|r - <AHfa,DataA4> bonus damage.|n|cffffcc00Level 5|r - <AHfa,DataA5> bonus damage.|n|cffffcc00Level 6|r - <AHfa,DataA6> bonus damage.|n|cffffcc00Level 7|r - <AHfa,DataA7> bonus damage.|n|cffffcc00Level 8|r - <AHfa,DataA8> bonus damage.|n|cffffcc00Level 9|r - <AHfa,DataA9> bonus damage.|n|n|cffff0000Orb effects do not stack|r."
+Tip="","s"
+Ubertip="","s"
+[A1VC]
+Name="SantaHat"
+EditorSuffix=""
+[A1VP]
+Name="Mission codes"
+Tip="Mission Codes"
+Ubertip="Shows the list of Mission Codes"
+[A1W1]
+Name="Armor Bonus -600"
+EditorSuffix=""
+[A1W2]
+Name="-5500 Bonus Damage"
+EditorSuffix=""
+[A1WH]
+Name="Armor Bonus -1000"
+EditorSuffix=""
+[A1WI]
+Name="+100 Bonus Damage"
+EditorSuffix="DC"
+[A1WN]
+EditorSuffix=""
+Name="Blessed Horn Aura"
+[B030]
+Bufftip=Spell Shield
+Buffubertip="A protective shield that blocks a spell."
+EditorName=SS Shield
+[B02G]
+Bufftip=Madness
+Buffubertip=This unit has increases his damage.
+EditorName=Madness powe
+[B08T]
+Bufftip=Curse of Zul'jin
+Buffubertip=This unit has been cursed by Zul'jin; its armor is temporarily reduced.

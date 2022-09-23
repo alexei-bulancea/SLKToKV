@@ -1,0 +1,1329 @@
+[Hblm]
+Name=Blood Mage
+Propernames=Eldin Sunstrider,Tanin Hawkwing,Lorn Bloodseeker,Aldos Firestar,Gilaras Drakeson,Hale Magefire,Kath'ranis Remar,Tyoril Sunchaser,Sylvos Windrunner,Tenris Mirkblood,Marakanis Starfury,Geldor Earthfire,Halendor Burnkin,Kelen the Destroyer'
+Hotkey=B
+Tip=Summon |cffffcc00B|rlood Mage
+Ubertip="Mystical Hero, adept at controlling magic and ranged assaults. Can learn Flame Strike, Banish, Siphon Mana and Phoenix. |n|n|cffffcc00Attacks land and air units.|r|n|nDifficult to use: [|CFF20C000Hard.|r"
+Revivetip=Revive |cffffcc00B|rlood Mage
+Awakentip=Revive |cffffcc00B|rlood Mage
+[halt]
+Name="Legendary Weapons Recipes"
+Hotkey=A
+Tip=Build |cffffcc00A|rltar of Kings
+Ubertip="Summons Heroes. Revives slain Heroes."
+[Hamg]
+Name="Dark Mage"
+Propernames=Andromath,Landazar,Fordred Aran
+Hotkey=D
+Tip="|cffffcc00Dark Mage"
+Ubertip="Mystical Hero, Specializes in black magic and lightning. Can learn Eclipse, Falling Light, Ultima, Lightning Shock and Light Removal.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="Revive "
+Awakentip=""
+[harm]
+Name=Workshop
+Hotkey=W
+Tip=Build |cffffcc00W|rorkshop
+Ubertip="Produces Siege Engines, Flying Machines, and Mortar Teams. |nAlso contains the Flare, Fragmentation Shards, Barrage, Flying Machine Bombs, and Flak Cannons upgrades."
+[hars]
+Name="Weapon Recipes"
+Hotkey=R
+Tip=Build A|cffffcc00r|rcane Sanctum
+Ubertip="Trains Priests, Sorceresses, and Spell Breakers. |nAlso contains spell upgrades for Priests and Sorceresses, Control Magic, and Magic Sentry."
+[hbar]
+Name=Barracks
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains Footmen, Riflemen and Knights. |nAlso contains the Defend, Long Rifles, and Animal War Training upgrades."
+[hbla]
+Name=Blacksmith
+Hotkey=S
+Tip=Build Black|cffffcc00s|rmith
+Ubertip="Contains upgrades for improved armor, weaponry and gunpowder."
+[hcas]
+Name=Castle
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Castle
+Ubertip="Upgrade to Castle to enable the production of additional types of structures and units."
+[hhou]
+Name="House"
+Hotkey=F
+Tip=Build |cffffcc00F|rarm
+Ubertip="Provides food, which increases the maximum number of units that can be trained."
+[hfoo]
+Name=Footman
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. "
+[hgra]
+Name="Mystic Recipes"
+Hotkey=G
+Tip=Build |cffffcc00G|rryphon Aviary
+Ubertip="Trains Gryphon Riders, and Dragonhawk Riders. |nAlso contains the Storm Hammers and Cloud upgrades."
+[hctw]
+Name=Cannon Tower
+Hotkey=C
+Tip=Upgrade to |cffffcc00C|rannon Tower
+Ubertip="A lot of more damage and less attack speed, more hit points, armor and have splash damage."
+[hgtw]
+Name=Guard Tower
+Hotkey=G
+Tip=Upgrade to |cffffcc00G|ruard Tower
+Ubertip="Primary defensive structure. "
+[hwtw]
+Name=Scout Tower
+Hotkey=T
+Tip=Build Scout |cffffcc00T|rower
+Ubertip="Basic observation tower. Has no attack, but can be upgraded into a Guard Tower, an Arcane Tower, or a Cannon Tower. Can learn the Magic Sentry ability."
+[hatw]
+Name=Arcane Tower
+Hotkey=N
+Tip=Upgrade to Arca|cffffcc00n|re Tower
+Ubertip="Magical defensive tower. Particularly effective against enemy Heroes and spellcasters. Has the Feedback ability, which causes its attacks to destroy mana, dealing extra damage equal to the mana destroyed. Can learn the Magic Sentry ability. |n|n|cffffcc00Attacks land and air units."
+[hvlt]
+Name="Armor Recipes"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[hgyr]
+Name=Flying Machine
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[hkee]
+Name=Keep
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Keep
+Ubertip="Upgrade to Keep to enable the production of additional types of structures and units."
+[hkni]
+Name=Knight
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+Ubertip="Powerful mounted warrior. Can learn Animal War Training and Bash. "
+[hlum]
+Name="Facility"
+Hotkey=L
+Tip="Build Facility"
+Ubertip="Have upgrades that improve worker attributes and abilities."
+[hmil]
+Name=Militia
+[Hmkg]
+Name=Mountain King
+Propernames=Muradin
+Hotkey=M
+Tip="|cffffcc00Mountain King"
+UberTip="Tank Hero, adept at stuns abilities, defense  and damage based in his total hit points. Can learn Storm Bolt, Avatar, Battle Attributes, Dwarf Stamina and Dwarf Stomp. |n|nDifficulty to use: |CFF20C000Hard.|r"," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00M|rountain King
+Awakentip=Revive |cffffcc00M|rountain King
+[hmpr]
+Name=Priest
+Hotkey=P
+Tip=Train |cffffcc00P|rriest
+Ubertip="Supporting spellcaster. "
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip=
+[hmtm]
+Name=Mortar Team
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[Hpal]
+Name=Paladin
+Propernames=Malak the Avenger
+Hotkey=P
+Tip="|cffffcc00Paladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|cffffcc00Paladin can change his ability Devotion Aura for Sacred Hammer if he change his attack type to Hero or Chaos|r|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+[hpea]
+Name=Peasant
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can build towers but cant Repair. "
+[hrif]
+Name=Rifleman
+Hotkey=R
+Tip=Train |cffffcc00R|rifleman
+Ubertip="Highly skilled sharpshooter."
+[hsor]
+Name=Sorceress
+Hotkey=S
+Tip=Train |cffffcc00S|rorceress
+Ubertip="Versatile spellcaster. Can initially cast Slow, which decreases movement and attack speed on enemy units. Can also learn Invisibility and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Slow","- Slow|n- Invisibility","- Slow|n- Invisibility|n- Polymorph"
+[hspt]
+Name=Spell Breaker
+Hotkey=B
+Tip=Train Spell |cffffcc00B|rreaker
+Ubertip="Elven warrior trained to destroy spellcasters. Initially has Spell Steal, which manipulates buffs to your advantage, Spell Immunity and Feedback. Can also learn Control Magic. |n|n|cffffcc00Attacks land units.|r"
+[hmtt]
+Name=Siege Engine
+Hotkey=E
+Tip=Train Siege |cffffcc00E|rngine
+Ubertip="Heavily powerful vehicle, effective at destroying buildings and units. Can be upgraded with the Barrage ability. |n|n|cffffcc00Attacks buildings.|r"
+[hrtt]
+Name=Siege Engine
+EditorSuffix= (Barrage)
+Hotkey=E
+Tip=Train Siege |cffffcc00E|rngine
+Ubertip="Heavily armored vehicle, effective at destroying buildings. Has the Barrage ability, which fires rockets at nearby enemy air units. |n|n|cffffcc00Attacks buildings.|r"
+[htow]
+Name=Town Hall
+Hotkey=H
+Tip=Build Town |cffffcc00H|rall
+Ubertip="Primary structure, used to train Peasants and receive gathered resources. Can be upgraded to Keep and then Castle to enable the production of additional types of structures and units."
+[hwat]
+Name=Water Elemental
+EditorSuffix= (Level 1)
+[hwt2]
+Name=Water Elemental
+EditorSuffix= (Level 2)
+[hwt3]
+Name=Water Elemental
+EditorSuffix= (Level 3)
+[hgry]
+Name=Gryphon Rider
+Hotkey=G
+Tip=Train |cffffcc00G|rryphon Rider
+Ubertip="Powerful flying creature, mounted by a Dwarven hammer-thrower. Can learn Animal War Training, and the Storm Hammers ability. |n|n|cffffcc00Attacks land and air units.|r"
+[hphx]
+Name=Phoenix
+[hpxe]
+Name=Phoenix Egg
+[h07K]
+Name=Peasant
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h07J]
+Name="Phoenix Fx"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h07I]
+Name="Phoenix Dummy"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h07F]
+Name="Dummi3"
+Hotkey=F
+Tip=""
+Ubertip=""
+[h07E]
+Name="FM ICe"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h07D]
+Name="FM EleC"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h07C]
+Name="Footman2"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. "
+[h07B]
+Name="Moarm"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h077]
+Name="Mortar Team NT"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h076]
+Name="FDum2"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h071]
+Name="FDum"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h070]
+Name="Royal Knight"
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+Ubertip="Powerful mounted warrior. Can learn Animal War Training and Bash. "
+EditorSuffix="K"
+[h06Z]
+Name="FS SSS"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h06Y]
+Name="LD UUS"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h06X]
+Name="BBF W DU"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h06R]
+Name="Psychic Sheep"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. "
+[h06Q]
+Name="Improved Scout Tower"
+Hotkey=T
+Tip="Improved Scout Tower"
+Ubertip="|c006969FFMana Cost: 300.|r|n|nAn improved tower that can evolve into 3 differents towers."
+[h06P]
+Name="Ranged Scout Tower 3"
+Hotkey=T
+Tip="Ranged Scout Tower"
+Ubertip="|c006969FFMana Cost: 1100.|r|n|nIncreases damage and range."
+[h06O]
+Name="Ranged Scout Tower 2"
+Hotkey=T
+Tip="Ranged Scout Tower"
+Ubertip="|c006969FFMana Cost: 600.|r|n|nIncreases damage and range."
+[h06N]
+Name="Ranged Scout Tower"
+Hotkey=T
+Tip="Ranged Scout Tower"
+Ubertip="|c006969FFMana Cost: 400.|r|n|nIncreases damage and range."
+[h06M]
+Name="Armored Scout Tower 3"
+Hotkey=T
+Tip="Armored Scout Tower"
+Ubertip="|c006969FFMana Cost: 1100.|r|n|nIncreases hit points, armor and a few regeneration."
+[h06L]
+Name="Armored Scout Tower 2"
+Hotkey=T
+Tip="Armored Scout Tower"
+Ubertip="|c006969FFMana Cost: 600.|r|n|nIncreases hit points, armor and a few regeneration."
+[h06K]
+Name="Offensive Scout Tower 3"
+Hotkey=T
+Tip="Offensive Scout Tower"
+Ubertip="|c006969FFMana Cost: 1100.|r|n|nIncreases damage and attack speed."
+[h06J]
+Name="Offensive Scout Tower 2"
+Hotkey=T
+Tip="Offensive Scout Tower"
+Ubertip="|c006969FFMana Cost: 600.|r|n|nIncreases damage and attack speed."
+[h06I]
+Name="Offensive Scout Tower"
+Hotkey=T
+Tip="Offensive Scout Tower"
+Ubertip="|c006969FFMana Cost: 400.|r|n|nIncreases damage and attack speed."
+[h06H]
+Name="Armored Scout Tower"
+Hotkey=T
+Tip="Armored Scout Tower"
+Ubertip="|c006969FFMana Cost: 400.|r|n|nIncreases hit points, armor and a few regeneration."
+[h06G]
+Name="AG UUS"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h05X]
+Name="Max Hit points"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h05W]
+Name="Mésantiga end Laika"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. "
+[h05V]
+Name="Michael"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. "
+[h05O]
+Name="Mortar Team WTH"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h05N]
+Name="Dummy Dummy"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h05K]
+Name="Anti-cheat_3"
+Hotkey=
+Tip=""
+Ubertip="A building used in the Anti-cheat system"
+EditorSuffix="(Building)"
+[h05J]
+Name="Anti-cheat_1"
+Hotkey=
+Tip=""
+Ubertip="A unit used in the Anti-cheat system"
+Casterupgradename=
+Casterupgradetip=
+EditorSuffix="(Unit)"
+[h05I]
+Name="Anti-cheat_2"
+Hotkey=
+Tip=""
+Ubertip="A unit used in the Anti-cheat system"
+EditorSuffix="(Builder)"
+[h05H]
+Name="Accessories Recipes"
+Hotkey=W
+Tip=Build |cffffcc00W|rorkshop
+Ubertip="Produces Siege Engines, Flying Machines, and Mortar Teams. |nAlso contains the Flare, Fragmentation Shards, Barrage, Flying Machine Bombs, and Flak Cannons upgrades."
+[h05G]
+Name="Legendary Mystic Recipes"
+Hotkey=A
+Tip=Build |cffffcc00A|rltar of Kings
+Ubertip="Summons Heroes. Revives slain Heroes."
+[h04N]
+Name="Royal Knight"
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+Ubertip="Powerful mounted warrior. Can learn Animal War Training and Bash. "
+[h048]
+Name="Mortar Team pOISON 2"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h03V]
+Name="Mortar Team pOISON"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h03U]
+Name="ZbSorce2"
+Hotkey=S
+Tip=Train |cffffcc00S|rorceress
+Ubertip="Versatile spellcaster. Can initially cast Slow, which decreases movement and attack speed on enemy units. Can also learn Invisibility and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Slow","- Slow|n- Invisibility","- Slow|n- Invisibility|n- Polymorph"
+[h03T]
+Name="ZbSorce1"
+Hotkey=S
+Tip=Train |cffffcc00S|rorceress
+Ubertip="Versatile spellcaster. Can initially cast Slow, which decreases movement and attack speed on enemy units. Can also learn Invisibility and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Slow","- Slow|n- Invisibility","- Slow|n- Invisibility|n- Polymorph"
+[h03A]
+Name="F W DU"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h035]
+Name="Town Hall "
+Hotkey=F
+Tip=Build |cffffcc00F|rarm
+Ubertip="Provides food, which increases the maximum number of units that can be trained."
+EditorSuffix="(True)"
+[h034]
+Name="Dimensional Portal"
+Hotkey=S
+Tip="Dimensional Portal"
+Ubertip="A Portal that can bring the strongers warriors of the others dimensions."
+[h033]
+Name="Book of Move Speed Level 3"
+Hotkey=
+Tip="Upgrade to Book of Move Speed Level 3"
+Ubertip="Stronger Aura of Move Speed. "
+[h032]
+Name="Book of Move Speed Level 2"
+Hotkey=
+Tip="Upgrade to Book of Move Speed Level 2"
+Ubertip="Stronger Aura of Move Speed. "
+[h031]
+Name="Book of Attack Speed Level 3"
+Hotkey=
+Tip="Upgrade to Book of Attack Speed Level 3"
+Ubertip="Stronger Aura of Attack Speed. "
+[h030]
+Name="Book of Attack Speed Level 2"
+Hotkey=
+Tip="Upgrade to Book of Attack Speed Level 2"
+Ubertip="Stronger Aura of Attack Speed. "
+[h02Z]
+Name="Book of Armor Level 3"
+Hotkey=
+Tip="Upgrade to Book of Armor Level 3"
+Ubertip="Stronger Aura of Armor. "
+[h02Y]
+Name="Book of Armor Level 2"
+Hotkey=
+Tip="Upgrade to Book of Armor Level 2"
+Ubertip="Stronger Aura of Armor. "
+[h02X]
+Name="Book of Damage Level 3"
+Hotkey=
+Tip="Upgrade to Book of Damage Level 3"
+Ubertip="Stronger Aura of Damage. "
+[h02W]
+Name="Book of Damage Level 2"
+Hotkey=
+Tip="Upgrade to Book of Damage Level 2"
+Ubertip="Stronger Aura of Damage. "
+[h02V]
+Name="Book of Move Speed"
+Hotkey=
+Tip="Upgrade to Book of Move Speed"
+Ubertip="Aura of Move Speed. "
+[h02U]
+Name="Book of Attack Speed"
+Hotkey=
+Tip="Upgrade to Book of Attack Speed"
+Ubertip="Aura of Attack Speed. "
+[h02T]
+Name="Book of Armor"
+Hotkey=
+Tip="Upgrade to Book of Armor"
+Ubertip="Aura of Armor. "
+[h02S]
+Name="Book of Damage"
+Hotkey=
+Tip="Upgrade to Book of Damage"
+Ubertip="Aura of Damage. "
+[h02R]
+Name="Book of War"
+Hotkey=K
+Tip="Build Boo|cffffcc00K|r of War"
+Ubertip="Contains auras with infinite area of effect that affect all allies units. "
+EditorSuffix="(True)"
+[h02Q]
+Name="Obelisk"
+Hotkey=S
+Tip="Build |cffffcc00O|rbelisk"
+Ubertip="A mistical and powerfull building that can cast spells with infinite range.This Building only can be build one time."
+[h02P]
+Name="University"
+Hotkey=U
+Tip="Build |cffffcc00U|rniversity"
+Ubertip="Contains upgrades for Workshop and Obelisk."
+[h02O]
+Name=Flying Machine
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Have great damage but low resistance."
+[h02N]
+Name="WorkShop"
+Hotkey=W
+Tip="Build |cffffcc00W|rorkshop"
+Ubertip="Can train high range units with siege attack tipe that are good at destroying building."
+EditorSuffix="S"
+[h02M]
+Name="BlackSmith"
+Hotkey=S
+Tip="Build Black|cffffcc00s|rmith"
+Ubertip="Contains upgrades for armor, weapons and hit points of your troops. "
+EditorSuffix="(True)"
+[h02L]
+Name="Range Barracks"
+Hotkey=R
+Tip="Build |cffffcc00R|range Barracks"
+Ubertip="Range troop production building. |nAlso contains upgrades to this units."
+[h02K]
+Name="Pure Gold"
+Hotkey=B
+Tip="Upgrade to Pure Gold"
+Ubertip="Increases your gold in 80 per second."
+[h02J]
+Name="Rich Gold Mine"
+Hotkey=B
+Tip="Upgrade to Rich Gold Mine"
+Ubertip="Increases your gold in 50 per second."
+[h02I]
+Name="Gold Mine"
+Hotkey=B
+Tip="Upgrade to Gold Mine"
+Ubertip="Increases your gold in 30 per second."
+[h02H]
+Name="Bank"
+Hotkey=B
+Tip="Upgrade to Bank"
+Ubertip="Increases your gold in 20 per second."
+[h02G]
+Name="Currency Exchange"
+Hotkey=B
+Tip="Upgrade to Currency Exchange"
+Ubertip="Increases your gold in 10 per second."
+[h02F]
+Name="Gold Box"
+Hotkey=B
+Tip="Upgrade to Gold Box"
+Ubertip="Increases your gold in 5 per second."
+[h02E]
+Name="Money Box"
+Hotkey=B
+Tip="Upgrade to Money Box"
+Ubertip="Increases your gold in 2 per second."
+[h02D]
+Name="Treasure Box"
+Hotkey=T
+Tip="Build |cffffcc00T|rreasure Box"
+Ubertip="Increases your gold in 1 per second. This Building only can be build one time."
+[h02C]
+Name="Melee Barracks"
+Hotkey=B
+Tip="Build Melee |cffffcc00B|rarracks"
+Ubertip="Primary troop production building. Trains Melee Units. |nAlso contains upgrades to this units."
+[h02B]
+Name="Barracks W"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains Footmen, Riflemen and Knights. |nAlso contains the Defend, Long Rifles, and Animal War Training upgrades."
+[h02A]
+Name="Elder Linden of Speed"
+Hotkey=
+Tip="Upgrade to Elder Linden of Speed"
+Ubertip="Have an aura of attack speed that affect allieds building."
+[h029]
+Name="Elder Linden of Damage"
+Hotkey=
+Tip="Upgrade to Elder Linden of Damage"
+Ubertip="Have an aura of Damage that affect allieds building."
+[h028]
+Name="Elder Lycium"
+Hotkey=G
+Tip="Upgrade to Elder Lycium "
+Ubertip="Have a single target attack and shot thorns to nearby enemys."
+[h027]
+Name="Elder Falsecypress"
+Hotkey=G
+Tip="Upgrade to Elder Falsecypress"
+Ubertip="Can attack 3 enemys at once, have more damage and hit points."
+[h026]
+Name="Elder MultiLeaf Tower"
+Hotkey=G
+Tip="Upgrade to Elder MultiLeaf Tower"
+Ubertip="Can attack 8 enemys at once and have more range."
+[h025]
+Name="Falsecypress"
+Hotkey=G
+Tip="Upgrade to FalseCypress"
+Ubertip="Can attack 3 enemys at once, have more damage and hit points."
+[h024]
+Name="MultiLeaf Tower"
+Hotkey=G
+Tip="Upgrade to MultiLeaf Tower"
+Ubertip="Can attack 5 enemys at once and have more range."
+[h023]
+Name="Elder Linden of Armor"
+Hotkey=
+Tip="Upgrade to Elder Linden of Armor"
+Ubertip="Have an aura of armor that affect allieds building , aura tipe can be changed."
+[h022]
+Name="Ancient Elm"
+Hotkey=G
+Tip="Upgrade to Ancient Elm"
+Ubertip="Have an aura of life regeneration that affect nearby allieds building."
+[h021]
+Name="Elder Elm"
+Hotkey=G
+Tip="Upgrade to Elder Elm"
+Ubertip="Have an aura of life regeneration that affect nearby allieds building."
+[h020]
+Name="Adult Elm"
+Hotkey=G
+Tip="Upgrade to Adult Elm"
+Ubertip="Have an aura of life regeneration that affect nearby allieds building."
+[h01Z]
+Name="Ancient Cypress "
+Hotkey=G
+Tip="Upgrade to Ancient Cypress "
+Ubertip="Tower with the highest hit points regeneration of the game."
+[h01Y]
+Name="Elder Cypress "
+Hotkey=G
+Tip="Upgrade to Adult Oak Tower"
+Ubertip="Have more life regeneration than the others tower."
+[h01X]
+Name="MultiLeaf Cypress Tower"
+Hotkey=G
+Tip="MultiLeaf Cypress Tower"
+Ubertip="Can attack several enemys at once."
+[h01W]
+Name="Adult Cypress Tower"
+Hotkey=G
+Tip="Upgrade to Adult Cypress Tower"
+Ubertip="Have more life regeneration than the others tower."
+[h01V]
+Name="Cypress Tower"
+Hotkey=G
+Tip="Upgrade to Cypress Tower"
+Ubertip="Have more life regeneration than the others tower."
+[h01U]
+Name="Cypress Tree Tower"
+Hotkey=
+Tip="Upgrade to Cypress Tree Tower"
+Ubertip="All Plants Tower have a lot of life regeneration and the powers of nature."
+[h01T]
+Name="High Range Soldier "
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="L3"
+[h01S]
+Name="High Range Soldier "
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="L2"
+[h01R]
+Name="Soldier L3"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h01Q]
+Name="High Range Soldier "
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h01P]
+Name="Soldier L2"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h01O]
+Name="Militia"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="L3"
+[h01N]
+Name="Militia"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="L2"
+[h01M]
+Name="Militia"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h01L]
+Name="Soldier"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h01K]
+Name=Barracks
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains Footmen, Riflemen and Knights. |nAlso contains the Defend, Long Rifles, and Animal War Training upgrades."
+[h01H]
+Name="Legendary Defense Recipes"
+Hotkey=A
+Tip=Build |cffffcc00A|rltar of Kings
+Ubertip="Summons Heroes. Revives slain Heroes."
+[h011]
+Name=Water Elemental
+EditorSuffix=" (Level 9)"
+[h010]
+Name=Water Elemental
+EditorSuffix=" (Level 8)"
+[h00Z]
+Name=Water Elemental
+EditorSuffix=" (Level 7)"
+[h00Y]
+Name=Water Elemental
+EditorSuffix=" (Level 6)"
+[h00X]
+Name=Water Elemental
+EditorSuffix=" (Level 5)"
+[h00W]
+Name=Water Elemental
+EditorSuffix=" (Level 4)"
+[h00T]
+Name="Guillermo Tell"
+Hotkey=
+Tip="Upgrade to Guillermo Tell"
+Ubertip="The unit with the longest range in the game."
+[h00Q]
+Name="Sniper"
+Hotkey=
+Tip="Upgrade to Sniper"
+Ubertip="Have more damage but less attack speed, more armor, more range, more hit points and have hit points regeneration."
+[h00P]
+Name="Very Long Range Tower"
+Hotkey=
+Tip="Upgrade to Very Long Range Tower"
+Ubertip="Have more damage but less attack speed, more armor, more range, more hit points and have hit points regeneration."
+[h00O]
+Name="The Pillar of the Empire"
+Hotkey=
+Tip="Upgrade to The Pillar of the Empire"
+Ubertip="Have more damage, a lot of more armor, hit points and hit points regeneration."
+[h00N]
+Name="SubMachine Gun"
+Hotkey=
+Tip="Upgrade to SubMachine Gun"
+Ubertip="Have more damage, a lot of more attack speed, more armor, more hit points, have hit points regeneration and a Greater HeadShot."
+[h00M]
+Name="Chaos War Tower"
+Hotkey=
+Tip="Upgrade to Chaos War Tower"
+Ubertip="Have more damage, a lot of more attack speed, more armor, more hit points, have hit points regeneration and HeadShot."
+[h00L]
+Name="Fortified War Tower"
+Hotkey=
+Tip="Upgrade to Fortified War Tower"
+Ubertip="Have more damage, a lot of more armor, hit points and hit points regeneration."
+[h00K]
+Name="Improved Range Tower"
+Hotkey=
+Tip="Upgrade to Improved Range Tower"
+Ubertip="Have more damage but less attack speed, more armor, more range, more hit points and have hit points regeneration."
+[h00J]
+Name="Improved War Tower"
+Hotkey=
+Tip="Upgrade to Improved War Tower"
+Ubertip="Have more damage, more attack speed, more armor, more hit points and have hit points regeneration."
+[h00I]
+Name="War Tower"
+Hotkey=
+Tip="Upgrade to War Tower"
+Ubertip="Have more damage, more attack speed, more armor, more hit points and have hit points regeneration."
+[h00H]
+Name="Range Tower"
+Hotkey=
+Tip="Upgrade to Range Tower"
+Ubertip="Have more damage but less attack speed, more armor, more range, more hit points and have hit points regeneration."
+[h00G]
+Name="Pierce Tower"
+Hotkey=
+Tip="Upgrade to Pierce Tower"
+Ubertip="Have more damage, more armor, more range and more hit points."
+[h00F]
+Name="Improved Guard Tower"
+Hotkey=G
+Tip="Upgrade to Improved Guard Tower"
+Ubertip="Have more damage, more armor, more range and more hit points."
+[h000]
+Name="BlackSmith"
+Hotkey=S
+Tip=Build Black|cffffcc00s|rmith
+Ubertip="Contains upgrades for improved armor, weapons and gunpowder."
+[H079]
+Name="Arcane Wizard"
+Propernames=Drek-Thar
+Hotkey=A
+Tip="|cffffcc00A|rrcane Wizard"
+Ubertip="Mystical Hero, exceptional at dealing huge amount of damage during long battles and abilities to survive strong enemies for a long time . Can learn Arcane Blast, Magical Chains, Fulguration, Curse of The Dark Star and Reaper.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00A|rrcane Wizard"
+Awakentip="|cffffcc00A|rrcane Wizard"
+EditorSuffix="Hero"
+[H078]
+Name="Arcane Wizard"
+Propernames=Drek-Thar
+Hotkey=A
+Tip="|cffffcc00A|rrcane Wizard"
+Ubertip="Mystical Hero, exceptional at dealing huge amount of damage during long battles and abilities to survive strong enemies for a long time . Can learn Arcane Blast, Magical Chains, Fulguration, Curse of The Dark Star and Reaper.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00A|rrcane Wizard"
+Awakentip="|cffffcc00A|rrcane Wizard"
+EditorSuffix="Chaos"
+[H075]
+Name="Warrior"
+Propernames=Defender
+Hotkey=D
+Tip="|cffffcc00D|refender"
+UberTip="Warrior Hero, a versatile hero that can take several differents roles depending what abilities and items you chose, specialize in armor can give armor to allieds increases his own base armor and some abilities effect are based in his based armor, armor coming from hero abilities and agility. Have 15 abilities to chose. |n|nDifficulty to use: |CFF20C000Hard.|r"," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="s"
+Awakentip=Revive |cffffcc00M|rountain King
+EditorSuffix="Dragon"
+[H074]
+Name="Warrior"
+Propernames=Defender
+Hotkey=D
+Tip="|cffffcc00D|refender"
+UberTip="Warrior Hero, a versatile hero that can take several differents roles depending what abilities and items you chose, specialize in armor can give armor to allieds increases his own base armor and some abilities effect are based in his based armor, armor coming from hero abilities and agility. Have 15 abilities to chose. |n|nDifficulty to use: |CFF20C000Hard.|r"," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="s"
+Awakentip=Revive |cffffcc00M|rountain King
+EditorSuffix="Chaos"
+[H073]
+Name="Warrior"
+Propernames=Defender
+Hotkey=D
+Tip="|cffffcc00D|refender"
+UberTip="Warrior Hero, a versatile hero that can take several differents roles depending what abilities and items you chose, specialize in armor can give armor to allieds increases his own base armor and some abilities effect are based in his based armor, armor coming from hero abilities and agility. Have 15 abilities to chose. |n|nDifficulty to use: |CFF20C000Hard.|r"," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="s"
+Awakentip=Revive |cffffcc00M|rountain King
+EditorSuffix="Hero"
+[H072]
+Name="Warrior"
+Propernames=Defender
+Hotkey=D
+Tip="|cffffcc00Defender"
+UberTip="Warrior Hero, a versatile hero that can take several differents roles depending what abilities and items you chose, specialize in armor can give armor to allieds increases his own base armor and some abilities effect are based in his based armor, armor coming from hero abilities and agility. Have 15 abilities to chose. |n|nDifficulty to use: |CFF20C000Hard.|r"," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip="s"
+Awakentip=Revive |cffffcc00M|rountain King
+[H069]
+Name="Arcane Wizard"
+Propernames=Drek-Thar
+Hotkey=A
+Tip="Summon |cffffcc00D|rark Mage"
+Ubertip="Mystical Hero, Specializes in black magic, can control the lightning and water at all temperatures. Can learn Electric Field, Ice Road, Water Elemental, Disarm and Soul Annihilation.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Revivetip="Revive "
+Awakentip=""
+EditorSuffix="Dragon"
+[H068]
+Name="Unholy Knight"
+Propernames=Xephyr
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Dragon"
+[H067]
+Name="Unholy Knight"
+Propernames=Xephyr
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Chaos"
+[H066]
+Name="Unholy Knight"
+Propernames=Xephyr
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Hero"
+[H065]
+Name="Hellscream"
+Propernames=Grom
+Hotkey=G
+Tip="|cffffcc00Grom Hellscream"
+Ubertip="Tank Hero, exceptional at killing enemies while taking damage. Can learn Blade Storm, Hallo Strike, Overgrow, Counter Attack and Throwing Axe.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Revivetip="|cffffcc00G|rrom Hellscream"
+Awakentip="|cffffcc00G|rrom Hellscream"
+[H064]
+Name="Hellscream"
+Propernames=Grom
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Chaos"
+[H063]
+Name="Hellscream"
+Propernames=Grom
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Hero"
+[H061]
+Name="Arcane Wizard"
+Propernames=Drek-Thar
+Hotkey=A
+Tip="|cffffcc00Arcane Wizard"
+Ubertip="Mystical Hero, exceptional at dealing huge amount of damage during long battles and abilities to survive strong enemies for a long time . Can learn Arcane Blast, Magical Chains, Fulguration, Curse of The Dark Star and Reaper.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00A|rrcane Wizard"
+Awakentip="|cffffcc00A|rrcane Wizard"
+[H05Z]
+Name="Hellscream"
+Propernames=Grom
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Dragon"
+[H05Y]
+Name="Unholy Knight"
+Propernames=Xephyr
+Hotkey=U
+Tip="|cffffcc00Unholy Knight"
+Ubertip="Warrior Hero, exceptional at getting souls and dealing high damage based on the amount of souls. Can learn Impious Strike, Sinester Pack, Tranquility, Unholy Ritual and Souls Liberation .|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+Revivetip="|cffffcc00U|rnholy Knight"
+Awakentip="|cffffcc00U|rnholy Knight"
+[H05U]
+Name="Wraith"
+Propernames=Eevul
+Hotkey=L
+Tip="|cffffcc00W|rraith"
+Ubertip="Mystic Hero, exceptional at killing groups of enemies, dealing big amounts of damage over time and absorbing damage. Can learn Meteor Rain, Soul Migration, Haunted Curse, Blood Curse and Life Drain .|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00W|rraith"
+Awakentip="|cffffcc00W|rraith"
+EditorSuffix="Chaos"
+[H05T]
+Name="Wraith"
+Propernames=Eevul
+Hotkey=L
+Tip="|cffffcc00W|rraith"
+Ubertip="Mystic Hero, exceptional at killing groups of enemies, dealing big amounts of damage over time and absorbing damage. Can learn Meteor Rain, Soul Migration, Haunted Curse, Blood Curse and Life Drain .|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00W|rraith"
+Awakentip="|cffffcc00W|rraith"
+EditorSuffix="Hero"
+[H05S]
+Name="Wraith"
+Propernames=Eevul
+Hotkey=L
+Tip="|cffffcc00W|rraith"
+Ubertip="Mystic Hero, exceptional at killing groups of enemies, dealing big amounts of damage over time and absorbing damage. Can learn Meteor Rain, Soul Migration, Haunted Curse, Blood Curse and Life Drain .|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00W|rraith"
+Awakentip="|cffffcc00W|rraith"
+EditorSuffix="Dragon"
+[H05R]
+Name="BlackSmith"
+Propernames=Silver
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Versatile Hero that can adopt any role and can create over 160 differents items. Can learn Weapons Storm, Throwing Weapons, Smithing, Merge and Forge.|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Dragon"
+[H05Q]
+Name="BlackSmith"
+Propernames=Silver
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Versatile Hero that can adopt any role and can create over 160 differents items. Can learn Weapons Storm, Throwing Weapons, Smithing, Merge and Forge.|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Chaos"
+[H05P]
+Name="BlackSmith"
+Propernames=Silver
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Versatile Hero that can adopt any role and can create over 160 differents items. Can learn Weapons Storm, Throwing Weapons, Smithing, Merge and Forge.|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Hero"
+[H05M]
+Name="Wraith"
+Propernames=Eevul
+Hotkey=W
+Tip="|cffffcc00Wraith"
+Ubertip="Mystic Hero, exceptional at killing groups of enemies, dealing big amounts of damage over time and absorbing damage. Can learn Meteor Rain, Haunted Curse, Blood Curse and Life Drain .|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00W|rraith"
+Awakentip="|cffffcc00W|rraith"
+[H05L]
+Name="BlackSmith"
+Propernames=Silver
+Hotkey=B
+Tip="|cffffcc00BlackSmith"
+Ubertip="Versatile Hero that can adopt any role and create over 160 differents items. Can learn Weapons Storm, Throwing Weapons, Smithing, Merge and Forge.|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+Revivetip="|cffffcc00B|rlackSmith"
+Awakentip="|cffffcc00B|rlackSmith"
+[H05F]
+Name="Wendigo"
+Propernames=Witiko The Devourer
+Hotkey=W
+Tip="|cffffcc00W|rendigo"
+Ubertip="Tank Hero, exceptional at defense and Freezing enemies troops. Can learn Avalanche, Frozen Seal, Frost Aura, Glacial Toughness and Ice Field. |n|nDifficult to use: |CFFFFFF01Normal.|r"
+Revivetip="|cffffcc00W|rendigo"
+Awakentip="|cffffcc00W|rendigo"
+EditorSuffix="Dragon"
+[H05E]
+Name="Wendigo"
+Propernames=Witiko The Devourer
+Hotkey=W
+Tip="|cffffcc00W|rendigo"
+Ubertip="Tank Hero, exceptional at defense and Freezing enemies troops. Can learn Avalanche, Frozen Seal, Frost Aura, Glacial Toughness and Ice Field. |n|nDifficult to use: |CFFFFFF01Normal.|r"
+Revivetip="|cffffcc00W|rendigo"
+Awakentip="|cffffcc00W|rendigo"
+EditorSuffix="Chaos"
+[H05D]
+Name="Wendigo"
+Propernames=Witiko The Devourer
+Hotkey=W
+Tip="|cffffcc00Wendigo|r"
+Ubertip="Tank Hero, exceptional at defense and freezing enemy troops. Can learn Avalanche, Frozen Seal, Frost Aura, Glacial Toughness and Ice Field. |cffff0000If Wendigo picks up a Frost Sword, Glacial Sword or Demonic Sword, he will die.|r  |n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Revivetip="|cffffcc00W|rendigo"
+Awakentip="|cffffcc00Wendigo"
+[H05C]
+Name="Wendigo"
+Propernames=Witiko The Devourer
+Hotkey=W
+Tip="|cffffcc00W|rendigo"
+Ubertip="Tank Hero, exceptional at defense and Freezing enemies troops. Can learn Avalanche, Frozen Seal, Frost Aura, Glacial Toughness and Ice Field. |n|nDifficult to use: |CFFFFFF01Normal.|r"
+Revivetip="|cffffcc00W|rendigo"
+Awakentip="|cffffcc00W|rendigo"
+EditorSuffix="Hero"
+[H03E]
+Name=Mountain King
+Propernames=Muradin
+Hotkey=M
+Tip=Summon |cffffcc00M|rountain King
+UberTip="Warrior Hero, adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Avatar, Battle Attributes, Dwarf Stamina and Dwarf Stomp. "," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00M|rountain King
+Awakentip=Revive |cffffcc00M|rountain King
+EditorSuffix="Dragon"
+[H03D]
+Name=Mountain King
+Propernames=Muradin
+Hotkey=M
+Tip=Summon |cffffcc00M|rountain King
+UberTip="Warrior Hero, adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Avatar, Battle Attributes, Dwarf Stamina and Dwarf Stomp. "," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00M|rountain King
+Awakentip=Revive |cffffcc00M|rountain King
+EditorSuffix="Chaos"
+[H03C]
+Name=Mountain King
+Propernames=Muradin
+Hotkey=M
+Tip=Summon |cffffcc00M|rountain King
+UberTip="Warrior Hero, adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt, Avatar, Battle Attributes, Dwarf Stamina and Dwarf Stomp. "," adept at offensive combat and disrupting enemy troops. Can learn Storm Bolt"," Thunder Clap"," Bash and Avatar. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00M|rountain King
+Awakentip=Revive |cffffcc00M|rountain King
+EditorSuffix="Hero"
+[H017]
+Name="Dark Mage"
+Propernames=Andromath,Landazar,Fordred Aran
+Hotkey=A
+Tip="Summon |cffffcc00D|rark Mage"
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Summon Water Elemental, Brilliance Aura and Mass Teleport. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip="Revive "
+Awakentip=""
+EditorSuffix="Dragon"
+[H016]
+Name=Paladin
+Propernames=Malak the Avenger
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power."
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Dragon"
+[H015]
+Name="Dark Mage"
+Propernames=Andromath,Landazar,Fordred Aran
+Hotkey=A
+Tip="Summon |cffffcc00D|rark Mage"
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Summon Water Elemental, Brilliance Aura and Mass Teleport. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip="Revive "
+Awakentip=""
+EditorSuffix="Chaos"
+[H014]
+Name="Dark Mage"
+Propernames=Andromath,Landazar,Fordred Aran
+Hotkey=A
+Tip="Summon |cffffcc00D|rark Mage"
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Summon Water Elemental, Brilliance Aura and Mass Teleport. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip="Revive "
+Awakentip=""
+EditorSuffix="Hero"
+[H004]
+Name=Paladin
+Propernames=Malak the Avenger
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power."
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Chaos"
+[H003]
+Name=Paladin
+Propernames=Malak the Avenger
+Hotkey=L
+Tip="|cffffcc00P|raladin"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power."
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+EditorSuffix="Hero"
+[h07N]
+Name="Tank Skills"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[h07O]
+Name="Neutral Skills"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+EditorSuffix="2nd"
+[h07P]
+Name="Skills Menu"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[h07Q]
+Name="Neutral Skills"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[h07R]
+Name="Mage Skills"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[h07S]
+Name="Peas"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can build towers but cant Repair. "
+[h07T]
+Name="Time Wizard (Move)"
+Hotkey=F
+Tip=""
+Ubertip=""
+[h07W]
+Name="Dummy"
+Hotkey=F
+Tip=""
+Ubertip=""
+[h07X]
+Name="Infinite Slashes Dummy"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h07U]
+Name="Dummy Projectile"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h07V]
+Name="Bolt"
+Hotkey=
+Tip=""
+Ubertip=""
+[h07Y]
+Name="Dummy Caster"
+Hotkey=
+Tip=""
+Ubertip=""
+[h07Z]
+Name="Sphere"
+Hotkey=
+Tip=""
+Ubertip=""
+[h081]
+Name="Orb of Water Dummy"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h082]
+Name="Dummy"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+EditorSuffix="(standard)"
+[h083]
+Name="Dummy"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+EditorSuffix="(whirlpool tornado)"
+[h084]
+Name="Dummy"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+EditorSuffix="(whirlpool)"
+[h085]
+Name="Dummy Arrow"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[H086]
+Name="Water Elemental"
+Propernames=Oceanus
+Hotkey=D
+Tip="|cffffcc00Water Elemental"
+Ubertip="Mystical Hero, Can control water in any temprature. Can learn Chain Splash, Orb of Water, Water Blast, Termal Eruption and Hurricane.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="Revive "
+Awakentip=""
+[h080]
+Name="Dummy Splash"
+Hotkey=P
+Tip=Train |cffffcc00P|reasant
+Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+[h087]
+Name="Bounty Hunter"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[h08B]
+Name=Knight
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+Ubertip="Powerful mounted warrior. Can learn Animal War Training and Bash. "
+EditorSuffix="d"
+[h08C]
+Name="Water Elemental"
+Hotkey=F
+Tip=Train |cffffcc00F|rootman
+Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+[h08D]
+Name="Royal Knight S"
+Hotkey=K
+Tip=Train |cffffcc00K|rnight
+Ubertip="Powerful mounted warrior. Can learn Animal War Training and Bash. "
+[h08I]
+Name="Dummy Dummy (alduin)"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h08J]
+Name="Dummy Spirit shield"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h08K]
+Name="Training Master"
+Hotkey=V
+Tip=Build Arcane |cffffcc00V|rault
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+[h08N]
+Name="Dummy Archer Dummy"
+Hotkey=M
+Tip=Train |cffffcc00M|rortar Team
+Ubertip="Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+[h08O]
+Name="LC vamplord dummy"
+Hotkey=F
+Tip=Train |cffffcc00F|rlying Machine
+Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+[h08Q]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Upgrades for your Titan's in Exchange of your tokens.|nYou can switch between the upgrades for each titan."
+EditorSuffix="(True)"
+[h08R]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Upgrades for your Titan Warchief in Exchange of your tokens."
+EditorSuffix="(True)"
+[h08S]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Upgrades for your Glacial Titan in Exchange of your tokens."
+EditorSuffix="(True)"
+[h08T]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Upgrades for your Nature Titan in Exchange of your tokens."
+EditorSuffix="(True)"
+[h08U]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Ability Upgrades for your Titan Warchief in Exchange of your tokens."
+EditorSuffix="(True)"
+[h08V]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Ability Upgrades for your Glacial Titan in Exchange of your tokens."
+EditorSuffix="(True)"
+[h08W]
+Name="Sacrificial Center"
+Hotkey=
+Tip="Build Sacrificial Center"
+Ubertip="Contains Upgrades for your Nature Titan in Exchange of your tokens."
+EditorSuffix="(True)"
