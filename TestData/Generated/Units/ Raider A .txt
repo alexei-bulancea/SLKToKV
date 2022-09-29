@@ -1,0 +1,8 @@
+UnitId : o01A
+Descriprion : 
+	Id : o01A
+	Name : "Raider A"
+	Ubertip : "Highly mobile wolf rider. Effective against buildings. Can learn the Ensnare ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

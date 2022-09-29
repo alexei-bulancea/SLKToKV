@@ -1,0 +1,22 @@
+UnitId : h08C
+Descriprion : 
+	Id : h08C
+	Name : "Water Elemental"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Aihn
+Descriprion : 
+	Id : Aihn
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : nadr
+Descriprion : 
+	Id : nadr
+	Name : "Sapphiron The Blue Dragon"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+AbilityId : ANss
+Descriprion : 
+	Id : ANss
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A04N
+Descriprion : 
+	Id : A04N
+	Name : "Ice Age"
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+AbilityId : A05W
+Descriprion : 
+	Id : A05W
+	Name : "G.S.Frozen Dragon"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A092
+Descriprion : 
+	Id : A092
+	Name : "Attack Speed +140%"
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

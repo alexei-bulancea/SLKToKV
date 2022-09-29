@@ -1,0 +1,22 @@
+UnitId : h028
+Descriprion : 
+	Id : h028
+	Name : "Elder Lycium"
+	Ubertip : "Have a single target attack and shot thorns to nearby enemys."
+
+Ability List:
+AbilityId : A0KG
+Descriprion : 
+	Id : A0KG
+	Name : "Spines"
+	Ubertip : "Shot thorns with a high speed to nearby enemys units that deal 140 damage."
+
+
+AbilityId : A0JU
+Descriprion : 
+	Id : A0JU
+	Name : "Thorns LT"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+Hero ability list:

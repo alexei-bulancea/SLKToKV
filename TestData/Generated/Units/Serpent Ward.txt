@@ -1,0 +1,29 @@
+UnitId : o006
+Descriprion : 
+	Id : o006
+	Name : Serpent Ward
+	Ubertip : 
+
+Ability List:
+AbilityId : A1MT
+Descriprion : 
+	Id : A1MT
+	Name : "Critical Strike (Ward)"
+	Ubertip : "Gives 20% chance to deal 6 times damage. Crit can never miss. Also gives 33% to evade","Gives a <AOcr,DataA2>% chance to do <AOcr,DataB2> times normal damage on an attack.","Gives a <AOcr,DataA3>% chance to do <AOcr,DataB3> times normal damage on an attack."
+
+
+AbilityId : A1MR
+Descriprion : 
+	Id : A1MR
+	Name : "Blessing of Zul'jin"
+	Ubertip : "Select a Hero to give 3 agility upon casting serpent ward. Recast this ability to change the Hero.|n|n|cffff0000Default Hero is ShadowHunter|r"
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

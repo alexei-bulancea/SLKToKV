@@ -1,0 +1,50 @@
+UnitId : nowb
+Descriprion : 
+	Id : nowb
+	Name : "Wildking"
+	Ubertip : "Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0GB
+Descriprion : 
+	Id : A0GB
+	Name : "Entangle BirdT"
+	Ubertip : "Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 1500 damage on cast.","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 2500 damage on cast.","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 3500 damage on cast.","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 4500 damage on cast."
+
+
+AbilityId : A1FT
+Descriprion : 
+	Id : A1FT
+	Name : "Pulverize Wildkin"
+	Ubertip : "Gives a 16% chance that an attack will deal 2100 damage to nearby units.","Gives a 22% chance that an attack will deal 3200 damage to nearby units.","Gives a 30% chance that an attack will deal 4500 damage to nearby units.","Gives a 40% chance that an attack will deal 6000 damage to nearby units."
+
+
+AbilityId : A1FU
+Descriprion : 
+	Id : A1FU
+	Name : "Fear W"
+	Ubertip : "Reduces the armor of nearby enemies by 120.","Reduces the armor of nearby enemies by 180.","Reduces the armor of nearby enemies by 200.","Reduces the armor of nearby enemies by 250."
+
+
+AbilityId : ACt2
+Descriprion : 
+	Id : ACt2
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 400 points of damage and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+Hero ability list:

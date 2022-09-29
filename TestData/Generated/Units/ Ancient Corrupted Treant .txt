@@ -1,0 +1,29 @@
+UnitId : nenc
+Descriprion : 
+	Id : nenc
+	Name : "Ancient Corrupted Treant"
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0S7
+Descriprion : 
+	Id : A0S7
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A05S
+Descriprion : 
+	Id : A05S
+	Name : "Bash Corrupted Trend"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

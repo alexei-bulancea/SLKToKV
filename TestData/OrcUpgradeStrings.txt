@@ -1,0 +1,282 @@
+[Rome]
+Name=Steel Melee Weapons,Thorium Melee Weapons,Arcanite Melee Weapons
+Tip=Upgrade to Steel |cffffcc00M|relee Weapons,Upgrade to Thorium |cffffcc00M|relee Weapons,Upgrade to Arcanite |cffffcc00M|relee Weapons
+Ubertip="Increases the melee attack damage of Grunts, Raiders and Tauren.","Further increases the melee attack damage of Grunts, Raiders and Tauren.","Further increases the melee attack damage of Grunts, Raiders and Tauren."
+Hotkey=M,M,M
+[Rora]
+Name=Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons
+Tip=Upgrade to Steel |cffffcc00R|ranged Weapons,Upgrade to Thorium |cffffcc00R|ranged Weapons,Upgrade to Arcanite |cffffcc00R|ranged Weapons
+Ubertip="Increases the ranged attack damage of Headhunters, Wind Riders, Troll Batriders and Demolishers.","Further increases the ranged attack damage of Headhunters, Wind Riders, Troll Batriders and Demolishers.","Further increases the ranged attack damage of Headhunters, Wind Riders, Troll Batriders and Demolishers."
+Hotkey=R,R,R
+[Roar]
+Name=Steel Armor,Thorium Armor,Arcanite Armor
+Tip=Upgrade to Steel Unit |cffffcc00A|rrmor,Upgrade to Thorium Unit |cffffcc00A|rrmor,Upgrade to Arcanite Unit |cffffcc00A|rrmor
+Ubertip="Increases the armor of Grunts, Raiders, Troll Batriders, Tauren, Headhunters, Wind Riders and Demolishers.","Further increases the armor of Grunts, Raiders, Troll Batriders, Tauren, Headhunters, Wind Riders and Demolishers.","Further increases the armor of Grunts, Raiders, Troll Batriders, Tauren, Headhunters, Wind Riders and Demolishers."
+Hotkey=A,A,A
+[Rwdm]
+Name=War Drums Damage Increase
+Tip=Upgrade War |cffffcc00D|rrums
+Ubertip="Increases the damage bonus that the War Drums aura on the Kodo Beast gives. War Drums increases the damage of friendly units around Kodo Beasts."
+Hotkey=D
+[Ropg]
+Name=Pillage
+Tip=Pilla|cffffcc00g|re
+Ubertip="Causes Peons', Grunts', and Raiders' attacks to gain resources when hitting enemy buildings."
+Hotkey=G
+[Robs]
+Name=Berserker Strength
+Tip=Research |cffffcc00B|rerserker Strength
+Ubertip="Improves the fighting capabilities of Grunts with a <Robs,base1> hit point increase, and <Robs,base2> bonus attack damage."
+Hotkey=B
+[Rows]
+Name=Pulverize
+Tip=Research |cffffcc00P|rulverize
+Ubertip="Gives Tauren the Pulverize ability. Pulverize gives Tauren a chance of dealing area effect damage on their attacks."
+Hotkey=P
+[Roen]
+Name=Ensnare
+Tip=Research E|cffffcc00n|rsnare
+Ubertip="Enables Raiders to use the Ensnare ability. Ensnare causes a target enemy unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units."
+Hotkey=N
+[Rovs]
+Name=Envenomed Spears
+Tip=Research |cffffcc00E|rnvenomed Spears
+Ubertip="Adds an additional poison effect to Wind Riders' attacks. A unit poisoned by Envenomed Spears takes damage over time."
+Hotkey=E
+[Rowd]
+Name=Witch Doctor Adept Training,Witch Doctor Master Training
+Tip=Witch |cffffcc00D|roctor Adept Training,Witch |cffffcc00D|roctor Master Training
+Ubertip="Increases Witch Doctors' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Stasis Trap.","Increases Witch Doctors' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Healing Ward."
+Hotkey=D,D
+[Rost]
+Name=Shaman Adept Training,Shaman Master Training
+Tip=Sha|cffffcc00m|ran Adept Training,Sha|cffffcc00m|ran Master Training
+Ubertip="Increases Shaman mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Lightning Shield.","Increases Shaman mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Bloodlust."
+Hotkey=M,M
+[Rosp]
+Name=Spiked Barricades,Improved Spiked Barricades,Advanced Spiked Barricades
+Tip=Upgrade to |cffffcc00S|rpiked Barricades,Upgrade to Improved |cffffcc00S|rpiked Barricades,Upgrade to Advanced |cffffcc00S|rpiked Barricades
+Ubertip="Surrounds Orc buildings with spikes that damage enemy melee attackers. Deals <Rosp,base1> damage per attack.","Increases the amount of damage inflicted on melee attackers by <Rosp,mod1>.","Further increases the amount of damage inflicted on melee attackers by <Rosp,mod1>."
+Hotkey=S,S,S
+[Rotr]
+Name=Troll Regeneration,Improved Troll Regeneration,Advanced Troll Regeneration
+Tip=Research Troll |cffffcc00R|regeneration, Research Improved Troll |cffffcc00R|regeneration, Research Advanced Troll |cffffcc00R|regeneration
+Ubertip="Increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders."
+Hotkey=R
+[Rolf]
+Name=Liquid Fire
+Tip=Research |cffffcc00L|riquid Fire
+Ubertip="Gives Troll Batriders the Liquid Fire attack, which deals damage over time to enemy buildings, stops them from being repaired, and reduces the attack rate of enemy buildings."
+Hotkey=L
+[Ropm]
+Name=Backpack
+EditorSuffix= (Orc)
+Tip=Research |cffffcc00B|rackpack
+Ubertip="Gives specific Orc ground units the ability to carry items."
+Hotkey=B
+[Rowt]
+Name=Spirit Walker Adept Training,Spirit Walker Master Training
+Tip=Spi|cffffcc00r|rit Walker Adept Training,Spi|cffffcc00r|rit Walker Master Training
+Ubertip="Increases Spirit Walkers' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Disenchant.","Increases Spirit Walkers' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Ancestral Spirit."
+Hotkey=R,R
+[Robk]
+Name=Berserker Upgrade
+Tip=B|cffffcc00e|rrserker Upgrade
+Ubertip="Transforms Headhunters into Troll Berserkers, giving them increased hit points and the Berserk ability."
+Hotkey=E
+[Rorb]
+Name=Reinforced Defenses
+Tip=Reinforced |cffffcc00D|refenses
+Ubertip="Upgrades Burrows and Watch Towers so that they have Fortified armor."
+Hotkey=D
+[Robf]
+Name=Burning Oil
+Tip="Research Burning Oil"
+Ubertip="Upgrades Demolishers to fire rocks smothered in burning oil, which causes the ground to burn."
+Hotkey=N
+[R024]
+Name="Resistance Improve"
+Hotkey=L
+Tip="Resistance Improve"
+Ubertip="Increases Hit points of your hero by 260."
+[R023]
+Name="Attack Rate Improve"
+Hotkey=L
+Tip="Attack Rate Improve"
+Ubertip="Increases attack rate of your hero by 18%."
+[R022]
+Name="Armors Improve"
+Hotkey=L
+Tip="Armors Improve"
+Ubertip="Increases Base Armor of your hero by 9."
+[R00H]
+Name="Research Mana Replenish"
+Tip="Research Mana Replenish","Research Mana Replenish Level 2","Research Mana Replenish Level 3","Research Mana Replenish Level 4"
+Ubertip="Allows Obelisk to cast Mana Replenish.","Increases level of Mana Replenish to 2","Increases level of Mana Replenish to 3","Increases level of Mana Replenish to 4"
+[R00G]
+Name="Research Chain Lighting"
+Tip="Research Chain Lighting Level 2","Research Chain Lighting Level 3","Research Chain Lighting Level 4"
+Ubertip="Increases level of Obelisk ability Chain Lighting to 2","Increases level of Obelisk ability Chain Lighting to 3","Increases level of Obelisk ability Chain Lighting to 4"
+[R00F]
+Name="Research Rain of Fire"
+Tip="Research Rain of Fire","Research Rain of Fire Level 2","Research Rain of Fire Level 3","Research Rain of Fire Level 4"
+Ubertip="Allows Obelisk to cast Rain of Fire.","Increases level of Rain of Fire to 2","Increases level of Rain of Fire to 3","Increases level of Rain of Fire to 4"
+[R02X]
+Name="Senten|cffffcc00c|re - [|cffffcc00Level 11|r]"
+Tip="Senten|cffffcc00c|re - [|cffffcc00Level 1|r]","Senten|cffffcc00c|re - [|cffffcc00Level 2|r]","Senten|cffffcc00c|re - [|cffffcc00Level 3|r]","Senten|cffffcc00c|re - [|cffffcc00Level 4|r]","Senten|cffffcc00c|re - [|cffffcc00Level 5|r]","Senten|cffffcc00c|re - [|cffffcc00Level 6|r]","Senten|cffffcc00c|re - [|cffffcc00Level 7|r]","Senten|cffffcc00c|re - [|cffffcc00Level 8|r]","Senten|cffffcc00c|re - [|cffffcc00Level 9|r]","Senten|cffffcc00c|re - [|cffffcc00Level 10|r]","Senten|cffffcc00c|re - [|cffffcc00Level 11|r]"
+Ubertip="Deal high damage based in your spell power and your total HP but has a high cooldown as well, curses target, causing it to have a chance to miss on an attack, lasts 13 seconds and give you a random amount of a random stat permanently.|r. |n|n|cffffcc00Level 11:|r Spell Power x 44 + 99% of Total HP in Damage, 90% chance to miss, Cooldown 40 seconds."
+[R02Y]
+Name="Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 9|r]"
+Tip="Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 1|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 2|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 3|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 4|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 5|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 6|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 7|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 8|r]","Cleanse Healing Wave |cffffcc00Y|r - [|cffffcc00Level 9|r]"
+Ubertip="Calls forth a wave of healing energy that bounces up to 8 times, healing allies or self. Each jump heals less damage. Primary target get all negative effects removed and an extra heal based in your spell power."
+[R02Z]
+Name="Freezing S|cffffcc00t|rrength - [|cffffcc00Level 11|r]"
+Tip="Freezing S|cffffcc00t|rrength - [|cffffcc00Level 1|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 2|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 3|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 4|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 5|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 6|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 7|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 8|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 9|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 10|r]","Freezing S|cffffcc00t|rrength - [|cffffcc00Level 11|r]"
+Ubertip="Increases your strength permanently and freeze nearby enemy units dealing damage in 400 AOE. |n|n|cffffcc00Level 11:|r 22 Strength increases, 9 seconds Freeze, 9000 damage , Cooldown 80 seconds."
+[R030]
+Name="Smash |cffffcc00W|r - [|cffffcc00Level 11|r]"
+Tip="Smash |cffffcc00W|r - [|cffffcc00Level 1|r]","Smash |cffffcc00W|r - [|cffffcc00Level 2|r]","Smash |cffffcc00W|r - [|cffffcc00Level 3|r]","Smash |cffffcc00W|r - [|cffffcc00Level 4|r]","Smash |cffffcc00W|r - [|cffffcc00Level 5|r]","Smash |cffffcc00W|r - [|cffffcc00Level 6|r]","Smash |cffffcc00W|r - [|cffffcc00Level 7|r]","Smash |cffffcc00W|r - [|cffffcc00Level 8|r]","Smash |cffffcc00W|r - [|cffffcc00Level 9|r]","Smash |cffffcc00W|r - [|cffffcc00Level 10|r]","Smash |cffffcc00W|r - [|cffffcc00Level 11|r]"
+Ubertip="Deal spell power + strength in damage and stun target. |n|n|cffffcc00Level 11:|r Spell Power  x 11 + Strength x 11 damage, 6 seconds stun, Cooldown 11 seconds."
+[R031]
+Name="|cffffcc00E|rternal - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00E|rternal - [|cffffcc00Level 1|r]","|cffffcc00E|rternal - [|cffffcc00Level 2|r]","|cffffcc00E|rternal - [|cffffcc00Level 3|r]","|cffffcc00E|rternal - [|cffffcc00Level 4|r]","|cffffcc00E|rternal - [|cffffcc00Level 5|r]","|cffffcc00E|rternal - [|cffffcc00Level 6|r]","|cffffcc00E|rternal - [|cffffcc00Level 7|r]","|cffffcc00E|rternal - [|cffffcc00Level 8|r]","|cffffcc00E|rternal - [|cffffcc00Level 9|r]","|cffffcc00E|rternal - [|cffffcc00Level 10|r]","|cffffcc00E|rternal - [|cffffcc00Level 11|r]"
+Ubertip="Increases regeneration by a % of your total hp and move speed, last 15 seconds. |n|n|cffffcc00Level 11:|r 10% HP Regeneration, Move Speed by 0%, Cooldown 50 seconds."
+[R032]
+Name="Life Li|cffffcc00n|rk - [|cffffcc00Level 11|r]"
+Tip="Life Li|cffffcc00n|rk - [|cffffcc00Level 1|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 2|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 3|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 4|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 5|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 6|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 7|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 8|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 9|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 10|r]","Life Li|cffffcc00n|rk - [|cffffcc00Level 11|r]"
+Ubertip="Give only your allies close to you 1000 bonus armor when they are attacked while having 50% or less HP they will heal and you will be damage for the same amount as pure damage, for a duration. |n|n|cffffcc00Level 11:|r Life Link 2200, 14 seconds duration, Cooldown 23 seconds.","Give only your allies 1000 bonus armor when they are attacked while having 50% or less HP they will heal and you will be damage for the same amount as pure damage, for a duration. |n|n|cffffcc00Level 11:|r Life Link 2200, 14 seconds duration, Cooldown 23 seconds."
+[R033]
+Name="Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 11|r]"
+Tip="Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 1|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 2|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 3|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 4|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 5|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 6|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 7|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 8|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 9|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 10|r]","Ultimate |cffffcc00B|rlessing - [|cffffcc00Level 11|r]"
+Ubertip="Deal yourself a % of your total HP in spell damage as a cost, to give only your allies around you 8% HP regeneretion per second last some seconds and if they are attacked for enemies or allies during the effect they remove all negative buff. |n|n|cffffcc00Level 11:|r 50% Self damage, 12 seconds duration, Cooldown 32 seconds."
+[R034]
+Name="|cffffcc00P|rower - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00P|rower - [|cffffcc00Level 1|r]","|cffffcc00P|rower - [|cffffcc00Level 2|r]","|cffffcc00P|rower - [|cffffcc00Level 3|r]","|cffffcc00P|rower - [|cffffcc00Level 4|r]","|cffffcc00P|rower - [|cffffcc00Level 5|r]","|cffffcc00P|rower - [|cffffcc00Level 6|r]","|cffffcc00P|rower - [|cffffcc00Level 7|r]","|cffffcc00P|rower - [|cffffcc00Level 8|r]","|cffffcc00P|rower - [|cffffcc00Level 9|r]","|cffffcc00P|rower - [|cffffcc00Level 10|r]","|cffffcc00P|rower - [|cffffcc00Level 11|r]"
+Ubertip="Multiply your strength x 2 last some seconds them heal you for 21 x the strength amount. |n|n|cffffcc00Level 11:|r Last 23 seconds, cooldown 35 seconds."
+[R035]
+Name="|cffffcc00Fire Spikes|r - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00Fire Spikes|r - [|cffffcc00Level 1|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 2|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 3|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 4|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 5|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 6|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 7|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 8|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 9|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 10|r]","|cffffcc00Fire Spikes|r - [|cffffcc00Level 11|r]"
+Ubertip="Increases Hero Strength and Intelligence and whenever you are attacked have a chance to damage the attacker based on your Strength as normal damage, damage return effect has a mana cost based in the level of this ability. |n|n|cffffcc00Level 11:|r Increases Strength and Intelligence by 60, 100% chance to damage return Strength x11, mana cost 44."
+[R036]
+Name="Hermes |cffffcc00F|rury - [|cffffcc00Level 11|r]"
+Tip="Hermes |cffffcc00F|rury - [|cffffcc00Level 1|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 2|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 3|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 4|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 5|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 6|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 7|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 8|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 9|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 10|r]","Hermes |cffffcc00F|rury - [|cffffcc00Level 11|r]"
+Ubertip="Damage target for a % of your total HP, reduce damage by 50%, move speed by 40% and attack speed by 90 of enemies in 500 AOE around the target for a duration, this effect can not be removed before the duration is over. |n|n|cffffcc00Level 11:|r 50% of total HP in damage, 11 seconds effect duration, Cooldown 13 seconds."
+[R037]
+Name="Se|cffffcc00r|renity & Strength - [|cffffcc00Level 11|r]"
+Tip="Se|cffffcc00r|renity & Strength - [|cffffcc00Level 1|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 2|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 3|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 4|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 5|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 6|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 7|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 8|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 9|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 10|r]","Se|cffffcc00r|renity & Strength - [|cffffcc00Level 11|r]"
+Ubertip="Damage target enemy for your level of Serenity  + your Strength. |n|n|cffffcc00Level 11:|r Serenity x 640 + Strength x13, Cooldown 7 seconds."
+[R038]
+Name="|cffffcc00I|rntocable - [|cffffcc00Level 10|r]"
+Tip="|cffffcc00I|rntocable - [|cffffcc00Level 1|r]","|cffffcc00I|rntocable - [|cffffcc00Level 2|r]","|cffffcc00I|rntocable - [|cffffcc00Level 3|r]","|cffffcc00I|rntocable - [|cffffcc00Level 4|r]","|cffffcc00I|rntocable - [|cffffcc00Level 5|r]","|cffffcc00I|rntocable - [|cffffcc00Level 6|r]","|cffffcc00I|rntocable - [|cffffcc00Level 7|r]","|cffffcc00I|rntocable - [|cffffcc00Level 8|r]","|cffffcc00I|rntocable - [|cffffcc00Level 9|r]","|cffffcc00I|rntocable - [|cffffcc00Level 10|r]","|cffffcc00I|rntocable - [|cffffcc00Level 11|r]"
+Ubertip="Increases hit points regeneration and bonus armor also when you are attacked deal your spell power as pure damage for a duration. |n|cffffcc00Level 11:|r 500 armor and regeneration, damage return spell power x11, last 8 seconds Cooldown 38 seconds."
+[R039]
+Name="Spirit Bullets - [|cffffcc00Level 13|r]"
+Tip="Spirit Bullets - [|cffffcc00Level 1|r]","Spirit Bullets - [|cffffcc00Level 2|r]","Spirit Bullets - [|cffffcc00Level 3|r]","Spirit Bullets - [|cffffcc00Level 4|r]","Spirit Bullets - [|cffffcc00Level 5|r]","Spirit Bullets - [|cffffcc00Level 6|r]","Spirit Bullets - [|cffffcc00Level 7|r]","Spirit Bullets - [|cffffcc00Level 8|r]","Spirit Bullets - [|cffffcc00Level 9|r]","Spirit Bullets - [|cffffcc00Level 10|r]","Spirit Bullets - [|cffffcc00Level 11|r]","Spirit Bullets - [|cffffcc00Level 12|r]","Spirit Bullets - [|cffffcc00Level 13|r]"
+Ubertip="Throw energy balls at random enemies around you every 2 seconds, This ability will not be seen in your skill place and does not take away a skill place, this ability can reach up to level 13.|n|n|cffffcc00Level 1|r - 100 damage. |n|cffffcc00Level 2|r - 150 damage.|n|cffffcc00Level 3|r - 200 damage.|n|cffffcc00Level 4|r - 300 damage.|n|cffffcc00Level 5|r - 400 damage.|n|cffffcc00Level 6|r - 500 damage.|n|cffffcc00Level 7|r - 700 damage.|n|cffffcc00Level 8|r - 900 damage.|n|cffffcc00Level 9|r - 1100 damage.","Throw energy balls at random enemies around you every 2 seconds, This ability will not be seen in your skill place and does not take away a skill place, this ability can reach up to level 13.|n|n|cffffcc00Level 2|r - 150 damage.|n|cffffcc00Level 3|r - 200 damage.|n|cffffcc00Level 4|r - 300 damage.|n|cffffcc00Level 5|r - 400 damage.|n|cffffcc00Level 6|r - 500 damage.|n|cffffcc00Level 7|r - 700 damage.|n|cffffcc00Level 8|r - 900 damage.|n|cffffcc00Level 9|r - 1100 damage.|n|cffffcc00Level 10|r - 1300 damage.|n|cffffcc00Level 11|r - 1500 damage.","Throw energy balls at random enemies around you every 2 seconds, This ability will not be seen in your skill place and does not take away a skill place, this ability can reach up to level 13.|n|n|cffffcc00Level 3|r - 200 damage.|n|cffffcc00Level 4|r - 300 damage.|n|cffffcc00Level 5|r - 400 damage.|n|cffffcc00Level 6|r - 500 damage.|n|cffffcc00Level 7|r - 700 damage.|n|cffffcc00Level 8|r - 900 damage.|n|cffffcc00Level 9|r - 1100 damage.|n|cffffcc00Level 10|r - 1300 damage.|n|cffffcc00Level 11|r - 1500 damage.|n|cffffcc00Level 12|r - 1700 damage.|n|cffffcc00Level 13|r - 2000 damage."
+[R03A]
+Name="4 Skill Points "
+Tip="4 Skill Points "
+Ubertip="Give 4 skill points that you can use to increases your stats, this ability does not take away a skill place and can be level up unlimited times."
+[R03B]
+Name="Critical Strike - [|cffffcc00Level 9|r]"
+Tip="Critical Strike - [|cffffcc00Level 1|r]","Critical Strike - [|cffffcc00Level 2|r]","Critical Strike - [|cffffcc00Level 3|r]","Critical Strike - [|cffffcc00Level 4|r]","Critical Strike - [|cffffcc00Level 5|r]","Critical Strike - [|cffffcc00Level 6|r]","Critical Strike - [|cffffcc00Level 7|r]","Critical Strike - [|cffffcc00Level 8|r]","Critical Strike - [|cffffcc00Level 9|r]"
+Ubertip="Gives a chance to do x times normal damage on an attack."
+[R03C]
+Name="Serenity Blast |cffffcc00O|r - [|cffffcc00Level 9|r]"
+Tip="Serenity Blast |cffffcc00O|r - [|cffffcc00Level 1|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 2|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 3|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 4|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 5|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 6|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 7|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 8|r]","Serenity Blast |cffffcc00O|r - [|cffffcc00Level 9|r]"
+Ubertip="Damage target enemy based on your level of the Stat Serenity."
+[R03D]
+Name="Strength&Mind |cffffcc00P|r - [|cffffcc00Level 9|r]"
+Tip="Strength&Mind |cffffcc00P|r - [|cffffcc00Level 1|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 2|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 3|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 4|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 5|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 6|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 7|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 8|r]","Strength&Mind |cffffcc00P|r - [|cffffcc00Level 9|r]"
+Ubertip="Increases your strength for your spell power for a duration them heal you based on that amount of strength."
+[R03E]
+Name="Magic Stab |cffffcc00Z|r - [|cffffcc00Level 9|r]"
+Tip="Magic Stab |cffffcc00Z|r - [|cffffcc00Level 1|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 2|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 3|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 4|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 5|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 6|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 7|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 8|r]","Magic Stab |cffffcc00Z|r - [|cffffcc00Level 9|r]"
+Ubertip="Damage target enemy for your spell power if target has 40% or less of his total hit points deal 4 times more damage. Meele Range."
+[R03F]
+Name="Wall |cffffcc00V|r - [|cffffcc00Level 11|r]"
+Tip="Wall |cffffcc00V|r - [|cffffcc00Level 1|r]","Wall |cffffcc00V|r - [|cffffcc00Level 2|r]","Wall |cffffcc00V|r - [|cffffcc00Level 3|r]","Wall |cffffcc00V|r - [|cffffcc00Level 4|r]","Wall |cffffcc00V|r - [|cffffcc00Level 5|r]","Wall |cffffcc00V|r - [|cffffcc00Level 6|r]","Wall |cffffcc00V|r - [|cffffcc00Level 7|r]","Wall |cffffcc00V|r - [|cffffcc00Level 8|r]","Wall |cffffcc00V|r - [|cffffcc00Level 9|r]","Wall |cffffcc00V|r - [|cffffcc00Level 10|r]","Wall |cffffcc00V|r - [|cffffcc00Level 11|r]"
+Ubertip="Heal you for a big amount, give you 11000 hit points for a duration them heal you again for the same amount. |n|n|cffffcc00Level 11:|r 11000 Heal, 24 seconds duration, Cooldown 25 seconds."
+[R03G]
+Name="Blessed Strike |cffffcc00X|r - [|cffffcc00Level 9|r]"
+Tip="Blessed Strike |cffffcc00X|r - [|cffffcc00Level 1|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 2|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 3|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 4|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 5|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 6|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 7|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 8|r]","Blessed Strike |cffffcc00X|r - [|cffffcc00Level 9|r]"
+Ubertip="Damage target enemy for your spell power and heal yourself for the same amount. Meele Range."
+[R03H]
+Name="Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 9|r]"
+Tip="Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 1|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 2|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 3|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 4|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 5|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 6|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 7|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 8|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 9|r]"
+Ubertip="Heals a target friendly unit for a big amount hit points over 30 seconds and increases your spell damage by the level of this ability permanently."
+[R03I]
+Name="Evasion & Counter - [|cffffcc00Level 9|r]"
+Tip="Evasion & Counter - [|cffffcc00Level 1|r]","Evasion & Counter - [|cffffcc00Level 2|r]","Evasion & Counter - [|cffffcc00Level 3|r]","Evasion & Counter - [|cffffcc00Level 4|r]","Evasion & Counter - [|cffffcc00Level 5|r]","Evasion & Counter - [|cffffcc00Level 6|r]","Evasion & Counter - [|cffffcc00Level 7|r]","Evasion & Counter - [|cffffcc00Level 8|r]","Evasion & Counter - [|cffffcc00Level 9|r]"
+Ubertip="Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a chance to avoid an attack and a chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units."
+[R03J]
+Name="Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 9|r]"
+Tip="Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 1|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 2|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 3|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 4|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 5|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 6|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 7|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 8|r]","Neutral Stomp |cffffcc00[Q]|r - [|cffffcc00Level 9|r]"
+Ubertip="Slams the ground, dealing damage to nearby enemy units and slowing their movement and attack speed for a duration."
+[R03K]
+Name="H|cffffcc00y|rpothermia - [|cffffcc00Level 9|r]"
+Tip="H|cffffcc00y|rpothermia - [|cffffcc00Level 1|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 2|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 3|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 4|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 5|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 6|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 7|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 8|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 9|r]"
+Ubertip="Deal spell power damage to an enemy, reduce move and attack speed and deal damage per second for a duration, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost."
+[R03L]
+Name="MAMU Perception"
+Tip=Research Troll |cffffcc00R|regeneration, Research Improved Troll |cffffcc00R|regeneration, Research Advanced Troll |cffffcc00R|regeneration
+Ubertip="Increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders."
+Hotkey=R
+[R03M]
+Name="MAMU Stamina"
+Tip=Research Troll |cffffcc00R|regeneration, Research Improved Troll |cffffcc00R|regeneration, Research Advanced Troll |cffffcc00R|regeneration
+Ubertip="Increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders."
+Hotkey=R
+[R03N]
+Name="MAMU Vital"
+Tip=Research Troll |cffffcc00R|regeneration, Research Improved Troll |cffffcc00R|regeneration, Research Advanced Troll |cffffcc00R|regeneration
+Ubertip="Increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders.","Further increases the hit point regeneration rate of Headhunters, Witch Doctors and Troll Batriders."
+Hotkey=R
+[R03O]
+Name="Magic |cffffcc00G|rrowth - [|cffffcc00Level 11|r]"
+Tip="Magic |cffffcc00G|rrowth - [|cffffcc00Level 1|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 2|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 3|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 4|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 5|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 6|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 7|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 8|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 9|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 10|r]","Magic |cffffcc00G|rrowth - [|cffffcc00Level 11|r]"
+Ubertip="Increases your spell power permanently. |n|cffffcc00Level 11:|r Cooldown 35 seconds."
+[R03P]
+Name="Vol|cffffcc00t|rage - [|cffffcc00Level 11|r]"
+Tip="Vol|cffffcc00t|rage - [|cffffcc00Level 1|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 2|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 3|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 4|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 5|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 6|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 7|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 8|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 9|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 10|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 11|r]"
+Ubertip="Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies. Cooldown improve every level. |n|cffffcc00Level 11:|r Cooldown 4 seconds."
+[R03Q]
+Name="Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 11|r]"
+Tip="Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 1|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 2|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 3|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 4|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 5|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 6|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 7|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 8|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 9|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 10|r]","Devastating Thu|cffffcc00n|rder - [|cffffcc00Level 11|r]"
+Ubertip="Deal spell power damage and paralize target for a few seconds, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies. |n|cffffcc00Level 11:|r Spell Power x 13, Paralize 3.5 seconds, Cooldown 8 seconds."
+[R03R]
+Name="SubZe|cffffcc00r|ro - [|cffffcc00Level 11|r]"
+Tip="SubZe|cffffcc00r|ro - [|cffffcc00Level 1|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 2|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 3|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 4|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 5|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 6|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 7|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 8|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 9|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 10|r]","SubZe|cffffcc00r|ro - [|cffffcc00Level 11|r]"
+Ubertip="Deal spell power damage and recover a small % of your total mana, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost. |n|cffffcc00Level 11:|r Spell Power x 22, 11% mana recover, Cooldown 15 seconds."
+[R03S]
+Name="Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 11|r]"
+Tip="Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 1|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 2|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 3|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 4|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 5|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 6|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 7|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 8|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 9|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 10|r]","Mega Carrion S|cffffcc00w|rarm - [|cffffcc00Level 11|r]"
+Ubertip="Sends a horde of bats to deal damage to each enemy unit in a cone. If you select a target it get -2000 damage and whenever attacks it heals his target for triple of his level last a short duration, effect can not be removed before the duration is over. |n|cffffcc00Level 11:|r 6000 line damage, effect duration last 11 seconds, Cooldown 22 seconds."
+[R03T]
+Name="|cffffcc00B|rlessed Shield - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00B|rlessed Shield - [|cffffcc00Level 1|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 2|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 3|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 4|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 5|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 6|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 7|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 8|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 9|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 10|r]","|cffffcc00B|rlessed Shield - [|cffffcc00Level 11|r]"
+Ubertip="Creates a shield of frost around a target friendly hero unit that adds armor for a long duration, slows melee units that attack it, give permanently HP and damage if the target already have this bonus give + to all base stats. |n|cffffcc00Level 11:|r 500 armor for 100 seconds, 1800 HP and 200 damage, +3 to all base stats, Cooldown 70 seconds."
+[R03U]
+Name="|cffffcc00H|roly Nova - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00H|roly Nova - [|cffffcc00Level 1|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 2|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 3|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 4|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 5|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 6|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 7|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 8|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 9|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 10|r]","|cffffcc00H|roly Nova - [|cffffcc00Level 11|r]"
+Ubertip="Damage enemies, heal allies per second armor to allies  in an AOE the increases increases per level, last half of your level in seconds. "
+[R03V]
+Name="|cffffcc00C|rold Light - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00C|rold Light - [|cffffcc00Level 1|r]","|cffffcc00C|rold Light - [|cffffcc00Level 2|r]","|cffffcc00C|rold Light - [|cffffcc00Level 3|r]","|cffffcc00C|rold Light - [|cffffcc00Level 4|r]","|cffffcc00C|rold Light - [|cffffcc00Level 5|r]","|cffffcc00C|rold Light - [|cffffcc00Level 6|r]","|cffffcc00C|rold Light - [|cffffcc00Level 7|r]","|cffffcc00C|rold Light - [|cffffcc00Level 8|r]","|cffffcc00C|rold Light - [|cffffcc00Level 9|r]","|cffffcc00C|rold Light - [|cffffcc00Level 10|r]","|cffffcc00C|rold Light - [|cffffcc00Level 11|r]"
+Ubertip="Deal spell power damage to an enemy or heal for half of the amount an allied, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost. |n|cffffcc00Level 11:|r Spell Power x 24, Cooldown 20 seconds."
+[R03W]
+Name="|cffffcc00AntiMatter|r - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00AntiMatter|r - [|cffffcc00Level 1|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 2|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 3|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 4|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 5|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 6|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 7|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 8|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 9|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 10|r]","|cffffcc00AntiMatter|r - [|cffffcc00Level 11|r]"
+Ubertip="Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds.","Deal the highest spell power damage + each time you has casted this ability. |n|cffffcc00Level 11:|r Spell Power x 100, cooldown 150 seconds."
+[R03X]
+Name="|cffffcc00F|rrost Curse - [|cffffcc00Level 11|r]"
+Tip="|cffffcc00F|rrost Curse - [|cffffcc00Level 1|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 2|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 3|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 4|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 5|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 6|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 7|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 8|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 9|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 10|r]","|cffffcc00F|rrost Curse - [|cffffcc00Level 11|r]"
+Ubertip="Deal 5 x spell damage, reduce target enemy Damage by 40%, attack speed by 80%, move speed by 40% and increases spell power in damage from cold abilities for the duration. Last 5 seconds. |n|cffffcc00Level 11:|r Cooldown 8 seconds, spell power x 12 for cold abilities."
+[R03Y]
+Name="Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 11|r]"
+Tip="Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 1|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 2|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 3|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 4|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 5|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 6|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 7|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 8|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 9|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 10|r]","Magn|cffffcc00e|rtic Shock - [|cffffcc00Level 11|r]"
+Ubertip="Deal 4 x spell damage, reduce target enemy Damage by 1250 and magnetize a unit increasesing by 10 x spell power the damage taken from Lighting abilities for the duration. Last 4 seconds. |n|cffffcc00Level 11:|r Cooldown 6 seconds."
+[R03Z]
+Name="Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 11|r]"
+Tip="Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 1|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 2|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 3|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 4|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 5|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 6|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 7|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 8|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 9|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 10|r]","Lighting Blast |cffffcc00[D]|r - [|cffffcc00Level 11|r]"
+Ubertip="Deal AOE damage in 500 area of effect around the target, target take extra spell power in spell damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies. |n|cffffcc00Level 11:|r 1500 AOE Damage target takes 11 x spell power damage, cooldown: 7 seconds."

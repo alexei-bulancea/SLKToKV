@@ -1,0 +1,22 @@
+UnitId : obea
+Descriprion : 
+	Id : obea
+	Name : Beastiary
+	Ubertip : "Trains Raiders, Kodo Beasts, Troll Batriders, and Wind Riders. |nAlso contains the Ensnare, Envenomed Spears, Liquid Fire and War Drums upgrades."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+Hero ability list:

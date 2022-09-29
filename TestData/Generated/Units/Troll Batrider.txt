@@ -1,0 +1,22 @@
+UnitId : otbr
+Descriprion : 
+	Id : otbr
+	Name : Troll Batrider
+	Ubertip : "Light flying unit with incredible perception. Good at destroying buildings. Has the Unstable Concoction ability, which allows the Troll Batrider to explode, dealing damage to nearby enemy air units. Can learn Liquid Fire, and Troll Regeneration. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aliq
+Descriprion : 
+	Id : Aliq
+	Name : Liquid Fire
+	Ubertip : "Flings a volatile liquid that causes buildings to take damage over time. Buildings that are currently taking damage from Liquid Fire cannot be repaired, and have their attack rate reduced by <Aliq,DataC1,%>%."
+
+
+AbilityId : Auco
+Descriprion : 
+	Id : Auco
+	Name : Unstable Concoction
+	Ubertip : "Causes a powerful explosion that deals <Auco,DataB1> damage to a target air unit, and <Auco,DataD1> damage to nearby enemy air units."
+
+
+Hero ability list:

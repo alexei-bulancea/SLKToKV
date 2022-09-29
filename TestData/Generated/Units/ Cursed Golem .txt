@@ -1,0 +1,50 @@
+UnitId : n03E
+Descriprion : 
+	Id : n03E
+	Name : "Cursed Golem"
+	Ubertip : "Heavy melee unit. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A15J
+Descriprion : 
+	Id : A15J
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrh,DataA1> damage to nearby enemy land units and stunning them for <Awrh,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A057
+Descriprion : 
+	Id : A057
+	Name : "Attack Speed +80%"
+	Ubertip : 
+
+
+AbilityId : A03L
+Descriprion : 
+	Id : A03L
+	Name : "armor defense 60"
+	Ubertip : "Reduces all attacks on that unit by 60 damage."
+
+
+AbilityId : ANss
+Descriprion : 
+	Id : ANss
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A03M
+Descriprion : 
+	Id : A03M
+	Name : "Magic Reduccion 60%"
+	Ubertip : "Reduces the damage taken from spells and to 60%"
+
+
+AbilityId : A15I
+Descriprion : 
+	Id : A15I
+	Name : "Pulverize FG"
+	Ubertip : "Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage.","2","3","4"
+
+
+Hero ability list:

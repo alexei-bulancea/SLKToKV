@@ -1,0 +1,22 @@
+UnitId : nwgt
+Descriprion : 
+	Id : nwgt
+	Name : Way Gate
+	Ubertip : 
+
+Ability List:
+AbilityId : Awrp
+Descriprion : 
+	Id : Awrp
+	Name : Waygate ability
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

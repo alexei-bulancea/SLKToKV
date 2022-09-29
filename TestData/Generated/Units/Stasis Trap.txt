@@ -1,0 +1,15 @@
+UnitId : otot
+Descriprion : 
+	Id : otot
+	Name : Stasis Trap
+	Ubertip : 
+
+Ability List:
+AbilityId : Aeth
+Descriprion : 
+	Id : Aeth
+	Name : Ghost
+	Ubertip : 
+
+
+Hero ability list:

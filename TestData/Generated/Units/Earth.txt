@@ -1,0 +1,36 @@
+UnitId : npn6
+Descriprion : 
+	Id : npn6
+	Name : Earth
+	Ubertip : "Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0NG
+Descriprion : 
+	Id : A0NG
+	Name : "Panda Bash"
+	Ubertip : "Gives a 18% chance that an attack will do 200 bonus damage and stun an opponent for 1.2 seconds."
+
+
+AbilityId : ACpv
+Descriprion : 
+	Id : ACpv
+	Name : Pulverize
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units."
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+Hero ability list:

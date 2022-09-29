@@ -1,0 +1,8 @@
+UnitId : h07C
+Descriprion : 
+	Id : h07C
+	Name : "Footman2"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. "
+
+Ability List:
+Hero ability list:

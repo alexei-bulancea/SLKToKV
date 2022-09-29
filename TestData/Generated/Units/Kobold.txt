@@ -1,0 +1,22 @@
+UnitId : nkob
+Descriprion : 
+	Id : nkob
+	Name : Kobold
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09N
+Descriprion : 
+	Id : A09N
+	Name : "Devotion Aura(Kobol)"
+	Ubertip : "Gives <ACav,DataA1> additional armor to nearby friendly units."
+
+
+AbilityId : ACce
+Descriprion : 
+	Id : ACce
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that <ACce,DataA1,%>% of their damage strikes through to enemies near the primary attacked unit."
+
+
+Hero ability list:

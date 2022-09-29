@@ -1,0 +1,15 @@
+UnitId : ndgt
+Descriprion : 
+	Id : ndgt
+	Name : "FeedBack Tower"
+	Ubertip : "Have more damage, hit points, armor, life regeneration and burn mana with every hit. "
+
+Ability List:
+AbilityId : A06F
+Descriprion : 
+	Id : A06F
+	Name : "Feedback Level 1"
+	Ubertip : "Attacks destroy 50 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 100 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 175 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 300 mana per hit. The mana combusts, dealing damage to the attacked unit."
+
+
+Hero ability list:

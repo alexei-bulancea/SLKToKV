@@ -1,0 +1,50 @@
+UnitId : H00R
+Descriprion : 
+	Id : H00R
+	Name : "Infernal"
+	Ubertip : "Warrior Hero, exceptional at defense and burn enemys troops. Can learn Flame Strike, Ground Smash, Infernal Strength, Fire Skin and Burn to Ashes."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AHfs
+Descriprion : 
+	Id : AHfs
+	Name : "Flame Strike [Q]"
+	Ubertip : "Conjures a pillar of flame that burns ground units for 150 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take minor damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 20 seconds.|r","Conjures a pillar of flame that burns ground units for 210 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take light damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 19 seconds.|r","Conjures a pillar of flame that burns ground units for 290 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 18 seconds.|r","Conjures a pillar of flame that burns ground units for 380 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 17 seconds.|r","Conjures a pillar of flame that burns ground units for 480 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 16 seconds.|r","Conjures a pillar of flame that burns ground units for 600 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 15 seconds.|r","Conjures a pillar of flame that burns ground units for 750 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 14 seconds.|r","Conjures a pillar of flame that burns ground units for 960 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjures a pillar of flame that burns ground units for 1200 damage a second for 2.6 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage. Has 0.5 seconds casting time.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : A07I
+Descriprion : 
+	Id : A07I
+	Name : "Ground Smash [W]"
+	Ubertip : "Slams the ground, dealing 20 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 26 seconds.|r","Slams the ground, dealing 40 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 23 seconds.|r","Slams the ground, dealing 60 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 20 seconds.|r","Slams the ground, dealing 80 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 17 seconds.|r","Slams the ground, dealing 100 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 15 seconds.|r","Slams the ground, dealing 130 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 13 seconds.|r","Slams the ground, dealing 160 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 11 seconds.|r","Slams the ground, dealing 200 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 9 seconds.|r","Slams the ground, dealing 260 damage to nearby enemy land units and slowing their movement by 30% and attack rate by 50%.|n|n|cffc3dbffCooldown: 7 seconds.|r"
+
+
+AbilityId : A07H
+Descriprion : 
+	Id : A07H
+	Name : "Infernal Strength"
+	Ubertip : "Increases Hero Strength by 2 and burn a random enemy every 9 seconds dealing 100 + 6% of your total hit points in fire damage. ","Increases Hero Strength by 4 and burn a random enemy every 9 seconds dealing 100 + 12% of your total hit points in fire damage. ","Increases Hero Strength by 8 and burn a random enemy every 9 seconds dealing 100 + 18% of your total hit points in fire damage. ","Increases Hero Strength by 12 and burn a random enemy every 9 seconds dealing 100 + 24% of your total hit points in fire damage. ","Increases Hero Strength by 16 and burn a random enemy every 9 seconds dealing 100 + 30% of your total hit points in fire damage. ","Increases Hero Strength by 20 and burn a random enemy every 9 seconds dealing 100 + 36% of your total hit points in fire damage. ","Increases Hero Strength by 24 and burn a random enemy every 9 seconds dealing 100 + 42% of your total hit points in fire damage. ","Increases Hero Strength by 28 and burn a random enemy every 9 seconds dealing 100 + 48% of your total hit points in fire damage. ","Increases Hero Strength by 35 and burn a random enemy every 9 seconds dealing 100 + 54% of your total hit points in fire damage. "
+
+
+AbilityId : ANpi
+Descriprion : 
+	Id : ANpi
+	Name : Permanent Immolation
+	Ubertip : "Burns nearby enemy units for <ANpi,DataA1> points of damage per second.","Burns nearby enemy units for <ANpi,DataA2> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA3> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA4> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA5> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA6> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA7> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA8> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'.","Burns nearby enemy units for <ANpi,DataA9> points of damage per second. Whenever you cast one of your hero abilities(Flame Strike,Ground Smash) Infernal win a random bonus, depending of the level of this ability. Infernal Flame damage depends on: Infernal Total HP, level of Fire Skin and level of Infernal.|nYou can check your flames with '-flame'."
+
+
+AbilityId : A1SJ
+Descriprion : 
+	Id : A1SJ
+	Name : "Burn to Ashes"
+	Ubertip : "Below 40 flames: Deal 80% of your total hitpoints + 5x spellpower in spell damage.|nAbove 40 flames: Deal 80% of your maximum hitpoints + 2% of the target's current hitpoints + 10x spellpower in spell damage.|nCosts 10 flames to cast.|n|n|cffc3dbffCooldown: 300 seconds|r","Below 40 flames: Deal 100% of your total hitpoints + 5x spellpower in spell damage.|nAbove 40 flames: Deal 120% of your maximum hitpoints + 5% of the target's current hitpoints + 10x spellpower in spell damage.|nCosts 10 flames to cast.|n|n|cffc3dbffCooldown: 240 seconds|r","Below 40 flames: Deal 120% of your total hitpoints + 5x spellpower in spell damage.|nAbove 40 flames: Deal 160% of your maximum hitpoints + 8% of the target's current hitpoints + 10x spellpower in spell damage.|nCosts 10 flames to cast.|n|n|cffc3dbffCooldown: 180 seconds|r","Below 40 flames: Deal 140% of your total hitpoints + 5x spellpower in spell damage.|nAbove 40 flames: Deal 200% of your maximum hitpoints + 11% of the target's current hitpoints + 10x spellpower in spell damage.|nCosts 10 flames to cast.|n|n|cffc3dbffCooldown: 80 seconds|r"
+
+

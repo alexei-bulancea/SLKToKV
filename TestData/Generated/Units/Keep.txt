@@ -1,0 +1,29 @@
+UnitId : hkee
+Descriprion : 
+	Id : hkee
+	Name : Keep
+	Ubertip : "Upgrade to Keep to enable the production of additional types of structures and units."
+
+Ability List:
+AbilityId : Abdl
+Descriprion : 
+	Id : Abdl
+	Name : Blight Dispel Large
+	Ubertip : 
+
+
+AbilityId : Amic
+Descriprion : 
+	Id : Amic
+	Name : Call To Arms
+	Ubertip : "Call all nearby Peasants to the Town Hall to be converted to Militia. |nLasts <Amil,Dur1> seconds."
+
+
+AbilityId : Argl
+Descriprion : 
+	Id : Argl
+	Name : Return Gold and Lumber
+	Ubertip : 
+
+
+Hero ability list:

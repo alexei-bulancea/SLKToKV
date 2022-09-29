@@ -1,0 +1,15 @@
+UnitId : n04Q
+Descriprion : 
+	Id : n04Q
+	Name : "Zombie"
+	Ubertip : 
+
+Ability List:
+AbilityId : A0F6
+Descriprion : 
+	Id : A0F6
+	Name : "Zombie parasit"
+	Ubertip : "Afflicts a target enemy unit with a deadly poison that deals 140 damage per second, reduce move and attack speed for 13 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise."
+
+
+Hero ability list:

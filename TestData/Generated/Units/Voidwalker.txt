@@ -1,0 +1,29 @@
+UnitId : nvdw
+Descriprion : 
+	Id : nvdw
+	Name : Voidwalker
+	Ubertip : "Light ranged unit with Cold Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A07C
+Descriprion : 
+	Id : A07C
+	Name : Banish
+	Ubertip : "Turns a non-mechanical unit ethereal and slows its movement speed by <ACbn,DataA1,%>% for <ACbn,Dur1> seconds. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect."
+
+
+AbilityId : AChx
+Descriprion : 
+	Id : AChx
+	Name : Hex
+	Ubertip : "Transforms an enemy unit into a random critter and disables their orders for 10 seconds."
+
+
+AbilityId : ACbz
+Descriprion : 
+	Id : ACbz
+	Name : Blizzard
+	Ubertip : "Calls down <ACbz,DataA1> freezing ice shard waves; each wave deals <ACbz,DataB1> damage to units in a small area."
+
+
+Hero ability list:

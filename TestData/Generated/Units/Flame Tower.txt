@@ -1,0 +1,8 @@
+UnitId : nft1
+Descriprion : 
+	Id : nft1
+	Name : Flame Tower
+	Ubertip : "Have more Damage, more hit points, more armor , life regeneration and do a large but weak AOE attack."
+
+Ability List:
+Hero ability list:

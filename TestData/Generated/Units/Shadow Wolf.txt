@@ -1,0 +1,22 @@
+UnitId : osw3
+Descriprion : 
+	Id : osw3
+	Name : Shadow Wolf
+	Ubertip : 
+
+Ability List:
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+AbilityId : A02X
+Descriprion : 
+	Id : A02X
+	Name : "Critical Strike Wolf"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+Hero ability list:

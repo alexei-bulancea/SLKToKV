@@ -1,0 +1,8 @@
+UnitId : n053
+Descriprion : 
+	Id : n053
+	Name : "Runemaster"
+	Ubertip : "A hearty villager."
+
+Ability List:
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : nrwm
+Descriprion : 
+	Id : nrwm
+	Name : "Darigaaz The Fire Dragon"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A14T
+Descriprion : 
+	Id : A14T
+	Name : "Darigaz Fire"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A061
+Descriprion : 
+	Id : A061
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : n006
+Descriprion : 
+	Id : n006
+	Name : "Skeleton "
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1N6
+Descriprion : 
+	Id : A1N6
+	Name : "Destroy Unit"
+	Ubertip : "Kills the unit making room for new ones to spawn"
+
+
+Hero ability list:

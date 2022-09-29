@@ -1,0 +1,57 @@
+UnitId : N00K
+Descriprion : 
+	Id : N00K
+	Name : Elder Sage
+	Ubertip : 
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Apiv
+Descriprion : 
+	Id : Apiv
+	Name : Permanent Invisibility
+	Ubertip : 
+
+
+AbilityId : Ahid
+Descriprion : 
+	Id : Ahid
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+Hero ability list:
+AbilityId : ACs7
+Descriprion : 
+	Id : ACs7
+	Name : Feral Spirit
+	Ubertip : "Summons <ACs7,DataB1> Spirit Wolf companions. Each wolf has <osw1,realHP> hit points and deals <osw1,mindmg1> - <osw1,maxdmg1> damage. |nLasts <ACs7,Dur1> seconds. |n|n|cffffcc00Attacks land units.|r","Summons <ACs7,DataB2> Spirit Wolf companions that have Critical Strike. Each wolf has <osw2,realHP> hit points and deals <osw2,mindmg1> - <osw2,maxdmg1> damage. |nLasts <ACs7,Dur2> seconds. |n|n|cffffcc00Attacks land units.|r","Summons <ACs7,DataB3> Spirit Wolf companions that have Critical Strike and are invisible unless they are attacking. Each wolf has <osw3,realHP> hit points and deals <osw3,mindmg1> - <osw3,maxdmg1> damage. |nLasts <ACs7,Dur3> seconds. |n|n|cffffcc00Attacks land units.|r"
+
+
+AbilityId : AOcl
+Descriprion : 
+	Id : AOcl
+	Name : "Hell Lightning"
+	Ubertip : "Calls forth a bolt of lightning that deal <AOcl,DataA1> damage.|n|n|cffc3dbffCooldown: 26 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA2> damage.|n|n|cffc3dbffCooldown: 25 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA3> damage.|n|n|cffc3dbffCooldown: 24 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA4> damage.|n|n|cffc3dbffCooldown: 23 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA5> damage.|n|n|cffc3dbffCooldown: 22 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA6> damage.|n|n|cffc3dbffCooldown: 21 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA7> damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA8> damage.|n|n|cffc3dbffCooldown: 19 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA9> damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : AEsh
+Descriprion : 
+	Id : AEsh
+	Name : "Shadow Needle"
+	Ubertip : "Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE1> damage per second for <AEsh,Dur1> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 26 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE2> damage per second for <AEsh,Dur2> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE3> damage per second for <AEsh,Dur3> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE4> damage per second for <AEsh,Dur4> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 23 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE5> damage per second for <AEsh,Dur5> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 22 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE6> damage per second for <AEsh,Dur6> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 20 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE7> damage per second for <AEsh,Dur7> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE8> damage per second for <AEsh,Dur8> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE9> damage per second for <AEsh,Dur9> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 13 seconds.|r"
+
+
+AbilityId : ANr2
+Descriprion : 
+	Id : ANr2
+	Name : Reincarnation
+	Ubertip : "When killed, this Hero will come back to life. Reincarnation has a <ANr2,Cool1> second cooldown."
+
+

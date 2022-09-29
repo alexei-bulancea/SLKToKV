@@ -1,0 +1,29 @@
+UnitId : h04N
+Descriprion : 
+	Id : h04N
+	Name : "Royal Knight"
+	Ubertip : "Powerful mounted warrior. Can learn Animal War Training and Bash. "
+
+Ability List:
+AbilityId : A0TP
+Descriprion : 
+	Id : A0TP
+	Name : "Elune's Grace'"
+	Ubertip : "Reduces the damage taken from Dragons and spells in 70%."
+
+
+AbilityId : A1BR
+Descriprion : 
+	Id : A1BR
+	Name : "Critical Strike DC1"
+	Ubertip : "Gives a 12% chance to do 1.8 times normal damage on an attack."
+
+
+AbilityId : A1WE
+Descriprion : 
+	Id : A1WE
+	Name : "Knight damage"
+	Ubertip : "15% to deal Initial Bonus Armor * 10 + Initial Bonus Damage * 3 in spell damage."
+
+
+Hero ability list:

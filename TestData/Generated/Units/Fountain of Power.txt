@@ -1,0 +1,29 @@
+UnitId : nfnp
+Descriprion : 
+	Id : nfnp
+	Name : Fountain of Power
+	Ubertip : 
+
+Ability List:
+AbilityId : ACnr
+Descriprion : 
+	Id : ACnr
+	Name : Life Regeneration Aura
+	Ubertip : 
+
+
+AbilityId : ANre
+Descriprion : 
+	Id : ANre
+	Name : Mana Regeneration
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

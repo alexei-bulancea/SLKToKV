@@ -1,0 +1,43 @@
+UnitId : nnsu
+Descriprion : 
+	Id : nnsu
+	Name : "Ligeia"
+	Ubertip : "Powerful summoner. Can initially cast Parasite, which damages an enemy unit over time and can spawn a Watery Minion from their corpse. Can also learn Frost Armor, and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A15N
+Descriprion : 
+	Id : A15N
+	Name : Forked Lightning
+	Ubertip : "Calls forth a cone of lightning on a target enemy unit, hitting up to <ACfl,DataB1> enemy units for <ACfl,DataA1> damage.","2","3","4"
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A11F
+Descriprion : 
+	Id : A11F
+	Name : "H Crushing Wave"
+	Ubertip : "Sends a gigantic wave which deals 6000 damage to each enemy land unit in a line and create water elemetals.","2","3","4"
+
+
+AbilityId : A15M
+Descriprion : 
+	Id : A15M
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrh,DataA1> damage to nearby enemy land units and stunning them for <Awrh,Dur1> seconds."
+
+
+Hero ability list:

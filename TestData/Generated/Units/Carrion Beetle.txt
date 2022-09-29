@@ -1,0 +1,22 @@
+UnitId : ucs3
+Descriprion : 
+	Id : ucs3
+	Name : Carrion Beetle
+	Ubertip : 
+
+Ability List:
+AbilityId : A06E
+Descriprion : 
+	Id : A06E
+	Name : "Bash Tower level 2"
+	Ubertip : "Gives a 20% chance that an attack will do 100 bonus damage and stun an opponent for 1.2 seconds."
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

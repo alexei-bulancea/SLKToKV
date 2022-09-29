@@ -1,0 +1,36 @@
+UnitId : unec
+Descriprion : 
+	Id : unec
+	Name : Necromancer
+	Ubertip : "Essential spellcaster. Can initially cast Raise Dead on corpses. Can also learn Unholy Frenzy and Cripple. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Acri
+Descriprion : 
+	Id : Acri
+	Name : Cripple
+	Ubertip : "Reduces movement speed by <Acri,DataA1,%>%, attack rate by <Acri,DataB1,%>%, and damage by <Acri,DataC1,%>% of a target enemy unit. |nLasts <Acri,Dur1> seconds."
+
+
+AbilityId : Arai
+Descriprion : 
+	Id : Arai
+	Name : "Raise DeadFF"
+	Ubertip : "Raises a skeleton from a corpse to fight for you. You can have maximum 2 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have evasion. You can have maximum 2 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have evasion and critical strike. You can have maximum 2 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have evasion and critical strike. You can have maximum 3 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have evasion, mana burn and critical strike. You can have maximum 3 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have a better evasion, mana burn and critical strike. You can have maximum 4 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have a better evasion, better mana burn and critical strike. You can have maximum 4 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have a better evasion, better mana burn and better critical strike.You can have maximum 5 skeletons.","Raises a skeleton from a corpse to fight for you. Skeletons have a better evasion, better mana burn and better critical strike. You can have maximum 3 skeletons."
+
+
+AbilityId : Auhf
+Descriprion : 
+	Id : Auhf
+	Name : "Amplified Spell Damage"
+	Ubertip : "Increases the attack rate of a target unit by <Auhf,DataA1,%>%, but drains <Auhf,DataB1> hit points per second. |nLasts <Auhf,Dur1> seconds."
+
+
+AbilityId : Aiun
+Descriprion : 
+	Id : Aiun
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

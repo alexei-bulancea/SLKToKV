@@ -1,0 +1,29 @@
+UnitId : nfrt
+Descriprion : 
+	Id : nfrt
+	Name : Fruit Stand
+	Ubertip : "The most incredible fruit stand you have ever seen in your entire life."
+
+Ability List:
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+AbilityId : Aneu
+Descriprion : 
+	Id : Aneu
+	Name : Select Hero
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

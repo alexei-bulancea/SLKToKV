@@ -1,0 +1,15 @@
+UnitId : h02U
+Descriprion : 
+	Id : h02U
+	Name : "Book of Attack Speed"
+	Ubertip : "Aura of Attack Speed. "
+
+Ability List:
+AbilityId : S006
+Descriprion : 
+	Id : S006
+	Name : "Book Attack Speed Aura"
+	Ubertip : "Increases all friendly units attack speed by 18%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+Hero ability list:

@@ -1,0 +1,29 @@
+UnitId : nbel
+Descriprion : 
+	Id : nbel
+	Name : Blood Elf Lieutenant
+	Ubertip : "Powerful lieutenants from Prince Kael's Blood Elf army. Experts at destroying spellcasters. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Asps
+Descriprion : 
+	Id : Asps
+	Name : Spell Steal
+	Ubertip : "Steals a positive buff from an enemy unit and applies it to a nearby friendly unit, or takes a negative buff from a friendly unit and applies it to a nearby enemy unit."
+
+
+AbilityId : Amim
+Descriprion : 
+	Id : Amim
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+AbilityId : Aiun
+Descriprion : 
+	Id : Aiun
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

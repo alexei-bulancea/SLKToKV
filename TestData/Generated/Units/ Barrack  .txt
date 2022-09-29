@@ -1,0 +1,15 @@
+UnitId : n01D
+Descriprion : 
+	Id : n01D
+	Name : "Barrack "
+	Ubertip : "Factory unit for spawning Clockwerk Goblins via the Pocket Factory ability."
+
+Ability List:
+AbilityId : ARal
+Descriprion : 
+	Id : ARal
+	Name : Rally
+	Ubertip : 
+
+
+Hero ability list:

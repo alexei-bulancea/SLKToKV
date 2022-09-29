@@ -1,0 +1,22 @@
+UnitId : ngrd
+Descriprion : 
+	Id : ngrd
+	Name : Green Dragon
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A03Z
+Descriprion : 
+	Id : A03Z
+	Name : "Breath of Dragon"
+	Ubertip : "Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds.","Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds.","Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds.","Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

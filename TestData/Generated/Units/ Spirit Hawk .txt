@@ -1,0 +1,50 @@
+UnitId : n01S
+Descriprion : 
+	Id : n01S
+	Name : "Spirit Hawk"
+	Ubertip : 
+
+Ability List:
+AbilityId : Alit
+Descriprion : 
+	Id : Alit
+	Name : Lightning Attack
+	Ubertip : 
+
+
+AbilityId : A1S6
+Descriprion : 
+	Id : A1S6
+	Name : "Spellpower beastmaster"
+	Ubertip : "750 spellpower = +25 armor, +10 life regeneration and + 150 damage.|n1500 spellpower = +60 armor, +25 life regeneration + 50% attack speed and 300 damage.|n2700 spellpower = +140 armor, +600 damage, +50% attack speed, +50 life regeneration."
+
+
+AbilityId : A1S7
+Descriprion : 
+	Id : A1S7
+	Name : "Armor Bonus +25"
+	Ubertip : 
+
+
+AbilityId : A1S8
+Descriprion : 
+	Id : A1S8
+	Name : Item Life Regeneration
+	Ubertip : 
+
+
+AbilityId : A1S9
+Descriprion : 
+	Id : A1S9
+	Name : "Bonus Damage BeastMaster"
+	Ubertip : 
+
+
+AbilityId : A1SA
+Descriprion : 
+	Id : A1SA
+	Name : "Attack Speed BeastMaster"
+	Ubertip : 
+
+
+Hero ability list:

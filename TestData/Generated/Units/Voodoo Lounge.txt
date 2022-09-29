@@ -1,0 +1,36 @@
+UnitId : ovln
+Descriprion : 
+	Id : ovln
+	Name : Voodoo Lounge
+	Ubertip : "Creates a shop with purchasable items. The items available depend upon what level of upgrade your Great Hall has (Great Hall, Stronghold, or Fortress) and which buildings you have."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aall
+Descriprion : 
+	Id : Aall
+	Name : Shop Sharing, Allied Bldg.
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

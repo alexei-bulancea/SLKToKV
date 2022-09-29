@@ -1,0 +1,43 @@
+UnitId : edry
+Descriprion : 
+	Id : edry
+	Name : Dryad
+	Ubertip : "Anti-spellcaster that has a poison attack which slows and damages enemy units. Also has Spell Immunity which renders her invulnerable to magical effects and damage. Can learn Abolish Magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aadm
+Descriprion : 
+	Id : Aadm
+	Name : Abolish Magic
+	Ubertip : "Dispels positive buffs from enemy units, and negative buffs from friendly units. |n|cffffcc00Deals <Aadm,DataB1> damage to summoned units.|r"
+
+
+AbilityId : Amim
+Descriprion : 
+	Id : Amim
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+AbilityId : Aspo
+Descriprion : 
+	Id : Aspo
+	Name : Slow Poison
+	Ubertip : "A poison attack that deals <Aspo,DataA1> damage per second, and slows the target enemy's movement by <Aspo,DataB1,%>% and attack by <Aspo,DataC1,%>% for <Aspo,Dur1> seconds."
+
+
+AbilityId : Aien
+Descriprion : 
+	Id : Aien
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

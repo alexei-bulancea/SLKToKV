@@ -1,0 +1,29 @@
+UnitId : ngad
+Descriprion : 
+	Id : ngad
+	Name : Goblin Laboratory
+	Ubertip : 
+
+Ability List:
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

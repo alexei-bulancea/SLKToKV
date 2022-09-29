@@ -1,0 +1,43 @@
+UnitId : ndqv
+Descriprion : 
+	Id : ndqv
+	Name : "Lesser Vampire"
+	Ubertip : "Medium melee unit that can cast Silence. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ANch
+Descriprion : 
+	Id : ANch
+	Name : "Charm lesVmp"
+	Ubertip : "Takes control of a target enemy unit. |nCharm cannot be used on Heroes, or creeps above level <ANch,DataA1>."
+
+
+AbilityId : A05G
+Descriprion : 
+	Id : A05G
+	Name : Life Drain
+	Ubertip : "Absorbs the life essence of a target enemy unit by taking <ACdr,DataA1> hit points per second from it and giving them to the caster. |nLasts <ACdr,Dur1> seconds."
+
+
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+AbilityId : ACsi
+Descriprion : 
+	Id : ACsi
+	Name : Silence
+	Ubertip : "Stops all enemies in a target area from casting spells for <ACsi,Dur1> seconds."
+
+
+Hero ability list:

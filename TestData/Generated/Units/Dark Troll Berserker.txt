@@ -1,0 +1,15 @@
+UnitId : ndtb
+Descriprion : 
+	Id : ndtb
+	Name : Dark Troll Berserker
+	Ubertip : "Rabid axe-thrower. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+Hero ability list:

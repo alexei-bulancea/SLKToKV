@@ -1,0 +1,15 @@
+UnitId : nmmu
+Descriprion : 
+	Id : nmmu
+	Name : Murloc Mutant
+	Ubertip : "Medium melee unit that can Cripple opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACvs
+Descriprion : 
+	Id : ACvs
+	Name : Envenomed Weapons
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds."
+
+
+Hero ability list:

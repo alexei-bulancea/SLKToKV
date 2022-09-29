@@ -1,0 +1,36 @@
+UnitId : Edmm
+Descriprion : 
+	Id : Edmm
+	Name : "Final"
+	Ubertip : "Cunning Hero, adept at maneuvering through battles. Can learn Immolation, Evasion, Mana Burn, and Metamorphosis. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+AbilityId : A061
+Descriprion : 
+	Id : A061
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+AbilityId : A062
+Descriprion : 
+	Id : A062
+	Name : Doom
+	Ubertip : "Marks a target unit for the manifestation of a Demon. The afflicted unit cannot cast spells and will take <ANdo,DataA1> damage per second until it dies. Upon its death, a great Demon will spawn from its corpse. Doom cannot be dispelled or cancelled."
+
+
+Hero ability list:

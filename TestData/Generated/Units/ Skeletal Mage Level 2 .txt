@@ -1,0 +1,22 @@
+UnitId : u001
+Descriprion : 
+	Id : u001
+	Name : "Skeletal Mage Level 2"
+	Ubertip : 
+
+Ability List:
+AbilityId : A06V
+Descriprion : 
+	Id : A06V
+	Name : "Necro Skeleton Frost Bolt"
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 200 damage and stunning the target for 1 seconds."
+
+
+AbilityId : ACrg
+Descriprion : 
+	Id : ACrg
+	Name : Rain of Fire
+	Ubertip : "Calls down waves of fire that damage units in an area. Each wave deals <ACrg,DataB1> initial damage and <ACrg,DataE1> damage per second for <ACrg,Dur1> seconds. |nLasts for <ACrg,DataA1> waves."
+
+
+Hero ability list:

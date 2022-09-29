@@ -1,0 +1,50 @@
+UnitId : H04C
+Descriprion : 
+	Id : H04C
+	Name : "Skeleton Archer"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0R2
+Descriprion : 
+	Id : A0R2
+	Name : "|cffffcc00G|rrowth Up 8"
+	Ubertip : "Ultimate form of skeleton archer has Frost arrows. This growth costs you 10 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0OG
+Descriprion : 
+	Id : A0OG
+	Name : "Skeletal Bones property"
+	Ubertip : "The skeletons are hard hitting from afar, have a chance 16% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 20% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 25% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 30% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 36% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 42% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 50% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 60% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 70% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r"
+
+
+AbilityId : A0OP
+Descriprion : 
+	Id : A0OP
+	Name : "Skeletal agility"
+	Ubertip : "Increases agility of the Bone Archer by 5. ","Increases agility of the Bone Archer by 10. ","Increases agility of the Bone Archer by 15. ","Increases agility of the Bone Archer by 20. ","Increases agility of the Bone Archer by 30. ","Increases agility of the Bone Archer by 40. ","Increases agility of the Bone Archer by 60. ","Increases agility of the Bone Archer by 80. ","Increases agility of the Bone Archer by 240. "
+
+
+AbilityId : A0OO
+Descriprion : 
+	Id : A0OO
+	Name : "Skeleton Multishot"
+	Ubertip : "Shoot arrows that deal 70 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 150 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 240 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 350 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 500 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 700 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1000 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1300 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1800 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+
+
+AbilityId : ANba
+Descriprion : 
+	Id : ANba
+	Name : "Skeleton Black Arrow"
+	Ubertip : "Adds <ANba,DataA1> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA2> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA3> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA4> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA5> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA6> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA7> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA8> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls.","Adds <ANba,DataA9> bonus damage to attacks. Units killed while under the effect of Black Arrow will turn into Gouls."
+
+

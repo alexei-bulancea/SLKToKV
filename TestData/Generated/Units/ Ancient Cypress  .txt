@@ -1,0 +1,8 @@
+UnitId : h01Z
+Descriprion : 
+	Id : h01Z
+	Name : "Ancient Cypress "
+	Ubertip : "Tower with the highest hit points regeneration of the game."
+
+Ability List:
+Hero ability list:

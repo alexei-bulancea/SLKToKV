@@ -1,0 +1,29 @@
+UnitId : n046
+Descriprion : 
+	Id : n046
+	Name : Black Dragon
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0E9
+Descriprion : 
+	Id : A0E9
+	Name : "Breath of Dragon"
+	Ubertip : "Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds.","2","3","4"
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : npgr
+Descriprion : 
+	Id : npgr
+	Name : "Trophy"
+	Ubertip : 
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

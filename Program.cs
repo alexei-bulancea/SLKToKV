@@ -20,45 +20,62 @@ public class SlkLine
 
 public class SLKToKVCLass
 {
-
+    private const StringComparison selectedCulture = StringComparison.InvariantCultureIgnoreCase;
     static void Main()
     {
         string sCurrentDirectory = AppDomain.CurrentDomain.BaseDirectory;
         var path = Path.Combine(sCurrentDirectory, @"..\..\..\TestData\");
+        var generationDirectory = Directory.CreateDirectory(path + "Generated/");
 
 
-        var itemDescription = ReadAllItemDescription(path);
-        var itemAbilityDescription = ReadItemAbilityDescription(path);
-        var itemWithAbilities= ReadAllITems(path);
+        var gameStrings = ReadAllEntitiesDescription(path);
+        var gameData = ReadGameData(path);
 
-        var itemList = itemWithAbilities.Item1;
-        var abilityList = itemWithAbilities.Item2;
 
+        //Console.WriteLine("Search for unit by id : ");
+        //var selectedId = Console.ReadLine();
+
+        //while (selectedId.Length != 4)
+        //{
+        //    Console.WriteLine("Id should contain 4 chars");
+        //    selectedId = Console.ReadLine();
+        //}
+        var selectedId = "n03M";
+        var notFoundIds = new List<string>();
+        var unitsDirectory = Directory.CreateDirectory(generationDirectory.FullName + "Units/");
+        foreach (var item in gameData.UnitDataList)
+        {
+            var unitInfo = GetUnitInformation(gameStrings, gameData, item.unitBalanceID);
+            notFoundIds.AddRange(unitInfo.Item2);
+            var currentUnitName = gameStrings.FirstOrDefault(x => x.Id.Equals(item.unitBalanceID)).Name.Replace('"', ' ');
+
+            var resultPath = Path.GetFullPath(unitsDirectory + currentUnitName + ".txt");
+            File.WriteAllText(resultPath, unitInfo.Item1);
+        }
+
+        var sb = new StringBuilder();
+        foreach (var item in notFoundIds.Distinct())
+        {
+            sb.AppendLine(item);
+        }
+        File.WriteAllText(unitsDirectory.FullName+"errors.txt", sb.ToString());
+        //Console.WriteLine(unitInfo);
+        //GenerateItems(path, gameStrings, gameData);
+
+        Console.WriteLine("Exiting...");
+    }
+
+    private static void GenerateItems(string generationDirectory, List<GenericDescription> gameStrings, GameTypes gameData)
+    {
         var itemResult = new List<FullItemData>();
-        foreach (var item in itemDescription)
+
+        foreach (var item in gameData.ItemDataList)
         {
-            var currentItem = itemList.FirstOrDefault(x => x.itemID.Equals(item.Id));
-            itemResult.Add(new FullItemData { Description = item, Stats = currentItem});
+            var currentItem = gameStrings.FirstOrDefault(x => x.Id.Equals(item.itemID));
+            itemResult.Add(new FullItemData { Description = currentItem, Stats = item });
         }
 
-        var abilitytListResult = new List<FullAbilityData>();
-        var shortAbility = new List<AbilityDataShort>();
-        foreach (var item in itemAbilityDescription)
-        {
-            var currentItem = abilityList.FirstOrDefault(x => x.alias.Equals(item.Id));
-            abilitytListResult.Add(new FullAbilityData { Description = item, Stats = currentItem });
-            shortAbility.Add(new AbilityDataShort { Id = item.Id, Stat = item.Name, Value = currentItem?.GetDataValue() });
-        }
-
-        var resultBuilder = new StringBuilder();
-        foreach (var item in shortAbility)
-        {
-            resultBuilder.AppendLine(nameof(item.Id) + "            " + item.Id);
-            resultBuilder.AppendLine(nameof(item.Stat) + "            " + item.Stat);
-            resultBuilder.AppendLine(nameof(item.Value) + "            " + item.Value);
-        }
-
-        var itemStringBuilderResult = new StringBuilder();  
+        var itemStringBuilderResult = new StringBuilder();
         foreach (var item in itemResult)
         {
             var currentStringBuilder = new StringBuilder();
@@ -68,10 +85,10 @@ public class SLKToKVCLass
             currentStringBuilder.AppendLine("//============================================================================================");
             currentStringBuilder.AppendLine(currentItemName);
             currentStringBuilder.AppendLine("{");
-            currentStringBuilder.AppendLine(@$"    ""ID"" ""{item.Description.Id}""" );
-            currentStringBuilder.AppendLine(@$"    ""BaseClass"" ""item_datadriven""" );
-            currentStringBuilder.AppendLine(@$"    ""AbilityBehavior"" ""DOTA_ABILITY_BEHAVIOR_PASSIVE""" );
-            currentStringBuilder.AppendLine(@$"    ""AbilityTextureName"" ""item_helm""" );
+            currentStringBuilder.AppendLine(@$"    ""ID"" ""{item.Description.Id}""");
+            currentStringBuilder.AppendLine(@$"    ""BaseClass"" ""item_datadriven""");
+            currentStringBuilder.AppendLine(@$"    ""AbilityBehavior"" ""DOTA_ABILITY_BEHAVIOR_PASSIVE""");
+            currentStringBuilder.AppendLine(@$"    ""AbilityTextureName"" ""item_helm""");
 
             if (item.Stats != null)
             {
@@ -88,64 +105,89 @@ public class SLKToKVCLass
                 currentStringBuilder.AppendLine(@$"    ""ItemDisplayCharges"" ""1""");
                 currentStringBuilder.AppendLine(@$"    ""ItemRequiresCharges"" ""1""");
             }
-                currentStringBuilder.AppendLine(@$"    ""Modifiers""");
-                currentStringBuilder.AppendLine("    {");
-                currentStringBuilder.AppendLine(@$"        ""modifier_{currentItemName}"" ");
-                currentStringBuilder.AppendLine("        {");
+            currentStringBuilder.AppendLine(@$"    ""Modifiers""");
+            currentStringBuilder.AppendLine("    {");
+            currentStringBuilder.AppendLine(@$"        ""modifier_{currentItemName}"" ");
+            currentStringBuilder.AppendLine("        {");
 
-                currentStringBuilder.AppendLine(@$"             ""Passive"" ""1""");
-                currentStringBuilder.AppendLine(@$"             ""IsHidden"" ""1""");
-                currentStringBuilder.AppendLine(@$"             ""Properties""");
+            currentStringBuilder.AppendLine(@$"             ""Passive"" ""1""");
+            currentStringBuilder.AppendLine(@$"             ""IsHidden"" ""1""");
+            currentStringBuilder.AppendLine(@$"             ""Properties""");
 
-                currentStringBuilder.AppendLine("               {");
-
-            if (item.Stats != null)
-            {
-
-                var currentAbilities = item.Stats.abilList.Split(',');
-                foreach (var ability in currentAbilities)
-                {
-                    var abilityInfo = shortAbility.FirstOrDefault(x => x.Id.Equals(ability));
-                    if (abilityInfo == null)
-                        continue;
-                    currentStringBuilder.AppendLine("//" + abilityInfo.Id + "             " + abilityInfo.Stat + "               " + abilityInfo.Value);
-
-                }
-            }
-
+            currentStringBuilder.AppendLine("               {");
             currentStringBuilder.AppendLine();
-                currentStringBuilder.AppendLine("               }");
-                currentStringBuilder.AppendLine("        }");
-                currentStringBuilder.AppendLine("    }");
+            currentStringBuilder.AppendLine("               }");
+            currentStringBuilder.AppendLine("        }");
+            currentStringBuilder.AppendLine("    }");
 
-                currentStringBuilder.AppendLine("}");
+            currentStringBuilder.AppendLine("}");
             itemStringBuilderResult.Append(currentStringBuilder.ToString());
         }
-        var resultPath = Path.GetFullPath(path + "ItemResultData.txt");
+
+        var resultPath = Path.GetFullPath(generationDirectory + "ItemResultData.txt");
         File.WriteAllText(resultPath, itemStringBuilderResult.ToString());
         Console.WriteLine("ItemResultData file was generated at path - " + resultPath);
+    }
 
-        // var abilitytListResult = new List<FullAbilityData>();
-        // var shortAbility = new List<AbilityDataShort>();
-        // foreach (var item in itemAbilityDescription)
-        // {
-        //     var currentItem = abilityList.FirstOrDefault(x => x.alias.Equals(item.Id));
-        //     abilitytListResult.Add(new FullAbilityData { Description = item, Stats = currentItem });
-        //     shortAbility.Add(new AbilityDataShort { Id = item.Id, Stat = item.Name, Value = currentItem?.GetDataValue()});
-        // }
-        //var rrr =  abilitytListResult.Where(x => x.Description != null).ToList();
+    private static Tuple<string, List<string>> GetUnitInformation(List<GenericDescription> gameStrings, GameTypes gameData, string selectedId)
+    {
+        var abilitytListResult = new List<FullAbilityData>();
+        var unitListResult = new List<FullUnitData>();
+        var idsNotFound = new List<string>();
+        foreach (var item in gameData.AbilityDataList)
+        {
+            var currentAbility = gameStrings.FirstOrDefault(x => x.Id.Equals(item.alias));
+            abilitytListResult.Add(new FullAbilityData { AbilityId = currentAbility.Id, Description = currentAbility, Stats = item });
+        }
 
-        // var resultBuilder = new StringBuilder();
-        // foreach (var item in shortAbility)
-        // {
-        //     resultBuilder.AppendLine(nameof(item.Id) + "            " + item.Id );
-        //     resultBuilder.AppendLine(nameof(item.Stat) + "            " + item.Stat);
-        //     resultBuilder.AppendLine(nameof(item.Value) + "            " + item.Value);
-        // }
-        // File.WriteAllText((Path.GetFullPath(path + "abilityItemData.txt"), resultBuilder.ToString());
+        foreach (var item in gameData.UnitDataList)
+        {
+            var currentUnit = gameStrings.FirstOrDefault(x => x.Id.Equals(item.unitBalanceID));
+            unitListResult.Add(new FullUnitData { UnitId = currentUnit.Id, Description = currentUnit, Stats = item });
+        }
 
-        Console.WriteLine("TErminated");
-       // Console.ReadLine();
+        var selectedUnitData = gameData.UnitAbilityDataList.FirstOrDefault(x => x.UnitId.Equals(selectedId, selectedCulture));
+        if (selectedUnitData == null)
+        {
+            Console.WriteLine(@$"Unit with ID : {selectedId} was not find.");
+            return null;
+        }
+        var strBuilder = new StringBuilder();
+
+        strBuilder.Append(unitListResult.First(x => x.UnitId.Equals(selectedId, selectedCulture)).ToString());
+        strBuilder.AppendLine("Ability List:");
+        foreach (var ability in selectedUnitData.AbilityList)
+        {
+            if (ability.Contains('_'))
+            {
+                continue;
+            }
+            var result = abilitytListResult.FirstOrDefault(x => x.AbilityId.Equals(ability, selectedCulture));
+            if (result is null)
+            {
+                idsNotFound.Add(ability);
+                continue;
+            }
+            strBuilder.AppendLine(result.ToString());
+        }
+
+        strBuilder.AppendLine("Hero ability list:");
+        foreach (var ability in selectedUnitData.HeroAbilityList)
+        {
+            if (ability.Contains('_'))
+            {
+                continue;
+            }
+            var result = abilitytListResult.FirstOrDefault(x => x.AbilityId.Equals(ability, selectedCulture));
+            if (result is null)
+            {
+                idsNotFound.Add(ability);
+                continue;
+            }
+            strBuilder.AppendLine(result.ToString());
+        }
+
+        return new Tuple<string, List<string>>(strBuilder.ToString(), idsNotFound);
     }
 
     public void PrintResult(int currentRow, List<SlkLine> slkLines)
@@ -170,62 +212,69 @@ public class SLKToKVCLass
         Console.WriteLine(resultBuilder.ToString());
 
     }
-    public static List<ItemString> ReadAllItemDescription(string path)
+    public static List<GenericDescription> ReadAllEntitiesDescription(string path)
     {
-        var file = File.ReadAllLines(Path.GetFullPath(path + "ItemStrings.txt"));
-
-        var itemList = new List<ItemString>();
-
-        ItemString currentItem = null;
-        var lengthCounter = 0;
-        for (int i = 0; i < file.Length; i++)
+        var objectStrings = Directory.GetFiles(path, "*Strings.txt");
+        var resultStrings = new List<GenericDescription>();
+        foreach (var filePath in objectStrings)
         {
-            var currentValue = file[i];
-            if (currentValue.StartsWith("["))
+            var file = File.ReadAllLines(filePath);
+
+            var itemList = new List<GenericDescription>();
+
+            GenericDescription currentItem = null;
+            var lengthCounter = 0;
+            for (int i = 0; i < file.Length; i++)
             {
-                currentItem = new ItemString();
-                itemList.Add(currentItem);
-                var id = new String(currentValue.Skip(1).Take(4).ToArray<Char>());
-                currentItem.Id = id.Replace("\"", "");
-                lengthCounter++;
+                var currentValue = file[i];
+                if (currentValue.StartsWith("["))
+                {
+                    currentItem = new GenericDescription();
+                    itemList.Add(currentItem);
+                    var id = new String(currentValue.Skip(1).Take(4).ToArray<Char>());
+                    currentItem.Id = id.Replace("\"", "");
+                    lengthCounter++;
+                }
+                else if (currentValue.StartsWith("Name"))
+                {
+                    currentItem.Name = new String(currentValue.Skip(5).ToArray<Char>());
+                }
+                else if (currentValue.StartsWith("Hotkey"))
+                {
+                    currentItem.Hotkey = new String(currentValue.Skip(7).ToArray<Char>());
+                }
+                else if (currentValue.StartsWith("Tip"))
+                {
+                    currentItem.Tip = new String(currentValue.Skip(4).ToArray<Char>());
+                }
+                else if (currentValue.StartsWith("Ubertip"))
+                {
+                    currentItem.Ubertip = new String(currentValue.Skip(8).ToArray<Char>());
+                }
+                else if (currentValue.StartsWith("Description"))
+                {
+                    currentItem.Description = new String(currentValue.Skip(12).ToArray<Char>());
+                }
             }
-            else if (currentValue.StartsWith("Name"))
-            {
-                currentItem.Name = new String(currentValue.Skip(5).ToArray<Char>());
-            }
-            else if (currentValue.StartsWith("Hotkey"))
-            {
-                currentItem.Hotkey = new String(currentValue.Skip(7).ToArray<Char>());
-            }
-            else if (currentValue.StartsWith("Tip"))
-            {
-                currentItem.Tip = new String(currentValue.Skip(4).ToArray<Char>());
-            }
-            else if (currentValue.StartsWith("Ubertip"))
-            {
-                currentItem.Ubertip = new String(currentValue.Skip(8).ToArray<Char>());
-            }
-            else if (currentValue.StartsWith("Description"))
-            {
-                currentItem.Description = new String(currentValue.Skip(12).ToArray<Char>());
-            }
+            resultStrings.AddRange(itemList);
         }
-        return itemList;
+
+        return resultStrings;
     }
 
-    public static List<ItemString> ReadItemAbilityDescription(string path)
+    public static List<GenericDescription> ReadItemAbilityDescription(string path)
     {
         var file = File.ReadAllLines(Path.GetFullPath(path + "ItemAbilityStrings.txt"));
 
-        var itemList = new List<ItemString>();
+        var itemList = new List<GenericDescription>();
 
-        ItemString currentItem = null;
+        GenericDescription currentItem = null;
         for (int i = 0; i < file.Length; i++)
         {
             var currentValue = file[i];
             if (currentValue.StartsWith("["))
             {
-                currentItem = new ItemString();
+                currentItem = new GenericDescription();
                 itemList.Add(currentItem);
                 var id = new String(currentValue.Skip(1).Take(4).ToArray<Char>());
                 currentItem.Id = id.Replace("\"", "");
@@ -243,11 +292,10 @@ public class SLKToKVCLass
         return itemList;
     }
 
-    public static Tuple<List<ItemData>, List<AbilityData>> ReadAllITems(string path)
+    public static GameTypes ReadGameData(string path)
     {
-        var abilityDataList = new List<AbilityData>();
-        var itemDataList = new List<ItemData>();
-        var fileList = new List<string> { "abilitydata.slk", "itemdata.slk" };
+        var gameTypes = new GameTypes();
+        var fileList = new List<string> { "abilitydata.slk", "itemdata.slk", "unitabilities.slk", "unitbalance.slk" };
         foreach (var fileName in fileList)
         {
             string[] text = System.IO.File.ReadAllLines(Path.GetFullPath(path + fileName));
@@ -307,8 +355,10 @@ public class SLKToKVCLass
                 var relatedLines = slkLines.Single(x => x.Row == i);
                 switch (fileName)
                 {
-                    case "abilitydata.slk": abilityDataList.Add(new AbilityData(relatedLines.KeyValue)); break;
-                    case "itemdata.slk": itemDataList.Add(new ItemData(relatedLines.KeyValue)); break;
+                    case "abilitydata.slk": gameTypes.AbilityDataList.Add(new AbilityData(relatedLines.KeyValue)); break;
+                    case "itemdata.slk": gameTypes.ItemDataList.Add(new ItemData(relatedLines.KeyValue)); break;
+                    case "unitabilities.slk": gameTypes.UnitAbilityDataList.Add(new UnitAbility(relatedLines.KeyValue)); break;
+                    case "unitbalance.slk": gameTypes.UnitDataList.Add(new UnitData(relatedLines.KeyValue)); break;
                     default:
                         break;
                 }
@@ -317,7 +367,7 @@ public class SLKToKVCLass
 
         }
         var resultBuilder = new StringBuilder();
-        foreach (var item in itemDataList)
+        foreach (var item in gameTypes.ItemDataList)
         {
             //if (item.abilList.Contains('_'))
             //{
@@ -336,9 +386,9 @@ public class SLKToKVCLass
             //resultBuilder.Append(itemWithAbility);
 
         }
-        var resultPath = Path.GetFullPath(path + "itemdata.txt");
-        File.WriteAllText(resultPath, resultBuilder.ToString());
-        Console.WriteLine("ItemData file was generated at path - " + resultPath);
-        return new Tuple<List<ItemData>, List<AbilityData>>(itemDataList, abilityDataList);
+        //var resultPath = Path.GetFullPath(path + "itemdata.txt");
+        //File.WriteAllText(resultPath, resultBuilder.ToString());
+        //Console.WriteLine("ItemData file was generated at path - " + resultPath);
+        return gameTypes;
     }
 }

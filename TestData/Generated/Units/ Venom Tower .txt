@@ -1,0 +1,15 @@
+UnitId : o00X
+Descriprion : 
+	Id : o00X
+	Name : "Venom Tower"
+	Ubertip : "Have more attack and move speed reduction and the same poison damage . "
+
+Ability List:
+AbilityId : A0KD
+Descriprion : 
+	Id : A0KD
+	Name : "Poison Tower Attack 3"
+	Ubertip : "Deals 500 poison damage per second and reduce move speed and attack speed by 15%. |nLasts 20 seconds.|n|n|cffff0000Poison attack do not stack with each others|r."
+
+
+Hero ability list:

@@ -1,0 +1,57 @@
+UnitId : E00X
+Descriprion : 
+	Id : E00X
+	Name : "Thief"
+	Ubertip : "Cunning Hero, adept at gaining gold and dealing high damage for a short time. Can learn Steal, Speed Absorbtion, Cut and Seize, Assassin Steps and Soul Theft.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0TH
+Descriprion : 
+	Id : A0TH
+	Name : "Soul Steal"
+	Ubertip : "Steal the soul of target enemy, target lose 50% of his damage and 50% of his current hit points last 6 seconds, them damage and hit points return to the owner. Lost of hit points cant be reduced, duration of hit points return cant be reduced.|n|n|cffc3dbffCooldown: 200 seconds.|r","Steal the soul of target enemy, target lose 50% of his damage and 50% of his current hit points last 8 seconds, them damage and hit points return to the owner. Lost of hit points cant be reduced, duration of hit points return cant be reduced.|n|n|cffc3dbffCooldown: 190 seconds.|r","Steal the soul of target enemy, target lose 50% of his damage and 50% of his current hit points last 10 seconds, them damage and hit points return to the owner. Lost of hit points cant be reduced, duration of hit points return cant be reduced.|n|n|cffc3dbffCooldown: 180 seconds.|r","Steal the soul of target enemy, target lose 50% of his damage and 50% of his current hit points last 12 seconds, them damage and hit points return to the owner. Lost of hit points cant be reduced, duration of hit points return cant be reduced.|n|n|cffc3dbffCooldown: 150 seconds.|r"
+
+
+AbilityId : A0T5
+Descriprion : 
+	Id : A0T5
+	Name : "Steal"
+	Ubertip : "Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 24% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 200 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 21% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 190 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 18% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 180 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 15% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 170 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 12% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 150 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 9% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 130 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 6% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 110 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal have 3% chance to miss. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 90 seconds.|r","Steal an item or gold from target enemy, target must be damaged (90% of his total hit points or less) item quality and gold amount depends of how strong the target is. Steal can stop channeling spells.|n|n|cffc3dbffCooldown: 60 seconds.|r"
+
+
+AbilityId : Asal
+Descriprion : 
+	Id : Asal
+	Name : Pillage
+	Ubertip : "Gain 2% of the damage deal in gold, decimals are added.","Gain 3% of the damage deal in gold, decimals are added.","Gain 4% of the damage deal in gold, decimals are added.","Gain 5% of the damage deal in gold, decimals are added.","Gain 6% of the damage deal in gold, decimals are added.","Gain 7% of the damage deal in gold, decimals are added.","Gain 8% of the damage deal in gold, decimals are added.","Gain 10% of the damage deal in gold, decimals are added.","Gain 15% of the damage deal in gold, decimals are added."
+
+
+AbilityId : A0SZ
+Descriprion : 
+	Id : A0SZ
+	Name : "Speed steal"
+	Ubertip : "Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 20%, move speed by 40% and increasing Thief agility by 2 for every unit around. Last 4 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 25%, move speed by 40% and increasing Thief agility by 4 for every unit around. Last 5 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 30%, move speed by 40% and increasing Thief agility by 6 for every unit around. Last 6 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 35%, move speed by 40% and increasing Thief agility by 8 for every unit around. Last 7 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 40%, move speed by 40% and increasing Thief agility by 10 for every unit around. Last 8 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 45%, move speed by 40% and increasing Thief agility by 12 for every unit around. Last 9 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 50%, move speed by 40% and increasing Thief agility by 14 for every unit around. Last 10 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 60%, move speed by 40% and increasing Thief agility by 16 for every unit around. Last 11 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r","Steal the speed of all enemies around Thief in 400 area of effect, reducing attack speed by 70%, move speed by 40% and increasing Thief agility by 18 for every unit around. Last 12 seconds. |n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A0T4
+Descriprion : 
+	Id : A0T4
+	Name : "Assassin Steps"
+	Ubertip : "Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 3 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 3.5 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 4 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 4.5 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 5 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 5.5 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 6 seconds.|n|n|cffc3dbffCooldown: 37 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 6.5 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 7 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r"
+
+

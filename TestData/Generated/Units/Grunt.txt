@@ -1,0 +1,15 @@
+UnitId : ogru
+Descriprion : 
+	Id : ogru
+	Name : Grunt
+	Ubertip : "Brutish Orc warrior. Can learn Berserker Strength. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:

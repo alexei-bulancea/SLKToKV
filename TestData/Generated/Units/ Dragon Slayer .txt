@@ -1,0 +1,50 @@
+UnitId : H04Q
+Descriprion : 
+	Id : H04Q
+	Name : "Dragon Slayer"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1QT
+Descriprion : 
+	Id : A1QT
+	Name : "Dragon Slayer Skill"
+	Ubertip : "Create a wave of fire that stuns and deals damage to its target. Deals 950 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 1900 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 58 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 2850 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 56 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 3800 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 54 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 4750 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 52 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 5700 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 6650 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 48 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 7600 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 45 seconds.|r","Create a wave of fire that stuns and deals damage to its target. Deals 8550 + 11% of max HP of the targeted unit and stuns it for 4 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r"
+
+
+AbilityId : A1WF
+Descriprion : 
+	Id : A1WF
+	Name : "Swordman Final"
+	Ubertip : "Enchant your armor, shield and weapon increasing your damage in 100% of base damage and strength bonus, armor and life regeneration rate in 200. Last 36 seconds.|n|n|cffc3dbffCooldown: 180 seconds.|r","Enchant your armor, shield and weapon increasing your damage in 160% of base damage and strength bonus, armor and life regeneration rate in 260. Last 36 seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r","Enchant your armor, shield and weapon increasing your damage in 250% of base damage and strength bonus, armor and life regeneration rate in 400. Last 36 seconds.|n|n|cffc3dbffCooldown: 140 seconds.|r","Enchant your armor, shield and weapon increasing your damage in 350% of base damage and strength bonus, armor and life regeneration rate in 600. Last 36 seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r","Enchant your armor, shield and weapon increasing your damage in 500% of base damage and strength bonus, armor and life regeneration rate in 1000. Last 36 seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r","Slams the ground, dealing <AHtc,DataA6> damage to nearby enemy land units and slowing their movement by <AHtc,DataC6,%>% and attack rate by <AHtc,DataD6,%>%, last 8 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Slams the ground, dealing <AHtc,DataA7> damage to nearby enemy land units and slowing their movement by <AHtc,DataC7,%>% and attack rate by <AHtc,DataD7,%>%, last 9 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing <AHtc,DataA8> damage to nearby enemy land units and slowing their movement by <AHtc,DataC8,%>% and attack rate by <AHtc,DataD8,%>%, last 10 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Slams the ground, dealing <AHtc,DataA9> damage to nearby enemy land units and slowing their movement by <AHtc,DataC9,%>% and attack rate by <AHtc,DataD9,%>%, last 11 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : A1Q9
+Descriprion : 
+	Id : A1Q9
+	Name : "Enchanted Armor"
+	Ubertip : "Gives 10% spell resistance and 3 hp regeneration","Gives 15% spell resistance and 6 hp regeneration","Gives 20% spell resistance and 10 hp regeneration","Gives 25% spell resistance and 15 hp regeneration","Gives 30% spell resistance and 22 hp regeneration","Gives 35% spell resistance and 30 hp regeneration","Gives 50% spell resistance and 39 hp regeneration","Gives 65% spell resistance and 50 hp regeneration","Gives 80% spell resistance and 72 hp regeneration"
+
+
+AbilityId : A1P4
+Descriprion : 
+	Id : A1P4
+	Name : "Swordman Stance"
+	Ubertip : "Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 65 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 57 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 53 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 48 seconds.|r","Change to guard stance Increasing your armor by 10, HP by 100 permanently and armor by 1500 for 15 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r"
+
+
+AbilityId : A1WG
+Descriprion : 
+	Id : A1WG
+	Name : "Inner Might"
+	Ubertip : "Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 6 seconds.|n|n|cffc3dbffCooldown: 80 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 9 seconds.|n|n|cffc3dbffCooldown: 78 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 12 seconds.|n|n|cffc3dbffCooldown: 76 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 15 seconds.|n|n|cffc3dbffCooldown: 74 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 18 seconds.|n|n|cffc3dbffCooldown: 72 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 21 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 24 seconds.|n|n|cffc3dbffCooldown: 68 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 27 seconds.|n|n|cffc3dbffCooldown: 66 seconds|r","Increase your base STR by 5 times. While your str is increased you lose 1000 armor. lasts 30 seconds.|n|n|cffc3dbffCooldown: 64 seconds|r"
+
+

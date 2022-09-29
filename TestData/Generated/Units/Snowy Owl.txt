@@ -1,0 +1,15 @@
+UnitId : nsno
+Descriprion : 
+	Id : nsno
+	Name : Snowy Owl
+	Ubertip : "Call upon the spirit of Snowy Owl to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

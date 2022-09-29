@@ -1,0 +1,22 @@
+UnitId : o00S
+Descriprion : 
+	Id : o00S
+	Name : "Gelid Tower"
+	Ubertip : "Are strong but have single target attack. "
+
+Ability List:
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+AbilityId : A0KA
+Descriprion : 
+	Id : A0KA
+	Name : "G.S.Frozen Gelid Tower"
+	Ubertip : "Gives a 14% chance that an attack will Frozen an opponent for 2.4 seconds and do 1000 bonus damage."
+
+
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : egol
+Descriprion : 
+	Id : egol
+	Name : Entangled Gold Mine
+	Ubertip : "A cluster of roots that allows wisps to mine gold from goldmines."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aenc
+Descriprion : 
+	Id : Aenc
+	Name : Load
+	Ubertip : "Orders a Wisp to enter the gold mine."
+
+
+AbilityId : Slo2
+Descriprion : 
+	Id : Slo2
+	Name : Load Wisp
+	Ubertip : "Loads a targeted friendly Wisp."
+
+
+AbilityId : Adri
+Descriprion : 
+	Id : Adri
+	Name : Unload Instant
+	Ubertip : "Unloads all units."
+
+
+AbilityId : Aegm
+Descriprion : 
+	Id : Aegm
+	Name : Entangled Gold Mine Ability
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : e00J
+Descriprion : 
+	Id : e00J
+	Name : "Ancient Oak "
+	Ubertip : "Have more damage, range and hit points and have a high chance to slow down enemys."
+
+Ability List:
+AbilityId : A0JR
+Descriprion : 
+	Id : A0JR
+	Name : "Slow down l3"
+	Ubertip : "Gives a 80% chance that an attack will do 800 bonus damage and slow down the enemy, this attack cant miss."
+
+
+Hero ability list:

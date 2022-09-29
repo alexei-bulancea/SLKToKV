@@ -1,0 +1,57 @@
+UnitId : uktg
+Descriprion : 
+	Id : uktg
+	Name : "Kel'Thuzad'"
+	Ubertip : 
+
+Ability List:
+AbilityId : A15R
+Descriprion : 
+	Id : A15R
+	Name : "NNW"
+	Ubertip : "Causes this unit to attack <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage.","2","3","4"
+
+
+AbilityId : A15P
+Descriprion : 
+	Id : A15P
+	Name : Hex
+	Ubertip : "Transforms an enemy unit into a random critter for <AChx,Dur1> seconds.","2","3","4"
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+AbilityId : ACsl
+Descriprion : 
+	Id : ACsl
+	Name : Sleep
+	Ubertip : "Puts a target enemy unit to sleep for <ACsl,Dur1> seconds. A sleeping unit can be awoken by attacking it."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : h02K
+Descriprion : 
+	Id : h02K
+	Name : "Pure Gold"
+	Ubertip : "Increases your gold in 80 per second."
+
+Ability List:
+AbilityId : A0KP
+Descriprion : 
+	Id : A0KP
+	Name : "Gold Mine 80"
+	Ubertip : 
+
+
+Hero ability list:

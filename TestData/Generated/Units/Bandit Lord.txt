@@ -1,0 +1,15 @@
+UnitId : nbld
+Descriprion : 
+	Id : nbld
+	Name : Bandit Lord
+	Ubertip : "Heavy melee unit with Shadowmeld and Devotion Aura. Can cast Divine Shield. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : hrtt
+Descriprion : 
+	Id : hrtt
+	Name : Siege Engine
+	Ubertip : "Heavily armored vehicle, effective at destroying buildings. Has the Barrage ability, which fires rockets at nearby enemy air units. |n|n|cffffcc00Attacks buildings.|r"
+
+Ability List:
+AbilityId : Aroc
+Descriprion : 
+	Id : Aroc
+	Name : "Multiple Arrow"
+	Ubertip : "Can shot three arrows at the same time.","Can shot four arrows at the same time.After 30 consecutive attacks deal 40 times your agility in spell damage.",".Can shot six arrows at the same time. After 30 consecutive attacks deal 60 times your agility in spell damage.","Can shot nine arrows at the same time. After 30 consecutive attacks deal 80 times your agility in spell damage."
+
+
+Hero ability list:

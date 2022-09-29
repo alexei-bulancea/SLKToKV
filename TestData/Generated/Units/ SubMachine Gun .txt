@@ -1,0 +1,29 @@
+UnitId : h00N
+Descriprion : 
+	Id : h00N
+	Name : "SubMachine Gun"
+	Ubertip : "Have more damage, a lot of more attack speed, more armor, more hit points, have hit points regeneration and a Greater HeadShot."
+
+Ability List:
+AbilityId : A066
+Descriprion : 
+	Id : A066
+	Name : "Greater HeadShot"
+	Ubertip : "Gives a 30% chance that an attack will do 300 bonus damage and stun an opponent for 0.3 seconds."
+
+
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

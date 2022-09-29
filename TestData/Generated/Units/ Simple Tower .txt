@@ -1,0 +1,8 @@
+UnitId : o00E
+Descriprion : 
+	Id : o00E
+	Name : "Simple Tower"
+	Ubertip : "Can be upgrade into poison towers"
+
+Ability List:
+Hero ability list:

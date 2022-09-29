@@ -1,0 +1,15 @@
+UnitId : nzom
+Descriprion : 
+	Id : nzom
+	Name : Zombie
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A08C
+Descriprion : 
+	Id : A08C
+	Name : "Zombie Toxin"
+	Ubertip : "Deals 12 poison damage per second. |nLasts 12 seconds."
+
+
+Hero ability list:

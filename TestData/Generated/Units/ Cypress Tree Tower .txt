@@ -1,0 +1,8 @@
+UnitId : h01U
+Descriprion : 
+	Id : h01U
+	Name : "Cypress Tree Tower"
+	Ubertip : "All Plants Tower have a lot of life regeneration and the powers of nature."
+
+Ability List:
+Hero ability list:

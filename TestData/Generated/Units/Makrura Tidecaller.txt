@@ -1,0 +1,22 @@
+UnitId : nltc
+Descriprion : 
+	Id : nltc
+	Name : Makrura Tidecaller
+	Ubertip : "Light ranged unit with Heal and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Anh1
+Descriprion : 
+	Id : Anh1
+	Name : Heal
+	Ubertip : "Heals a target friendly non-mechanical wounded unit."
+
+
+AbilityId : ACf2
+Descriprion : 
+	Id : ACf2
+	Name : Frost Armor
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds <ACfa,DataB1> armor and slows melee units that attack it for <ACfa,Dur1> seconds. |nLasts <ACfa,DataA1> seconds."
+
+
+Hero ability list:

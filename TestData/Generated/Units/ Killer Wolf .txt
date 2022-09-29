@@ -1,0 +1,29 @@
+UnitId : o01D
+Descriprion : 
+	Id : o01D
+	Name : "Killer Wolf"
+	Ubertip : 
+
+Ability List:
+AbilityId : A0YI
+Descriprion : 
+	Id : A0YI
+	Name : "Evasion 35%"
+	Ubertip : "Gives a 35% percent chance to avoid an attack."
+
+
+AbilityId : A02X
+Descriprion : 
+	Id : A02X
+	Name : "Critical Strike Wolf"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+AbilityId : A0WU
+Descriprion : 
+	Id : A0WU
+	Name : "Spell Damage Reduction 80"
+	Ubertip : 
+
+
+Hero ability list:

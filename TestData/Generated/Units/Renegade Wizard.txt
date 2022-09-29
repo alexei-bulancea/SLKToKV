@@ -1,0 +1,22 @@
+UnitId : nwzg
+Descriprion : 
+	Id : nwzg
+	Name : Renegade Wizard
+	Ubertip : "Medium ranged unit that can cast Purge and Lightning Shield. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACpu
+Descriprion : 
+	Id : ACpu
+	Name : Purge
+	Ubertip : "Removes all buffs from a target unit, and slows its movement speed by a factor of <ACpu,DataA1>. Purged units will slowly regain their movement speed over <ACpu,Dur1> seconds. |n|cffffcc00Deals <ACpu,DataC1> damage to summoned units.|r"
+
+
+AbilityId : ACls
+Descriprion : 
+	Id : ACls
+	Name : Lightning Shield
+	Ubertip : "Forms a shield of electricity around a target unit, dealing <ACls,DataA1> damage per second to units around it. |nLasts <ACls,Dur1> seconds."
+
+
+Hero ability list:

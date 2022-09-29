@@ -1,0 +1,22 @@
+UnitId : ehip
+Descriprion : 
+	Id : ehip
+	Name : Hippogryph
+	Ubertip : "Flying melee attack beast. Can learn the Hippogryph Taming ability. |n|n|cffffcc00Attacks air units.|r"
+
+Ability List:
+AbilityId : Aco3
+Descriprion : 
+	Id : Aco3
+	Name : Pick up Archer
+	Ubertip : "Picks up an Archer so that the Archer can attack from the air. |n|n|cffffcc00Attacks land and air units.|r"
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

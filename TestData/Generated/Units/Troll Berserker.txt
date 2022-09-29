@@ -1,0 +1,22 @@
+UnitId : otbk
+Descriprion : 
+	Id : otbk
+	Name : Troll Berserker
+	Ubertip : "Versatile spear-thrower, effective against air units. Has the Berserk ability, which allows it to deal more damage, but take more damage when attacked. Can learn Troll Regeneration. |n|n|cffffcc00Attacks land and air units.|r "
+
+Ability List:
+AbilityId : Absk
+Descriprion : 
+	Id : Absk
+	Name : "Stim Pack offic"
+	Ubertip : "Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB1> damage to yourself. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB2> damage to yourself. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 28 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB3> damage to yourself. |nLasts 7 seconds.|n|n|cffc3dbffCooldown: 26 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB4> damage to yourself. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB5> damage to yourself. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB6> damage to yourself. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB7> damage to yourself. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 22 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB8> damage to yourself. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 21 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB9> damage to yourself. |nLasts 18 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+
+
+AbilityId : Aion
+Descriprion : 
+	Id : Aion
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

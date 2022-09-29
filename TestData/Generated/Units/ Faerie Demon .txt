@@ -1,0 +1,22 @@
+UnitId : efdr
+Descriprion : 
+	Id : efdr
+	Name : "Faerie Demon"
+	Ubertip : "Small flying creature adept at harming spellcasters and avoiding damage. Has Spell Immunity, Phase Shift and Mana Flare. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A171
+Descriprion : 
+	Id : A171
+	Name : "Faerie Blessings"
+	Ubertip : "Increases hero base Intelligence by 4."
+
+
+AbilityId : A170
+Descriprion : 
+	Id : A170
+	Name : Forked Lightning
+	Ubertip : "Calls forth a cone of lightning on a target enemy unit, hitting up to 3 enemy units for 1100 damage."
+
+
+Hero ability list:

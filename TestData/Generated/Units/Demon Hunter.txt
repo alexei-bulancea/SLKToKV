@@ -1,0 +1,57 @@
+UnitId : E004
+Descriprion : 
+	Id : E004
+	Name : Demon Hunter
+	Ubertip : "Cunning Hero, adept at maneuvering through battles. Can learn Rain of Fire, Killer Instict, Vampiric Aura, Demonic Reflexs and Demonic Speed."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1LH
+Descriprion : 
+	Id : A1LH
+	Name : "killer instic"
+	Ubertip : "Increase base damage in 20%. hit points regeneration by 3 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 40%. hit points regeneration by 4 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 60%. hit points regeneration by 6 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 80%. hit points regeneration by 8 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 100%. hit points regeneration by 10 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 120%. hit points regeneration by 13 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 140%. hit points regeneration by 17 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 160%. hit points regeneration by 22 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 180%. hit points regeneration by 40 for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : ANcs
+Descriprion : 
+	Id : ANcs
+	Name : "Rain of Fire II"
+	Ubertip : "Bombards an area with fire , dealing 30 damage per fire bolt (4) to nearby enemy units and stunning them for 1.2 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 40 damage per fire bolt (5) to nearby enemy units and stunning them for 1.4 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 50 damage per fire bolt (6) to nearby enemy units and stunning them for 1.7 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 60 damage per fire bolt (7) to nearby enemy units and stunning them for 2 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 80 damage per fire bolt (8) to nearby enemy units and stunning them for 2.4 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 100 damage per fire bolt (9) to nearby enemy units and stunning them for 2.8 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 120 damage per fire bolt (10) to nearby enemy units and stunning them for 3.3 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 140 damage per fire bolt (12) to nearby enemy units and stunning them for 4 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r","Bombards an area with fire , dealing 160 damage per fire bolt (14) to nearby enemy units and stunning them for 5 second. Effect have one second delay after cast.|nIf your spellpower is greater than 1400 it will also increase 3 base Strength.|n|n|cffc3dbffCooldown: 12 seconds.|r"
+
+
+AbilityId : AUav
+Descriprion : 
+	Id : AUav
+	Name : "Vampiric Aura I"
+	Ubertip : "Gain <AUav,DataA1,%>% of your attack damage when hit enemy units and increases base strength by 3.","Gain <AUav,DataA2,%>% of your attack damage when hit enemy units and increases base strength by 6.","Gain <AUav,DataA3,%>% of your attack damage when hit enemy units and increases base strength by 9.","Gain <AUav,DataA4,%>% of your attack damage when hit enemy units and increases base strength by 12.","Gain <AUav,DataA5,%>% of your attack damage when hit enemy units and increases base strength by 15.","Gain <AUav,DataA6,%>% of your attack damage when hit enemy units and increases base strength by 18.","Gain <AUav,DataA7,%>% of your attack damage when hit enemy units and increases base strength by 21.","Gain <AUav,DataA8,%>% of your attack damage when hit enemy units and increases base strength by 24.","Gain <AUav,DataA9,%>% of your attack damage when hit enemy units and increases base strength by 27."
+
+
+AbilityId : Acdb
+Descriprion : 
+	Id : Acdb
+	Name : Drunken Brawler
+	Ubertip : "Gives a <Acdb,DataD1,%>% chance to dodge an attack and a <Acdb,DataA1>% chance to deal <Acdb,DataB1> times normal damage.","Gives a <Acdb,DataD2,%>% chance to dodge an attack and a <Acdb,DataA2>% chance to deal <Acdb,DataB2> times normal damage.","Gives a <Acdb,DataD3,%>% chance to dodge an attack and a <Acdb,DataA3>% chance to deal <Acdb,DataB3> times normal damage.","Gives a <Acdb,DataD4,%>% chance to dodge an attack and a <Acdb,DataA4>% chance to deal <Acdb,DataB4> times normal damage.","Gives a <Acdb,DataD5,%>% chance to dodge an attack and a <Acdb,DataA5>% chance to deal 2.3 times normal damage.","Gives a <Acdb,DataD6,%>% chance to dodge an attack and a <Acdb,DataA6>% chance to deal 2.6 times normal damage.","Gives a <Acdb,DataD7,%>% chance to dodge an attack and a <Acdb,DataA7>% chance to deal 2.9 times normal damage.","Gives a <Acdb,DataD8,%>% chance to dodge an attack and a <Acdb,DataA8>% chance to deal 3.2 times normal damage.","Gives a <Acdb,DataD9,%>% chance to dodge an attack and a <Acdb,DataA9>% chance to deal 3.6 times normal damage."
+
+
+AbilityId : A12Z
+Descriprion : 
+	Id : A12Z
+	Name : "Demonic Speed S"
+	Ubertip : "Increases attack rate by 200%, movement speed by 40% and Damage by 200 for 10 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 220 seconds.|r","Increases attack rate by 210%, movement speed by 50% and damage by 200 for 18 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 180 seconds.|r","Increases attack rate by 220%, movement speed by 60% and Damage by 200 for 26 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 140 seconds.|r","Increases attack rate by 250%, movement speed by 80% and Damage by 200 for 34 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 100 seconds.|r"
+
+

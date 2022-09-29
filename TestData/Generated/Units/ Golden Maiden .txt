@@ -1,0 +1,36 @@
+UnitId : n03U
+Descriprion : 
+	Id : n03U
+	Name : "Golden Maiden"
+	Ubertip : 
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : A1EO
+Descriprion : 
+	Id : A1EO
+	Name : "MaidRA"
+	Ubertip : "Increases nearby friendly units' movement speed by 30% and life regeneration rate by 10."
+
+
+AbilityId : A1EM
+Descriprion : 
+	Id : A1EM
+	Name : "PH HLM"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

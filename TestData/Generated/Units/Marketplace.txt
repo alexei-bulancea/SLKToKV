@@ -1,0 +1,43 @@
+UnitId : n001
+Descriprion : 
+	Id : n001
+	Name : Marketplace
+	Ubertip : 
+
+Ability List:
+AbilityId : Aneu
+Descriprion : 
+	Id : Aneu
+	Name : Select Hero
+	Ubertip : 
+
+
+AbilityId : Asid
+Descriprion : 
+	Id : Asid
+	Name : Sell Items
+	Ubertip : "Permits the sale of items."
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Asud
+Descriprion : 
+	Id : Asud
+	Name : Sell Units
+	Ubertip : "Permits the sale of units."
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

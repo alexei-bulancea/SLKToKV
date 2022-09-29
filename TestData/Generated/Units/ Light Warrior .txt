@@ -1,0 +1,15 @@
+UnitId : h03L
+Descriprion : 
+	Id : h03L
+	Name : "Light Warrior"
+	Ubertip : "Versatile foot soldier. have Defends abilitys."
+
+Ability List:
+AbilityId : Assk
+Descriprion : 
+	Id : Assk
+	Name : Hardened Skin
+	Ubertip : "Reduces all attacks on this unit by 12 damage. Attacks cannot be reduced below 1 damage."
+
+
+Hero ability list:

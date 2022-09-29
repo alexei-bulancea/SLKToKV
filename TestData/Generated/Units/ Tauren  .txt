@@ -1,0 +1,50 @@
+UnitId : O002
+Descriprion : 
+	Id : O002
+	Name : "Tauren "
+	Ubertip : "Warrior Hero, exceptional at absorbing damage and melee combat. Can learn War Stomp, Impale, Iron Skin, Mounstrous Growth and Avatar."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AOw2
+Descriprion : 
+	Id : AOw2
+	Name : "War Stomp [W]"
+	Ubertip : "Slams the ground, dealing <AOw2,DataA1> damage to nearby enemy land units and stunning them for 2 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Slams the ground, dealing <AOw2,DataA2> damage to nearby enemy land units and stunning them for 2.25 seconds.|n|n|cffc3dbffCooldown: 14.5 seconds.|r","Slams the ground, dealing <AOw2,DataA3> damage to nearby enemy land units and stunning them for 2.5 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Slams the ground, dealing <AOw2,DataA4> damage to nearby enemy land units and stunning them for 2.75 seconds.|n|n|cffc3dbffCooldown: 13.5 seconds.|r","Slams the ground, dealing <AOw2,DataA5> damage to nearby enemy land units and stunning them for 3 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Slams the ground, dealing <AOw2,DataA6> damage to nearby enemy land units and stunning them for 3.4 seconds.|n|n|cffc3dbffCooldown: 12.5 seconds.|r","Slams the ground, dealing <AOw2,DataA7> damage to nearby enemy land units and stunning them for 4 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing <AOw2,DataA8> damage to nearby enemy land units and stunning them for 5 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Slams the ground, dealing <AOw2,DataA9> damage to nearby enemy land units and stunning them for 6 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : A0V6
+Descriprion : 
+	Id : A0V6
+	Name : "Titan Form [T]"
+	Ubertip : "Increases your hitpoints by 2.5 times + 5x spellpower and life regeneration by 2% of your total hit points. also fully heals you upon cast if the ability is not already active and on duration end, last 10 seconds.|n|n|cffc3dbffCooldown: 220 seconds.|r","Increases your hitpoints by 2.5 times + 5x spellpower and life regeneration by 2% of your total hit points. also fully heals you upon cast if the ability is not already active and on duration end, last 18 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Increases your hitpoints by 2.5 times + 5x spellpower and life regeneration by 2% of your total hit points. also fully heals you upon cast if the ability is not already active and on duration end, last 26 seconds.|n|n|cffc3dbffCooldown: 170 seconds.|r","Increases your hitpoints by 2.5 times + 5x spellpower and life regeneration by 2% of your total hit points. also fully heals you upon cast if the ability is not already active and on duration end, last 42 seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r"
+
+
+AbilityId : A1A4
+Descriprion : 
+	Id : A1A4
+	Name : "Destructive Strike [Q]"
+	Ubertip : "Damage target enemy for 4% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Damage target enemy for 5% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 17 seconds.|r","Damage target enemy for 6% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Damage target enemy for 7% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Damage target enemy for 8% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Damage target enemy for 9% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Damage target enemy for 10% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r","Damage target enemy for 11% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Damage target enemy for 12% of your total hit points and stun the target for 1.2 seconds.|n|n|cffc3dbffCooldown: 6 seconds.|r"
+
+
+AbilityId : AUts
+Descriprion : 
+	Id : AUts
+	Name : "Iron Skin"
+	Ubertip : "The skin of Goliath becomes hard like iron. Give <AUts,DataC1> bonus armor and 11% chance to heal 6% of your total hit points and deal 60% this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC2> bonus armor and 22% chance to heal 6% of your total hit points and deal 1.2 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC3> bonus armor and 33% chance to heal 6% of your total hit points and deal 1.8 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC4> bonus armor and 44% chance to heal 6% of your total hit points and deal 2.4 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC5> bonus armor and 56% chance to heal 6% of your total hit points and deal 3 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC6> bonus armor and 67% chance to heal 6% of your total hit points and deal 3.6 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC7> bonus armor and 78% chance to heal 6% of your total hit points and deal 4.2 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC8> bonus armor and 89% chance to heal 6% of your total hit points and deal 4.8 times this amount in spell damage in 400 Aoe when you cast a spell.","The skin of Goliath becomes hard like iron. Give <AUts,DataC9> bonus armor and heal 6% of your total hit points and deal 5.4 times this amount in spell damage in 400 Aoe when you cast a spell."
+
+
+AbilityId : A1W9
+Descriprion : 
+	Id : A1W9
+	Name : "Tauren Monstrous Growth"
+	Ubertip : "Increases Tauren's Hit points by 320.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 120 seconds.|r","Increases Tauren's Hit points by 600.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 115 seconds.|r","Increases Tauren's Hit points by 950.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 110 seconds.|r","Increases Tauren's Hit points by 1400.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 102 seconds.|r","Increases Tauren's Hit points by 2000.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 94 seconds.|r","Increases Tauren's Hit points by 3100.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 86 seconds.|r","Increases Tauren's Hit points by 5200.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 78 seconds.|r","Increases Tauren's Hit points by 8100.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 70 seconds.|r","Increases Tauren's Hit points by 16500.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 65 seconds.|r"
+
+

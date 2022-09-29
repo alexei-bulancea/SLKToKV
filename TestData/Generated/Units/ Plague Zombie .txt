@@ -1,0 +1,22 @@
+UnitId : n03H
+Descriprion : 
+	Id : n03H
+	Name : "Plague Zombie"
+	Ubertip : 
+
+Ability List:
+AbilityId : A1BE
+Descriprion : 
+	Id : A1BE
+	Name : "Attack Speed +82%"
+	Ubertip : 
+
+
+AbilityId : A15T
+Descriprion : 
+	Id : A15T
+	Name : "Envenomed Weapons Plague Z"
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds.","2","3","4"
+
+
+Hero ability list:

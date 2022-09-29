@@ -1,0 +1,8 @@
+UnitId : nlpd
+Descriprion : 
+	Id : nlpd
+	Name : Makrura Pooldweller
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

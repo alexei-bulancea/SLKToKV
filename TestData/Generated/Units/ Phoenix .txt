@@ -1,0 +1,57 @@
+UnitId : H07H
+Descriprion : 
+	Id : H07H
+	Name : "Phoenix"
+	Ubertip : "Mystical Hero, adept at controlling fire and ranged assaults. Can learn Flame Strike, Darkness Fire, Fire Shield, Phoenix Fire and Melting Phoenixes.|n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Asph
+Descriprion : 
+	Id : Asph
+	Name : Sphere
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1IU
+Descriprion : 
+	Id : A1IU
+	Name : "FireMage - 2 - Phoexnix"
+	Ubertip : "Summon 1 Phoenix egg to melt enemies cause 40 damage. |n|n|cffc3dbffCooldown: 160 seconds.|r","Summon 1 Phoenix egg to melt enemies cause 100 damage. |n|n|cffc3dbffCooldown: 80 seconds.|r","Summon 1 Phoenix egg to melt enemies cause 200 damage. |n|n|cffc3dbffCooldown: 40 seconds.|r","Summon 1 Phoenix egg to melt enemies cause 600 damage. |n|n|cffc3dbffCooldown: 20 seconds.|r","Summon 1 Phoenix egg to melt enemies cause 1300 damage. |n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : A1IQ
+Descriprion : 
+	Id : A1IQ
+	Name : "Firemage - 4 - Darkness Fire"
+	Ubertip : "Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 30 damage each second.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 60 damage each 0.9 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 90 damage each 0.8 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 120 damage each 0.7 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 150 damage each 0.6 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 180 damage each 0.5 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 230 damage each 0.4 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 280 damage each 0.3 seconds.","Control the fire emerging from your body causing a random enemy in 600 AOE to burn for 330 damage each 0.25 seconds."
+
+
+AbilityId : A1IR
+Descriprion : 
+	Id : A1IR
+	Name : "Fire Mage - 3 - Fire Shield"
+	Ubertip : "Activate skill Fire Shield  for 30% damage reduce 1 damage per mana.","Activate skill Fire Shield  for 35% damage reduce 2 damage pre mana.","Activate skill Fire Shield  for 40% damage reduce 3 damage pre mana .","Activate skill Fire Shield  for 45% damage reduce 4 damage pre mana.","Activate skill Fire Shield  for 50% damage reduce 5 damage pre mana .","Activate skill Fire Shield  for 55% damage reduce 6 damage pre mana.","Activate skill Fire Shield  for 60% damage reduce 7 damage pre mana.","Activate skill Fire Shield  for 65% damage reduce 8 damage pre mana .","Activate skill Fire Shield  for 70% damage reduce 9 damage pre  mana."
+
+
+AbilityId : A1IT
+Descriprion : 
+	Id : A1IT
+	Name : "FireMage - 1 -Flame Strike"
+	Ubertip : "Summon magic fire, in 3 seconds burning all enemies in the area. cause 15 damage per seconds , continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 30 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 20 damage per seconds ,continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 25 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 25 damage per seconds , continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 20 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 30 damage per seconds ,continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 15 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 60 damage per seconds , continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 15 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 120 damage per seconds , continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 15 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 240 damage per seconds ,continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 15 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 480 damage per seconds ,continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 15 seconds.|r","Summon magic fire, in 3 seconds burning all enemies in the area. cause 840 damage per seconds , continue damage for 6 seconds by 33%.  |n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A1IS
+Descriprion : 
+	Id : A1IS
+	Name : "Fire Mage - 5 - Melting Phoenixes"
+	Ubertip : "Summon 1 Melting Phoenix flying 2 laps around specified position for 5 seconds causing 3000 damage /s  at the end cause 25000 + 5% pure AOE damage and repelled all enemies around 200 range. |n|n|cffc3dbffCooldown: 180 seconds.|r","Summon 2 Melting Phoenix flying 2,5 laps around specified position for 6 seconds causing 5000 damage /s  at the end cause 60000 + 5% pure AOE damage and repelled all enemies around 250 range. |n|n|cffc3dbffCooldown: 100 seconds.|r","Summon 3 Melting Phoenix flying 3 laps around specified position for 7 seconds causing 6000 damage /s  at the end cause 90000  5% pure AOE damage and repelled all enemies around 300 range. |n|n|cffc3dbffCooldown: 80 seconds.|r","Summon 4 Melting Phoenix flying 3,5 laps around specified position for 8 seconds causing 10000 damage /s  at the end cause 200000  5% pureAOE damage and repelled all enemies around 350 range. |n|n|cffc3dbffCooldown: 45 seconds.|r"
+
+

@@ -1,0 +1,8 @@
+UnitId : o00M
+Descriprion : 
+	Id : o00M
+	Name : "Affordable Tower"
+	Ubertip : "this tower is weaker than the others but is very cheap. "
+
+Ability List:
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : H00D
+Descriprion : 
+	Id : H00D
+	Name : "Medusa "
+	Ubertip : "Mystical Hero, adept at ranged combat. Can learn Frost Nova, Petrifaction, Stone Scales, Gorgon Attribute, Multiple Arrow."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : Aroc
+Descriprion : 
+	Id : Aroc
+	Name : "Multiple Arrow"
+	Ubertip : "Can shot three arrows at the same time.","Can shot four arrows at the same time.After 30 consecutive attacks deal 40 times your agility in spell damage.",".Can shot six arrows at the same time. After 30 consecutive attacks deal 60 times your agility in spell damage.","Can shot nine arrows at the same time. After 30 consecutive attacks deal 80 times your agility in spell damage."
+
+
+AbilityId : A030
+Descriprion : 
+	Id : A030
+	Name : "Frost Nova."
+	Ubertip : "Blasts enemy units with a wave of frost that deals 120 damage. Cold damage slows units' movement and attack rate for 3 seconds. Also increased Gorgon base agility  by 2.|n|n|cffc3dbffCooldown: 50 seconds.|r","Blasts enemy units with a wave of frost that deals 200 damage. Cold damage slows units' movement and attack rate for 4 seconds. Also increased Gorgon base agility  by 4.|n|n|cffc3dbffCooldown: 48 seconds.|r","Blasts enemy units with a wave of frost that deals 350 damage. Cold damage slows units' movement and attack rate for 5 seconds. Also increased Gorgon base agility  by 6.|n|n|cffc3dbffCooldown: 46 seconds.|r","Blasts enemy units with a wave of frost that deals 500 damage. Cold damage slows units' movement and attack rate for 6 seconds. Also increased Gorgon base agility  by 8.|n|n|cffc3dbffCooldown: 44 seconds.|r","Blasts enemy units with a wave of frost that deals 700 damage. Cold damage slows units' movement and attack rate for 7 seconds. Also increased Gorgon base agility  by 10.|n|n|cffc3dbffCooldown: 42 seconds.|r","Blasts enemy units with a wave of frost that deals 1200 damage. Cold damage slows units' movement and attack rate for 8 seconds. Also increased Gorgon base agility  by 12.|n|n|cffc3dbffCooldown: 40 seconds.|r","Blasts enemy units with a wave of frost that deals 1500 damage. Cold damage slows units' movement and attack rate for 9 seconds. Also increased Gorgon base agility  by 14.|n|n|cffc3dbffCooldown: 38 seconds.|r","Blasts enemy units with a wave of frost that deals 2000 damage. Cold damage slows units' movement and attack rate for 10 seconds. Also increased Gorgon base agility  by 16.|n|n|cffc3dbffCooldown: 35 seconds.|r","Blasts enemy units with a wave of frost that deals 3500 damage. Cold damage slows units' movement and attack rate for 12 seconds. Also increased Gorgon base agility  by 18.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A02Z
+Descriprion : 
+	Id : A02Z
+	Name : "Petrifaction"
+	Ubertip : "The gorgon gaze can turn his enemys in stone for 5 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 6 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 7 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 8 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 9 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 10 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 11 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","The gorgon gaze can turn his enemys in stone for 12 seconds.|n|n|cffc3dbffCooldown:40 seconds|r.","The gorgon gaze can turn his enemys in stone for 14 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r."
+
+
+AbilityId : A032
+Descriprion : 
+	Id : A032
+	Name : "Stone Scales"
+	Ubertip : "Medusa use magic to turn her scales into stone. Gives 120 bonus armor, last 12 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r.","Medusa use magic to turn her scales into stone. Gives 160 bonus armor, last 13 seconds.|n|n|cffc3dbffCooldown: 51 seconds|r.","Medusa use magic to turn her scales into stone. Gives 200 bonus armor, last 14 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Medusa use magic to turn her scales into stone. Gives 240 bonus armor, last 15 seconds.|n|n|cffc3dbffCooldown: 49 seconds|r.","Medusa use magic to turn her scales into stone. Gives 280 bonus armor last 16 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r.","Medusa use magic to turn her scales into stone. Gives 320 bonus armor last 17 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r.","Medusa use magic to turn her scales into stone. Gives 400 bonus armor, last 18 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Medusa use magic to turn her scales into stone. Gives 600 bonus armor, last 19 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r.","Medusa use magic to turn her scales into stone. Gives 900 bonus armor, last 20 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r."
+
+
+AbilityId : A031
+Descriprion : 
+	Id : A031
+	Name : "Gorgon Attribute "
+	Ubertip : "Gives a total of 4 points to Agility, and Intelligence.","Gives a total of 8 points to Agility, and Intelligence.","Gives a total of 12 points to Agility, and Intelligence.","Gives a total of 16 points to Agility, and Intelligence.","Gives a total of 20 points to Agility, and Intelligence.","Gives a total of 26 points to Agility, and Intelligence.","Gives a total of 34 points to Agility, and Intelligence.","Gives a total of 42 points to Agility, and Intelligence.","Gives a total of 55 points to Agility, and Intelligence."
+
+

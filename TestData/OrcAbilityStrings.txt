@@ -1,0 +1,1153 @@
+[Abof]
+Name=Burning Oil
+Tip=Burning Oil
+Ubertip="Drenches the Demolisher ammo in burning oil, causing them to light the ground on fire and burn enemy units."
+[Bbof]
+Bufftip="Burning Oil"
+Buffubertip="This unit is caught in a burning oil fire; it will take damage over time."
+[Absk]
+Name="Stim Pack offic"
+Tip="Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB1> damage to yourself. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB2> damage to yourself. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 28 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB3> damage to yourself. |nLasts 7 seconds.|n|n|cffc3dbffCooldown: 26 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB4> damage to yourself. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB5> damage to yourself. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB6> damage to yourself. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB7> damage to yourself. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 22 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB8> damage to yourself. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 21 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB9> damage to yourself. |nLasts 18 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+Hotkey=Q
+Researchhotkey="Q"
+Researchtip="Learn Stim Pack [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="The stim pack allows the Marine to attack a 190% faster and move 40% faster but his toxic components hurt him. Life lose increments per level. Cooldown Improvement per level.|n|n|cffffcc00Level 1|r - Lasts 5 seconds.|n|cffffcc00Level 2|r - Lasts 6 seconds.|n|cffffcc00Level 3|r - Lasts 7 seconds.|n|cffffcc00Level 4|r - Lasts 8 seconds.|n|cffffcc00Level 5|r - Lasts 10 seconds.|n|cffffcc00Level 6|r - Lasts 12 seconds.|n|cffffcc00Level 7|r - Lasts 14 seconds.|n|cffffcc00Level 8|r - Lasts 16 seconds.|n|cffffcc00Level 9|r - Lasts 18 seconds."
+[Bbsk]
+Bufftip=Berserk
+Buffubertip="This unit is Berserk; it will deal more damage, but also take more damage from attacks."
+[Sbsk]
+Name=Berserker Upgrade
+[Arbr]
+Name=Reinforced Burrows Upgrade
+Tip=Reinforced Burrows
+Ubertip="Gives Burrows Fortified armor."
+[Aast]
+Name=Ancestral Spirit
+Tip="An|cffffcc00c|restral Spirit"
+Ubertip="Raises a fallen non-Hero Tauren from the dead. The Tauren is revived with <Aast,DataA1,%>% of its hit points restored."
+Hotkey=C
+[Adcn]
+Name=Disenchant
+Tip="|cffffcc00D|risenchant"
+Ubertip="Removes all buffs from units in a target area. |n|cffffcc00Deals <Adcn,DataB1> damage to hostile summoned units.|r"
+Hotkey=D
+[Acpf]
+Name=Corporeal Form
+Tip="Corporeal |cffffcc00F|rorm"
+Untip="Ethereal |cffffcc00F|rorm"
+Ubertip="Turns the Spirit Walker corporeal, allowing him to attack and take physical damage."
+Unubertip="Turns the Spirit Walker ethereal, making him immune to physical damage but unable to attack. He can cast spells and will take extra damage from Magic attacks and spells."
+Hotkey=F
+Unhotkey=F
+[Aspl]
+Name=Spirit Link
+Tip="Spi|cffffcc00r|rit Link"
+Ubertip="Links <Aspl,DataB1> units together in a chain. All units with Spirit Link on them will live longer, by distributing <Aspl,DataA1,%>% of the damage they take across other Spirit Linked units. |nLasts <Aspl,Dur1> seconds."
+Hotkey=R
+[Bspl]
+Bufftip=Spirit Link
+Buffubertip="This unit is Spirit Linked; it will distribute some of the damage it takes across other Spirit Linked units."
+[Apak]
+Name=Pack Mule
+Tip="Pack Mule"
+Ubertip="Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+[Aliq]
+Name=Liquid Fire
+Tip="Liquid Fire"
+Ubertip="Flings a volatile liquid that causes buildings to take damage over time. Buildings that are currently taking damage from Liquid Fire cannot be repaired, and have their attack rate reduced by <Aliq,DataC1,%>%."
+[Auco]
+Name=Unstable Concoction
+Tip="Unstable |cffffcc00C|roncoction"
+Ubertip="Causes a powerful explosion that deals <Auco,DataB1> damage to a target air unit, and <Auco,DataD1> damage to nearby enemy air units."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=C
+Unhotkey=C
+[AOhw]
+Name=Healing Wave
+Tip="Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Calls forth a wave of healing energy that bounces up to <AOhw,DataB1> times, healing <AOhw,DataA1> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB2> times, healing <AOhw,DataA2> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB3> times, healing <AOhw,DataA3> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB4> times, healing <AOhw,DataA4> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB5> times, healing <AOhw,DataA5> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB6> times, healing <AOhw,DataA6> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB7> times, healing <AOhw,DataA7> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB8> times, healing <AOhw,DataA8> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB9> times, healing <AOhw,DataA9> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r"
+Hotkey=Q
+Researchtip="Healing Wave [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce heals less damage. |n|n|cffffcc00Level 1|r - Heals <AOhw,DataA1> damage, jumps <AOhw,DataB1> times. |n|cffffcc00Level 2|r - Heals <AOhw,DataA2> damage, jumps <AOhw,DataB2> times. |n|cffffcc00Level 3|r - Heals <AOhw,DataA3> damage, jumps <AOhw,DataB3> times.|n|cffffcc00Level 4|r - Heals <AOhw,DataA4> damage, jumps <AOhw,DataB4> times.|n|cffffcc00Level 5|r - Heals <AOhw,DataA5> damage, jumps <AOhw,DataB5> times.|n|cffffcc00Level 6|r - Heals <AOhw,DataA6> damage, jumps <AOhw,DataB6> times.|n|cffffcc00Level 7|r - Heals <AOhw,DataA7> damage, jumps <AOhw,DataB7> times.|n|cffffcc00Level 8|r - Heals <AOhw,DataA8> damage, jumps <AOhw,DataB8> times.|n|cffffcc00Level 9|r - Heals <AOhw,DataA9> damage, jumps <AOhw,DataB9> times."
+Researchhotkey="Q"
+[AOhx]
+Name=Hex
+Tip=He|cffffcc00x|r - [|cffffcc00Level 1|r],He|cffffcc00x|r - [|cffffcc00Level 2|r],He|cffffcc00x|r - [|cffffcc00Level 3|r]
+Ubertip="Transforms an enemy unit into a random critter for <AOhx,Dur1> seconds.","Transforms an enemy unit into a random critter for <AOhx,Dur2> seconds.","Transforms an enemy unit into a random critter for <AOhx,Dur3> seconds."
+Hotkey=X
+Researchtip="Learn He|cffffcc00x|r - [|cffffcc00Level %d|r]"
+Researchubertip="Transforms an enemy unit into a random critter, disabling special abilities. |n|n|cffffcc00Level 1|r - Lasts <AOhx,Dur1> seconds. |n|cffffcc00Level 2|r - Lasts <AOhx,Dur2> seconds. |n|cffffcc00Level 3|r - Lasts <AOhx,Dur3> seconds."
+Researchhotkey=X
+[BOhx]
+Bufftip=Hex
+Buffubertip="This unit is Hexed; it has been transformed into a critter."
+[BOwd]
+Bufftip=Ward
+Buffubertip="Summoned units take damage from dispels."
+[AOvd]
+Name="White Mage heal ultimate "
+Tip="Ultimate |cffffcc00P|rrotection - [|cffffcc00Level 1|r]","Ultimate |cffffcc00P|rrotection - [|cffffcc00Level 2|r]","Ultimate |cffffcc00P|rrotection - [|cffffcc00Level 3|r]","Ultimate |cffffcc00P|rrotection - [|cffffcc00Level 4|r]","Ultimate |cffffcc00P|rrotection - [|cffffcc00Level 5|r]"
+Ubertip="Turns all friendly units invulnerable in an area around the White Mage. |nWhite Mage does not turn invulnerable. |nLasts 22 seconds. |n|n|cffc3dbffCooldown: 180 seconds.|r","Turns all friendly units invulnerable in an area around the White Mage. |nWhite Mage does not turn invulnerable. |nLasts 30 seconds. |n|n|cffc3dbffCooldown: 180 seconds.|r","Turns all friendly units invulnerable in an area around the White Mage. |nWhite Mage does not turn invulnerable. |nLasts 40 seconds. |n|n|cffc3dbffCooldown: 180 seconds.|r","Turns all friendly units invulnerable in an area around the White Mage. |nWhite Mage does not turn invulnerable. |nLasts 58 seconds. |n|n|cffc3dbffCooldown: 180 seconds.|r","Turns all friendly units invulnerable in an area around the White Mage. |nWhite Mage does not turn invulnerable. |nLasts 100 seconds. |n|n|cffc3dbffCooldown: 180 seconds.|r"
+Hotkey=V
+Researchtip="Learn Ultimate |cffffcc00P|rrotection - [|cffffcc00Level %d|r]"
+Researchubertip="Turns all friendly units invulnerable in an area around the White Mage. |nWhite Mage does not turn invulnerable. "
+Researchhotkey=V
+[BOvd]
+Bufftip=Big Bad Voodoo
+Buffubertip="This unit is under the effects of Big Bad Voodoo, and is invulnerable."
+[Awfb]
+Name=Firebolt
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[Acha]
+Name=Chaos
+[Achl]
+Name=Chaos Cargo Load
+[Awar]
+Name="Thousand Knives"
+Tip="Thousand Knives - [|cffffcc00Level 1|r]","Thousand Knives - [|cffffcc00Level 2|r]","Thousand Knives - [|cffffcc00Level 3|r]","Thousand Knives - [|cffffcc00Level 4|r]","Thousand Knives - [|cffffcc00Level 5|r]","Thousand Knives - [|cffffcc00Level 6|r]","Thousand Knives - [|cffffcc00Level 7|r]","Thousand Knives - [|cffffcc00Level 8|r]","Thousand Knives - [|cffffcc00Level 9|r]"
+Ubertip="Gives a <Awar,DataA1>% chance that an attack will deal <Awar,DataB1> damage to nearby enemy units.","Gives a <Awar,DataA2>% chance that an attack will deal <Awar,DataB2> damage to nearby enemy units.","Gives a <Awar,DataA3>% chance that an attack will deal <Awar,DataB3> damage to nearby enemy units.","Gives a <Awar,DataA4>% chance that an attack will deal <Awar,DataB4> damage to nearby enemy units.","Gives a <Awar,DataA5>% chance that an attack will deal <Awar,DataB5> damage to nearby enemy units.","Gives a <Awar,DataA6>% chance that an attack will deal <Awar,DataB6> damage to nearby enemy units.","Gives a <Awar,DataA7>% chance that an attack will deal <Awar,DataB7> damage to nearby enemy units.","Gives a <Awar,DataA8>% chance that an attack will deal <Awar,DataB8> damage to nearby enemy units.","Gives a <Awar,DataA9>% chance that an attack will deal <Awar,DataB9> damage to nearby enemy units."
+Researchtip="Learn Thousand Knives [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a chance that an attack will deal damage to nearby enemy units.|n|n|cffffcc00Level 1|r - <Awar,DataA1>% chance, <Awar,DataB1> damage.|n|cffffcc00Level 2|r - <Awar,DataA2>% chance, <Awar,DataB2> damage.|n|cffffcc00Level 3|r - <Awar,DataA3>% chance, <Awar,DataB3> damage.|n|cffffcc00Level 4|r - <Awar,DataA4>% chance, <Awar,DataB4> damage.|n|cffffcc00Level 5|r - <Awar,DataA5>% chance, <Awar,DataB5> damage.|n|cffffcc00Level 6|r - <Awar,DataA6>% chance, <Awar,DataB6> damage.|n|cffffcc00Level 7|r - <Awar,DataA7>% chance, <Awar,DataB7> damage.|n|cffffcc00Level 8|r - <Awar,DataA8>% chance, <Awar,DataB8> damage.|n|cffffcc00Level 9|r - <Awar,DataA9>% chance, <Awar,DataB9> damage."
+Researchhotkey="R"
+[Abtl]
+Name=Battle Stations
+Tip=|cffffcc00B|rattle Stations
+Ubertip="Causes nearby Peons to run into the Burrow so that they can defend their base."
+Hotkey=B
+[Astd]
+Name=Stand Down
+Tip=Stand |cffffcc00D|rown
+Ubertip="Causes Peons within the Burrow to return to work."
+Hotkey=D
+[Aens]
+Name=Ensnare
+Tip=|cffffcc00E|rnsnare
+Ubertip="Causes a target enemy unit to be bound to the ground so that it cannot move for <Aens,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units."
+Hotkey=E
+[Beng]
+Bufftip=Ensnare
+Buffubertip="This unit is ensnared; it cannot move or fly."
+EditorSuffix= (Ground)
+[Bena]
+Bufftip=Ensnare
+Buffubertip="This unit is ensnared; it cannot move or fly."
+EditorSuffix= (Air)
+[Awar]
+Name=Pulverize
+[Adev]
+Name=Devour
+Tip=|cffffcc00D|revour
+Ubertip="Consumes an enemy land unit, slowly digesting it and dealing <Advc,DataC1> damage per second to it. If the Kodo Beast is killed while the consumed unit is still digesting, the unit that was devoured will be released."
+Hotkey=D
+[Bdvv]
+Bufftip=Devour
+Buffubertip="A unit is being devoured; it will take damage while providing vision to the owner."
+[Aprg]
+Name=Purge
+Tip=Pur|cffffcc00g|re
+Ubertip="Removes all buffs from a target unit, and slows its movement speed by a factor of <Aprg,DataA1>. Purged units will slowly regain their movement speed over <Aprg,Dur1> seconds. |n|cffffcc00Deals <Aprg,DataC1> damage to summoned units.|r"
+Hotkey=G
+[Bprg]
+Bufftip=Purge
+Buffubertip="This unit is Purged; it has had all buffs removed, and has its movement speed slowed for a short duration."
+[Alsh]
+Name=Lightning Shield
+Tip=|cffffcc00L|rightning Shield
+Ubertip="Forms a shield of electricity around a target unit, dealing <Alsh,DataA1> damage per second to units around it. |nLasts <Alsh,Dur1> seconds."
+Hotkey=L
+[Blsh]
+Bufftip=Lightning Shield
+Buffubertip="This unit has a Lightning Shield; nearby friendly and enemy units will take damage if they are next to this unit."
+[Ablo]
+Name=Bloodlust
+Tip=|cffffcc00B|rloodlust
+Ubertip="Increases a friendly unit's attack rate by <Ablo,DataA1,%>% and movement speed by <Ablo,DataB1,%>%. |nLasts <Ablo,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=B
+Unhotkey=B
+[Bblo]
+Bufftip=Bloodlust
+Buffubertip=This unit has Bloodlust; its attack rate and armor are increased.
+[Aeye]
+Name=Sentry Ward
+Tip=Sentry |cffffcc00W|rard
+Ubertip="Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <Aeye,Dur1> seconds."
+Hotkey=W
+[Beye]
+Bufftip=Sentry Ward
+Buffubertip="Summoned units take damage from dispels."
+[Asta]
+Name=Stasis Trap
+Tip=Stasis |cffffcc00T|rrap
+Ubertip="Summons an invisible and immovable ward that stuns enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |nThe trap lasts <Asta,Dur1> seconds. |nThe stun lasts <Asta,DataD1> seconds."
+Hotkey=T
+[Bstt]
+Bufftip=Stasis Trap
+Buffubertip="This ward will stun enemy land units when triggered."
+[Bsta]
+Bufftip=Stasis Trap
+Buffubertip="This unit is stunned by Stasis Trap and cannot move, attack or cast spells."
+[Ahwd]
+Name=Healing Ward
+Tip=H|cffffcc00e|raling Ward
+Ubertip="Summons an immovable ward that heals <Aoar,DataA1,%>% of a nearby friendly non-mechanical unit's hit points per second. |nLasts <Ahwd,Dur1> seconds."
+Hotkey=E
+EditorSuffix= (Witch Doctor)
+[Bhwd]
+Bufftip=Healing Ward
+Buffubertip="This ward provides life regeneration for nearby friendly units."
+[Aoar]
+Name=Healing Ward Aura
+EditorSuffix= (Healing Ward)
+[Boar]
+Bufftip=Healing Ward Aura
+Buffubertip="Increases life regeneration."
+[Aven]
+Name=Envenomed Spears
+Tip=Envenomed Spears
+Ubertip="Deals <Aven,DataA1> poison damage per second. |nLasts <Aven,Dur1> seconds."
+[Apo2]
+Name=Poison Sting
+Hotkey=T
+Tip=Poison S|cffffcc00t|ring
+EditorSuffix= (Orb of Venom)
+[Bpoi]
+Bufftip=Poison TTTTT
+Buffubertip="This unit is poisoned, and will take damage over time."
+EditorSuffix= (Non-stacking)
+EditorName=Poison T
+[Bpsd]
+Bufftip=Poison
+Buffubertip="This unit is poisoned; it will take damage over time."
+EditorSuffix= (Stacking)
+[Bpsi]
+EditorName=Poison (Info)
+[BIpb]
+Bufftip=Venom
+Buffubertip="This unit is poisoned, and will take damage over time."
+EditorSuffix= (Non-stacking)
+[BIpd]
+Bufftip=Venom
+Buffubertip="This unit is poisoned; it will take damage over time."
+EditorSuffix= (Stacking)
+[BIpi]
+EditorName=Venom (Info)
+[Anit]
+Name=Tracking
+[Aspi]
+Name=Spiked Barricades
+[Asal]
+Name=Pillage
+Tip="Cut and Seize - [|cffffcc00Level 1|r]","Cut and Seize - [|cffffcc00Level 2|r]","Cut and Seize - [|cffffcc00Level 3|r]","Cut and Seize - [|cffffcc00Level 4|r]","Cut and Seize - [|cffffcc00Level 5|r]","Cut and Seize - [|cffffcc00Level 6|r]","Cut and Seize - [|cffffcc00Level 7|r]","Cut and Seize - [|cffffcc00Level 8|r]","Cut and Seize - [|cffffcc00Level 9|r]"
+Ubertip="Gain 2% of the damage deal in gold, decimals are added.","Gain 3% of the damage deal in gold, decimals are added.","Gain 4% of the damage deal in gold, decimals are added.","Gain 5% of the damage deal in gold, decimals are added.","Gain 6% of the damage deal in gold, decimals are added.","Gain 7% of the damage deal in gold, decimals are added.","Gain 8% of the damage deal in gold, decimals are added.","Gain 10% of the damage deal in gold, decimals are added.","Gain 15% of the damage deal in gold, decimals are added."
+Researchtip="Learn Cut and Seize [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="The great speed of Reika allows her to steal gold with every successfully hit, gain a percetage of the damage deal in gold, decimals are added, cant gain more gold than the target hit points.|n|n|cffffcc00Level 1|r - Gains 2% of attack damage.|n|cffffcc00Level 2|r - Gains 3% of attack damage. |n|cffffcc00Level 3|r - Gains 4% of attack damage.|n|cffffcc00Level 4|r - Gains 5% of attack damage.|n|cffffcc00Level 5|r - Gains 6% of attack damage.|n|cffffcc00Level 6|r - Gains 7% of attack damage.|n|cffffcc00Level 7|r - Gains 8% of attack damage.|n|cffffcc00Level 8|r - Gains 10% of attack damage.|n|cffffcc00Level 9|r - Gains 15% of attack damage."
+Researchhotkey="R"
+[Aakb]
+Name="War Drumsjl"
+Tip="Witch Knowledge"
+Ubertip="Have 60% spell damage reduction. "
+[Bakb]
+Bufftip=Spell Damage Reduction
+Buffubertip=
+[AOwk]
+Name=Wind Walk
+Tip="Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur1> seconds, the attack will do <AOwk,DataC1> bonus damage.|n|n|cffc3dbffCooldown: 20 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur2> seconds, the attack will do <AOwk,DataC2> bonus damage.|n|n|cffc3dbffCooldown: 16 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur3> seconds, the attack will do <AOwk,DataC3> bonus damage.|n|n|cffc3dbffCooldown: 12 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur4> seconds, the attack will do <AOwk,DataC4> bonus damage.|n|n|cffc3dbffCooldown: 9 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur5> seconds, the attack will do <AOwk,DataC5> bonus damage.|n|n|cffc3dbffCooldown: 6 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur6> seconds, the attack will do <AOwk,DataC6> bonus damage.|n|n|cffc3dbffCooldown: 5 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur7> seconds, the attack will do <AOwk,DataC7> bonus damage.|n|n|cffc3dbffCooldown: 4 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur8> seconds, the attack will do <AOwk,DataC8> bonus damage.|n|n|cffc3dbffCooldown: 3 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur9> seconds, the attack will do <AOwk,DataC9> bonus damage.|n|n|cffc3dbffCooldown: 2 seconds|r"
+Hotkey=Q
+Researchtip="Learn Windwalk [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="The Blademaster moves so fast that it is impossible to see. Cooldown improvement per level.  |n|n|cffffcc00Level 1|r -  <AOwk,DataC1> bonus damage. |n|cffffcc00Level 2|r -  <AOwk,DataC2> bonus damage.|n|cffffcc00Level 3|r -  <AOwk,DataC3> bonus damage. |n|cffffcc00Level 4|r -  <AOwk,DataC4> bonus damage. |n|cffffcc00Level 5|r -  <AOwk,DataC5> bonus damage. |n|cffffcc00Level 6|r -  <AOwk,DataC6> bonus damage. |n|cffffcc00Level 7|r -  <AOwk,DataC7> bonus damage. |n|cffffcc00Level 8|r -  <AOwk,DataC8> bonus damage. |n|cffffcc00Level 9|r -  <AOwk,DataC9> bonus damage."
+Researchhotkey="Q"
+[BOwk]
+Bufftip=Wind Walk
+Buffubertip="This unit is Wind Walking; it is invisible, moves faster, and the first attack it makes while invisible will deal bonus damage."
+[AOmi]
+Name=Mirror Image
+Tip="Mirror Image [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Mirror Image [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Mirror Image [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Mirror Image [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Confuses the enemy by creating <AOmi,DataA1> illusions of the Hero that deal the same damage and receive less damage. Dispels all magic from the Hero. |nLasts <AOmi,Dur1> seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r","Confuses the enemy by creating <AOmi,DataA1> illusions of the Hero that deal the same damage and receive less damage. Dispels all magic from the Hero. |nLasts <AOmi,Dur1> seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r","Confuses the enemy by creating <AOmi,DataA1> illusions of the Hero that deal the same damage and receive less damage. Dispels all magic from the Hero. |nLasts <AOmi,Dur1> seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r"
+Hotkey=T
+Researchtip="Learn Mirror Image [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Confuses the enemy by creating a illusion of the Hero that deals and receives damage similar to the original. Also dispells all magic. "
+Researchhotkey="T"
+[BOmi]
+Bufftip=Mirror Image
+Buffubertip="A duplicate illusion of the original Blademaster."
+[AOcr]
+Name="Dark enhancement"
+Tip="Dark Enhancement - [|cffffcc00Level 1|r]","Dark Enhancement - [|cffffcc00Level 2|r]","Dark Enhancement - [|cffffcc00Level 3|r]","Dark Enhancement - [|cffffcc00Level 4|r]","Dark Enhancement - [|cffffcc00Level 5|r]","Dark Enhancement - [|cffffcc00Level 6|r]","Dark Enhancement - [|cffffcc00Level 7|r]","Dark Enhancement - [|cffffcc00Level 8|r]","Dark Enhancement - [|cffffcc00Level 9|r]"
+Ubertip="Gives a <AOcr,DataA1>% chance to do <AOcr,DataB1> times normal damage on an attack and gives 9% chance to evade an attack.","Gives a <AOcr,DataA2>% chance to do <AOcr,DataB2> times normal damage on an attack and gives 14% chance to evade an attack.","Gives a <AOcr,DataA3>% chance to do <AOcr,DataB3> times normal damage on an attack and gives 20% chance to evade an attack.","Gives a <AOcr,DataA4>% chance to do <AOcr,DataB4> times normal damage on an attack and gives 26% chance to evade an attack.","Gives a <AOcr,DataA5>% chance to do <AOcr,DataB5> times normal damage on an attack and gives 29% chance to evade an attack.","Gives a <AOcr,DataA6>% chance to do <AOcr,DataB6> times normal damage on an attack and gives 31% chance to evade an attack.","Gives a <AOcr,DataA7>% chance to do <AOcr,DataB7> times normal damage on an attack and gives 33% chance to evade an attack.","Gives a <AOcr,DataA8>% chance to do <AOcr,DataB8> times normal damage on an attack and gives 35% chance to evade an attack.","Gives a <AOcr,DataA9>% chance to do <AOcr,DataB9> times normal damage on an attack and gives 39% chance to evade an attack."
+Researchtip="Learn Critical Strike [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a chance to do more damage on an attack. |n|n|cffffcc00Level 1|r - <AOcr,DataA1>% chance, <AOcr,DataB1> times normal damage. |n|cffffcc00Level 2|r - <AOcr,DataA2>% chance, <AOcr,DataB2> times normal damage. |n|cffffcc00Level 3|r - <AOcr,DataA3>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 4|r - <AOcr,DataA4>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 5|r - <AOcr,DataA5>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 6|r - <AOcr,DataA6>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 7|r - <AOcr,DataA7>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 8|r - <AOcr,DataA8>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 9|r - <AOcr,DataA9>% chance, <AOcr,DataB3> times normal damage."
+Researchhotkey="E"
+[AOww]
+Name="Tornado"
+Tip="Tornado [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Tornado [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Tornado [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Tornado [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 140 per second. |n|n|cffc3dbffCooldown: 130 seconds|r","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 280 per second. |n|n|cffc3dbffCooldown: 100 seconds|r.","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 450 per second.|n|n|cffc3dbffCooldown: 70 seconds|r.","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 800 per second. |n|n|cffc3dbffCooldown: 40 seconds|r."
+Hotkey=T
+Researchtip="Learn Tornado [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado that dealing damage per second to nearby enemy units."
+Researchhotkey="T"
+Globalmessage=
+Globalsound=
+[AOcl]
+Name="Hell Lightning"
+Tip="Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Calls forth a bolt of lightning that deal <AOcl,DataA1> damage.|n|n|cffc3dbffCooldown: 26 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA2> damage.|n|n|cffc3dbffCooldown: 25 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA3> damage.|n|n|cffc3dbffCooldown: 24 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA4> damage.|n|n|cffc3dbffCooldown: 23 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA5> damage.|n|n|cffc3dbffCooldown: 22 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA6> damage.|n|n|cffc3dbffCooldown: 21 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA7> damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA8> damage.|n|n|cffc3dbffCooldown: 19 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA9> damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+Hotkey=E
+Researchtip="Learn Hell Lightning [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy. Cooldown improvement per level.  |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage.|n|cffffcc00Level 4|r - <AOcl,DataA4> damage.|n|cffffcc00Level 5|r - <AOcl,DataA5> damage.|n|cffffcc00Level 6|r - <AOcl,DataA6> damage.|n|cffffcc00Level 7|r - <AOcl,DataA7> damage.|n|cffffcc00Level 8|r - <AOcl,DataA8> damage.|n|cffffcc00Level 9|r - <AOcl,DataA9> damage."
+Researchhotkey="E"
+[AOfs]
+Name=Far Sight
+Tip=|cffffcc00F|rar Sight - [|cffffcc00Level 1|r],|cffffcc00F|rar Sight - [|cffffcc00Level 2|r],|cffffcc00F|rar Sight - [|cffffcc00Level 3|r]
+Ubertip="Reveals the area of the map that it is cast upon for <AOfs,Dur1> seconds. Also reveals invisible units."
+Hotkey=F
+Researchtip="Learn |cffffcc00F|rar Sight - [|cffffcc00Level %d|r]"
+Researchubertip="Reveals the area of the map that it is cast upon. Also reveals invisible units. |n|n|cffffcc00Level 1|r - Reveals a small area for <AOfs,Cost1> mana. |n|cffffcc00Level 2|r - Reveals a large area for <AOfs,Cost2> mana. |n|cffffcc00Level 3|r - Reveals a huge area for <AOfs,Cost3> mana."
+Researchhotkey=F
+[AOsf]
+Name="Feral Spirit."
+Tip="Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Summons <AOsf,DataB1> Spirit Wolf companions.|n|n|cffc3dbffCooldown: 30 seconds.|r","Summons <AOsf,DataB2> Spirit Wolf companions.|n|n|cffc3dbffCooldown: 29 seconds.|r","Summons <AOsf,DataB3> Spirit Wolf companions.|n|n|cffc3dbffCooldown: 28 seconds.|r","Summons <AOsf,DataB4> Dire Wolf companions that have Critical Strike.|n|n|cffc3dbffCooldown: 27 seconds.|r","Summons <AOsf,DataB5> Dire Wolf companions that have Critical Strike.|n|n|cffc3dbffCooldown: 25 seconds.|r","Summons <AOsf,DataB6> Dire Wolf companions that have Critical Strike.|n|n|cffc3dbffCooldown: 23 seconds.|r","Summons <AOsf,DataB7> Shadow Wolf companions that have a greater Critical Strike.|n|n|cffc3dbffCooldown: 20 seconds.|r","Summons <AOsf,DataB8> Shadow Wolf companions that have a greater Critical Strike.|n|n|cffc3dbffCooldown: 17 seconds.|r","Summons <AOsf,DataB9> Killer Wolf companions that have even greater Critical Strike, Greater Magic reduction and Evasion.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+Researchtip="Learn Feral Spirit [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Summons Spirit Wolves to fight the enemies. Cooldown improved per level.  |n|n|cffffcc00Level 1|r - One weak wolves. |n|cffffcc00Level 2|r - Two weak wolves. |n|cffffcc00Level 3|r - three weak wolves.|n|cffffcc00Level 4|r - Two strong wolves.|n|cffffcc00Level 5|r - Three strong wolves.|n|cffffcc00Level 6|r - Four strong wolves.|n|cffffcc00Level 7|r - Two shadow wolves.|n|cffffcc00Level 8|r - Three shadow wolves.|n|cffffcc00Level 9|r - Three killer wolves."
+Hotkey=W
+Researchhotkey="W"
+[BOsf]
+Bufftip=Feral Spirit
+Buffubertip="Summoned units take damage from dispels."
+[AOeq]
+Name=Earthquake
+Tip=|cffffcc00E|rarthquake
+Ubertip="Makes the ground tremble and break, causing <AOeq,DataB1> damage per second to buildings and slowing units by <AOeq,DataC1,%>% within the area of effect. |nLasts <AOeq,Dur1> seconds."
+Hotkey=E
+Researchtip="Learn |cffffcc00E|rarthquake"
+Researchubertip="Makes the ground tremble and break, causing <AOeq,DataB1> damage per second to buildings and slowing units by <AOeq,DataC1,%>% within the area of effect. Lasts <AOeq,Dur1> seconds."
+Researchhotkey=E
+[BOeq]
+Bufftip=Earthquake
+Buffubertip="This unit is in an Earthquake; its movement speed is greatly reduced."
+[AOsh]
+Name="Shockwave."
+Tip="Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="A wave of force that ripples outward, causing <AOsh,DataA1> damage to land units in a line.|n|n|cffc3dbffCooldown: 6 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA2> damage to land units in a line.|n|n|cffc3dbffCooldown: 7 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA3> damage to land units in a line.|n|n|cffc3dbffCooldown: 8 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA4> damage to land units in a line.|n|n|cffc3dbffCooldown: 9 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA5> damage to land units in a line.|n|n|cffc3dbffCooldown: 10 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA6> damage to land units in a line.|n|n|cffc3dbffCooldown: 11 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA7> damage to land units in a line.|n|n|cffc3dbffCooldown: 12 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA8> damage to land units in a line.|n|n|cffc3dbffCooldown: 13 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA9> damage to land units in a line.|n|n|cffc3dbffCooldown: 17 seconds|r"
+Hotkey=Q
+Researchtip="Learn Shockwave [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="A wave of force that ripples out from the Hero, causing damage to units in a line. Distance and area of effect improves per level. |n|n|cffffcc00Level 1|r - <AOsh,DataA1> damage. |n|cffffcc00Level 2|r - <AOsh,DataA2> damage. |n|cffffcc00Level 3|r - <AOsh,DataA3> damage.|n|cffffcc00Level 4|r - <AOsh,DataA4> damage.|n|cffffcc00Level 5|r - <AOsh,DataA5> damage.|n|cffffcc00Level 6|r - <AOsh,DataA6> damage.|n|cffffcc00Level 7|r - <AOsh,DataA7> damage.|n|cffffcc00Level 8|r - <AOsh,DataA8> damage.|n|cffffcc00Level 9|r - <AOsh,DataA9> damage."
+Researchhotkey="Q"
+[AOae]
+Name="Sword Mastery"
+Tip="Sword Mastery - [|cffffcc00Level 1|r]","Sword Mastery - [|cffffcc00Level 2|r]","Sword Mastery - [|cffffcc00Level 3|r]","Sword Mastery - [|cffffcc00Level 4|r]"
+Ubertip="Increases movement speed by <AOae,DataA1,%>% and attack rate by <AOae,DataB1,%>%.","Increases movement speed by <AOae,DataA2,%>% and attack rate by <AOae,DataB2,%>%.","Increases movement speed by <AOae,DataA3,%>% and attack rate by <AOae,DataB3,%>%.","Increases movement speed by <AOae,DataA4,%>% and attack rate by <AOae,DataB4,%>%."
+Researchtip="Learn |cffffcc00S|rword Mastery - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed and attack rate. |n|n|cffffcc00Level 1|r - <AOae,DataA1,%>% movement, <AOae,DataB1,%>% attack. |n|cffffcc00Level 2|r - <AOae,DataA2,%>% movement, <AOae,DataB2,%>% attack. |n|cffffcc00Level 3|r - <AOae,DataA3,%>% movement, <AOae,DataB3,%>% attack.|n|cffffcc00Level 4|r - <AOae,DataA4,%>% movement, <AOae,DataB4,%>% attack.|n|cffffcc00Level 5|r - <AOae,DataA5,%>% movement, <AOae,DataB5,%>% attack.|n|cffffcc00Level 6|r - <AOae,DataA6,%>% movement, <AOae,DataB6,%>% attack.|n|cffffcc00Level 7|r - <AOae,DataA7,%>% movement, <AOae,DataB7,%>% attack.|n|cffffcc00Level 8|r - <AOae,DataA8,%>% movement, <AOae,DataB8,%>% attack.|n|cffffcc00Level 9|r - <AOae,DataA9,%>% movement, <AOae,DataB9,%>% attack."
+Researchhotkey=E
+[BOae]
+Bufftip=Endurance Aura
+Buffubertip="This unit is under the effects of Endurance Aura; it has an increased movement speed and attack rate."
+[AOre]
+Name=Reincarnation
+Tip=Reincarnation
+Ubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchtip=Learn |cffffcc00R|reincarnation
+Researchubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchhotkey=R
+Globalmessage=
+Globalsound=
+[AOws]
+Name="War Cry"
+Tip="|cffffcc00W|rar Cry - [|cffffcc00Level 1|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 2|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 3|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 4|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 5|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 6|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 7|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 8|r]","|cffffcc00W|rar Cry - [|cffffcc00Level 9|r]"
+Ubertip="Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 22 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 20 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 18 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 16 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 14 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 12 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 10 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 8 seconds|r.","Dealing <AOws,DataA1> damage to nearby enemy units in 300 Aoe and stunning them for <AOws,Dur1> seconds and heal 4% of your total hit points.|n|n|cffc3dbffCooldown: 6 seconds|r."
+Researchtip="Learn |cffffcc00W|rar Cry - [|cffffcc00Level %d|r]."
+Researchubertip="A terrifying war cry stuns enemies for 3 seconds deals 300 damage to nearby enemy units and heal the Blood Grunt for 4% of his total hit points. Mana cost improvement per level.|n|n|cffffcc00Level 1|r - Cooldown 22 seconds. |n|cffffcc00Level 2|r - Cooldown 20 seconds.|n|cffffcc00Level 3|r - Cooldown 18 seconds.|n|cffffcc00Level 4|r - Cooldown 16 seconds.|n|cffffcc00Level 5|r - Cooldown 14 seconds.|n|cffffcc00Level 6|r - Cooldown 12 seconds.|n|cffffcc00Level 7|r - Cooldown 10 seconds.|n|cffffcc00Level 8|r - Cooldown 8 seconds.|n|cffffcc00Level 9|r - Cooldown 6 seconds."
+Hotkey=W
+Researchhotkey="W"
+[BOws]
+Bufftip=War Stomp
+Buffubertip="This unit has been hit by War Stomp; it cannot move, attack or cast spells for a short duration."
+[BOea]
+EditorName=Earthquake (Caster)
+[BOsh]
+EditorName=Shockwave (Caster)
+[BOvc]
+EditorName=Big Bad Voodoo (Caster)
+[BOww]
+EditorName=Bladestorm (Caster)
+[Bdig]
+EditorName=Devour (Caster)
+[Bens]
+EditorName=Ensnare (General)
+[Bliq]
+EditorName=Liquid Fire
+[Blsa]
+EditorName=Lightning Shield (Caster)
+[XOeq]
+EditorName=Earthquake (Effect)
+[XOre]
+EditorName=Reincarnation (Effect)
+[Xbof]
+EditorName=Burning Oil (Effect)
+[Xfos]
+EditorName=Building Damage - Orc Small
+[Xfom]
+EditorName=Building Damage - Orc Medium
+[Xfol]
+EditorName=Building Damage - Orc Large
+[A1HX]
+Name="Storm Aegis"
+Tip="Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 1|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 2|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 3|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 4|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 5|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 6|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 7|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 8|r]","Storm Aegis [|cffffcc00R|r] - [|cffffcc00Level 9|r]"
+Ubertip="Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 65 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 45 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r "
+Hotkey=R
+Researchhotkey="R"
+Researchtip="Learn Storm Aegis [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Surround yourself with a protective barrier of wind that protects hero from all damage and increase attack speed by %100 move speed by %40. Cooldown reduces per level"
+[A1DP]
+Name="Divine Skin"
+Tip="|cffffcc00D|rivine Skin - [|cffffcc00Level 1|r]"
+Ubertip="Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+Hotkey=D
+EditorSuffix="Item 3"
+Researchhotkey="D"
+Researchtip="|cffffcc00D|rivine Skin - [|cffffcc00Level %d|r]."
+Researchubertip="Reduces the normal incoming damage by 99%, the spell damage by 160% (means that it will absorb 60% of the damage) and increases your move speed by 22% for a short duration. Cooldown improves per level.|n|n|cffffcc00Level 1|r - Last 5 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 7 seconds.|n|cffffcc00Level 4|r - Last 8 seconds.|n|cffffcc00Level 5|r - Last 9 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 11 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 14 seconds."
+[A1B5]
+Name="DS OGN"
+Tip="|cffffcc00D|rivine Skin - [|cffffcc00Level 1|r]"
+Ubertip="Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+Hotkey=D
+EditorSuffix="Item"
+Researchhotkey="D"
+Researchtip="|cffffcc00D|rivine Skin - [|cffffcc00Level %d|r]."
+Researchubertip="Reduces the normal incoming damage by 99%, the spell damage by 160% (means that it will absorb 60% of the damage) and increases your move speed by 22% for a short duration. Cooldown improves per level.|n|n|cffffcc00Level 1|r - Last 5 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 7 seconds.|n|cffffcc00Level 4|r - Last 8 seconds.|n|cffffcc00Level 5|r - Last 9 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 11 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 14 seconds."
+[A18Q]
+Name="WB Critical Strike"
+Tip="Critical Strike - [|cffffcc00Level 1|r]","Critical Strike - [|cffffcc00Level 2|r]","Critical Strike - [|cffffcc00Level 3|r]","Critical Strike - [|cffffcc00Level 4|r]","Critical Strike - [|cffffcc00Level 5|r]","Critical Strike - [|cffffcc00Level 6|r]","Critical Strike - [|cffffcc00Level 7|r]","Critical Strike - [|cffffcc00Level 8|r]","Critical Strike - [|cffffcc00Level 9|r]"
+Ubertip="Gives a 6% chance to do 4 times normal damage on an attack.","Gives a 7% chance to do 4.2 times normal damage on an attack.","Gives a 8% chance to do 4.4 times normal damage on an attack.","Gives a 9% chance to do 4.7 times normal damage on an attack.","Gives a 10% chance to do 5 times normal damage on an attack.","Gives a 11% chance to do 5.3 times normal damage on an attack.","Gives a 12% chance to do 5.6 times normal damage on an attack.","Gives a 14% chance to do 6 times normal damage on an attack.","Gives a 17% chance to do 7 times normal damage on an attack."
+Researchtip="Learn |cffffcc00C|rritical Strike - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a chance to do more damage on an attack. |n|n|cffffcc00Level 1|r - <AOcr,DataA1>% chance, <AOcr,DataB1> times normal damage. |n|cffffcc00Level 2|r - <AOcr,DataA2>% chance, <AOcr,DataB2> times normal damage. |n|cffffcc00Level 3|r - <AOcr,DataA3>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 4|r - <AOcr,DataA4>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 5|r - <AOcr,DataA5>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 6|r - <AOcr,DataA6>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 7|r - <AOcr,DataA7>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 8|r - <AOcr,DataA8>% chance, <AOcr,DataB3> times normal damage.|n|cffffcc00Level 9|r - <AOcr,DataA9>% chance, <AOcr,DataB3> times normal damage."
+Researchhotkey="W"
+[A18P]
+Name="WB Rage"
+Tip="Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Rage [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Attack 50% faster, but take 50% more damage, also give you maximum move speed and if you are below 50% of hit points deal your strength in spell damage on attack. Last 4 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 100% faster, but take 55% more damage, also give you maximum move speed and if you are below 50% of hit points deal 2 x your strength in spell damage on attack. Last 4.2 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 150% faster, but take 60% more damage, also give you maximum move speed and if you are below 50% of hit points deal 3 x strength in spell damage on attack. Last 4.4 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 200% faster, but take 65% more damage, also give you maximum move speed and if you are below 50% of hit points deal 4 x strength in spell damage on attack. Last 4.7 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 250% faster, but take 70% more damage, also give you maximum move speed and if you are below 50% of hit points deal 5 x strength in spell damage on attack. Last 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 300% faster, but take 75% more damage, also give you maximum move speed and if you are below 50% of hit points deal 6 x strength in spell damage on attack. Last 5.3 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 350% faster, but take 80% more damage, also give you maximum move speed and if you are below 50% of hit points deal 7 x strength in spell damage on attack. Last 5.6 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 400% faster, but take 60% more damage, also give you maximum move speed and if you are below 50% of hit points deal 8 x strength in spell damage on attack. Last 6 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Attack 1000% faster, but take 30% more damage, also give you maximum move speed and if you are below 50% of hit points deal 9 x strength in spell damage on attack. Last 7 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="s"
+Researchubertip="s"
+[A177]
+Name="Divine Skin"
+Tip="|cffffcc00D|rivine Skin - [|cffffcc00Level 1|r]"
+Ubertip="Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+Hotkey=D
+EditorSuffix="Item 2"
+Researchhotkey="D"
+Researchtip="|cffffcc00D|rivine Skin - [|cffffcc00Level %d|r]."
+Researchubertip="Reduces the normal incoming damage by 99%, the spell damage by 160% (means that it will absorb 60% of the damage) and increases your move speed by 22% for a short duration. Cooldown improves per level.|n|n|cffffcc00Level 1|r - Last 5 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 7 seconds.|n|cffffcc00Level 4|r - Last 8 seconds.|n|cffffcc00Level 5|r - Last 9 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 11 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 14 seconds."
+[A15H]
+Name="Blessing of King"
+Tip="Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Heal a unit for 400 + 7x str, give 94% resistance against magic damage, also increases move speed by 12% and attack speed by 20%, last 3 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Heal a unit for 800 + 8x str, give 94% resistance against magic damage, also increases move speed by 16% and attack speed by 25%, last 3.5 seconds.|n|n|cffc3dbffCooldown: 49 seconds|r","Heal a unit for 1200 + 9x str, give 94% resistance against magic damage, also increases move speed by 20% and attack speed by 30%, last 4 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r","Heal a unit for 1600 + 10x str, give 94% resistance against magic damage, also increases move speed by 24% and attack speed by 35%, last 4.5 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Heal a unit for 2000 + 11x str, give 94% resistance against magic damage, also increases move speed by 28% and attack speed by 40%, last 5 seconds.|n|n|cffc3dbffCooldown: 43 seconds|r","Heal a unit for 2400 + 12x str, give 94% resistance against magic damage, also increases move speed by 32% and attack speed by 45%, last 5.5 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Heal a unit for 2800 + 13x str, give 94% resistance against magic damage, also increases move speed by 36% and attack speed by 50%, last 6 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Heal a unit for 3200 + 14x str, give 94% resistance against magic damage, also increases move speed by 40% and attack speed by 60%, last 6.5 seconds.|n|n|cffc3dbffCooldown: 32 seconds|r","Heal a unit for 3600 + 15x str, give 94% resistance against magic damage, also increases move speed by 70% and attack speed by 90%, last 7 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=E
+Unhotkey=E
+Researchtip="Learn Blessing of Kings [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Heal a unit and give high resistance agains magic damage and protection agains some spells, also increases move and attack speed for a duration. Cooldown, heal, move and attack speed improve per level.|n|n|cffffcc00Level 1|r - Last 3 seconds.|n|cffffcc00Level 2|r - Last 3.5 seconds.|n|cffffcc00Level 3|r - Last 4 seconds.|n|cffffcc00Level 4|r - Last 4.5 seconds.|n|cffffcc00Level 5|r - Last 5 seconds.|n|cffffcc00Level 6|r - Last 5.5 seconds.|n|cffffcc00Level 7|r - Last 6 seconds.|n|cffffcc00Level 8|r - Last 6.5 seconds.|n|cffffcc00Level 9|r - Last 7 seconds."
+Researchhotkey="E"
+[A154]
+Name="Preservation"
+Tip="|cffffcc00D|rivine Skin - [|cffffcc00Level 1|r]"
+Ubertip="Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+Hotkey=D
+EditorSuffix="Item"
+Researchhotkey="D"
+Researchtip="|cffffcc00D|rivine Skin - [|cffffcc00Level %d|r]."
+Researchubertip="Reduces the normal incoming damage by 99%, the spell damage by 160% (means that it will absorb 60% of the damage) and increases your move speed by 22% for a short duration. Cooldown improves per level.|n|n|cffffcc00Level 1|r - Last 5 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 7 seconds.|n|cffffcc00Level 4|r - Last 8 seconds.|n|cffffcc00Level 5|r - Last 9 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 11 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 14 seconds."
+[A14A]
+Name="TPTK I Am the Shield"
+Tip="I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 1|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 2|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 3|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 4|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 5|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 6|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 7|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 8|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 9|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 10|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 11|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 12|r]","I Am the Shi|cffffcc00e|rld - [|cffffcc00Level 13|r]"
+Ubertip="Turns all others team party members invulnerable in an area around you. Lasts 3 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 4 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 5 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 6 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 8 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 10 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 12 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 14 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 17 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 20 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 23 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 26 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 30 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r"
+Hotkey=E
+Researchtip="Learn I Am the Shi|cffffcc00e|rld - [|cffffcc00Level %d|r]"
+Researchubertip="Turns all others team party members invulnerable in an area around you.|n|n|cffffcc00Level 1|r - Last 3 seconds. |n|cffffcc00Level 2|r - Last 4 seconds.|n|cffffcc00Level 3|r - Last 5 seconds.|n|cffffcc00Level 4|r - Last 6 seconds.|n|cffffcc00Level 5|r - Last 8 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 12 seconds.|n|cffffcc00Level 8|r - Last 14 seconds.|n|cffffcc00Level 9|r - Last 17 seconds.|n|cffffcc00Level 10|r - Last 20 seconds.|n|cffffcc00Level 11|r - Last 23 seconds."
+Researchhotkey="E"
+[A136]
+Name="TPM Firebolt"
+Tip="|cffffcc00F|rire Ball - [|cffffcc00Level 1|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 2|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 3|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 4|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 5|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 6|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 7|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 8|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 9|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 10|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 11|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 12|r]","|cffffcc00F|rire Ball - [|cffffcc00Level 13|r]"
+Ubertip="Hurls a fiery ball that paralize the target for 1 second deal 200 damage and launch 2 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 21 seconds.|r","Hurls a fiery ball that paralize the target for 1.25 seconds, deal 300 damage and launch 2 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Hurls a fiery ball that paralize the target for 1.50 seconds, deal 400 damage and launch 2 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 19 seconds.|r","Hurls a fiery ball that paralize the target for 1.75 seconds, deal 600 damage and launch 3 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a fiery ball that paralize the target for 2 seconds, deal 800 damage and launch 3 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 17 seconds.|r","Hurls a fiery ball that paralize the target for 2.25 seconds, deal 1000 damage and launch 3 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a fiery ball that paralize the target for 2.50 seconds, deal 1200 damage and launch 3 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","Hurls a fiery ball that paralize the target for 2.75 seconds, deal 1500 damage and launch 4 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 14 seconds.|r","Hurls a fiery ball that paralize the target for 3 seconds, deal 1800 damage and launch 4 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 13 seconds.|r","Hurls a fiery ball that paralize the target for 3.25 seconds, deal 2200 damage and launch 4 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 12 seconds.|r","Hurls a fiery ball that paralize the target for 3.50 seconds, deal 2600 damage and launch 4 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","Hurls a fiery ball that paralize the target for 4 seconds, deal 3000 damage and launch 5 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Hurls a fiery ball that paralize the target for 5 seconds, deal 3600 damage and launch 6 extra fire balls for half of the damage.|n|n|cffc3dbffCooldown: 9 seconds.|r"
+Hotkey=F
+EditorSuffix="(Neutral Hostile)"
+Researchhotkey="F"
+Researchtip="Learn |cffffcc00F|rire Ball - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a fiery ball that paralize a target enemy unit and some extra fire balls for half of the damage to nearby enemy units, same unit can only be hitting by 1 extra fire ball.|n|n|cffffcc00Level 1|r - 200 Damage. |n|cffffcc00Level 2|r - 300 Damage.|n|cffffcc00Level 3|r - 400 Damage.|n|cffffcc00Level 4|r - 600 Damage.|n|cffffcc00Level 5|r - 800 Damage.|n|cffffcc00Level 6|r - 1000 Damage.|n|cffffcc00Level 7|r - 1200 Damage.|n|cffffcc00Level 8|r - 1500 Damage.|n|cffffcc00Level 9|r - 1800 Damage.|n|cffffcc00Level 10|r - 2200 Damage.|n|cffffcc00Level 11|r - 2600 Damage."
+[A12Z]
+Name="Demonic Speed S"
+Tip="Demonic Speed [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Demonic Speed [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Demonic Speed [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Demonic Speed [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Increases attack rate by 200%, movement speed by 40% and Damage by 200 for 10 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 220 seconds.|r","Increases attack rate by 210%, movement speed by 50% and damage by 200 for 18 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 180 seconds.|r","Increases attack rate by 220%, movement speed by 60% and Damage by 200 for 26 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 140 seconds.|r","Increases attack rate by 250%, movement speed by 80% and Damage by 200 for 34 seconds, also increases Illidan base damage by 51 permanently.|n|n|cffc3dbffCooldown: 100 seconds.|r"
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Learn Demonic Speed [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Increases attack speed, move speed and damage for a duration."
+[A11D]
+Name="Berserk T"
+Tip="|cffffcc00B|rerserk","|cffffcc00B|rerserk","|cffffcc00B|rerserk","|cffffcc00B|rerserk"
+Ubertip="Causes this unit to attack 220% faster, but take 30% more damage.","Causes this unit to attack 260% faster, but take 20% more damage.","Causes this unit to attack 300% faster, but take 15% more damage.","Causes this unit to attack 350% faster, but take 10% more damage."
+Hotkey=B
+[A113]
+Name="P Divine Punishment"
+Tip="Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 1|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 2|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 3|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 4|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 5|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 6|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 7|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 8|r]","Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Add 6 x strength magic damage to your next 3 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r","Add 6 x strength magic damage to your next 3 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 51 seconds|r","Add 6 x strength magic damage to your next 4 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Add 6 x strength magic damage to your next 4 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Add 6 x strength magic damage to your next 5 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r","Add 6 x strength magic damage to your next 5 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Add 6 x strength magic damage to your next 6 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Add 6 x strength magic damage to your next 6 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Add 6 x strength magic damage to your next 7 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 22 seconds|r"
+Hotkey=R
+Researchhotkey="R"
+Researchtip="Learn Divine Punishment [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Add magic damage to your attacks based in strength. Cooldown improve per level. |n|n|cffffcc00Level 1|r - 3 attacks.|n|cffffcc00Level 2|r - 3 attacks.|n|cffffcc00Level 3|r - 4 attacks.|n|cffffcc00Level 4|r - 4 attacks.|n|cffffcc00Level 5|r - 5 attacks.|n|cffffcc00Level 6|r - 5 attacks.|n|cffffcc00Level 7|r - 6 attacks.|n|cffffcc00Level 8|r - 6 attacks.|n|cffffcc00Level 9|r - 7 attacks."
+Unhotkey=R
+[A110]
+Name="DR Zeal"
+Tip="Zeal [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Zeal [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Zeal [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Zeal [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Dark Ranger increases his agility by 7 with each attack, lasts 16 seconds.Also increase Dark Ranger's agility by 7 |n|n|cffc3dbffCooldown: 260 seconds|r","Dark Ranger increases his agility by 7 with each attack, lasts 22 seconds Also increase Dark Ranger's agility by 14 .|n|n|cffc3dbffCooldown: 240 seconds|r","Dark Ranger increases his agility by 7 with each attack, lasts 28 seconds Also increase Dark Ranger's agility by 21.|n|n|cffc3dbffCooldown: 200 seconds|r","Dark Ranger increases his agility by 7 with each attack, lasts 36 seconds Also increase Dark Ranger's agility by 28.|n|n|cffc3dbffCooldown: 180 seconds|r"
+Hotkey=T
+Researchhotkey="T"
+Researchtip="Learn Zeal [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Dark Ranger increases his agility with each attack, for a duration."
+[A0ZF]
+Name="CI Speed"
+Tip="Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 1|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 2|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 3|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 4|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 5|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 6|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 7|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 8|r]","Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Increases the attack rate in 30%, move speed by 20% and bonus damage by 120. Lasts 4 seconds. Also have 60% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 56 seconds|r","Increases the attack rate in 35%, move speed by 25% and bonus damage by 120. Lasts 6 seconds. Also have 65% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 54 seconds|r","Increases the attack rate in 40%, move speed by 30% and bonus damage by 120. Lasts 8 seconds. Also have 70% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 52 seconds|r","Increases the attack rate in 50%, move speed by 35% and bonus damage by 120. Lasts 10 seconds. Also have 75% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 50 seconds|r","Increases the attack rate in 60%, move speed by 40% and bonus damage by 120. Lasts 12 seconds. Also have 80% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 48 seconds|r","Increases the attack rate in 70%, move speed by 45% and bonus damage by 120. Lasts 14 seconds. Also have 85% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 46 seconds|r","Increases the attack rate in 80%, move speed by 50% and bonus damage by 120. Lasts 16 seconds. Also have 90% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 44 seconds|r","Increases the attack rate in 90%, move speed by 60% and bonus damage by 120. Lasts 18 seconds. Also have 95% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 40 seconds|r","Increases the attack rate in 120%, move speed by 80% and bonus damage by 120. Lasts 20 seconds. Also reset Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 36 seconds|r"
+Hotkey=R
+Researchhotkey="R"
+Researchtip="Learn Centaur Power [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Increases attack speed, move speed and damage by 120. Also can reset the cooldown of Poison Arrow. Attack speed, move speed and cooldown improve per level. |n|n|cffffcc00Level 1|r - Last 4 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 8 seconds.|n|cffffcc00Level 4|r - Last 10 seconds.|n|cffffcc00Level 5|r - Last 12 seconds.|n|cffffcc00Level 6|r - Last 14 seconds.|n|cffffcc00Level 7|r - Last 16 seconds.|n|cffffcc00Level 8|r - Last 18 seconds.|n|cffffcc00Level 9|r - Last 20 seconds."
+EditorSuffix="(Not Used)"
+[A0Z5]
+Name="Bladestorm [Q]"
+Tip="Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Bladestorm [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 100 damage per second to nearby enemy units. Lasts 3 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 130 damage per second to nearby enemy units. Lasts 4 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 160 damage per second to nearby enemy units. Lasts 5 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 200 damage per second to nearby enemy units. Lasts 6 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 250 damage per second to nearby enemy units. Lasts 7 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 300 damage per second to nearby enemy units. Lasts 8 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 380 damage per second to nearby enemy units. Lasts 10 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 500 damage per second to nearby enemy units. Lasts 12 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 720 damage per second to nearby enemy units. Lasts 15 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+Hotkey=Q
+Researchtip="Learn Bladestorm[ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing damage per second to nearby enemy units. Duration improve per level. |n|n|cffffcc00Level 1|r - 100 Damage. |n|cffffcc00Level 2|r - 130 Damage. |n|cffffcc00Level 3|r - 160 Damage. |n|cffffcc00Level 4|r - 200 Damage. |n|cffffcc00Level 5|r - 250 Damage. |n|cffffcc00Level 6|r - 300 Damage. |n|cffffcc00Level 7|r - 380 Damage. |n|cffffcc00Level 8|r - 500 Damage. |n|cffffcc00Level 9|r - 720 Damage."
+Researchhotkey="Q"
+Globalmessage=
+Globalsound=
+[A0Z3]
+Name="Souls Liberation"
+Tip="|cffffcc00Souls Liberation|r - [|cffffcc00Level 1|r]","|cffffcc00Souls Liberation|r - [|cffffcc00Level 2|r]","|cffffcc00Souls Liberation|r - [|cffffcc00Level 3|r]","|cffffcc00Souls Liberation|r - [|cffffcc00Level 4|r]"
+Ubertip="|c001CE6B9Passive:|r Give 25 souls to the Unholy Knight.|n|n|c006969FFActive Ability:|r |cffff0000Release the 100% of souls.|r|n|nEach soul deal 380 damage.","|c001CE6B9Passive:|r Give 50 souls.|n|n|c006969FFActive Ability:|r |cffff0000Release the 100% of souls.|r|n|nEach soul deal 700 damage.","|c001CE6B9Passive:|r Give 75 souls.|n|n|c006969FFActive Ability:|r |cffff0000Release the 100% of souls.|r|n|nEach soul deal 1300 damage.","|c001CE6B9Passive:|r Give 100 souls.|n|n|c006969FFActive Ability:|r |cffff0000Release the 100% of souls.|r|n|nEach soul deal 3700 damage."
+Hotkey=
+Researchtip="|cffffcc00Souls Liberation|r - [|cffffcc00Level %d|r]."
+Researchubertip="|cffff0000Release the 100% of souls|r|n|nRelease  all your souls each souls deal attack an nearby enemy. Also passively give you souls."
+Researchhotkey="T"
+[A0X5]
+Name="Divine Skin"
+Tip="|cffffcc00D|rivine Skin - [|cffffcc00Level 1|r]"
+Ubertip="Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+Hotkey=D
+EditorSuffix="Item"
+Researchhotkey="D"
+Researchtip="|cffffcc00D|rivine Skin - [|cffffcc00Level %d|r]."
+Researchubertip="Reduces the normal incoming damage by 99%, the spell damage by 160% (means that it will absorb 60% of the damage) and increases your move speed by 22% for a short duration. Cooldown improves per level.|n|n|cffffcc00Level 1|r - Last 5 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 7 seconds.|n|cffffcc00Level 4|r - Last 8 seconds.|n|cffffcc00Level 5|r - Last 9 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 11 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 14 seconds."
+[A0WK]
+Name="Firebolt BM Especial"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A0WJ]
+Name="Firebolt BM 5"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A0WI]
+Name="Firebolt BM 4"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A0WH]
+Name="Firebolt BM 3"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A0WG]
+Name="Firebolt BM 2"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A0WF]
+Name="Firebolt BM 1"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A0V0]
+Name="Mirror Image Unbroken"
+Tip=Mirro|cffffcc00r|r Image - [|cffffcc00Level 1|r],Mirro|cffffcc00r|r Image - [|cffffcc00Level 2|r],Mirro|cffffcc00r|r Image - [|cffffcc00Level 3|r]
+Ubertip="Illusions","Confuses the enemy by creating <AOmi,DataA2> illusions of the Blademaster. Dispels all magic from the Blademaster. |nLasts <AOmi,Dur1> seconds.","Confuses the enemy by creating <AOmi,DataA3> illusions of the Blademaster. Dispels all magic from the Blademaster. |nLasts <AOmi,Dur1> seconds."
+Hotkey=R
+Researchtip="Learn Mirro|cffffcc00r|r Image - [|cffffcc00Level %d|r]"
+Researchubertip="Confuses the enemy by creating illusions of the Blademaster and dispelling all magic from the Blademaster. |n|n|cffffcc00Level 1|r - Creates <AOmi,DataA1> illusion. |n|cffffcc00Level 2|r - Creates <AOmi,DataA2> illusions. |n|cffffcc00Level 3|r - Creates <AOmi,DataA3> illusions."
+Researchhotkey=R
+[A0UR]
+Name="Reincarnation Shield"
+Tip=Reincarnation
+Ubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchtip=Learn |cffffcc00R|reincarnation
+Researchubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchhotkey=R
+Globalmessage=
+Globalsound=
+[A0T4]
+Name="Assassin Steps"
+Tip="Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 3 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 3.5 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 4 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 4.5 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 5 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 5.5 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 6 seconds.|n|n|cffc3dbffCooldown: 37 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 6.5 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r","Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, last 7 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r"
+Hotkey=E
+Researchhotkey="E"
+Researchtip="Learn Assassin Steps [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Thief gain the maximum move speed and deal 4 x agility bonus damage when attack, damage tipe is spell, if bonus damage is enough to kill the target attack speed will be instant, this bonus damage dont increases gold with Cut and Seize.|n|n|cffffcc00Level 1|r - Lasts 3 seconds, cooldown 50 seconds.|n|cffffcc00Level 2|r - Lasts 3.5 seconds, cooldown 48 seconds.|n|cffffcc00Level 3|r - Lasts 4 seconds, cooldown 46 seconds.|n|cffffcc00Level 4|r - Lasts 4.5 seconds, cooldown 44 seconds.|n|cffffcc00Level 5|r - Lasts 5 seconds, cooldown 42 seconds.|n|cffffcc00Level 6|r - Lasts 5.5 seconds, cooldown 40 seconds.|n|cffffcc00Level 7|r - Lasts 6 seconds, cooldown 37 seconds.|n|cffffcc00Level 8|r - Lasts 6.5 seconds, cooldown 34 seconds.|n|cffffcc00Level 9|r - Lasts 7 seconds, cooldown 30 seconds."
+[A0SB]
+Name="LC Hiper activity"
+Tip="H|cffffcc00y|rperactivity - [|cffffcc00Level 1|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 2|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 3|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 4|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 5|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 6|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 7|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 8|r]","H|cffffcc00y|rperactivity - [|cffffcc00Level 9|r]"
+Ubertip="Increases the attack rate in 170% and move speed by 60%. |nLasts 4 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 7 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 9 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 15 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r"
+Hotkey=Y
+Researchhotkey="Y"
+Researchtip="H|cffffcc00y|rperactivity - [|cffffcc00Level %d|r]."
+Researchubertip="Increases attack speed by 170% and move speed by 60%. |n|n|cffffcc00Level 1|r - Last 4 seconds.|n|cffffcc00Level 2|r - Last 5 seconds.|n|cffffcc00Level 3|r - Last 6 seconds.|n|cffffcc00Level 4|r - Last 7 seconds.|n|cffffcc00Level 5|r - Last 8 seconds.|n|cffffcc00Level 6|r - Last 9 seconds.|n|cffffcc00Level 7|r - Last 10 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 15 seconds."
+[A0QH]
+Name="White mage chain Lightning 2"
+Tip="|cffffcc00C|rhain Lightning - [|cffffcc00Level 1|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 4|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 5|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 6|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 7|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 8|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 9|r]"
+Ubertip="A bolt of lightning that deal 150 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 300 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 450 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 600 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 800 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 1000 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 1200 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 1500 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 2000 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="A bolt of damaging lightning at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage. |n|n|cffffcc00Level 1|r - 150 damage. |n|cffffcc00Level 2|r - 300 damage.|n|cffffcc00Level 3|r - 450 damage.|n|cffffcc00Level 4|r - 600 damage.|n|cffffcc00Level 5|r - 800 damage.|n|cffffcc00Level 6|r - 1000 damage.|n|cffffcc00Level 7|r - 1200 damage.|n|cffffcc00Level 8|r - 1500 damage.|n|cffffcc00Level 9|r - 2000 damage."
+Researchhotkey=C
+[A0QG]
+Name="White mage chain Lightning "
+Tip="|cffffcc00C|rhain Lightning - [|cffffcc00Level 1|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 4|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 5|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 6|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 7|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 8|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 9|r]"
+Ubertip="A bolt of lightning that deal 135 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 200 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 300 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 450 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 600 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 750 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 900 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 1100 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r","A bolt of lightning that deal 1400 damage at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="A bolt of damaging lightning at a target enemy that jumps up to 4 nearby enemies. Each jump deals 20% less damage. |n|n|cffffcc00Level 1|r - 135 damage. |n|cffffcc00Level 2|r - 200 damage.|n|cffffcc00Level 3|r - 300 damage.|n|cffffcc00Level 4|r - 450 damage.|n|cffffcc00Level 5|r - 600 damage.|n|cffffcc00Level 6|r - 750 damage.|n|cffffcc00Level 7|r - 900 damage.|n|cffffcc00Level 8|r - 1100 damage.|n|cffffcc00Level 9|r - 1400 damage."
+Researchhotkey=C
+[A0PQ]
+Name="Master Speed"
+Tip="|cffffcc00B|rerseker - [|cffffcc00Level 1|r]","|cffffcc00B|rerseker - [|cffffcc00Level 2|r]","|cffffcc00B|rerseker - [|cffffcc00Level 3|r]","|cffffcc00B|rerseker - [|cffffcc00Level 4|r]","|cffffcc00B|rerseker - [|cffffcc00Level 5|r]","|cffffcc00B|rerseker - [|cffffcc00Level 6|r]","|cffffcc00B|rerseker - [|cffffcc00Level 7|r]","|cffffcc00B|rerseker - [|cffffcc00Level 8|r]","|cffffcc00B|rerseker - [|cffffcc00Level 9|r]"
+Ubertip="Increases the attack rate in 150% and move speed by 50%. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 20 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 24 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 150% and move speed by 50%. |nLasts 28 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r"
+Hotkey=B
+Researchhotkey="B"
+Researchtip="|cffffcc00B|rerseker - [|cffffcc00Level %d|r]."
+Researchubertip="Increases attack speed by 150% and move speed by 50%. All Martial arts Master skills increases passively +2 to base strength and +1 to base agility per level. |n|n|cffffcc00Level 1|r - Last 6 seconds.|n|cffffcc00Level 2|r - Last 8 seconds.|n|cffffcc00Level 3|r - Last 10 seconds.|n|cffffcc00Level 4|r - Last 12 seconds.|n|cffffcc00Level 5|r - Last 14 seconds.|n|cffffcc00Level 6|r - Last 16 seconds.|n|cffffcc00Level 7|r - Last 20 seconds.|n|cffffcc00Level 8|r - Last 24 seconds.|n|cffffcc00Level 9|r - Last 28 seconds."
+EditorSuffix="(Not Used)"
+[A0PI]
+Name="Knight Endurance Aura Self"
+Tip="Dark Power - [|cffffcc00Level 1|r]","Dark Power - [|cffffcc00Level 2|r]","Dark Power - [|cffffcc00Level 3|r]","Dark Power - [|cffffcc00Level 4|r]","Dark Power - [|cffffcc00Level 5|r]","Dark Power - [|cffffcc00Level 6|r]","Dark Power - [|cffffcc00Level 7|r]","Dark Power - [|cffffcc00Level 8|r]","Dark Power - [|cffffcc00Level 9|r]"
+Ubertip="Increases Dark Knight movement speed by 5%, attack speed by 8% and gives a 2% chance to deal 600 + 30% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 8%, attack speed by 16% and gives a 3% chance to deal 1200 + 60% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 11%, attack speed by 24% and gives a 5% chance to deal 1800 + 90% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 14%, attack speed by 32% and gives a 7% chance to deal 2400 + 120% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 17%, attack speed by 40% and gives a 8% chance to deal 3000 + 150% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 20%, attack speed by 60% and gives a 10% chance to deal 3600 + 180% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 24%, attack speed by 80% and gives a 11% chance to deal 4200 + 210% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 30%, attack speed by 120% and gives a 12% chance to deal 4800 + 240% STR in pure damage and heal for the same amount.","Increases Dark Knight movement speed by 40%, attack speed by 175% and gives a 14% chance to deal 5400 + 270% STR in pure damage and heal for the same amount."
+Researchtip="Learn Dark Power [ |c00FFFC01Wr ] - [|cffffcc00Level %d|r]"
+Researchubertip="Dark Knight's power lets him move quicker and gives him a % chance to steal hitpoints. |n|n|cffffcc00Level 1|r - 5% movement, 8% attack, 2% to steal 600 hp. |n|cffffcc00Level 2|r - 8% movement, 16% attack 3% to steal 1200 hp. |n|cffffcc00Level 3|r - 11% movement, 24% attack 5% to steal 1800 hp.|n|cffffcc00Level 4|r - 14% movement, 32% attack 7% to steal 2400 hp.|n|cffffcc00Level 5|r - 17% movement, 40% attack 8% to steal 3000 hp.|n|cffffcc00Level 6|r - 20% movement, 60% attack 10% to steal 3600 hp.|n|cffffcc00Level 7|r - 24% movement, 80% attack 11% to steal 4200 hp.|n|cffffcc00Level 8|r - 30% movement, 120% attack 12% to steal 4800 hp.|n|cffffcc00Level 9|r - 40% movement, 175% attack 14% to steal 5400 hp."
+Researchhotkey="W"
+[A0PH]
+Name="Knight Endurance Aura"
+Tip="Endurance Aura - [|cffffcc00Level 1|r]","Endurance Aura - [|cffffcc00Level 2|r]","Endurance Aura - [|cffffcc00Level 3|r]","Endurance Aura - [|cffffcc00Level 4|r]","Endurance Aura - [|cffffcc00Level 5|r]","Endurance Aura - [|cffffcc00Level 6|r]","Endurance Aura - [|cffffcc00Level 7|r]","Endurance Aura - [|cffffcc00Level 8|r]","Endurance Aura - [|cffffcc00Level 9|r]"
+Ubertip="Increases nearby friendly units' attack speed by 15% and movement speed by 10%","Increases nearby friendly units' attack speed by 25% and movement speed by 11%","Increases nearby friendly units' attack speed by 35% and movement speed by 12%","Increases nearby friendly units' attack speed by 45% and movement speed by 13%","Increases nearby friendly units' attack speed by 55% and movement speed by 14%","Increases nearby friendly units' attack speed by 70% and movement speed by 15%","Increases nearby friendly units' attack speed by 90%  and movement speed by 17%","Increases nearby friendly units' attack speed by 110% and movement speed by 20%","Increases nearby friendly units' attack speed by 140% and movement speed by 25%"
+Researchtip="Learn Endurance Aura [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Increases nearby friendly units' movement speed and attack speed. |n|n|cffffcc00Level 1|r - 10% movement, 15% attack. |n|cffffcc00Level 2|r - 11% movement, 25% attack. |n|cffffcc00Level 3|r - 12% movement, 35% attack.|n|cffffcc00Level 4|r - 13% movement, 45% attack.|n|cffffcc00Level 5|r - 14% movement, 55% attack.|n|cffffcc00Level 6|r - 15% movement, 70% attack.|n|cffffcc00Level 7|r - 17% movement, 90% attack.|n|cffffcc00Level 8|r - 20% movement, 110% attack.|n|cffffcc00Level 9|r - 25% movement, 140% attack."
+Researchhotkey="W"
+[A0P0]
+Name="Militia Light equipment"
+Tip="Light Equipment - [|cffffcc00Level 1|r]","Light Equipment - [|cffffcc00Level 2|r]","Light Equipment - [|cffffcc00Level 3|r]","Light Equipment - [|cffffcc00Level 4|r]","Light Equipment - [|cffffcc00Level 5|r]","Light Equipment - [|cffffcc00Level 6|r]","Light Equipment - [|cffffcc00Level 7|r]","Light Equipment - [|cffffcc00Level 8|r]","Light Equipment - [|cffffcc00Level 9|r]"
+Ubertip="Increases movement speed by 2%, attack rate by 5% and base strength and agility by 4.","Increases movement speed by 3%, attack rate by 10% and base strength and agility by 8.","Increases movement speed by 4%, attack rate by 15% and base strength and agility by 12.","Increases movement speed by 5%, attack rate by 20% and base strength and agility by 16.","Increases movement speed by 6%, attack rate by 30% and base strength and agility by 20.","Increases movement speed by 8%, attack rate by 40% and base strength and agility by 24.","Increases movement speed by 10%, attack rate by 50% and base strength and agility by 28.","Increases movement speed by 12%, attack rate by 60% and base strength and agility by 32.","Increases movement speed by 15%, attack rate by 80% and base strength and agility by 36."
+Researchtip="Learn Light |cffffcc00E|rquipment - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed, attack rate, base strength and agility of the militia. |n|n|cffffcc00Level 1|r - 2% movement, 5% attack. |n|cffffcc00Level 2|r - 3% movement, 10% attack. |n|cffffcc00Level 3|r - 4% movement, 15% attack.|n|cffffcc00Level 4|r - 5% movement, 20% attack.|n|cffffcc00Level 5|r - 6% movement, 30% attack.|n|cffffcc00Level 6|r - 8% movement, 40% attack.|n|cffffcc00Level 7|r - 10% movement, 50% attack.|n|cffffcc00Level 8|r - 12% movement, 60% attack.|n|cffffcc00Level 9|r - 15% movement, 80% attack."
+Researchhotkey=E
+[A0OZ]
+Name="Militia Light equipment 2"
+Tip="Light Equipment - [|cffffcc00Level 1|r]","Light Equipment - [|cffffcc00Level 2|r]","Light Equipment - [|cffffcc00Level 3|r]","Light Equipment - [|cffffcc00Level 4|r]","Light Equipment - [|cffffcc00Level 5|r]","Light Equipment - [|cffffcc00Level 6|r]","Light Equipment - [|cffffcc00Level 7|r]","Light Equipment - [|cffffcc00Level 8|r]","Light Equipment - [|cffffcc00Level 9|r]"
+Ubertip="Increases movement speed by 2% and attack rate by 5% and base strength and agility by 13.","Increases movement speed by 3% and attack rate by 10% and base strength and agility by 26.","Increases movement speed by 4% and attack rate by 20% and base strength and agility by 39.","Increases movement speed by 6% and attack rate by 30% and base strength and agility by 52.","Increases movement speed by 8% and attack rate by 40% and base strength and agility by 65.","Increases movement speed by 10% and attack rate by 60% and base strength and agility by 78.","Increases movement speed by 14% and attack rate by 80% and base strength and agility by 91.","Increases movement speed by 20% and attack rate by 120% and base strength and agility by 104.","Increases movement speed by 30% and attack rate by 180% and base strength and agility by 117."
+Researchtip="Learn Light |cffffcc00E|rquipment - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the movement speed and attack rate. |n|n|cffffcc00Level 1|r - 2% movement, 5% attack. |n|cffffcc00Level 2|r - 3% movement, 10% attack. |n|cffffcc00Level 3|r - 4% movement, 20% attack.|n|cffffcc00Level 4|r - 6% movement, 30% attack.|n|cffffcc00Level 5|r - 8% movement, 40% attack.|n|cffffcc00Level 6|r - 10% movement, 60% attack.|n|cffffcc00Level 7|r - 14% movement, 80% attack.|n|cffffcc00Level 8|r - 20% movement, 120% attack.|n|cffffcc00Level 9|r - 30% movement, 180% attack."
+Researchhotkey=E
+[A0O0]
+Name="Pudge Fast move"
+Tip="H|cffffcc00e|ravy Speed - [|cffffcc00Level 1|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 2|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 3|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 4|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 5|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 6|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 7|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 8|r]","H|cffffcc00e|ravy Speed - [|cffffcc00Level 9|r]"
+Ubertip="Give maximum move speed lasts 3 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 4 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 5 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 6 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 8 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 10 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 12 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 14 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 16 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r"
+Hotkey=E
+Researchhotkey="E"
+Researchtip="H|cffffcc00e|ravy Speedr - [|cffffcc00Level %d|r]."
+Researchubertip="Give maximum move speed for a short time.|n|n|cffffcc00Level 1|r - Last 3 seconds.|n|cffffcc00Level 2|r - Last 4 seconds.|n|cffffcc00Level 3|r - Last 5 seconds.|n|cffffcc00Level 4|r - Last 6 seconds.|n|cffffcc00Level 5|r - Last 8 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 12 seconds.|n|cffffcc00Level 8|r - Last 14 seconds.|n|cffffcc00Level 9|r - Last 16 seconds."
+[A0NU]
+Name="Pure Stre speed"
+Tip="Z|cffffcc00e|ral - [|cffffcc00Level 1|r]","Z|cffffcc00e|ral - [|cffffcc00Level 2|r]","Z|cffffcc00e|ral - [|cffffcc00Level 3|r]","Z|cffffcc00e|ral - [|cffffcc00Level 4|r]","Z|cffffcc00e|ral - [|cffffcc00Level 5|r]","Z|cffffcc00e|ral - [|cffffcc00Level 6|r]","Z|cffffcc00e|ral - [|cffffcc00Level 7|r]","Z|cffffcc00e|ral - [|cffffcc00Level 8|r]","Z|cffffcc00e|ral - [|cffffcc00Level 9|r]"
+Ubertip="Increase attack speed by 160% for 3 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 4 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 5 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 6 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 7 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 8 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 9 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 10 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 12 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r"
+Hotkey=E
+Researchhotkey="E"
+Researchtip="Learn Z|cffffcc00e|ral - [|cffffcc00Level %d|r]."
+Researchubertip="Increase attack speed by 160% for a short duration and increases int or str permanently.|n|n|cffffcc00Level 1|r - Last 3 seconds.|n|cffffcc00Level 2|r - Last 4 seconds.|n|cffffcc00Level 3|r - Last 5 seconds.|n|cffffcc00Level 4|r - Last 6 seconds.|n|cffffcc00Level 5|r - Last 7 seconds.|n|cffffcc00Level 6|r - Last 8 seconds.|n|cffffcc00Level 7|r - Last 9 seconds.|n|cffffcc00Level 8|r - Last 10 seconds.|n|cffffcc00Level 9|r - Last 12 seconds."
+[A0L6]
+Name="Thunder Obelisk"
+Tip="|cffffcc00T|rhunder - [|cffffcc00Level 1|r]","|cffffcc00T|rhunder - [|cffffcc00Level 2|r]","|cffffcc00T|rhunder - [|cffffcc00Level 3|r]","|cffffcc00T|rhunder - [|cffffcc00Level 4|r]"
+Ubertip="Summon a thunder from the sky that deal 1400 damage and paralyze the target for 3 seconds.","Summon a thunder from the sky that deal 2000 damage and paralyze the target for 4 seconds.","Summon a thunder from the sky that deal 2800 damage and paralyze the target for 5 seconds.","Summon a thunder from the sky that deal 4000 damage and paralyze the target for 6 seconds."
+Hotkey=T
+EditorSuffix="Thunder Obelisk"
+[A0JK]
+Name="SW FlackCannon L6"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JJ]
+Name="SW FlackCannon L2"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JI]
+Name="SW FlackCannon L9"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JH]
+Name="SW FlackCannon L8"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JG]
+Name="SW FlackCannon L7"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JF]
+Name="SW FlackCannon L3"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JE]
+Name="SW FlackCannon L5"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JD]
+Name="SW FlackCannon L4"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JB]
+Name="SW FlackCannon L1"
+Tip="Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 4|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 5|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 6|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 7|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 8|r]","Serpent |cffffcc00W|rard - [|cffffcc00Level 9|r]"
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 45 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 50 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 55 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 60 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 65 seconds.|n|n|cffc3dbffCooldown: 9 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 70 seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 75 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 80 seconds.|n|n|cffc3dbffCooldown: 6 seconds.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0JA]
+Name="SW Tower"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0J9]
+Name="SW TowHall"
+Tip=Serpent |cffffcc00W|rard - [|cffffcc00Level 1|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 2|r],Serpent |cffffcc00W|rard - [|cffffcc00Level 3|r]
+Ubertip="Summons 5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is magic immune, has a high damage but low resistance. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> hit points, is magic immune, and deals <osp2,mindmg1> - <osp2,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> hit points, is magic immune, and deals <osp3,mindmg1> - <osp3,maxdmg1> damage. |nLasts <AOsw,Dur1> seconds. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=W
+Researchtip="Learn Serpent |cffffcc00W|rard - [|cffffcc00Level %d|r]"
+Researchubertip="Summons 6.5 immobile serpentine ward to attack the Shadow Hunter's enemies. The ward is immune to magic, have a high attack damage but low resistance. All atributes improvement per level. |n|n|cffffcc00Level 1|r - Duration 40, Cooldown 16 seconds.|n|cffffcc00Level 2|r - Duration 45, Cooldown 14 seconds.|n|cffffcc00Level 3|r - Duration 50, Cooldown 12 seconds.|n|cffffcc00Level 4|r - Duration 55, Cooldown 11 seconds.|n|cffffcc00Level 5|r - Duration 60, Cooldown 10 seconds.|n|cffffcc00Level 6|r - Duration 65, Cooldown 9 seconds.|n|cffffcc00Level 7|r - Duration 70, Cooldown 8 seconds.|n|cffffcc00Level 8|r - Duration 75, Cooldown 7 seconds.|n|cffffcc00Level 9|r - Duration 80, Cooldown 6 seconds."
+Researchhotkey=W
+[A0HX]
+Name="WD Divine Toughness"
+Tip="Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 1|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 2|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 3|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 4|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 5|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 6|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 7|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 8|r]","Divine Toughness [ |c00FFFC01R|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 4 seconds, at the end of the effect heals you for 66 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 80 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 7 seconds, at the end of the effect heals you for 88 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 79 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 10 seconds, at the end of the effect heals you for 110 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 78 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 13 seconds, at the end of the effect heals you for 132 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 76 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 16 seconds, at the end of the effect heals you for 154 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 74 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 19 seconds, at the end of the effect heals you for 176 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 71 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 22 seconds, at the end of the effect heals you for 196 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 68 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 25 seconds, at the end of the effect heals you for 218 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 64 seconds|r","Increases base strength for 4 x your base armor + armor bonus from your hero abilities, reduce your damage by 6000 and attack speed by 900% last 28 seconds, at the end of the effect heals you for 240 x base armor + armor bonus from your hero abilities.|n|n|cffc3dbffCooldown: 58 seconds|r"
+Hotkey=R
+Researchhotkey="R"
+Researchtip="Divine Toughness - [|cffffcc00Level %d|r]."
+Researchubertip="Increases base strength based in your base armor + armor bonus from your hero abilities and heal you when duration is over but reduce your damage and attack speed.|n|n|cffffcc00Level 1|r - 3 x Base Armor.|n|cffffcc00Level 2|r - 4 x Base Armor.|n|cffffcc00Level 3|r - 5 x Base Armor.|n|cffffcc00Level 4|r - 6 x Base Armor.|n|cffffcc00Level 5|r - 7 x Base Armor.|n|cffffcc00Level 6|r - 8 x Base Armor.|n|cffffcc00Level 7|r - 9 x Base Armor.|n|cffffcc00Level 8|r - 10 x Base Armor.|n|cffffcc00Level 9|r - 11 x Base Armor."
+[A0FH]
+Name="Zombie multishot 2"
+Tip="|cffffcc00V|renom - [|cffffcc00Level 1|r]","|cffffcc00V|renom - [|cffffcc00Level 2|r]","|cffffcc00V|renom - [|cffffcc00Level 3|r]","|cffffcc00V|renom - [|cffffcc00Level 4|r]","|cffffcc00V|renom - [|cffffcc00Level 5|r]","|cffffcc00V|renom - [|cffffcc00Level 6|r]","|cffffcc00V|renom - [|cffffcc00Level 7|r]","|cffffcc00V|renom - [|cffffcc00Level 8|r]","|cffffcc00V|renom - [|cffffcc00Level 9|r]"
+Ubertip="Shoot 12 poisonous missiles to nearby enemies units that deal 80 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 120 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 180 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 250 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 320 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 420 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 600 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 840 damage.|n|n|cffc3dbffCooldown: 20 seconds|r","Shoot 12 poisonous missiles to nearby enemies units that deal 1270 damage.|n|n|cffc3dbffCooldown: 20 seconds|r"
+Hotkey=V
+Researchhotkey="V"
+Researchtip="Learn |cffffcc00V|renom - [|cffffcc00Level %d|r]."
+Researchubertip="Shoot 12 poisonous missiles to nearby enemies. |n|n|cffffcc00Level 1|r - 80 Damage.|n|cffffcc00Level 2|r - 120 Damage.|n|cffffcc00Level 3|r - 180 Damage.|n|cffffcc00Level 4|r - 250 Damage.|n|cffffcc00Level 5|r - 320 Damage.|n|cffffcc00Level 6|r - 420 Damage.|n|cffffcc00Level 7|r - 600 Damage.|n|cffffcc00Level 8|r - 840 Damage.|n|cffffcc00Level 9|r - 1270 Damage."
+[A0FG]
+Name="Zombie multishot"
+Tip="|cffffcc00V|renom - [|cffffcc00Level 1|r]","|cffffcc00V|renom - [|cffffcc00Level 2|r]","|cffffcc00V|renom - [|cffffcc00Level 3|r]","|cffffcc00V|renom - [|cffffcc00Level 4|r]","|cffffcc00V|renom - [|cffffcc00Level 5|r]","|cffffcc00V|renom - [|cffffcc00Level 6|r]","|cffffcc00V|renom - [|cffffcc00Level 7|r]","|cffffcc00V|renom - [|cffffcc00Level 8|r]","|cffffcc00V|renom - [|cffffcc00Level 9|r]"
+Ubertip="Shoot 3 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 1 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 5 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 2 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 7 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 3 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 9 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 4 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 11 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 5 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 13 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 5 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 15 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 6 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 17 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 7 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r","Shoot 19 poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage, no unit cant be hit more than 8 times for venom missiles.|n|n|cffc3dbffCooldown: 26 seconds|r"
+Hotkey=V
+Researchhotkey="V"
+Researchtip="Learn |cffffcc00V|renom - [|cffffcc00Level %d|r]."
+Researchubertip="Shoot poisonous missiles to nearby enemies units that deal 330 damage initial damage and 190 poison damage. Unit Max hit times improve per level. |n|n|cffffcc00Level 1|r - 3 missiles.|n|cffffcc00Level 2|r - 5 missiles.|n|cffffcc00Level 3|r - 7 missiles.|n|cffffcc00Level 4|r - 9 missiles.|n|cffffcc00Level 5|r - 11 missiles.|n|cffffcc00Level 6|r - 13 missiles.|n|cffffcc00Level 7|r - 15 missiles.|n|cffffcc00Level 8|r - 17 missiles.|n|cffffcc00Level 9|r - 19 missiles."
+[A0CZ]
+Name="Test wave"
+Tip="Shock|cffffcc00w|rave - [|cffffcc00Level 1|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 2|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 3|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 4|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 5|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 6|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 7|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 8|r]","Shock|cffffcc00w|rave - [|cffffcc00Level 9|r]"
+Ubertip="A wave of force that ripples outward, causing <AOsh,DataA1> damage to land units in a line.|n|n|cffc3dbffCooldown: 6 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA2> damage to land units in a line.|n|n|cffc3dbffCooldown: 7 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA3> damage to land units in a line.|n|n|cffc3dbffCooldown: 8 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA4> damage to land units in a line.|n|n|cffc3dbffCooldown: 9 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA5> damage to land units in a line.|n|n|cffc3dbffCooldown: 10 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA6> damage to land units in a line.|n|n|cffc3dbffCooldown: 11 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA7> damage to land units in a line.|n|n|cffc3dbffCooldown: 12 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA8> damage to land units in a line.|n|n|cffc3dbffCooldown: 13 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA9> damage to land units in a line.|n|n|cffc3dbffCooldown: 17 seconds|r"
+Hotkey=W
+Researchtip="Learn Shock|cffffcc00w|rave - [|cffffcc00Level %d|r]"
+Researchubertip="A wave of force that ripples out from the Hero, causing damage to units in a line. Distance and area of effect improvement per level. |n|n|cffffcc00Level 1|r - <AOsh,DataA1> damage. |n|cffffcc00Level 2|r - <AOsh,DataA2> damage. |n|cffffcc00Level 3|r - <AOsh,DataA3> damage.|n|cffffcc00Level 4|r - <AOsh,DataA4> damage.|n|cffffcc00Level 5|r - <AOsh,DataA5> damage.|n|cffffcc00Level 6|r - <AOsh,DataA6> damage.|n|cffffcc00Level 7|r - <AOsh,DataA7> damage.|n|cffffcc00Level 8|r - <AOsh,DataA8> damage.|n|cffffcc00Level 9|r - <AOsh,DataA9> damage."
+Researchhotkey=W
+[A0CU]
+Name="Divine Skin [W]"
+Tip="Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 6 seconds.|n|n|cffc3dbffCooldown: 68 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 7 seconds.|n|n|cffc3dbffCooldown: 66 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 8 seconds.|n|n|cffc3dbffCooldown: 64 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 9 seconds.|n|n|cffc3dbffCooldown: 62 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 10 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 11 seconds.|n|n|cffc3dbffCooldown: 57 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 12 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 14 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Divine Skin [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Reduces the normal incoming damage by 99%, the spell damage by 160% (means that it will absorb 75% of the damage) and increases your move speed by 22% for a short duration. Cooldown improves per level.|n|n|cffffcc00Level 1|r - Last 5 seconds.|n|cffffcc00Level 2|r - Last 6 seconds.|n|cffffcc00Level 3|r - Last 7 seconds.|n|cffffcc00Level 4|r - Last 8 seconds.|n|cffffcc00Level 5|r - Last 9 seconds.|n|cffffcc00Level 6|r - Last 10 seconds.|n|cffffcc00Level 7|r - Last 11 seconds.|n|cffffcc00Level 8|r - Last 12 seconds.|n|cffffcc00Level 9|r - Last 14 seconds."
+[A0CC]
+Name="Mirage"
+Tip="Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Confuses the enemy by creating 2 illusions of the Hero that deal 20% damage and receive 300% more damage. Dispels all magic from the Hero. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 30% damage and receive 275% more damage. Dispels all magic from the Hero. |nLasts 35 seconds.|n|n|cffc3dbffCooldown: 58 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 40% damage and receive 250% more damage. Dispels all magic from the Hero. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 56 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 50% damage and receive 225% more damage. Dispels all magic from the Hero. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 54 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 60% damage and receive 200% more damage. Dispels all magic from the Hero. |nLasts 50 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 70% damage and receive 185% more damage. Dispels all magic from the Hero. |nLasts 60 seconds.|n|n|cffc3dbffCooldown: 46 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 75% damage and receive 150% more damage. Dispels all magic from the Hero. |nLasts 70 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 80% damage and receive 125% more damage. Dispels all magic from the Hero. |nLasts 80 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Confuses the enemy by creating 2 illusions of the Hero that deal 100% damage and receive same damage. Dispels all magic from the Hero. |nLasts 100 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+Hotkey=Q
+Researchtip="Learn Mirrage [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Confuses the enemy by creating 2 illusions and dispelling all magic from Maiev. Cooldown, Duration and % of damage taken improve per level.  |n|n|cffffcc00Level 1|r - Deal 20% of your damage.|n|cffffcc00Level 2|r - Deal 30% of your damage.|n|cffffcc00Level 3|r - Deal 40% of your damage.|n|cffffcc00Level 4|r - Deal 50% of your damage.|n|cffffcc00Level 5|r - Deal 60% of your damage.|n|cffffcc00Level 6|r - Deal 70% of your damage.|n|cffffcc00Level 7|r - Deal 75% of your damage.|n|cffffcc00Level 8|r - Deal 80% of your damage.|n|cffffcc00Level 9|r - Deal 100% of your damage."
+Researchhotkey="Q"
+[A0C8]
+Name=Shockwave
+Tip=Shock|cffffcc00w|rave - [|cffffcc00Level 1|r],Shock|cffffcc00w|rave - [|cffffcc00Level 2|r],Shock|cffffcc00w|rave - [|cffffcc00Level 3|r]
+Ubertip="A wave of force that ripples outward, causing <AOsh,DataA1> damage to land units in a line.","A wave of force that ripples outward, causing <AOsh,DataA2> damage to land units in a line.","A wave of force that ripples outward, causing <AOsh,DataA3> damage to land units in a line."
+Hotkey=W
+Researchtip="Learn Shock|cffffcc00w|rave - [|cffffcc00Level %d|r]"
+Researchubertip="A wave of force that ripples out from the Hero, causing damage to land units in a line. |n|n|cffffcc00Level 1|r - <AOsh,DataA1> damage. |n|cffffcc00Level 2|r - <AOsh,DataA2> damage. |n|cffffcc00Level 3|r - <AOsh,DataA3> damage."
+Researchhotkey=W
+[A0C4]
+Name="Firebolt LSPW"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit for 2.6 seconds and deal 1200 damage."
+Hotkey=F
+EditorSuffix="Normal"
+[A09Y]
+Name=Berserk
+Tip="Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Increases the attack rate in 40% and move speed by 16%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 80 seconds|r","Increases the attack rate in 60% and move speed by 17%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 9 seconds.|n|n|cffc3dbffCooldown: 78 seconds|r","Increases the attack rate in 80% and move speed by 18%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 76 seconds|r","Increases the attack rate in 100% and move speed by 19%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 11 seconds.|n|n|cffc3dbffCooldown: 72 seconds|r","Increases the attack rate in 120% and move speed by 20%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 68 seconds|r","Increases the attack rate in 140% and move speed by 22%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 13 seconds.|n|n|cffc3dbffCooldown: 64 seconds|r","Increases the attack rate in 160% and move speed by 24%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Increases the attack rate in 200% and move speed by 26%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r","Increases the attack rate in 250% and move speed by 32%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 20 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Berserker [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Increases attack and move speed and when ever you kill a unit under this effect increase your base damage. Cooldown Improvement per level.|n|n|cffffcc00Level 1|r - 40%.|n|cffffcc00Level 2|r - 60%.|n|cffffcc00Level 3|r - 80%.|n|cffffcc00Level 4|r - 100%.|n|cffffcc00Level 5|r - 120%.|n|cffffcc00Level 6|r - 140%.|n|cffffcc00Level 7|r - 160%.|n|cffffcc00Level 8|r - 200%.|n|cffffcc00Level 9|r - 250%."
+EditorSuffix="(Not Used)"
+[A034]
+Name="Assassin Hit"
+Tip="Assassin Hit [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Assassin Hit [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Assassin Hit [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Assassin Hit [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Allows the Ninja to become invisible, and move 40%  faster for 30 seconds. If the Ninja attacks a unit to break invisibility, the attack will do 700 bonus damage.|n|n|cffc3dbffCooldown: 70 seconds|r. |n|n|c001CE6B9Passively:|r Whenever you cast one of your hero abilities increases Ninja base agility by 5, last 30 seconds, bonus stack and each cast renew the duration.","Allows the Ninja to become invisible, and move 50%  faster for 35 seconds. If the Ninja attacks a unit to break invisibility, the attack will do 1500 bonus damage.|n|n|cffc3dbffCooldown: 60 seconds|r.|n|n|c001CE6B9Passively:|r Whenever you cast one of your hero abilities increases Ninja base agility by 10, last 30 seconds, bonus stack and each cast renew the duration.","Allows the Ninja to become invisible, and move 60%  faster for 40 seconds. If the Ninja attacks a unit to break invisibility, the attack will do 2300 bonus damage.|n|n|cffc3dbffCooldown: 50 seconds|r.|n|n|c001CE6B9Passively:|r Whenever you cast one of your hero abilities increases Ninja base agility by 15, last 30 seconds, bonus stack and each cast renew the duration.","Allows the Ninja to become invisible, and move 120%  faster for 45 seconds. If the Ninja attacks a unit to break invisibility, the attack will do 4500 bonus damage.|n|n|cffc3dbffCooldown: 35 seconds|r.|n|n|c001CE6B9Passively:|r Whenever you cast one of your hero abilities increases Ninja base agility by 20, last 30 seconds, bonus stack and each cast renew the duration."
+Hotkey=T
+Researchtip="Learn Assassin Hit [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Allows the Ninja to become invisible, and move faster for a set amount of time. When the Ninja attacks a unit to break invisibility, she will deal a greater bonus damage. |r.|n|n|c001CE6B9Passively:|r Whenever you cast one of your hero abilities increases Ninja base agility last 15 seconds, bonus stack and each cast renew the duration."
+Researchhotkey="T"
+[A02Q]
+Name="Shadows Legion"
+Tip="Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Creating 3 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r.","Creating 4 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 43 seconds.|n|n|cffc3dbffCooldown: 51 seconds|r.","Creating 5 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 46 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Creating 6 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 49 seconds.|n|n|cffc3dbffCooldown: 49 seconds|r.","Creating 7 illusion of the Blademaster that deals 58% normal damage and receive 9 times normal damage. Dispels all magic from the Blademaster. |nLasts 52 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r.","Creating 7 illusion of the Blademaster that deals 58% normal damage and receive 8 times normal damage. Dispels all magic from the Blademaster. |nLasts 60 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r.","Creating 8 illusion of the Blademaster that deals 58% normal damage and receive 7 times normal damage. Dispels all magic from the Blademaster. |nLasts 65 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r.","Creating 8 illusion of the Blademaster that deals 58% normal damage and receive 6 times normal damage. Dispels all magic from the Blademaster. |nLasts 75 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Creating 9 illusion of the Blademaster that deals 58% normal damage and receive 5 times normal damage. Dispels all magic from the Blademaster. |nLasts 80 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r."
+Hotkey=W
+Researchtip="Learn Shadows Legion [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Confuses the enemy by creating  illusions of the Hero that deal 38% damage but die very fast. Cooldown and duration improvement per level. |n|n|cffffcc00Level 1|r - Creates 3 illusion. |n|cffffcc00Level 2|r - Creates 4 illusions. |n|cffffcc00Level 3|r - Creates 5 illusions.|n|cffffcc00Level 4|r - Creates 6 illusions.|n|cffffcc00Level 5|r - Creates 7 illusions.|n|cffffcc00Level 6|r - Creates 7 less weak illusions.|n|cffffcc00Level 7|r - Creates 8 less weak illusions.|n|cffffcc00Level 8|r - Creates 8 stronger illusions.|n|cffffcc00Level 9|r - Creates 9 stronger illusions."
+Researchhotkey="W"
+[A00M]
+Name="Chaos"
+[A1KN]
+Name="MAM voltage"
+Tip="Vol|cffffcc00t|rage - [|cffffcc00Level 1|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 2|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 3|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 4|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 5|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 6|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 7|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 8|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 9|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 10|r]","Vol|cffffcc00t|rage - [|cffffcc00Level 11|r]"
+Ubertip="Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 26 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 25 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 24 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 22 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 20 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 18 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 16 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 13 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 10 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 7 seconds.|r","Deal 8 x spell power damage, |cffffcc00Ligthing Ability|r deal bonus damage to Magnetize enemies.|n|n|cffc3dbffCooldown: 4 seconds.|r"
+Hotkey=T
+Researchtip="Learn Hell Li|cffffcc00g|rhtning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy. Cooldown improvement per level.  |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage.|n|cffffcc00Level 4|r - <AOcl,DataA4> damage.|n|cffffcc00Level 5|r - <AOcl,DataA5> damage.|n|cffffcc00Level 6|r - <AOcl,DataA6> damage.|n|cffffcc00Level 7|r - <AOcl,DataA7> damage.|n|cffffcc00Level 8|r - <AOcl,DataA8> damage.|n|cffffcc00Level 9|r - <AOcl,DataA9> damage."
+Researchhotkey="T"
+[A1LQ]
+Name="Electric Whirlwind"
+Tip="Electric Whirlwind","Electric |cffffcc00W|rhirlwind","Electric |cffffcc00W|rhirlwind"
+Ubertip="Cut and shock!","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 25/30/35 damage per second to nearby enemy land units. His thunder blade also releases chain lightnings every 0.5 seconds, striking 4 enemies dealing 20/25/30 damage. Chain loses 20% damage after each strike. The blademaster finishes the spell by striking the ground and purging all nearby targets in a 300/350/400 aoe. Lasts 4/5/6 seconds.","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 25/30/35 damage per second to nearby enemy land units. His thunder blade also releases chain lightnings every 0.5 seconds, striking 4 enemies dealing 20/25/30 damage. Chain loses 20% damage after each strike. The blademaster finishes the spell by striking the ground and purging all nearby targets in a 300/350/400 aoe. Lasts 4/5/6 seconds."
+Hotkey=W
+Researchtip="Learn Electric |cffffcc00W|rhirlwind"
+Researchubertip="Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 25/30/35 damage per second to nearby enemy land units. His thunder blade also releases chain lightnings every 0.5 seconds, striking 4 enemies dealing 15/20/25 damage. Chain loses 25% damage after each strike. The blademaster finishes the spell by striking the ground and purging all nearby targets in a 300/350/400 aoe. Lasts 4/5/6 seconds."
+Researchhotkey="W"
+Globalmessage=
+Globalsound=
+Unhotkey=W
+[A1LT]
+Name="Omnislash"
+Tip="Omnislash","Omnislash","Omnislash","Omnislash"
+Ubertip="Catch me!","Catch me!","Catch me!","Catch me!"
+Hotkey=N
+Researchtip="Learn Om|cffffcc00n|rislash - [|cffffcc00Level %d|r]"
+Researchubertip="The Hero warps around the battlefield slashing enemy units and damaging them. |n|n|cffffcc00Level 1|r - 5 Slashes, 75 Damage. |n|cffffcc00Level 2|r - 8 Slashes, 150 Damage |n|cffffcc00Level 3|r - 11 Slashes, 225 Damage"
+Researchhotkey="N"
+Unhotkey=N
+[A1M5]
+Name="Demon Skin"
+Tip="Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Pitlord deals strength*1 damage to attacker in spell damage but will also receive 50% more damage. Last 4 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*1.5 damage to attacker in spell damage but will also receive 55% more damage.. Last 4.2 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*2 damage to attacker in spell damage but will also receive 60% more damage. Last 4.4 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*2.5 damage to attacker in spell damage but will also receive 65% more damage. Last 4.7 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*3 damage to attacker in spell damage but will also receive 70% more damage. Last 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*3.5 damage to attacker in spell damage but will also receive 75% more damage. Last 5.3 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*4 damage to attacker in spell damage but will also receive 80% more damage. Last 5.6 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*4.5 damage to attacker in spell damage but will also receive 85% more damage. Last 6 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r","Pitlord deals strength*5 damage to attacker in spell damage but will also receive 90% more damage. Last 7 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Demon Skin [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Pitlord returns spell damage to attacker based on strength for a duration but will also take extra damage. Cooldown and duration improve per level. |n|cffffcc00Level 1|r - 1x str and takes 50% extra damage. |n|cffffcc00Level 2|r - 1.5x str and takes 55% extra damage. |n|cffffcc00Level 3|r - 2x str and takes 60% extra damage. |n|cffffcc00Level 4|r - 2.5x str and takes 65% extra damage. |n|cffffcc00Level 5|r - 3x str and takes 70% extra damage. |n|cffffcc00Level 6|r - 3.5x str and takes 75% extra damage. |n|cffffcc00Level 7|r - 4x str and takes 80% extra damage. |n|cffffcc00Level 8|r - 4.5x str and takes 85% extra damage. |n|cffffcc00Level 9|r - 5x str and takes 90% extra damage."
+[A1LV]
+Name="Eternal Winter"
+Tip="Eternal Winter (|cffffcc00Q|r) - [|cffffcc00Level 1|r]","Eternal Winter (|cffffcc00Q|r) - [|cffffcc00Level 2|r]","Eternal Winter (|cffffcc00Q|r) - [|cffffcc00Level 3|r]","Eternal Winter (|cffffcc00Q|r) - [|cffffcc00Level 4|r]"
+Ubertip="If we die in this Winter... we shall all die together.","If we die in this Winter... we shall all die together.","If we die in this Winter... we shall all die together.","If we die in this Winter... we shall all die together."
+Hotkey=Q
+Researchtip="Learn Eternal Winter (|cffffcc00Q|r) - [|cffffcc00Level %d|r]"
+Researchubertip="Sends an Icy sphere at target, which causes impact damage and freezes it in place for 5 seconds, splitting into 5 smaller icy bolts. These bolts fly out of the target, and after reaching a distance of 600 away from the Target, start returning to it. After returning to target, they emit a fridgit blast, dealing damage to and freezing all enemies near the target for 5 seconds.|n|n[|cffffcc00Level 1|r] - 200 Impact damage, 400 blast damage.|n[|cffffcc00Level 2|r] - 300 Impact damage, 500 blast damage.|n[|cffffcc00Level 3|r] - 400 Impact damage, 600 blast damage.|n[|cffffcc00Level 4|r] - 500 Impact damage, 700 blast damage."
+Researchhotkey="Q"
+[A1M2]
+Name="Freeze"
+Tip=|cffffcc00E|rnsnare
+Ubertip="Causes a target enemy unit to be bound to the ground so that it cannot move for <Aens,Dur1> seconds. Air units that are ensnared can be attacked as though they were land units."
+Hotkey=E
+[A1ME]
+Name="Orb of Water"
+Tip="Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 1|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 2|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 3|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 4|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 5|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 6|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 7|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 8|r]","Orb of Water [|cffffcc00W|r] - [|cffffcc00Level 9|r]"
+Ubertip="Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 1) + 50 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 50 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 2) + 100 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 49 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 3) + 150 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 48 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 4) + 200 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 45 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 5) + 250 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 44 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 6) + 300 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 43 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 7) + 350 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 40 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 8) + 400 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 38 seconds.|r","Creates a sphere, which flies around the Hero and damages nearby enemies, launching them into the air. Deals (intelligence * 9) + 450 + 2% total hitpoints of target in spell damage. |n|n|cffc3dbffCooldown: 35 seconds.|r"
+Hotkey=W
+Researchtip="Orb of Water"
+Researchubertip="Creates a sphere, which flies around the Water Elemental and damages nearby enemies based on intelligence and total hitpoints of targets, launching them into the air and disabling them."
+Researchhotkey=W
+[A1MT]
+Name="Critical Strike (Ward)"
+Tip="Critical Strike","Critical Strike - [|cffffcc00Level 2|r]","Critical Strike - [|cffffcc00Level 3|r]"
+Ubertip="Gives 20% chance to deal 6 times damage. Crit can never miss. Also gives 33% to evade","Gives a <AOcr,DataA2>% chance to do <AOcr,DataB2> times normal damage on an attack.","Gives a <AOcr,DataA3>% chance to do <AOcr,DataB3> times normal damage on an attack."
+Researchtip="Learn |cffffcc00C|rritical Strike - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a chance to do more damage on an attack. |n|n|cffffcc00Level 1|r - <AOcr,DataA1>% chance, <AOcr,DataB1> times normal damage. |n|cffffcc00Level 2|r - <AOcr,DataA2>% chance, <AOcr,DataB2> times normal damage. |n|cffffcc00Level 3|r - <AOcr,DataA3>% chance, <AOcr,DataB3> times normal damage."
+Researchhotkey=C
+[A1QQ]
+Name="ES"
+Tip="ES","ES","ES","ES"
+Ubertip="Let Storm split the Earth","Let Storm split the Earth2","Let Storm split the Earth3","Let Storm split the Earth4"
+Hotkey=W
+Researchtip="|cffFFCC00Learn |cff1BE6B8Earth Splitter |r- [|cffFFCC00Level %d|r]"
+Researchubertip="[--|cffFFCC00Information|r--]|nAsks the heaven for help, which fires divine lasers down to the earth, splitting the ground and cutting through everything they touch.|n[--|cffFFCC00Stats|r--]|n|cffFFCC00Damage: |r |cff1BE6B8Energy*Level of ability*0.1|n|cffFFCC00Lasers: |cff1BE6B82 + (Level of ability * 2)|n|cffFFCC00Damage area around Laser:|cff1BE6B8 170 + (10*Level of ability)|n|cffFFCC00Area:|cff1BE6B8 200 + (Level of ability * 100)|n|cffFFCC00Duration: |cff1BE6B84 +(Level of ability * 2) Seconds"
+Researchhotkey=W
+[A1RC]
+Name="illusionist"
+Tip="Mirror Image [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Mirror Image [ |c00FFFC02W|r ] - [|cffffcc00Level 2|r]","Mirror Image [ |c00FFFC03W|r ] - [|cffffcc00Level 3|r]","Mirror Image [ |c00FFFC04W|r ] - [|cffffcc00Level 4|r]","Mirror Image [ |c00FFFC05W|r ] - [|cffffcc00Level 5|r]","Mirror Image [ |c00FFFC06W|r ] - [|cffffcc00Level 6|r]","Mirror Image [ |c00FFFC07W|r ] - [|cffffcc00Level 7|r]","Mirror Image [ |c00FFFC08W|r ] - [|cffffcc00Level 8|r]","Mirror Image [ |c00FFFC09W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 6x more damage but deals 100% of your damage.|nlasts 40 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 5.5x more damage but deals 125% of your damage.|nlasts 42 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 5x more damage but deals 150% of your damage.|nlasts 44 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 4.5x more damage but deals 175% of your damage.|nlasts 46 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 4x more damage but deals 200% of your damage.|nlasts 48 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 3.5x more damage but deals 225% of your damage.|nlasts 50 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 3x more damage but deals 250% of your damage.|nlasts 52 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 2.5x more damage but deals 275% of your damage.|nlasts 54 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Creates 1 illusion to confuse the enemy and deals 10% of your current hitpoints to you. the illusion takes 2x more damage but deals 300% of your damage.|nlasts 56 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r"
+Hotkey=W
+Researchtip="Learn Mirror Image [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Learned from a blademaster on the battle field to use in combat but has not completely mastered it yet.|nConfuses the enemy by creating an illusion of the Skeletal warrior to deceive enemies. Also dispells all magic. "
+Researchhotkey="W"
+EditorSuffix="(LC Skeletal Warrior)"
+[A1SL]
+Name="Firebolt BM Especial 2"
+Tip=|cffffcc00F|rirebolt
+Ubertip="Hurls a fiery bolt that stuns a target enemy unit."
+Hotkey=F
+EditorSuffix=(Warlock)
+[A1UD]
+Name="Spiritlink Spiritshield"
+Tip="Spi|cffffcc00r|rit Link"
+Ubertip="Links <Aspl,DataB1> units together in a chain. All units with Spirit Link on them will live longer, by distributing <Aspl,DataA1,%>% of the damage they take across other Spirit Linked units. |nLasts <Aspl,Dur1> seconds."
+Hotkey=
+[A1UG]
+Name="Blood Rage"
+Tip="Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 1|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 2|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 3|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 4|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 5|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 6|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 7|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 8|r]","Blood Rage [ |c00FFFC01R|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Deal 2% of your max hp on attack and deal 0.5% of your max health to yourself.|nLasts 5 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Deal 4% of your max hp on attack and deal 1% of your max health to yourself.|nLasts 5.7 seconds.|n|n|cffc3dbffCooldown: 58 seconds|r","Deal 6% of your max hp on attack and deal 1.5% of your max health to yourself.|nLasts 6.5 seconds.|n|n|cffc3dbffCooldown: 56 seconds|r","Deal 8% of your max hp on attack and deal 2% of your max health to yourself.|nLasts 7.2 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r","Deal 10% of your max hp on attack and deal 2.5% of your max health to yourself.|nLasts 8 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r","Deal 12% of your max hp on attack and deal 3% of your max health to yourself.|nLasts 8.7 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Deal 14% of your max hp on attack and deal 3.5% of your max health to yourself.|nLasts 9.5 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r","Deal 16% of your max hp on attack and deal 4% of your max health to yourself.|nLasts 10.2 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Deal 18% of your max hp on attack and deal 4.5% of your max health to yourself.|nLasts 11 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r"
+Hotkey=R
+Researchtip="Learn Blood Rage - [|cffffcc00Level %d|r]"
+Researchhotkey="R"
+Researchubertip="Deals Damage based off your Max life on attack but it will also deal damage to you.|n|n|cffffcc00Level 1|r - 2% max life dealt, 0.5% taken.|n|cffffcc00Level 2|r - 4% max life dealt, 1% taken.|n|cffffcc00Level 3|r - 6% max life dealt, 1.5% taken.|n|cffffcc00Level 4|r - 8% max life dealt, 2% taken.|n|cffffcc00Level 5|r - 10% max life dealt, 2.5% taken.|n|cffffcc00Level 6|r - 12% max life dealt, 3% taken.|n|cffffcc00Level 7|r - 14% max life dealt, 3.5% taken.|n|cffffcc00Level 8|r - 16% max life dealt, 4% taken.|n|cffffcc00Level 9|r - 18% max life dealt, 4.5% taken."
+[A1WK]
+Name="Centaur Speed Buff"
+Tip=|cffffcc00B|rloodlust
+Ubertip="Increases a friendly unit's attack rate by <Ablo,DataA1,%>% and movement speed by <Ablo,DataB1,%>%. |nLasts <Ablo,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=B
+Unhotkey=B
+[A1WL]
+Name="Dante Speed Buff"
+Tip=|cffffcc00B|rloodlust
+Ubertip="Increases a friendly unit's attack rate by <Ablo,DataA1,%>% and movement speed by <Ablo,DataB1,%>%. |nLasts <Ablo,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=B
+Unhotkey=B
+[A1WP]
+Name="Dark Knight Speed Buff"
+Tip=|cffffcc00B|rloodlust
+Ubertip="Increases a friendly unit's attack rate by <Ablo,DataA1,%>% and movement speed by <Ablo,DataB1,%>%. |nLasts <Ablo,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=B
+Unhotkey=B
+[A1WR]
+Name="Martial Arts Master Speed Buff"
+Tip=|cffffcc00B|rloodlust
+Ubertip="Increases a friendly unit's attack rate by <Ablo,DataA1,%>% and movement speed by <Ablo,DataB1,%>%. |nLasts <Ablo,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=B
+Unhotkey=B
+[B07E]
+Bufftip=Heart of Osiris
+Buffubertip=Give 2% of your total hit points regeneration per second.
+[B05W]
+Bufftip=Hexx
+Buffubertip="This unit is Hexed; it has been transformed into a critter."
+[B05V]
+Bufftip=Rage
+Buffubertip=This unit is in Rage; it will deal more damage
+[B04A]
+Bufftip=Zeal
+Buffubertip=This unit increases agility with each attack.
+EditorSuffix=T
+[B042]
+Bufftip=Mastery
+Buffubertip=Assassin improve with each kill.
+[B041]
+Bufftip=Sharpest Blade
+Buffubertip=Assassin have the sharpest Blades.
+[B040]
+Bufftip=Furtive Attack
+Buffubertip=This is invisible
+[B03V]
+Bufftip=Edge
+Buffubertip=This unit has his attack increased.
+[B03U]
+Bufftip=Strongest Army
+Buffubertip=This unit is part of the strongest army.
+[B03T]
+Bufftip=Bloodlust
+Buffubertip=This unit has Bloodlust; its attack rate and move speed are increased.
+EditorName=White mage
+EditorSuffix=White mage
+[B03C]
+Bufftip=ShockWave
+Buffubertip=This unit has been hit by a shockwave.
+EditorName=ShockWave DDD
+[B033]
+Bufftip=Boots of Quel Thalas
+Buffubertip=This unit has a nice pair of boots.
+[B032]
+Bufftip=Assassin St|cffffcc00e|rps
+Buffubertip=This unit has his move speed increases and deal bonus damage based in her agility.
+[B02Y]
+Bufftip=Berserk
+Buffubertip=This unit is Berserk; have high attack speed.
+EditorName=Berseker T
+[B02X]
+Bufftip=Hyperactivity
+Buffubertip=Catch me.
+[B02S]
+Bufftip=Royal Knight
+Buffubertip="Summoned units take damage from dispels."
+[B027]
+Bufftip=Battle Attribute
+Buffubertip=This unit are good in battle.
+[B026]
+Bufftip=Power and Speed
+Buffubertip=This unit has his base strength and move speed increases.
+[B025]
+Bufftip=Divine Skin
+Buffubertip=This unit has Divine Skin it will not take damage.
+[B024]
+Bufftip=Ferocity
+Buffubertip=This unit is under the effects of Ferocity Aura; it has an increased movement speed and attack rate.
+[B01J]
+Bufftip=Fountain healing
+Buffubertip=Hit points regeneration per second.
+[B01G]
+Bufftip=Battle Knowledge
+Buffubertip=This unit has his attack speed an his armor increased.
+[B01E]
+Bufftip=Medical Kit
+Buffubertip=MedKit.
+[B01D]
+Bufftip=Magic Sight
+Buffubertip=It has his all his skill and his move speed improved.
+[B01B]
+Bufftip=Divine Healing
+Buffubertip=Gives 1% of your total hit points regeneration per second.
+[B01A]
+Bufftip=Holocaust
+Buffubertip=
+[B00Q]
+Bufftip=Zombie Toxin
+Buffubertip="This unit is poisoned; it will take damage over time."
+EditorSuffix=(Stacking)
+[B00P]
+Bufftip=Zombie Toxin
+Buffubertip="This unit is poisoned, and will take damage over time."
+EditorSuffix=(Non-stacking)
+[B00D]
+Bufftip=Dragon Fire
+Buffubertip=This unit was hit by a dragon; Probably it will died.
+EditorSuffix=(Non-stacking)
+EditorName=DF!
+[B00B]
+Bufftip=Dragon Fire
+Buffubertip=This unit was hit by Dragon Fire; It will take damage over time.
+EditorSuffix=(Stacking)
+EditorName=Dragon Fire2
+[B07X]
+Bufftip=Hell
+Buffubertip=This unit has an increased  attack rate.
+[B07Y]
+Bufftip=Hard
+Buffubertip=This unit has an increased  attack rate.
+[B07Z]
+Bufftip=Very Hard
+Buffubertip=This unit has an increased  attack rate.
+[B08F]
+Bufftip=Flak Cannon
+Buffubertip=This Unit is Flak Cannon
+[B08J]
+Bufftip=Demon Skin
+Buffubertip=Return str based damage. But also take more damage.
+EditorName=Demon Skin
+[B08M]
+Bufftip=Freeze
+Buffubertip=This unit is frozen; it can't move
+EditorSuffix=Air
+[B08N]
+Bufftip=Freeze
+Buffubertip=This unit is frozen; it can't move
+EditorSuffix=Ground
+[B08X]
+Bufftip=Poison
+Buffubertip="This unit is poisoned; it will take damage over time."
+EditorSuffix=
+EditorName=Poison (Dark Ranger)
+[B092]
+Bufftip=Poison
+Buffubertip="This unit is poisoned, and will take damage over time."
+EditorSuffix=(Non-stacking)
+EditorName=Venom Strike
+[B09I]
+Bufftip=Spirit Shield Link
+Buffubertip="This unit is Spirit Linked; it will distribute some of the damage it takes across other Spirit Linked units."
+EditorName=Spirit Shield Link
+[B09J]
+Bufftip=Blood Rage
+Buffubertip=This unit has been consumed by rage; making it deal damage based off his max hitpoints and will recieve unblockable backlash damage.
+EditorName=Blood Rage
+[B09S]
+Bufftip=Blood Grunt Healing
+Buffubertip=Gives 1% of your total hit points regeneration per second.

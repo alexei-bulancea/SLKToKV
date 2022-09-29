@@ -1,0 +1,15 @@
+UnitId : h03U
+Descriprion : 
+	Id : h03U
+	Name : "ZbSorce2"
+	Ubertip : "Versatile spellcaster. Can initially cast Slow, which decreases movement and attack speed on enemy units. Can also learn Invisibility and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0FB
+Descriprion : 
+	Id : A0FB
+	Name : "Zombie Heal 2"
+	Ubertip : "Heals a target friendly non-mechanical wounded unit for <Ahea,DataA1> hit points."
+
+
+Hero ability list:

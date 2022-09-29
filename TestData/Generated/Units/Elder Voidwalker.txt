@@ -1,0 +1,57 @@
+UnitId : nvde
+Descriprion : 
+	Id : nvde
+	Name : Elder Voidwalker
+	Ubertip : "Heavy ranged unit that can cast Devour Magic and Forked Lightning. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ANss
+Descriprion : 
+	Id : ANss
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A03R
+Descriprion : 
+	Id : A03R
+	Name : "Chain Lightning Elder Void.W"
+	Ubertip : "Hurls a bolt of lightning that bounces up to 16 times, dealing 900 damage to the primary target. Each jump deals less damage.","Hurls a bolt of lightning that bounces up to 16 times, dealing 1500 damage to the primary target. Each jump deals less damage.","Hurls a bolt of lightning that bounces up to 16 times, dealing 2500 damage to the primary target. Each jump deals less damage.","Hurls a bolt of lightning that bounces up to 16 times, dealing 3500 damage to the primary target. Each jump deals less damage."
+
+
+AbilityId : A03P
+Descriprion : 
+	Id : A03P
+	Name : "Evasion G"
+	Ubertip : "Gives a 60% percent chance to avoid an attack."
+
+
+AbilityId : A03Q
+Descriprion : 
+	Id : A03Q
+	Name : "Critical Strike Elder Voidw"
+	Ubertip : "Gives a 16% chance to do 3.3 times normal damage on an attack.","Gives a 25% chance to do 4.5 times normal damage on an attack.","Gives a 32% chance to do 7 times normal damage on an attack.","Gives a 40% chance to do 9 times normal damage on an attack."
+
+
+AbilityId : A01G
+Descriprion : 
+	Id : A01G
+	Name : "Life Steal Corrupted Sword"
+	Ubertip : 
+
+
+AbilityId : A03M
+Descriprion : 
+	Id : A03M
+	Name : "Magic Reduccion 60%"
+	Ubertip : "Reduces the damage taken from spells and to 60%"
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : nfpt
+Descriprion : 
+	Id : nfpt
+	Name : Polar Furbolg Tracker
+	Ubertip : "Heavy melee unit that can Slow opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACsw
+Descriprion : 
+	Id : ACsw
+	Name : Slow
+	Ubertip : "Slows enemy unit's attack rate by <ACsw,DataB1,%>% and movement speed by <ACsw,DataA1,%>%. Lasts <ACsw,Dur1> seconds."
+
+
+Hero ability list:

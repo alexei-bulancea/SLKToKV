@@ -1,0 +1,43 @@
+UnitId : n00I
+Descriprion : 
+	Id : n00I
+	Name : "Necro Iron Golem"
+	Ubertip : "Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1NH
+Descriprion : 
+	Id : A1NH
+	Name : "Armor Bonus (Golem)"
+	Ubertip : 
+
+
+AbilityId : A1NF
+Descriprion : 
+	Id : A1NF
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 200 points of damage in 400 AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 750 points of damage in 600 AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 2000 points of damage in 800 AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 7500 points of damage in 1000 AOE and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : A07A
+Descriprion : 
+	Id : A07A
+	Name : Impale
+	Ubertip : "Slams the ground, sending a wave of force out in a straight line, dealing 1400 damage and hurling enemy ground units into the air in their wake, stunning them for 3 seconds."
+
+
+AbilityId : A077
+Descriprion : 
+	Id : A077
+	Name : "Iron Property"
+	Ubertip : "Reduces all attacks on that unit by 60 damage."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

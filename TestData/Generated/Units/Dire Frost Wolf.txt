@@ -1,0 +1,29 @@
+UnitId : nwwd
+Descriprion : 
+	Id : nwwd
+	Name : Dire Frost Wolf
+	Ubertip : "Medium melee unit with Critical Strike. Can cast Roar. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1G0
+Descriprion : 
+	Id : A1G0
+	Name : "Evasion F"
+	Ubertip : "Gives a <ACes,DataA1,%>% percent chance to avoid an attack."
+
+
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+Hero ability list:

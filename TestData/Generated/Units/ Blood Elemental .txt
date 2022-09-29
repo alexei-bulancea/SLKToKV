@@ -1,0 +1,36 @@
+UnitId : n041
+Descriprion : 
+	Id : n041
+	Name : "Blood Elemental"
+	Ubertip : "Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1FZ
+Descriprion : 
+	Id : A1FZ
+	Name : "Blood Defense"
+	Ubertip : "Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

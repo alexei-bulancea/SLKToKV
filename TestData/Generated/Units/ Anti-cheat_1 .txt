@@ -1,0 +1,22 @@
+UnitId : h05J
+Descriprion : 
+	Id : h05J
+	Name : "Anti-cheat_1"
+	Ubertip : "A unit used in the Anti-cheat system"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Aroa
+Descriprion : 
+	Id : Aroa
+	Name : "Restauration"
+	Ubertip : "Gives friendly nearby units a 12 hit points regeneration per second, 8 bonus armor and <Aroa,DataA1,%>% bonus to damage. |nLasts <Aroa,Dur1> seconds.|n|n|cffc3dbffCooldown: 24 seconds|r.","Gives friendly nearby units a 15 hit points regeneration per second, 8 bonus armor and <Aroa,DataA2,%>% bonus to damage. |nLasts <Aroa,Dur2> seconds.|n|n|cffc3dbffCooldown: 23 seconds|r.","Gives friendly nearby units a 18 hit points regeneration per second, 8 bonus armor and <Aroa,DataA3,%>% bonus to damage. |nLasts <Aroa,Dur3> seconds.|n|n|cffc3dbffCooldown: 22 seconds|r.","Gives friendly nearby units a 22 hit points regeneration per second, 8 bonus armor and <Aroa,DataA4,%>% bonus to damage. |nLasts <Aroa,Dur4> seconds.|n|n|cffc3dbffCooldown: 21 seconds|r.","Gives friendly nearby units a 26 hit points regeneration per second, 8 bonus armor and <Aroa,DataA5,%>% bonus to damage. |nLasts <Aroa,Dur5> seconds.|n|n|cffc3dbffCooldown: 20 seconds|r.","Gives friendly nearby units a 30 hit points regeneration per second, 8 bonus armor and <Aroa,DataA6,%>% bonus to damage. |nLasts <Aroa,Dur6> seconds.|n|n|cffc3dbffCooldown: 19 seconds|r.","Gives friendly nearby units a 40 hit points regeneration per second, 8 bonus armor and <Aroa,DataA7,%>% bonus to damage. |nLasts <Aroa,Dur7> seconds.|n|n|cffc3dbffCooldown: 18 seconds|r.","Gives friendly nearby units a 55 hit points regeneration per second, 8 bonus armor and <Aroa,DataA8,%>% bonus to damage. |nLasts <Aroa,Dur8> seconds.|n|n|cffc3dbffCooldown: 17 seconds|r.","Gives friendly nearby units a 80 hit points regeneration per second, 8 bonus armor and <Aroa,DataA9,%>% bonus to damage. |nLasts <Aroa,Dur9> seconds.|n|n|cffc3dbffCooldown: 16 seconds|r."
+
+
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : otto
+Descriprion : 
+	Id : otto
+	Name : Tauren Totem
+	Ubertip : "Trains Tauren. |nAlso contains the Pulverize upgrade."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+Hero ability list:

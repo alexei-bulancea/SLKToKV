@@ -1,0 +1,15 @@
+UnitId : hgry
+Descriprion : 
+	Id : hgry
+	Name : Gryphon Rider
+	Ubertip : "Powerful flying creature, mounted by a Dwarven hammer-thrower. Can learn Animal War Training, and the Storm Hammers ability. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Asth
+Descriprion : 
+	Id : Asth
+	Name : Storm Hammers
+	Ubertip : "Causes a Gryphon Rider's attacks to damage multiple units."
+
+
+Hero ability list:

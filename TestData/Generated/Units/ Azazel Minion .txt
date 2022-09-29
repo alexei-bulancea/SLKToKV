@@ -1,0 +1,15 @@
+UnitId : n02L
+Descriprion : 
+	Id : n02L
+	Name : "Azazel Minion"
+	Ubertip : "Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACsk
+Descriprion : 
+	Id : ACsk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

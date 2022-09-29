@@ -1,0 +1,15 @@
+UnitId : h032
+Descriprion : 
+	Id : h032
+	Name : "Book of Move Speed Level 2"
+	Ubertip : "Stronger Aura of Move Speed. "
+
+Ability List:
+AbilityId : S00A
+Descriprion : 
+	Id : S00A
+	Name : "Book Move Speed Aura 2"
+	Ubertip : "Increases all friendly units Move speed by 12%."
+
+
+Hero ability list:

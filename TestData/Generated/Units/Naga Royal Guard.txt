@@ -1,0 +1,43 @@
+UnitId : nnrg
+Descriprion : 
+	Id : nnrg
+	Name : Naga Royal Guard
+	Ubertip : "Incredibly powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Also has Resistant Skin, which reduces the duration of negative spells, Frost Bolt, which stuns a target enemy unit, Crushing Wave, which deals damage in a line, and Summon Sea Elemental, which summons a ranged attack unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Asb2
+Descriprion : 
+	Id : Asb2
+	Name : Submerge
+	Ubertip : "Allows this unit to dive beneath water, hiding it from view."
+
+
+AbilityId : ACcv
+Descriprion : 
+	Id : ACcv
+	Name : Crushing Wave
+	Ubertip : "Sends a gigantic wave which deals <ACcv,DataA1> damage to each enemy land unit in a line, up to <ACcv,DataB1> max damage."
+
+
+AbilityId : ACcb
+Descriprion : 
+	Id : ACcb
+	Name : Frost Bolt
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing <ACcb,DataA1> damage and stunning the target for <ACcb,Dur1> seconds."
+
+
+AbilityId : ACwe
+Descriprion : 
+	Id : ACwe
+	Name : "Summon Sea ElementalG"
+	Ubertip : "Summons a powerful Sea Elemental with <nsel,realHP> hit points that does <nsel,mindmg1> - <nsel,maxdmg1> damage. |nLasts <ACwe,Dur1> seconds."
+
+
+AbilityId : ACsk
+Descriprion : 
+	Id : ACsk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

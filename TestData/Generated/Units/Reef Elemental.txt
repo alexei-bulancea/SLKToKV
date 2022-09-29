@@ -1,0 +1,15 @@
+UnitId : nrel
+Descriprion : 
+	Id : nrel
+	Name : Reef Elemental
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A01K
+Descriprion : 
+	Id : A01K
+	Name : "Ice Shield Defense"
+	Ubertip : "40% chance to Reduces damage by 80."
+
+
+Hero ability list:

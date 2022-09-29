@@ -1,0 +1,78 @@
+UnitId : H089
+Descriprion : 
+	Id : H089
+	Name : "Swordman"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Shockwave, Bash, Sword Mastery, Uncomun Power and Mirror Image. "
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A1CH
+Descriprion : 
+	Id : A1CH
+	Name : "Q God Thunder "
+	Ubertip : "Deal 40000 points of damage and paralize the target for 5.5 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : AIva
+Descriprion : 
+	Id : AIva
+	Name : Item Life Steal
+	Ubertip : 
+
+
+AbilityId : A1W1
+Descriprion : 
+	Id : A1W1
+	Name : "Armor Bonus -600"
+	Ubertip : 
+
+
+AbilityId : A1W2
+Descriprion : 
+	Id : A1W2
+	Name : "-5500 Bonus Damage"
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AOsh
+Descriprion : 
+	Id : AOsh
+	Name : "Shockwave."
+	Ubertip : "A wave of force that ripples outward, causing <AOsh,DataA1> damage to land units in a line.|n|n|cffc3dbffCooldown: 6 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA2> damage to land units in a line.|n|n|cffc3dbffCooldown: 7 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA3> damage to land units in a line.|n|n|cffc3dbffCooldown: 8 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA4> damage to land units in a line.|n|n|cffc3dbffCooldown: 9 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA5> damage to land units in a line.|n|n|cffc3dbffCooldown: 10 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA6> damage to land units in a line.|n|n|cffc3dbffCooldown: 11 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA7> damage to land units in a line.|n|n|cffc3dbffCooldown: 12 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA8> damage to land units in a line.|n|n|cffc3dbffCooldown: 13 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA9> damage to land units in a line.|n|n|cffc3dbffCooldown: 17 seconds|r"
+
+
+AbilityId : AHbh
+Descriprion : 
+	Id : AHbh
+	Name : Bash
+	Ubertip : "Gives a <AHbh,DataA1>% chance that an attack will do <AHbh,DataC1> bonus damage and stun an opponent for 0.3 seconds.","Gives a <AHbh,DataA2>% chance that an attack will do <AHbh,DataC2> bonus damage and stun an opponent for 0.4 seconds.","Gives a <AHbh,DataA3>% chance that an attack will do <AHbh,DataC3> bonus damage and stun an opponent for 0.5 seconds.","Gives a <AHbh,DataA4>% chance that an attack will do <AHbh,DataC4> bonus damage and stun an opponent for 0.6 seconds.","Gives a <AHbh,DataA5>% chance that an attack will do <AHbh,DataC5> bonus damage and stun an opponent for 0.7 seconds.","Gives a <AHbh,DataA6>% chance that an attack will do <AHbh,DataC6> bonus damage and stun an opponent for 0.8 seconds.","Gives a <AHbh,DataA7>% chance that an attack will do <AHbh,DataC7> bonus damage and stun an opponent for 0.9 seconds.","Gives a <AHbh,DataA8>% chance that an attack will do <AHbh,DataC8> bonus damage and stun an opponent for 1 second.","Gives a <AHbh,DataA9>% chance that an attack will do <AHbh,DataC9> bonus damage and stun an opponent for 1.1 seconds."
+
+
+AbilityId : A1HW
+Descriprion : 
+	Id : A1HW
+	Name : "Sword Mastery"
+	Ubertip : "Have %15 chance to deal 2 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 3 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 4 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 5 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 6 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 7 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 8 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 9 times normal damage and stun the target for 0.8 seconds.","Have %15 chance to deal 10 times normal damage and stun the target for 0.8 seconds."
+
+
+AbilityId : Aamk
+Descriprion : 
+	Id : Aamk
+	Name : "Uncommon Power"
+	Ubertip : "Increases Hero Stats + 5 to Strength +2 to Agility +2 to Intelligence","Increases Hero Stats + 10 to Strength +4 to Agility +4 to Intelligence","Increases Hero Stats +15 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +20 to Strength +8 to Agility +8 to Intelligence","Increases Hero Stats + 26 to Strength +10 to Agility +10 to Intelligence","Increases Hero Stats + 32 to Strength +12 to Agility +12 to Intelligence","Increases Hero Stats + 40 to Strength +14 to Agility +14 to Intelligence","Increases Hero Stats + 50 to Strength +16 to Agility +16 to Intelligence","Increases Hero Stats + 55 to Strength +20 to Agility +20 to Intelligence. Whenever you or your ilusion attack a boss, every 60 attacks increases a random of your stats or decrease one of the boss for a duration. The same stat does not stack. Duration of the negative effects on enemies renew each time this effect come out."
+
+
+AbilityId : AOmi
+Descriprion : 
+	Id : AOmi
+	Name : Mirror Image
+	Ubertip : "Confuses the enemy by creating <AOmi,DataA1> illusions of the Hero that deal the same damage and receive less damage. Dispels all magic from the Hero. |nLasts <AOmi,Dur1> seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r","Confuses the enemy by creating <AOmi,DataA1> illusions of the Hero that deal the same damage and receive less damage. Dispels all magic from the Hero. |nLasts <AOmi,Dur1> seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r","Confuses the enemy by creating <AOmi,DataA1> illusions of the Hero that deal the same damage and receive less damage. Dispels all magic from the Hero. |nLasts <AOmi,Dur1> seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r"
+
+

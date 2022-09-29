@@ -1,0 +1,29 @@
+UnitId : nsln
+Descriprion : 
+	Id : nsln
+	Name : Sludge Monstrosity
+	Ubertip : "Medium melee unit that can Slow opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A022
+Descriprion : 
+	Id : A022
+	Name : "Envenomed Weapons BM"
+	Ubertip : "Deals 25 poison damage per second. |nLasts 15 seconds."
+
+
+AbilityId : ACsw
+Descriprion : 
+	Id : ACsw
+	Name : Slow
+	Ubertip : "Slows enemy unit's attack rate by <ACsw,DataB1,%>% and movement speed by <ACsw,DataA1,%>%. Lasts <ACsw,Dur1> seconds."
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+Hero ability list:

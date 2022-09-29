@@ -1,0 +1,15 @@
+UnitId : ntrs
+Descriprion : 
+	Id : ntrs
+	Name : Sea Turtle
+	Ubertip : "Light melee amphibious unit whose spiked shell harms enemy melee attackers. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ANth
+Descriprion : 
+	Id : ANth
+	Name : "Spiked Shell T"
+	Ubertip : "Deal 24% of an enemy unit's melee attack damage back to it."
+
+
+Hero ability list:

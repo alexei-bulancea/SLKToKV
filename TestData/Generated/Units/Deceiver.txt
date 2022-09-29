@@ -1,0 +1,29 @@
+UnitId : nhdc
+Descriprion : 
+	Id : nhdc
+	Name : Deceiver
+	Ubertip : "Light ranged unit that hurls Demon fire. Can cast Curse. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A03A
+Descriprion : 
+	Id : A03A
+	Name : Frost Bolt
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing <ACcb,DataA1> damage and stunning the target for <ACcb,Dur1> seconds."
+
+
+AbilityId : ACcs
+Descriprion : 
+	Id : ACcs
+	Name : Curse
+	Ubertip : "Curses a target enemy unit, causing it to have a <ACcs,DataA1,%>% chance to miss on an attack. |nLasts <ACcs,Dur1> seconds."
+
+
+AbilityId : ACss
+Descriprion : 
+	Id : ACss
+	Name : 
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration."
+
+
+Hero ability list:

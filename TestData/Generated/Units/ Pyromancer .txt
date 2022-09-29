@@ -1,0 +1,50 @@
+UnitId : n01L
+Descriprion : 
+	Id : n01L
+	Name : "Pyromancer"
+	Ubertip : 
+
+Ability List:
+AbilityId : A1P2
+Descriprion : 
+	Id : A1P2
+	Name : Flame Strike
+	Ubertip : "Conjures a pillar of flame that burns ground units for 500 damage a second for 5 seconds. As the pillar of flame subsides, units within the fire continue to take 120 damage. |n|n|cffc3dbffCooldown: 30 seconds.|r","Conjures a pillar of flame that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage.","Conjures a pillar of flame that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage."
+
+
+AbilityId : A0BW
+Descriprion : 
+	Id : A0BW
+	Name : "Fire Wall"
+	Ubertip : "Create a horizontal wall of fire that burn your enemys, deal 500 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 120 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 48 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 140 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 46 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 200 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 44 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 260 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 320 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 400 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 700 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Create a horizontal wall of fire that burn your enemys, deal 1250 damage per second. Last 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : A1OY
+Descriprion : 
+	Id : A1OY
+	Name : "MultiShot"
+	Ubertip : "Allows you to hit 3 more Targets"
+
+
+AbilityId : A0E6
+Descriprion : 
+	Id : A0E6
+	Name : "Spell Damage Reduction 86"
+	Ubertip : 
+
+
+AbilityId : A0C4
+Descriprion : 
+	Id : A0C4
+	Name : "Firebolt LSPW"
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit for 2.6 seconds and deal 1200 damage."
+
+
+AbilityId : A0C3
+Descriprion : 
+	Id : A0C3
+	Name : "F.Prt L4"
+	Ubertip : "75% of the attacks will be reduced in 500 damage,"
+
+
+Hero ability list:

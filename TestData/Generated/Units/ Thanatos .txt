@@ -1,0 +1,15 @@
+UnitId : n00O
+Descriprion : 
+	Id : n00O
+	Name : "Thanatos"
+	Ubertip : "Death Bringer"
+
+Ability List:
+AbilityId : A08A
+Descriprion : 
+	Id : A08A
+	Name : "Thanatos Touch"
+	Ubertip : "Gives a 3% chance to do 13.8  times normal damage on an attack."
+
+
+Hero ability list:

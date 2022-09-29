@@ -1,0 +1,50 @@
+UnitId : H04X
+Descriprion : 
+	Id : H04X
+	Name : "Healer"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0Q8
+Descriprion : 
+	Id : A0Q8
+	Name : "White mage Healing Wave 2"
+	Ubertip : "Calls forth a wave of healing energy that bounces up to 5 times, healing 225 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 600 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 1000 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 1600 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 2200 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 3200 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 5000 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 6400 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to 5 times, healing 7500 damage and removes negative effects on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r"
+
+
+AbilityId : Arej
+Descriprion : 
+	Id : Arej
+	Name : Rejuvenation
+	Ubertip : "Heals a target friendly unit for <Arej,DataA1> hit points over <Arej,Dur1> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 60 seconds.|r","Heals a target friendly unit for <Arej,DataA2> hit points over <Arej,Dur2> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 55 seconds.|r","Heals a target friendly unit for <Arej,DataA3> hit points over <Arej,Dur3> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 50 seconds.|r","Heals a target friendly unit for <Arej,DataA4> hit points over <Arej,Dur4> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 45 seconds.|r","Heals a target friendly unit for <Arej,DataA5> hit points over <Arej,Dur5> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 40 seconds.|r","Heals a target friendly unit for <Arej,DataA6> hit points over <Arej,Dur6> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for <Arej,DataA7> hit points over <Arej,Dur7> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 30 seconds.|r","Heals a target friendly unit for <Arej,DataA8> hit points over <Arej,Dur8> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 23 seconds.|r","Heals a target friendly unit for <Arej,DataA9> hit points over <Arej,Dur9> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : A0PY
+Descriprion : 
+	Id : A0PY
+	Name : "White mage Holy Light 3"
+	Ubertip : "A holy light that can heal a friendly unit for 1x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 2x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 3x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 4x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 5x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 6x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 7x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 8x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","A holy light that can heal a friendly unit for 9x spellpower. Have 1500 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A0Q9
+Descriprion : 
+	Id : A0Q9
+	Name : "White mage heal"
+	Ubertip : "Heals a target friendly non-mechanical wounded unit for 15 + 1x int in hit points every 4 seconds.","Heals a target friendly non-mechanical wounded unit for 20 + 1x int in hit points every 3.5 seconds.","Heals a target friendly non-mechanical wounded unit for 40 + 1x int in hit points every 3 seconds.","Heals a target friendly non-mechanical wounded unit for 60 + 1x int in hit points every 2.5 seconds.","Heals a target friendly non-mechanical wounded unit for 90 + 1x int in hit points every 2 seconds.","Heals a target friendly non-mechanical wounded unit for 130 + 1x int in hit points every 1.5 seconds.","Heals a target friendly non-mechanical wounded unit for 200 + 1x int in hit points every second.","Heals a target friendly non-mechanical wounded unit for 300 + 1x int in hit points every second.","Heals a target friendly non-mechanical wounded unit for 400 + 1x int in hit points every 0.5 seconds."
+
+
+AbilityId : A0S6
+Descriprion : 
+	Id : A0S6
+	Name : "|cffffcc00G|rrowth Up 8"
+	Ubertip : "Specialized in healing spells. This growth cost you 10 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+

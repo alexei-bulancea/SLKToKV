@@ -1,0 +1,15 @@
+UnitId : h029
+Descriprion : 
+	Id : h029
+	Name : "Elder Linden of Damage"
+	Ubertip : "Have an aura of Damage that affect allieds building."
+
+Ability List:
+AbilityId : A0JY
+Descriprion : 
+	Id : A0JY
+	Name : "Tower damage aura"
+	Ubertip : "Gives 45% extra damage to the attacks of nearby friendly Building."
+
+
+Hero ability list:

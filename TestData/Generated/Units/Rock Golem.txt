@@ -1,0 +1,29 @@
+UnitId : ngst
+Descriprion : 
+	Id : ngst
+	Name : Rock Golem
+	Ubertip : "Heavy melee unit that hurls boulders at opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09K
+Descriprion : 
+	Id : A09K
+	Name : "Demolish 2"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+AbilityId : ACtb
+Descriprion : 
+	Id : ACtb
+	Name : Hurl Boulder
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing <ACtb,DataA1> points of damage and stunning the target for <ACtb,Dur1> seconds."
+
+
+Hero ability list:

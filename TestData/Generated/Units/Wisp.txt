@@ -1,0 +1,36 @@
+UnitId : ewsp
+Descriprion : 
+	Id : ewsp
+	Name : Wisp
+	Ubertip : "Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+
+Ability List:
+AbilityId : Adtn
+Descriprion : 
+	Id : Adtn
+	Name : Detonate
+	Ubertip : "Destroys the Wisp, dispelling all magical buffs and draining <Adtn,DataA1> mana from each unit in an area around the Wisp. |n|cffffcc00Deals <Adtn,DataB1> damage to summoned units.|r"
+
+
+AbilityId : Aren
+Descriprion : 
+	Id : Aren
+	Name : Renew
+	Ubertip : "Renews friendly Night Elf buildings, allied buildings, and friendly mechanical units."
+
+
+AbilityId : Awha
+Descriprion : 
+	Id : Awha
+	Name : Gather
+	Ubertip : "Mines gold from Entangled Gold Mines and harvests lumber from trees."
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

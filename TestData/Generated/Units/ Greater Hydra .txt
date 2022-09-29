@@ -1,0 +1,36 @@
+UnitId : n04M
+Descriprion : 
+	Id : n04M
+	Name : "Greater Hydra"
+	Ubertip : "Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1PJ
+Descriprion : 
+	Id : A1PJ
+	Name : "Faerie Fire H3"
+	Ubertip : "Reduces a target enemy unit's armor by <ACff,DataA1> and gives vision of that unit. |nLasts <ACff,Dur1> seconds."
+
+
+AbilityId : A022
+Descriprion : 
+	Id : A022
+	Name : "Envenomed Weapons BM"
+	Ubertip : "Deals 25 poison damage per second. |nLasts 15 seconds."
+
+
+AbilityId : A1PI
+Descriprion : 
+	Id : A1PI
+	Name : Roar
+	Ubertip : "Gives friendly nearby units a 250% bonus to damage,100 armor and 100 life regeneration. |nLasts 10 seconds."
+
+
+AbilityId : A0VN
+Descriprion : 
+	Id : A0VN
+	Name : "Attack Speed +30%"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : hlum
+Descriprion : 
+	Id : hlum
+	Name : "Facility"
+	Ubertip : "Have upgrades that improve worker attributes and abilities."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Arlm
+Descriprion : 
+	Id : Arlm
+	Name : Return Lumber
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : nnrs
+Descriprion : 
+	Id : nnrs
+	Name : Submerged Naga Royal Guard
+	Ubertip : "Incredibly powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Also has Resistant Skin, which reduces the duration of negative spells, Frost Bolt, which stuns a target enemy unit, Crushing Wave, which deals damage in a line, and Summon Sea Elemental, which summons a ranged attack unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Asb2
+Descriprion : 
+	Id : Asb2
+	Name : Submerge
+	Ubertip : "Allows this unit to dive beneath water, hiding it from view."
+
+
+Hero ability list:

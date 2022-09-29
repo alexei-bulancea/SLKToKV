@@ -1,0 +1,29 @@
+UnitId : h06R
+Descriprion : 
+	Id : h06R
+	Name : "Psychic Sheep"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. "
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A133
+Descriprion : 
+	Id : A133
+	Name : "Elune Grace S"
+	Ubertip : "50% spell damage reduction."
+
+
+Hero ability list:

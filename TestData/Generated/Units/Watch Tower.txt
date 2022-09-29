@@ -1,0 +1,29 @@
+UnitId : owtw
+Descriprion : 
+	Id : owtw
+	Name : Watch Tower
+	Ubertip : "Defensive structure. Can learn the Reinforced Defenses upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Arbr
+Descriprion : 
+	Id : Arbr
+	Name : Reinforced Burrows Upgrade
+	Ubertip : "Gives Burrows Fortified armor."
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+Hero ability list:

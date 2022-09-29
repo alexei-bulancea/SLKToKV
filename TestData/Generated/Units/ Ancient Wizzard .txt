@@ -1,0 +1,50 @@
+UnitId : H039
+Descriprion : 
+	Id : H039
+	Name : "Ancient Wizzard"
+	Ubertip : "Mystical Hero, specialized in ancient spells that deal damage based on his intelligence. Can learn Interficy, Blaze, Alpha Lighting, Power Absorption and Final Wisdom.|n|nDifficult to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0BT
+Descriprion : 
+	Id : A0BT
+	Name : "Interfici"
+	Ubertip : "Medivh conjuring a ancient spell that deal 50 + his intelligence x 5 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 100 + his intelligence x 6 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 150 + his intelligence x 7 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 200 + his intelligence x 8 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 250 + his intelligence x 9 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 300 + his intelligence x 10 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 350 + his intelligence x 11 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 400 + his intelligence x 12 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r","Medivh conjuring a ancient spell that deal 450 + his intelligence x 13 in damage and paralize the target for 1 second.|n|n|cffc3dbffCooldown: 12 seconds.|r"
+
+
+AbilityId : A0BV
+Descriprion : 
+	Id : A0BV
+	Name : "power absorption"
+	Ubertip : "Reduces movement speed by 20%, attack speed by 10%, and damage by 30% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Reduces movement speed by 25%, attack speed by 20%, and damage by 35% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 47 seconds.|r","Reduces movement speed by 30%, attack speed by 30%, and damage by 40% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 44 seconds.|r","Reduces movement speed by 35%, attack speed by 40%, and damage by 45% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 41 seconds.|r","Reduces movement speed by 40%, attack speed by 50%, and damage by 50% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 38 seconds.|r","Reduces movement speed by 45%, attack speed by 60%, and damage by 55% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Reduces movement speed by 50%, attack speed by 70%, and damage by 60% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","Reduces movement speed by 55%, attack speed by 80%, and damage by 65% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Reduces movement speed by 60%, attack speed by 90%, and damage by 70% of a target enemy unit and increases your intelligence depending on how strong the target is. |nLasts 17 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A0BS
+Descriprion : 
+	Id : A0BS
+	Name : "Blaze"
+	Ubertip : "Combust your enemys dealing 40 + 10 x intelligence + your level x 24 damage in 220 AOE. Have 500 cast range.|n|n|cffc3dbffCooldown: 30 seconds|r.","Combust your enemys dealing 80 + 10 x intelligence + your level x 48 damage in 220 AOE. Have 525 cast range.|n|n|cffc3dbffCooldown: 28 seconds|r.","Combust your enemys dealing 120 + 10 x intelligence + your level x 72 damage in 220 AOE. Have 550 cast range.|n|n|cffc3dbffCooldown: 26 seconds|r.","Combust your enemys dealing 160 + 10 x intelligence + your level x 96 damage in 220 AOE. Have 575 cast range.|n|n|cffc3dbffCooldown: 24 seconds|r.","Combust your enemys dealing 200 + 10 x intelligence + your level x 120 damage in 220 AOE. Have 600 cast range.|n|n|cffc3dbffCooldown: 22 seconds|r.","Combust your enemys dealing 240 + 10 x intelligence + your level x 144 damage in 220 AOE. Have 630 cast range.|n|n|cffc3dbffCooldown: 20 seconds|r.","Combust your enemys dealing 300 + 10 x intelligence + your level x 168 damage in 220 AOE. Have 660 cast range.|n|n|cffc3dbffCooldown: 18 seconds|r.","Combust your enemys dealing 360 + 10 x intelligence + your level x 192 damage in 220 AOE. Have 700 cast range.|n|n|cffc3dbffCooldown: 16 seconds|r.","Combust your enemys dealing 420 + 10 x intelligence + your level x 216 damage in 220 AOE. Have 750 cast range.|n|n|cffc3dbffCooldown: 15 seconds|r."
+
+
+AbilityId : A0BU
+Descriprion : 
+	Id : A0BU
+	Name : "Alpha Lightning"
+	Ubertip : "Calls forth a bolt of lightning that bounces up to 5 times, dealing 90 damage on the primary target. Each jump deals 15% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 6 times, dealing 150 damage on the primary target. Each jump deals 14% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 7 times, dealing 220 damage on the primary target. Each jump deals 13% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 8 times, dealing 300 damage on the primary target. Each jump deals 12% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 9 times, dealing 400 damage on the primary target. Each jump deals 10% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 10 times, dealing 520 damage on the primary target. Each jump deals 8% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 12 times, dealing 680 damage on the primary target. Each jump deals 6% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 14 times, dealing 900 damage on the primary target. Each jump deals 4% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Calls forth a bolt of lightning that bounces up to 16 times, dealing 1200 damage on the primary target. Each jump deals 2% less damage.|n|n|cffc3dbffCooldown: 8 seconds.|r"
+
+
+AbilityId : A0BR
+Descriprion : 
+	Id : A0BR
+	Name : "Final Wisdom"
+	Ubertip : "Increases Medivh Intelligence in 50.","Whenever Medivh casts 2 spells in a row he will increase his intelligence by his level * 40 for 7 seconds.|n|n|cff7fffd4Song of Fire and Light:|rBlaze + Alpha Lightning will deal a bonus damage based onl total level of these 2 abilties * INT in spell damage.","Whenever Medivh casts 3 spells in a row he will increase his intelligence by his level * 60 for 7 seconds.|n|n|cff7fffd4Song of Fire and Light:|rBlaze + Alpha Lightning will deal a bonus damage based on total level of these 2 abilties * INT in spell damage|n|n|cff8a2be2Ancient Daedric Spell:|rCasting Interfici after |cff7fffd4Song of Fire and Light|r will deal a bonus damage based on total level of these 3 abilties * INT in spell damage.","Whenever Medivh casts 4 spells in a row he will increase his intelligence by his level * 80 for 7 seconds.|n|n|cff7fffd4Song of Fire and Light:|rBlaze + Alpha Lightning will deal a bonus damage based onl total level of these 2 abilties * INT in spell damage|n|n|cff8a2be2Ancient Daedric Spell:|rCasting Interfici after |cff7fffd4Song of Fire and Light |rwill deal a bonus damage based onl total level of these 3 abilties * INT in spell damage|n|n|cffff0000Final Wisdom:|rCasting Soul Absorption after |cff8a2be2Ancient Daedric Spell:|r will deal a bonus damage based on (total level of these 4 abilties + level of Medivh) * INT and 9% of targets total hit points in spell damage."
+
+

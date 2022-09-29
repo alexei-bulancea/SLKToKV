@@ -1,0 +1,36 @@
+UnitId : u00Q
+Descriprion : 
+	Id : u00Q
+	Name : "Hell Ghoul"
+	Ubertip : "Basic attack unit and lumber harvester. Can learn Cannibalize and Ghoul Frenzy. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : A0OQ
+Descriprion : 
+	Id : A0OQ
+	Name : "Goul Vampiric Aura"
+	Ubertip : "Goul regenerate 50% of their attack damage when hit enemy units."
+
+
+AbilityId : A054
+Descriprion : 
+	Id : A054
+	Name : "Attack Speed +120%"
+	Ubertip : 
+
+
+AbilityId : A03X
+Descriprion : 
+	Id : A03X
+	Name : "Critical Strike Masamune"
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+Hero ability list:

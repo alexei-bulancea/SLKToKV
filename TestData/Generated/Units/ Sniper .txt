@@ -1,0 +1,50 @@
+UnitId : O00B
+Descriprion : 
+	Id : O00B
+	Name : "Sniper"
+	Ubertip : "Cunning Hero. Can learn Sonic Shuriken, Serpent Ward, Lock, Fast Blades, Magic Sight. "
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1HU
+Descriprion : 
+	Id : A1HU
+	Name : "Throw Grenade"
+	Ubertip : "Throw a Grenade to target point. Grenade deals 200 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point. Grenade deals 400 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point. Grenade deals 800 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point.Grenade deals 1600 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point.Grenade deals 2400 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point.Grenade deals 3200 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point.Grenade deals 4000 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point.Grenade deals 6000 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throw a Grenade to target point.Grenade deals 9000 damage in a medium area.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+
+
+AbilityId : A1HT
+Descriprion : 
+	Id : A1HT
+	Name : "Headshot"
+	Ubertip : "Sniper takes  then shots his target from the head! If current life of target is lesser than 4000 the target will die instantly. If current life of target is greater than 4000 then target will be stunned and take 28% of his current hitpoints damage.|n|n|cffc3dbffCooldown: 120 seconds.|r","Sniper takes aim  then shots his target from the head! If current life of target is lesser than 15000 the target will die instantly. If current life of target is greater than 15000 then target will be stunned and take 28% of his current hitpoints damage.|n|n|cffc3dbffCooldown: 90 seconds.|r","Sniper takes aim  then shots his target from the head! If current life of target is lesser than 40000 the target will die instantly. If current life of target is greater than 40000 then target will be stunned and take 28% of his current hitpoints damage .|n|n|cffc3dbffCooldown: 60 seconds.|r","Sniper takes aim then shots his target from the head! If current life of target is lesser than 100000 the target will die instantly. If current life of target is greater than 100000 then target will be stunned and take 28% of his current hitpoints damage .|n|n|cffc3dbffCooldown: 35 seconds.|r"
+
+
+AbilityId : A1HV
+Descriprion : 
+	Id : A1HV
+	Name : "Sharpshooter"
+	Ubertip : "As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 2 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 4 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 6 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 8 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 10 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 12 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 14 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %10 chance to deal 15 times normal damage.","As a result of training for so long Sniper learned weak points of any beast.Have %15 chance to deal 16 times normal damage."
+
+
+AbilityId : A1HX
+Descriprion : 
+	Id : A1HX
+	Name : "Storm Aegis"
+	Ubertip : "Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 65 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 45 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r ","Surround yourself with a protective barrier of wind that protects hero from all damage  and increase attack speed by %100 move speed by %40. for 8 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r "
+
+
+AbilityId : A1PV
+Descriprion : 
+	Id : A1PV
+	Name : "scopenew"
+	Ubertip : "Sniper equips a new 2x scope that gives him better accuracy at long ranges. On cast increase damage by 50% for 10 seconds and while under effect of this buff sniper will deal pure damage equal to his scope * distance between him and his target.|nPassive: increases Sniper's range by 150|n|n|cffc3dbffCooldown: 160 seconds.|r","Sniper equips a new 4x scope that gives him better accuracy at long ranges.  On cast increase damage by 100% for 15 seconds and while under effect of this buff sniper will deal pure damage equal to his scope * distance between him and his target.|nPassive: increases Sniper's range by 300  |n|n|cffc3dbffCooldown: 100 seconds.|r","Sniper equips a new 4x scope that gives him better accuracy at long ranges.  On cast increase damage by 150% for 25 seconds and while under effect of this buff sniper will deal pure damage equal to his scope * distance between him and his target.|nPassive: increases Sniper's range by 450|n|n|cffc3dbffCooldown: 70 seconds.|r","Sniper equips a new 8x scope that gives him better accuracy at long ranges.  On cast increase damage by 200% for 35 seconds and while under effect of this buff sniper will deal pure damage equal to his scope * distance between him and his target.|nPassive: increases Sniper's range by 600|n|n|cffc3dbffCooldown: 40 seconds.|r","Increase base damage in 100%. hit points regeneration by 10 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 120%. hit points regeneration by 13 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 140%. hit points regeneration by 17 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 160%. hit points regeneration by 22 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 180%. hit points regeneration by 40 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+

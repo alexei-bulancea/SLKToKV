@@ -1,0 +1,50 @@
+UnitId : n03L
+Descriprion : 
+	Id : n03L
+	Name : "S Shadow Arthas"
+	Ubertip : "Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0X3
+Descriprion : 
+	Id : A0X3
+	Name : "Attack Speed +500%"
+	Ubertip : 
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : A11Q
+Descriprion : 
+	Id : A11Q
+	Name : "Critical Strike Vrykkk"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack.","2","3","4"
+
+
+AbilityId : A03P
+Descriprion : 
+	Id : A03P
+	Name : "Evasion G"
+	Ubertip : "Gives a 60% percent chance to avoid an attack."
+
+
+AbilityId : A06E
+Descriprion : 
+	Id : A06E
+	Name : "Bash Tower level 2"
+	Ubertip : "Gives a 20% chance that an attack will do 100 bonus damage and stun an opponent for 1.2 seconds."
+
+
+Hero ability list:

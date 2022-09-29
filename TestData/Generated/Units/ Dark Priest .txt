@@ -1,0 +1,29 @@
+UnitId : nwiz
+Descriprion : 
+	Id : nwiz
+	Name : "Dark Priest"
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACfb
+Descriprion : 
+	Id : ACfb
+	Name : Firebolt
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit."
+
+
+AbilityId : Ambd
+Descriprion : 
+	Id : Ambd
+	Name : Mana Burn
+	Ubertip : "Sends a bolt of negative energy that burns <Ambd,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+Hero ability list:

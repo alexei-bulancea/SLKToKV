@@ -1,0 +1,50 @@
+UnitId : H00U
+Descriprion : 
+	Id : H00U
+	Name : Dark Knight
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AOs2
+Descriprion : 
+	Id : AOs2
+	Name : "Blue Axe"
+	Ubertip : "Throwing an axe imbue with magic, causing <AOs2,DataA1> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 40% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA2> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 45% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA3> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 50% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA4> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 56% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA5> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 64% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA6> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 73% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA7> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 85% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA8> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 99% of your base damage and strength bonus.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throwing an axe imbue with magic, causing <AOs2,DataA9> damage to units in a line and stun the target for 3 seconds. Also increases your damage by 126% of your base damage and strength bonus.|nIf your spellpower is greater than 1500 it will increase 205% damage instead.|n|n|cffc3dbffCooldown: 12 seconds.|r"
+
+
+AbilityId : A1WQ
+Descriprion : 
+	Id : A1WQ
+	Name : "Berserk Dark Knight"
+	Ubertip : "Increases the attack rate in 40% and move speed by 16%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 80 seconds|r","Increases the attack rate in 60% and move speed by 17%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 9 seconds.|n|n|cffc3dbffCooldown: 78 seconds|r","Increases the attack rate in 80% and move speed by 18%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 76 seconds|r","Increases the attack rate in 100% and move speed by 19%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 11 seconds.|n|n|cffc3dbffCooldown: 72 seconds|r","Increases the attack rate in 120% and move speed by 20%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 68 seconds|r","Increases the attack rate in 140% and move speed by 22%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 13 seconds.|n|n|cffc3dbffCooldown: 64 seconds|r","Increases the attack rate in 160% and move speed by 24%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Increases the attack rate in 200% and move speed by 26%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r","Increases the attack rate in 250% and move speed by 32%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 20 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r"
+
+
+AbilityId : A0YQ
+Descriprion : 
+	Id : A0YQ
+	Name : "New Ares Blessing"
+	Ubertip : "Gives 200% bonus to damage and 150 bonus armor. |nLasts 22 seconds. Also stun units aroud you for 2 seconds.|r|n|cffc3dbffCooldown: 180 seconds.|r","Gives 300% bonus to damage and 150 bonus armor. |nLasts 22 seconds. Also stun units aroud you for 2.5 seconds.|r|n|cffc3dbffCooldown: 140 seconds.|r","Gives 400% bonus to damage and 150 bonus armor. |nLasts 22 seconds. Also stun units aroud you for 3 seconds.|r|n|cffc3dbffCooldown: 100 seconds.|r","Gives 500% bonus to damage and 150 bonus armor. |nLasts 22 seconds. Also stun units aroud you for 4 seconds.|r|n|cffc3dbffCooldown: 50 seconds.|r"
+
+
+AbilityId : AUau
+Descriprion : 
+	Id : AUau
+	Name : "Holy Aura"
+	Ubertip : "Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate by 2. Also increases Dark Knight base damage by 6.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate by 3. Also increases Dark Knight base damage by 14.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate by 4. Also increases Dark Knight base damage by 22.","Increases nearby friendly units' movement speed by <AUau,DataA4,%>% and life regeneration rate by 5. Also increases Dark Knight base damage by 30.","Increases nearby friendly units' movement speed by <AUau,DataA5,%>% and life regeneration rate by 6. Also increases Dark Knight base damage by 38.","Increases nearby friendly units' movement speed by <AUau,DataA6,%>% and life regeneration rate by 7. Also increases Dark Knight base damage by 46.","Increases nearby friendly units' movement speed by <AUau,DataA7,%>% and life regeneration rate by 8. Also increases Dark Knight base damage by 54.","Increases nearby friendly units' movement speed by <AUau,DataA8,%>% and life regeneration rate by 9.Also increases Dark Knight base damage by 62.","Increases nearby friendly units' movement speed by <AUau,DataA9,%>% and life regeneration rate by 17. Also increases Dark Knight base damage by 70."
+
+
+AbilityId : ANca
+Descriprion : 
+	Id : ANca
+	Name : Cleaving Attack
+	Ubertip : "Hero strikes with such force that <ANca,DataA1,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA2,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA3,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA4,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA5,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA6,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA7,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA8,%>% of his damage strikes through to enemies near the primary attacked unit.","Hero strikes with such force that <ANca,DataA9,%>% of his damage strikes through to enemies near the primary attacked unit."
+
+

@@ -1,0 +1,29 @@
+UnitId : n04R
+Descriprion : 
+	Id : n04R
+	Name : "Elite Hell Skeletal "
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A057
+Descriprion : 
+	Id : A057
+	Name : "Attack Speed +80%"
+	Ubertip : 
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A0WM
+Descriprion : 
+	Id : A0WM
+	Name : "Hell Skeletal Strike"
+	Ubertip : "Gives a 15% chance that an attack will do 400 bonus damage andparalize an opponent for 1.5 seconds."
+
+
+Hero ability list:

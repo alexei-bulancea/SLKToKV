@@ -1,0 +1,15 @@
+UnitId : h02W
+Descriprion : 
+	Id : h02W
+	Name : "Book of Damage Level 2"
+	Ubertip : "Stronger Aura of Damage. "
+
+Ability List:
+AbilityId : A0L9
+Descriprion : 
+	Id : A0L9
+	Name : "Book Damage Aura 2"
+	Ubertip : "Gives 25% extra damage to the attacks of all friendly units."
+
+
+Hero ability list:

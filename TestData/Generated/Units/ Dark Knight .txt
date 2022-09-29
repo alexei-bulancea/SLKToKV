@@ -1,0 +1,57 @@
+UnitId : u011
+Descriprion : 
+	Id : u011
+	Name : "Dark Knight"
+	Ubertip : "Essential spellcaster. Can initially cast Raise Dead on corpses. Can also learn Unholy Frenzy and Cripple. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+AbilityId : A09J
+Descriprion : 
+	Id : A09J
+	Name : "Demolish 1"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : A017
+Descriprion : 
+	Id : A017
+	Name : "Attack Speed +25%"
+	Ubertip : 
+
+
+AbilityId : A0NM
+Descriprion : 
+	Id : A0NM
+	Name : "Death Knight Immolation"
+	Ubertip : "Burns nearby enemy units."
+
+
+AbilityId : AIft
+Descriprion : 
+	Id : AIft
+	Name : Melee Cold Damage Bonus
+	Ubertip : 
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

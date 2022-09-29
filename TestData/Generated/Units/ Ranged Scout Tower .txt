@@ -1,0 +1,15 @@
+UnitId : h06N
+Descriprion : 
+	Id : h06N
+	Name : "Ranged Scout Tower"
+	Ubertip : "|c006969FFMana Cost: 400.|r|n|nIncreases damage and range."
+
+Ability List:
+AbilityId : A1U3
+Descriprion : 
+	Id : A1U3
+	Name : "Expert build"
+	Ubertip : "Margroth got an expert at building Scout Towers. Scout Towers will no longer take damage from attacking neutral creeps. however upgraded scout towers will have a chance to send the creep back to their respawn/spawn location."
+
+
+Hero ability list:

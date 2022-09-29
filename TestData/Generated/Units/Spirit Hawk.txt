@@ -1,0 +1,29 @@
+UnitId : nwe3
+Descriprion : 
+	Id : nwe3
+	Name : Spirit Hawk
+	Ubertip : 
+
+Ability List:
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : Alit
+Descriprion : 
+	Id : Alit
+	Name : Lightning Attack
+	Ubertip : 
+
+
+AbilityId : Apiv
+Descriprion : 
+	Id : Apiv
+	Name : Permanent Invisibility
+	Ubertip : 
+
+
+Hero ability list:

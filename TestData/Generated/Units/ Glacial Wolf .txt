@@ -1,0 +1,78 @@
+UnitId : nwwf
+Descriprion : 
+	Id : nwwf
+	Name : "Glacial Wolf"
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1FX
+Descriprion : 
+	Id : A1FX
+	Name : "Hurl Boulder WF"
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing 400 points of damage and stunning the target for 2 seconds.","2","3","4"
+
+
+AbilityId : A1G1
+Descriprion : 
+	Id : A1G1
+	Name : "WF SL"
+	Ubertip : "Slams the ground, dealing 700 points of damage in (700) AOE and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : A0E5
+Descriprion : 
+	Id : A0E5
+	Name : "Critical Sliser"
+	Ubertip : "Gives a 26% chance to do 6  times normal damage on an attack."
+
+
+AbilityId : A0SP
+Descriprion : 
+	Id : A0SP
+	Name : "Ice Age"
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+AbilityId : A1FY
+Descriprion : 
+	Id : A1FY
+	Name : "WF RR"
+	Ubertip : "Gives you and your summon units 15 bonus attack damage and 4 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Gives nearby friendly units <ANbr,DataA2> bonus attack damage. |nLasts <ANbr,Dur2> seconds.","Gives nearby friendly units <ANbr,DataA3> bonus attack damage. |nLasts <ANbr,Dur3> seconds.","Gives nearby friendly units <ANbr,DataA4> bonus attack damage. |nLasts <ANbr,Dur4> seconds."
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : S010
+Descriprion : 
+	Id : S010
+	Name : "Speed Aura Earth"
+	Ubertip : "Increases all friendly units attack speed by 18%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A12S
+Descriprion : 
+	Id : A12S
+	Name : "Spell Damage Reduction 75"
+	Ubertip : 
+
+
+Hero ability list:

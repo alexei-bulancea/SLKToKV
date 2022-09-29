@@ -1,0 +1,22 @@
+UnitId : nith
+Descriprion : 
+	Id : nith
+	Name : Ice Troll High Priest
+	Ubertip : "High Priest of healing magic. Can cast Abolish Magic and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0BC
+Descriprion : 
+	Id : A0BC
+	Name : "Sphere Ice"
+	Ubertip : 
+
+
+AbilityId : A09P
+Descriprion : 
+	Id : A09P
+	Name : "G.S.Frozen Ice Troll"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+Hero ability list:

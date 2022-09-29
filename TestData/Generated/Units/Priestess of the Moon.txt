@@ -1,0 +1,57 @@
+UnitId : Emoo
+Descriprion : 
+	Id : Emoo
+	Name : Priestess of the Moon
+	Ubertip : "Warrior Hero, adept at enhancing ranged attacks and slaying enemies from afar. Can learn Scout, Searing Arrows, Trueshot Aura, and Starfall. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Ashm
+Descriprion : 
+	Id : Ashm
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AHfa
+Descriprion : 
+	Id : AHfa
+	Name : Searing Arrows
+	Ubertip : "Adds <AHfa,DataA1> bonus fire damage to an attack against enemies, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 4.5 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA2> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 3.4 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA3> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 2.2 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA4> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0.9 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA5> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA6> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA7> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA8> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA9> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r."
+
+
+AbilityId : AEst
+Descriprion : 
+	Id : AEst
+	Name : Scout
+	Ubertip : "Summons an Owl Scout, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur1> seconds.","Summons a fast Owl Scout, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur2> seconds.","Summons a very fast Owl Scout, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur3> seconds."
+
+
+AbilityId : AEar
+Descriprion : 
+	Id : AEar
+	Name : "Trueshot Aura I"
+	Ubertip : "Gives a <AEar,DataA1,%>% bonus damage to your ranged attacks and increases base agility by 3.","Gives a <AEar,DataA2,%>% bonus damage to your ranged attacks and increases base agility by 6.","Gives a <AEar,DataA3,%>% bonus damage to your ranged attacks and increases base agility by 9.","Gives a <AEar,DataA4,%>% bonus damage to your ranged attacks and increases base agility by 12.","Gives a <AEar,DataA5,%>% bonus damage to your ranged attacks and increases base agility by 15.","Gives a <AEar,DataA6,%>% bonus damage to your ranged attacks and increases base agility by 18.","Gives a <AEar,DataA7,%>% bonus damage to your ranged attacks and increases base agility by 21.","Gives a <AEar,DataA8,%>% bonus damage to your ranged attacks and increases base agility by 24.","Gives a <AEar,DataA9,%>% bonus damage to your ranged attacks and increases base agility by 27."
+
+
+AbilityId : AEsf
+Descriprion : 
+	Id : AEsf
+	Name : "Starfall."
+	Ubertip : "Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA1> damage in 800 AOE. |nLasts for <AEsf,Dur1> seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA2> damage in 900 AOE. |nLasts for <AEsf,Dur2> seconds.|n|n|cffc3dbffCooldown: 210 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA3> damage in 1100 AOE. |nLasts for <AEsf,Dur3> seconds.|n|n|cffc3dbffCooldown: 225 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA4> damage in 1360 AOE. |nLasts for <AEsf,Dur4> seconds.|n|n|cffc3dbffCooldown: 250 seconds.|r"
+
+

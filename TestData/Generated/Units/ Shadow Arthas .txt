@@ -1,0 +1,50 @@
+UnitId : n03K
+Descriprion : 
+	Id : n03K
+	Name : "Shadow Arthas"
+	Ubertip : "Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0X3
+Descriprion : 
+	Id : A0X3
+	Name : "Attack Speed +500%"
+	Ubertip : 
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+AbilityId : A11Q
+Descriprion : 
+	Id : A11Q
+	Name : "Critical Strike Vrykkk"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack.","2","3","4"
+
+
+AbilityId : A03P
+Descriprion : 
+	Id : A03P
+	Name : "Evasion G"
+	Ubertip : "Gives a 60% percent chance to avoid an attack."
+
+
+AbilityId : A1DI
+Descriprion : 
+	Id : A1DI
+	Name : "Bash SA"
+	Ubertip : "Gives a 20% chance that an attack will do 100 bonus damage and stun an opponent for 1.2 seconds.","2","22","222"
+
+
+AbilityId : A1DJ
+Descriprion : 
+	Id : A1DJ
+	Name : "Pulverize SA"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","22","222","2222"
+
+
+Hero ability list:

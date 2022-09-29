@@ -1,0 +1,15 @@
+UnitId : nskk
+Descriprion : 
+	Id : nskk
+	Name : Skink
+	Ubertip : "Call upon the spirit of Skink to save you."
+
+Ability List:
+AbilityId : Apiv
+Descriprion : 
+	Id : Apiv
+	Name : Permanent Invisibility
+	Ubertip : 
+
+
+Hero ability list:

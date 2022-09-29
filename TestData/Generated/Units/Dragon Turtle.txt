@@ -1,0 +1,29 @@
+UnitId : ntrd
+Descriprion : 
+	Id : ntrd
+	Name : Dragon Turtle
+	Ubertip : "Heavy melee amphibious unit with Devour and Spiked Shell. Can cast Crushing Wave. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09J
+Descriprion : 
+	Id : A09J
+	Name : "Demolish 1"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : ANt2
+Descriprion : 
+	Id : ANt2
+	Name : Spiked Shell
+	Ubertip : "Razor-sharp spikes deal 35% of an enemy unit's melee attack damage back to it.","Razor-sharp spikes deal 50% of an enemy unit's melee attack damage back to it.","Razor-sharp spikes deal 60% of an enemy unit's melee attack damage back to it.","Razor-sharp spikes deal 70% of an enemy unit's melee attack damage back to it."
+
+
+AbilityId : A05X
+Descriprion : 
+	Id : A05X
+	Name : "Breath of Dragon"
+	Ubertip : "Breathes a cone of fire at enemy units that deals 4000 initial damage, and 250 damage per second over 50 seconds.","Breathes a cone of fire at enemy units that deals 5000 initial damage, and 300 damage per second over 50 seconds.","Breathes a cone of fire at enemy units that deals 6000 initial damage, and 350 damage per second over 50 seconds.","Breathes a cone of fire at enemy units that deals 7000 initial damage, and 400 damage per second over 50 seconds."
+
+
+Hero ability list:

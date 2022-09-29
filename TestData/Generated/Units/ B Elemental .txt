@@ -1,0 +1,29 @@
+UnitId : n03Y
+Descriprion : 
+	Id : n03Y
+	Name : "B Elemental"
+	Ubertip : "Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A092
+Descriprion : 
+	Id : A092
+	Name : "Attack Speed +140%"
+	Ubertip : 
+
+
+AbilityId : A0GG
+Descriprion : 
+	Id : A0GG
+	Name : "Attack Speed +50%"
+	Ubertip : 
+
+
+AbilityId : A0YA
+Descriprion : 
+	Id : A0YA
+	Name : "Critical Strike Death 2"
+	Ubertip : "sss","2","3","4"
+
+
+Hero ability list:

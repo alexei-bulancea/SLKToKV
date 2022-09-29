@@ -1,0 +1,36 @@
+UnitId : nsqe
+Descriprion : 
+	Id : nsqe
+	Name : "Typhos"
+	Ubertip : "Heavy melee unit that can Bash opponents. Can cast Force of Nature. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A12D
+Descriprion : 
+	Id : A12D
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrh,DataA1> damage to nearby enemy land units and stunning them for <Awrh,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A0UW
+Descriprion : 
+	Id : A0UW
+	Name : "Cleaving Attack Sacred Axe"
+	Ubertip : "The creature strikes with such force that <ACce,DataA1,%>% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A11P
+Descriprion : 
+	Id : A11P
+	Name : "Tph Bash "
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A11O
+Descriprion : 
+	Id : A11O
+	Name : "Tph CS"
+	Ubertip : "Gives a 12% chance to do 2.6  times normal damage on an attack.","2","3","4"
+
+
+Hero ability list:

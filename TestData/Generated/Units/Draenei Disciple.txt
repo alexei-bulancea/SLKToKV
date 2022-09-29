@@ -1,0 +1,36 @@
+UnitId : ndrm
+Descriprion : 
+	Id : ndrm
+	Name : Draenei Disciple
+	Ubertip : "Light ranged unit that casts Heal. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A05R
+Descriprion : 
+	Id : A05R
+	Name : Healing Wave
+	Ubertip : "Calls forth a wave of healing energy that bounces up to <AChv,DataB1> times, healing <AChv,DataA1> damage on the primary target. Each jump heals less damage."
+
+
+AbilityId : A09R
+Descriprion : 
+	Id : A09R
+	Name : "Breath of Frost Drakeir"
+	Ubertip : "Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds."
+
+
+AbilityId : A09Q
+Descriprion : 
+	Id : A09Q
+	Name : "Shadow Strike Draknier"
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration."
+
+
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+Hero ability list:

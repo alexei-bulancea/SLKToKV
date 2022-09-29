@@ -1,0 +1,22 @@
+UnitId : unp1
+Descriprion : 
+	Id : unp1
+	Name : Halls of the Dead
+	Ubertip : "Upgrade to Halls of the Dead to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Abgl
+Descriprion : 
+	Id : Abgl
+	Name : Blight Growth Large
+	Ubertip : 
+
+
+AbilityId : Arlm
+Descriprion : 
+	Id : Arlm
+	Name : Return Lumber
+	Ubertip : 
+
+
+Hero ability list:

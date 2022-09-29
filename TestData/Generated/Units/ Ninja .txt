@@ -1,0 +1,64 @@
+UnitId : n04E
+Descriprion : 
+	Id : n04E
+	Name : "Ninja"
+	Ubertip : "Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1LO
+Descriprion : 
+	Id : A1LO
+	Name : "Critical Strike ninja"
+	Ubertip : "Cut...cleaner"
+
+
+AbilityId : A0YI
+Descriprion : 
+	Id : A0YI
+	Name : "Evasion 35%"
+	Ubertip : "Gives a 35% percent chance to avoid an attack."
+
+
+AbilityId : A1LP
+Descriprion : 
+	Id : A1LP
+	Name : "Critical Strike ninja2"
+	Ubertip : "Cut...clean"
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A1LQ
+Descriprion : 
+	Id : A1LQ
+	Name : "Electric Whirlwind"
+	Ubertip : "Cut and shock!","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 25/30/35 damage per second to nearby enemy land units. His thunder blade also releases chain lightnings every 0.5 seconds, striking 4 enemies dealing 20/25/30 damage. Chain loses 20% damage after each strike. The blademaster finishes the spell by striking the ground and purging all nearby targets in a 300/350/400 aoe. Lasts 4/5/6 seconds.","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and dealing 25/30/35 damage per second to nearby enemy land units. His thunder blade also releases chain lightnings every 0.5 seconds, striking 4 enemies dealing 20/25/30 damage. Chain loses 20% damage after each strike. The blademaster finishes the spell by striking the ground and purging all nearby targets in a 300/350/400 aoe. Lasts 4/5/6 seconds."
+
+
+AbilityId : A1LT
+Descriprion : 
+	Id : A1LT
+	Name : "Omnislash"
+	Ubertip : "Catch me!","Catch me!","Catch me!","Catch me!"
+
+
+Hero ability list:

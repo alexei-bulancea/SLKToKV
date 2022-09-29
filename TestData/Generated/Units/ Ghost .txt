@@ -1,0 +1,36 @@
+UnitId : ushd
+Descriprion : 
+	Id : ushd
+	Name : "Ghost"
+	Ubertip : "A permanently invisible spirit that can see other invisible units, but cannot attack."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : A0BP
+Descriprion : 
+	Id : A0BP
+	Name : "Ghost Firebolt"
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit last 2 second."
+
+
+AbilityId : A0BO
+Descriprion : 
+	Id : A0BO
+	Name : "Ghost Heal "
+	Ubertip : 
+
+
+AbilityId : A0BN
+Descriprion : 
+	Id : A0BN
+	Name : "Ghost Shackles"
+	Ubertip : "Magically binds a target enemy unit, so that it cannot move or attack and takes 100 damage per second. |nLasts 7 seconds."
+
+
+Hero ability list:

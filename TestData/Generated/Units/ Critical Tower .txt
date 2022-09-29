@@ -1,0 +1,15 @@
+UnitId : ntt1
+Descriprion : 
+	Id : ntt1
+	Name : "Critical Tower"
+	Ubertip : "Have more damage, more hit points, more armor,  life regeneration and critical strike."
+
+Ability List:
+AbilityId : A067
+Descriprion : 
+	Id : A067
+	Name : Critical Strike
+	Ubertip : "Gives a 20% chance to do 2.3  times normal damage on an attack."
+
+
+Hero ability list:

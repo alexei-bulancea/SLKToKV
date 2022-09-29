@@ -1,0 +1,8 @@
+UnitId : nske
+Descriprion : 
+	Id : nske
+	Name : Skeleton Warrior
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+Hero ability list:

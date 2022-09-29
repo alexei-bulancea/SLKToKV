@@ -1,0 +1,50 @@
+UnitId : H059
+Descriprion : 
+	Id : H059
+	Name : "Necromancer"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1RF
+Descriprion : 
+	Id : A1RF
+	Name : "Shadow Strike Dark mage + Vamp Lord"
+	Ubertip : "Hurls a poisoned dagger at a target enemy unit, dealing 4x spellpower initial damage, and 1x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 5x spellpower initial damage, and 2x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 6x spellpower initial damage, and 3x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 7x spellpower initial damage, and 4x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 8x spellpower initial damage, and 5x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 9x spellpower initial damage, and 6x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 10x spellpower initial damage, and 7x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 11x spellpower initial damage, and 8x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 12x spellpower initial damage, and 9x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A1U8
+Descriprion : 
+	Id : A1U8
+	Name : "Skeleton Warrior"
+	Ubertip : "Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 1 hp.|n18 int = 1 armor.|n3.5 int = 1 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 2 hp.|n18 int = 1 armor.|n1.75 int = 1 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 3 hp.|n16 int = 1 armor.|n1 int = 0.8 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 4 hp.|n16 int = 1 armor.|n1 int = 1.1 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 7.5 hp.|n16 int = 1 armor.|n1 int = 1.6 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 9 hp.|n14 int = 1 armor.|n1 int = 2 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 10.5 hp.|n14 int = 1 armor.|n1 int = 2.3 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 12 hp.|n14 int = 1 armor.|n1 int = 3.2 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Permanent Skeleton Warrior that respawns after 20 seconds. Bonus stats:|n1 int = 16 hp.|n14 int = 1 armor.|n1 int = 3.6 damage.|n10 int = 1 hp regen.|nCast this Ability to refresh the bonus.","Slams the ground, dealing 400 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 7.5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slams the ground, dealing 440 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 8 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing 500 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 8.5 seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Slams the ground, dealing 600 damage, slowing the move speed by 35% and attack rate by 150% of nearby enemy units in 600 Aoe. Last 9 seconds.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+
+
+AbilityId : AUan
+Descriprion : 
+	Id : AUan
+	Name : "Necromancer Animate Dead"
+	Ubertip : "Raises 1 dead unit in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 100 seconds.|r","Raises 1 dead unit in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 95 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 90 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 85 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 80 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 70 seconds.|r","Raises 3 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 60 seconds.|r","Raises 3 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 50 seconds.|r","Raises 3 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A0F7
+Descriprion : 
+	Id : A0F7
+	Name : "Zombie Infect 2"
+	Ubertip : "Afflicts a target enemy unit with a deadly poison that deals 30 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 40 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 60 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 80 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 100 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 125 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 160 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 210 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r","Afflicts a target enemy unit with a deadly poison that deals 280 damage per second, reduce move speed by 40% and attack speed by 40% for 30 seconds. If the afflicted unit dies while under the effect of Infect, a zombie will rise.|n|n|cffc3dbffCooldown: 70 seconds.|r"
+
+
+AbilityId : A0RZ
+Descriprion : 
+	Id : A0RZ
+	Name : "|cffffcc00G|rrowth Up 8"
+	Ubertip : "Necromancer specialized in raising the death. This growth costs you 10 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+

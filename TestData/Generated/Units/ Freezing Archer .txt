@@ -1,0 +1,15 @@
+UnitId : nska
+Descriprion : 
+	Id : nska
+	Name : "Freezing Archer"
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACcw
+Descriprion : 
+	Id : ACcw
+	Name : Cold Arrows
+	Ubertip : "Adds bonus cold damage to an attack and slows target, but drains mana with each shot fired."
+
+
+Hero ability list:

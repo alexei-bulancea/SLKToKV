@@ -1,0 +1,78 @@
+UnitId : n04D
+Descriprion : 
+	Id : n04D
+	Name : "Lord of Fire and Ice"
+	Ubertip : "Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1FZ
+Descriprion : 
+	Id : A1FZ
+	Name : "Blood Defense"
+	Ubertip : "Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A1LJ
+Descriprion : 
+	Id : A1LJ
+	Name : "flamebash"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A1LV
+Descriprion : 
+	Id : A1LV
+	Name : "Eternal Winter"
+	Ubertip : "If we die in this Winter... we shall all die together.","If we die in this Winter... we shall all die together.","If we die in this Winter... we shall all die together.","If we die in this Winter... we shall all die together."
+
+
+AbilityId : A1LI
+Descriprion : 
+	Id : A1LI
+	Name : "Pulverize flamelord"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","2","3","4"
+
+
+AbilityId : A1LL
+Descriprion : 
+	Id : A1LL
+	Name : "Helios Collision"
+	Ubertip : "Sun is made of fire. it will do bidding of the Lord3.","Sun is made of fire. it will do bidding of the Lord3.","Sun is made of fire. it will do bidding of the Lord3.","Sun is made of fire. it will do bidding of the Lord3."
+
+
+AbilityId : A1LZ
+Descriprion : 
+	Id : A1LZ
+	Name : "flamelord pf"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A1M0
+Descriprion : 
+	Id : A1M0
+	Name : "flamelord pfrost"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+Hero ability list:

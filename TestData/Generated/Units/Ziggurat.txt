@@ -1,0 +1,15 @@
+UnitId : uzig
+Descriprion : 
+	Id : uzig
+	Name : Ziggurat
+	Ubertip : "Provides food, which increases the maximum number of units that can be trained. Can be upgraded to a defensive structure that attacks land and air units."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

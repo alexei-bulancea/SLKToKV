@@ -1,0 +1,8 @@
+UnitId : n051
+Descriprion : 
+	Id : n051
+	Name : "Silversmith"
+	Ubertip : "A hearty villager."
+
+Ability List:
+Hero ability list:

@@ -1,0 +1,245 @@
+[Rgfo]
+Name=Glyph of Fortification,Glyph of Fortification,Glyph of Fortification
+EditorSuffix= (Upgrade 1), (Upgrade 2), (Upgrade 3)
+[Rguv]
+Name=Glyph of Ultravision
+EditorSuffix= (Upgrade)
+[R02T]
+Name="DBU "
+EditorSuffix="(Upgrade)"
+Hotkey=L
+Tip="Research Empire Level 9"
+Ubertip="Research Empire Level 9"
+[R020]
+Name="Soldiers Sword Improve"
+EditorSuffix="(Upgrade)"
+Hotkey=L
+Tip="Soldiers Sword Improve"
+Ubertip="Increases Soldiers Damage by 12.","Increases Soldiers Damage by 16."
+[R00U]
+Name="Final Boss UPG"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R00C]
+Name="Research Priest Magic Training"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Research Priest Magic Training","Research Priest Magic Training Level 2","Research Priest Magic Training Level 3","Research Priest Magic Training Level 4","Research Priest Magic Training Level 5","Research Priest Magic Training Level 6","Research Priest Magic Training Level 7"
+Ubertip="Increases Priest hit points and teach Heal.","Increases Priest hit points and teach Frost Bolt.","Increases Priest hit points and teach Wave.","Increases Priest hit points.","Increases Priest hit points and teach Finger Death.","Increases Priest hit points.","Increases Priest hit points and teach Tranquility."
+[R009]
+Name="Research HeadShoot"
+EditorSuffix="(Upgrade)"
+Hotkey=L
+Tip="Research HeadShoot"
+Ubertip="Give Rifleman the ability of HeadShoot."
+[R007]
+Name="Research Fast Arrows"
+EditorSuffix="(Upgrade)"
+Hotkey=L
+Tip="Research Fast Arrows"
+Ubertip="Increases Archer attack speed by 50%."
+[R003]
+Name="Research Animal War Training"
+EditorSuffix="(Upgrade 1)"
+Hotkey=A
+Tip="Research Animal War Training","Research Animal War Training Level 2","Research Animal War Training Level 3"
+Ubertip="Increases Knight move speed and hit points."
+[R040]
+Name="Hard Mode"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R041]
+Name="Very Hard Mode"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R042]
+Name="Hell Mode"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04E]
+Name="Frost Bolt"
+EditorSuffix="(Upgrade)"
+Tip="Frost Bolt - [|cffffcc00Level 1|r]","Frost Bolt - [|cffffcc00Level 2|r]","Frost Bolt - [|cffffcc00Level 3|r]","Frost Bolt - [|cffffcc00Level 4|r]"
+Ubertip="Increases the level of the Frost Bolt ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Bolt:|r 45000 Damage and stun the target for 8 seconds.","Increases the level of the Frost Bolt ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Bolt:|r 65000 Damage and stun the target for 8 seconds.","Increases the level of the Frost Bolt ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Bolt:|r 80000 Damage and stun the target for 8 seconds.","Increases the level of the Frost Bolt ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Bolt:|r 175000 Damage and stun the target for 8 seconds."
+[R04F]
+Name="Frost Nova"
+EditorSuffix="(Upgrade)"
+Tip="Frost Nova - [|cffffcc00Level 1|r]","Frost Nova - [|cffffcc00Level 2|r]","Frost Nova - [|cffffcc00Level 3|r]","Frost Nova - [|cffffcc00Level 4|r]"
+Ubertip="Increases the level of the Frost Nova ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Nova:|r 20000 Damage to the target and 2000 Damage in 700 AOE.","Increases the level of the Frost Nova ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Nova:|r 30000 Damage to the target and 4000 Damage in 700 AOE.","Increases the level of the Frost Nova ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Nova:|r 50000 Damage to the target and 6000 Damage in 700 AOE.","Increases the level of the Frost Nova ability on your Glacial Titans.|n|cffffcc00Stats of the next level Frost Nova:|r 70000 Damage to the target and 10000 Damage in 700 AOE."
+[R04H]
+Name="Destroyer Strike"
+EditorSuffix="(Upgrade)"
+Tip="Destroyer Strike - [|cffffcc00Level 1|r]","Destroyer Strike - [|cffffcc00Level 2|r]","Destroyer Strike - [|cffffcc00Level 3|r]","Destroyer Strike - [|cffffcc00Level 4|r]"
+Ubertip="Increases the level of the Destroyer Strike ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Destroyer Strike:|r 20% chance to deal 8 times damage.","Increases the level of the Destroyer Strike ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Destroyer Strike:|r 25% chance to deal 11 times damage.","Increases the level of the Destroyer Strike ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Destroyer Strike:|r 30% chance to deal 15 times damage.","Increases the level of the Destroyer Strike ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Destroyer Strike:|r 40% chance to deal 17 times damage."
+[R04I]
+Name="Hyper Rejuvenation"
+EditorSuffix="(Upgrade)"
+Tip="Hyper Rejuvenation - [|cffffcc00Level 1|r]","Hyper Rejuvenation - [|cffffcc00Level 2|r]","Hyper Rejuvenation - [|cffffcc00Level 3|r]","Hyper Rejuvenation - [|cffffcc00Level 4|r]","Rejuvenation - [|cffffcc00Level 5|r]"
+Ubertip="Increases the level of the Hyper Rejuvenation ability on your Nature Titans.|n|cffffcc00Stats of the next level Hyper Rejuvenation:|r 70000 hitpoints and 5000 mana over 40 seconds.","Increases the level of the Hyper Rejuvenation ability on your Nature Titans.|n|cffffcc00Stats of the next level Hyper Rejuvenation:|r 90000 hitpoints and 20000 mana over 40 seconds.","Increases the level of the Hyper Rejuvenation ability on your Nature Titans.|n|cffffcc00Stats of the next level Hyper Rejuvenation:|r 170000 hitpoints and 30000 mana over 40 seconds.","Increases the level of the Hyper Rejuvenation ability on your Nature Titans.|n|cffffcc00Stats of the next level Hyper Rejuvenation:|r 280000 hitpoints and 40000 mana over 40 seconds."
+[R04J]
+Name="Evasion"
+EditorSuffix="(Upgrade)"
+Tip="Evasion - [|cffffcc00Level 1|r]","Evasion - [|cffffcc00Level 2|r]","Evasion - [|cffffcc00Level 3|r]","Evasion - [|cffffcc00Level 4|r]"
+Ubertip="Increases the level of the Evasion ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Evasion:|r 30% to evade an attack.","Increases the level of the Evasion ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Evasion:|r 35% to evade an attack.","Increases the level of the Evasion ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Evasion:|r 40% to evade an attack.","Increases the level of the Evasion ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Evasion:|r 65% to evade an attack."
+[R04K]
+Name="Nature Armor"
+EditorSuffix="(Upgrade)"
+Tip="Nature Armor - [|cffffcc00Level 1|r]","Nature Armor - [|cffffcc00Level 2|r]","Nature Armor - [|cffffcc00Level 3|r]","Nature Armor - [|cffffcc00Level 4|r]","Nature Armor - [|cffffcc00Level 5|r]"
+Ubertip="Increases the level of the Nature Armor ability on your Nature Titans.|n|cffffcc00Stats of the next level Nature Armor:|r 85% to reduce 1200 damage.","Increases the level of the Nature Armor ability on your Nature Titans.|n|cffffcc00Stats of the next level Nature Armor:|r 90% to reduce 2600 damage.","Increases the level of the Nature Armor ability on your Nature Titans.|n|cffffcc00Stats of the next level Nature Armor:|r 95% to reduce 4800 damage.","Increases the level of the Nature Armor ability on your Nature Titans.|n|cffffcc00Stats of the next level Nature Armor:|r 100% to reduce 9000 damage."
+[R04L]
+Name="Assassin Hit"
+EditorSuffix="(Upgrade)"
+Tip="Assassin Hit - [|cffffcc00Level 1|r]","Assassin Hit - [|cffffcc00Level 2|r]","Assassin Hit - [|cffffcc00Level 3|r]","Assassin Hit - [|cffffcc00Level 4|r]"
+Ubertip="Increases the level of the Assassin Hit ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Assassin Hit:|r 40000 Damage and stun the target for 4 seconds.","Increases the level of the Assassin Hit ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Assassin Hit:|r 80000 Damage and stun the target for 4 seconds.","Increases the level of the Assassin Hit ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Assassin Hit:|r 120000 Damage and stun the target for 4 seconds.","Increases the level of the Assassin Hit ability for your Titan Warchiefs.|n|cffffcc00Stats of the next level Assassin Hit:|r 180000 Damage and stun the target for 4 seconds."
+[R04G]
+Name="bossdiffabi1"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04M]
+Name="bossdiffabi2"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04N]
+Name="bossdiffabi3"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04O]
+Name="bossdiffabi4"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04P]
+Name="bossdiffabi5"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04Q]
+Name="bossdiffabi6"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04R]
+Name="bossdiffabi7"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04S]
+Name="bossdiffabi8"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04T]
+Name="bossdiffabi9"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04U]
+Name="bossdiffabi10"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04V]
+Name="bossdiffabi11"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04W]
+Name="bossdiffabi12"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04X]
+Name="bossdiffabi13"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04Y]
+Name="bossdiffabi14"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R04Z]
+Name="bossdiffabi15"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R050]
+Name="bossdiffabi16"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R051]
+Name="bossdiffabi17"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R052]
+Name="bossdiffabi18"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R053]
+Name="bossdiffabi19"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R054]
+Name="bossdiffabi20"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R055]
+Name="bossdiffabi21"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R05F]
+Name="bossdiffabi22"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R00S]
+Name="bossdiffabi23"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+[R05U]
+Name="Wolf Up"
+EditorSuffix="(Upgrade)"
+Hotkey=A
+Tip="Upgrade to Studded Leather |cffffcc00A|rrmor"
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."

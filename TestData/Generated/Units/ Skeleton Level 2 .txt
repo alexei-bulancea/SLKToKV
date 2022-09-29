@@ -1,0 +1,22 @@
+UnitId : n007
+Descriprion : 
+	Id : n007
+	Name : "Skeleton Level 2"
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1N6
+Descriprion : 
+	Id : A1N6
+	Name : "Destroy Unit"
+	Ubertip : "Kills the unit making room for new ones to spawn"
+
+
+AbilityId : A06Q
+Descriprion : 
+	Id : A06Q
+	Name : Evasion
+	Ubertip : "Gives a 6% percent chance to avoid an attack. 7% to do 8% max health in pure damage upon being attacked","Gives a 13% percent chance to avoid an attack. 9% to do 16% max health in pure damage upon being attacked","Gives a 18% percent chance to avoid an attack. 12% to do 24% max health in pure damage upon being attacked","Gives a 22% percent chance to avoid an attack. 14% to do 32% max health in pure damage upon being attacked","Gives a 30% percent chance to avoid an attack. 16% to do 40% max health in pure damage upon being attacked"
+
+
+Hero ability list:

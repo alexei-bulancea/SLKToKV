@@ -1,0 +1,22 @@
+UnitId : oalt
+Descriprion : 
+	Id : oalt
+	Name : Altar of Storms
+	Ubertip : "Summons Heroes. Revives slain Heroes."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+Hero ability list:

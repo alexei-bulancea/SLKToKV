@@ -1,0 +1,22 @@
+UnitId : h00L
+Descriprion : 
+	Id : h00L
+	Name : "Fortified War Tower"
+	Ubertip : "Have more damage, a lot of more armor, hit points and hit points regeneration."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

@@ -1,0 +1,36 @@
+UnitId : ntav
+Descriprion : 
+	Id : ntav
+	Name : Tavern
+	Ubertip : 
+
+Ability List:
+AbilityId : Asud
+Descriprion : 
+	Id : Asud
+	Name : Sell Units
+	Ubertip : "Permits the sale of units."
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Aawa
+Descriprion : 
+	Id : Aawa
+	Name : Revive Hero Instantly
+	Ubertip : 
+
+
+Hero ability list:

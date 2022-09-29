@@ -1,0 +1,29 @@
+UnitId : utom
+Descriprion : 
+	Id : utom
+	Name : Tomb of Relics
+	Ubertip : "Creates a shop with purchasable items. The items available depend upon what level of upgrade your Necropolis has (Necropolis, Halls of the Dead, or Black Citadel) and which buildings you have."
+
+Ability List:
+AbilityId : Aall
+Descriprion : 
+	Id : Aall
+	Name : Shop Sharing, Allied Bldg.
+	Ubertip : 
+
+
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

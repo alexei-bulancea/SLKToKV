@@ -1,0 +1,36 @@
+UnitId : n03N
+Descriprion : 
+	Id : n03N
+	Name : "Gold Bahamut The King"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A061
+Descriprion : 
+	Id : A061
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A1D7
+Descriprion : 
+	Id : A1D7
+	Name : "Critical Strike G"
+	Ubertip : "sss"
+
+
+Hero ability list:

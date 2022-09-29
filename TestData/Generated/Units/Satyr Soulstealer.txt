@@ -1,0 +1,22 @@
+UnitId : nstl
+Descriprion : 
+	Id : nstl
+	Name : Satyr Soulstealer
+	Ubertip : "Medium melee unit that can cast Mana Burn and Raise Dead. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+AbilityId : Ambd
+Descriprion : 
+	Id : Ambd
+	Name : Mana Burn
+	Ubertip : "Sends a bolt of negative energy that burns <Ambd,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+Hero ability list:

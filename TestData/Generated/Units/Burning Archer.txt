@@ -1,0 +1,15 @@
+UnitId : nskf
+Descriprion : 
+	Id : nskf
+	Name : Burning Archer
+	Ubertip : "Light ranged unit that shoots Searing Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACsa
+Descriprion : 
+	Id : ACsa
+	Name : Searing Arrows
+	Ubertip : "Adds <ACsa,DataA1> bonus fire damage to an attack against enemies, but drains mana with each shot fired."
+
+
+Hero ability list:

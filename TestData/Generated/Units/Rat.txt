@@ -1,0 +1,15 @@
+UnitId : nrat
+Descriprion : 
+	Id : nrat
+	Name : Rat
+	Ubertip : "Call upon the spirit of Rat to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

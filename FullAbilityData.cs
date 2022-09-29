@@ -8,7 +8,18 @@ namespace SLKToKV
 {
     public class FullAbilityData
     {
+        public string AbilityId { get; set; }
         public AbilityData Stats { get; set; }
-        public ItemString Description { get; set; }
+        public GenericDescription Description { get; set; }
+
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine("AbilityId : " + AbilityId);
+            sb.AppendLine("Descriprion : ");
+            sb.AppendLine(Description.ToString());
+
+            return sb.ToString();
+        }
     }
 }

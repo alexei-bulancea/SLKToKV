@@ -1,0 +1,43 @@
+UnitId : ospw
+Descriprion : 
+	Id : ospw
+	Name : Spirit Walker
+	Ubertip : "Mystical Tauren caster. Has Ethereal Form, which allows him to avoid physical damage. Also has Spirit Link, which allows units to distribute incoming damage. Can learn Disenchant, and Ancestral Spirit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Acpf
+Descriprion : 
+	Id : Acpf
+	Name : Corporeal Form
+	Ubertip : "Turns the Spirit Walker corporeal, allowing him to attack and take physical damage."
+
+
+AbilityId : Aspl
+Descriprion : 
+	Id : Aspl
+	Name : Spirit Link
+	Ubertip : "Links <Aspl,DataB1> units together in a chain. All units with Spirit Link on them will live longer, by distributing <Aspl,DataA1,%>% of the damage they take across other Spirit Linked units. |nLasts <Aspl,Dur1> seconds."
+
+
+AbilityId : Adcn
+Descriprion : 
+	Id : Adcn
+	Name : Disenchant
+	Ubertip : "Removes all buffs from units in a target area. |n|cffffcc00Deals <Adcn,DataB1> damage to hostile summoned units.|r"
+
+
+AbilityId : Aast
+Descriprion : 
+	Id : Aast
+	Name : Ancestral Spirit
+	Ubertip : "Raises a fallen non-Hero Tauren from the dead. The Tauren is revived with <Aast,DataA1,%>% of its hit points restored."
+
+
+AbilityId : Aion
+Descriprion : 
+	Id : Aion
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

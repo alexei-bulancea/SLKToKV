@@ -1,0 +1,22 @@
+UnitId : nfgb
+Descriprion : 
+	Id : nfgb
+	Name : "Living Shield"
+	Ubertip : "Medium melee unit with Cleaving Attack. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0B6
+Descriprion : 
+	Id : A0B6
+	Name : "Livin Shield Defense"
+	Ubertip : "Reduces all attacks on that unit by 28 damage."
+
+
+AbilityId : ACav
+Descriprion : 
+	Id : ACav
+	Name : Devotion Aura
+	Ubertip : "Gives <ACav,DataA1> additional armor to nearby friendly units."
+
+
+Hero ability list:

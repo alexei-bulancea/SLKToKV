@@ -1,0 +1,50 @@
+UnitId : H055
+Descriprion : 
+	Id : H055
+	Name : "Elementalist"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AHwe
+Descriprion : 
+	Id : AHwe
+	Name : Summon Water Elemental
+	Ubertip : "Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur1> seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur2> seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur3> seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur4> seconds. |n|n|cffc3dbffCooldown: 80 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur5> seconds.|n|n|cffc3dbffCooldown: 90 seconds.|r ","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur6> seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r ","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur7> seconds. |n|n|cffc3dbffCooldown: 110 seconds.|r ","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur8> seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r ","Summons a water elemental to attack your enemies. Can't have more than one water elemental, you can't summon a new one while Water Elemental is alive.|n|n|cffc3dbffCooldown: 150 seconds.|r "
+
+
+AbilityId : A0QJ
+Descriprion : 
+	Id : A0QJ
+	Name : "Black mage Thunder"
+	Ubertip : "Summon a thunder from the sky that deals 3x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 50 seconds.|r","Summon a thunder from the sky that deals 4x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 46 seconds.|r","Summon a thunder from the sky that deals 5x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 42 seconds.|r","Summon a thunder from the sky that deals 6x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 38 seconds.|r","Summon a thunder from the sky that deals 7x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 34 seconds.|r","Summon a thunder from the sky that deals 8x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 30 seconds.|r","Summon a thunder from the sky that deals 9x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 25 seconds.|r","Summon a thunder from the sky that deals 10x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 18 seconds.|r","Summon a thunder from the sky that deals 11x int in spell damage and paralize the target for 4 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : A0QO
+Descriprion : 
+	Id : A0QO
+	Name : "Black mage Finger"
+	Ubertip : "Horribly cripples the innards of a creature dealing 1300 damage.|n|n|cffc3dbffCooldown: 26 seconds.|r","Horribly cripples the innards of a creature dealing 2000 damage.|n|n|cffc3dbffCooldown: 25 seconds.|r","Horribly cripples the innards of a creature dealing 3000 damage.|n|n|cffc3dbffCooldown: 24 seconds.|r","Horribly cripples the innards of a creature dealing 4000 damage.|n|n|cffc3dbffCooldown: 23 seconds.|r","Horribly cripples the innards of a creature dealing 5000 damage.|n|n|cffc3dbffCooldown: 22 seconds.|r","Horribly cripples the innards of a creature dealing 7000 damage.|n|n|cffc3dbffCooldown: 21 seconds.|r","Horribly cripples the innards of a creature dealing 9000 damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Horribly cripples the innards of a creature dealing 12000 damage.|n|n|cffc3dbffCooldown: 19 seconds.|r","Horribly cripples the innards of a creature dealing 18000 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A1RD
+Descriprion : 
+	Id : A1RD
+	Name : "Master of Elements"
+	Ubertip : "You protect yourself and learn more about the element of water. Gives 14 armor to you|n|c006969FFWater Elemental|r: +350 hp,+200 mana,+40 base damage","You protect yourself and learn more about the element of water. Gives 28 armor to you|n|c006969FFWater Elemental|r: +350 hp,+200 mana,+40 base damage and +1 level to water bolt.","You protect yourself and learn more about the element of water. Gives 42 armor to you|n|c006969FFWater Elemental|r: +875 hp,+500 mana,+100 base damage and +1 level to water bolt.","You protect yourself and learn more about the element of water. Gives 56 armor to you|n|c006969FFWater Elemental|r: +875 hp,+500 mana,+100 base damage and +2 levels to water bolt.","You protect yourself and learn more about combining the elements of water and air. Gives 75 armor to you|n|c006969FFWater Elemental|r: +1125 hp,+700 mana,+140 base damage and +2 levels to water bolt.|n|c007d7d7dThunder|r: now deals pure damage","You protect yourself and learn more about the element of fire. Gives 103 armor to you|n|c006969FFWater Elemental|r: +1125 hp,+700 mana,+140 base damage and +2 levels to water bolt.|n|c007d7d7dThunder|r: now deals pure damage.|n|c00FF0000Fire|: 33% chance to burn an enemy when you are attacked for 3x int in spell damage. ","You protect yourself and learn more about the element of water. Gives 140 armor to you|n|c006969FFWater Elemental|r: +1125 hp,+700 mana,+140 base damage and +3 levels to water bolt.|n|c007d7d7dThunder|r: now deals pure damage.|n|c00FF0000Fire|r: 33% chance to burn an enemy when you are attacked for 3x int in spell damage. ","You protect yourself and learn more about the element of water. Gives 176 armor to you|n|c006969FFWater Elemental|r: +2250 hp,+1400 mana,+280 base damage and +3 levels to water bolt.|n|c007d7d7dThunder|r: now deals pure damage.|n|c00FF0000Fire|r: 33% chance to burn an enemy when you are attacked for 3x int in spell damage. ","You protect yourself and learn more about combining all 3 elements. Gives 221 armor to you|n|c006969FFWater Elemental|r: +2250 hp,+1400 mana,+280 base damage and +3 levels to water bolt.|n|c007d7d7dThunder|r: now deals pure damage.|n|c00FF0000Fire|r: 33% chance to burn an enemy when you are attacked for 3x int in spell damage.|n|c00640000Finger of Death|r: Deals bonus 18x int in spell damage"
+
+
+AbilityId : A0QN
+Descriprion : 
+	Id : A0QN
+	Name : "Black MAge Ulti"
+	Ubertip : "Eradicate deal your intelligence x your level in damage. Eradicate damage cant be blocked by spell shield.|n|n|cffc3dbffCooldown: 200 seconds.|r","Eradicate deal your intelligence x (your level +18) in damage. Eradicate damage cant be blocked by spell shield.|n|n|cffc3dbffCooldown: 195 seconds.|r","Eradicate deal your intelligence x (your level +36) in damage. Eradicate damage cant be blocked by spell shield.|n|n|cffc3dbffCooldown: 180 seconds.|r","Eradicate deal your intelligence x (your level +54) in damage. Eradicate damage cant be blocked by spell shield.|n|n|cffc3dbffCooldown: 140 seconds.|r","Eradicate deal your intelligence x (your level +72) in damage. Eradicate damage cant be blocked by spell shield.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+
+

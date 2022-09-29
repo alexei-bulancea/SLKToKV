@@ -1,0 +1,57 @@
+UnitId : n054
+Descriprion : 
+	Id : n054
+	Name : "Satyr"
+	Ubertip : "Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A03D
+Descriprion : 
+	Id : A03D
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A1PZ
+Descriprion : 
+	Id : A1PZ
+	Name : "Critical Strike STYRB"
+	Ubertip : "Gives a 30% chance to do 4 times normal damage on an attack. This attack cannot miss.","2","3","4"
+
+
+AbilityId : A0GQ
+Descriprion : 
+	Id : A0GQ
+	Name : "Life Regeneration Sacred stregt"
+	Ubertip : 
+
+
+AbilityId : A1Q6
+Descriprion : 
+	Id : A1Q6
+	Name : Curse
+	Ubertip : "Curses a target enemy unit, causing it to have a 60% chance to miss on an attack. |nLasts 10 seconds."
+
+
+Hero ability list:

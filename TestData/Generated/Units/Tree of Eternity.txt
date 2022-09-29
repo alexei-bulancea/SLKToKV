@@ -1,0 +1,50 @@
+UnitId : etoe
+Descriprion : 
+	Id : etoe
+	Name : Tree of Eternity
+	Ubertip : "Upgrade to Tree of Eternity to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aent
+Descriprion : 
+	Id : Aent
+	Name : Entangle Gold Mine
+	Ubertip : "Entangles the gold mine, allowing Wisps to enter and mine the gold."
+
+
+AbilityId : Aeat
+Descriprion : 
+	Id : Aeat
+	Name : Eat Tree
+	Ubertip : "Consume a tree to restore <Aeat,DataC1> hit points over <Aeat,Dur1> seconds."
+
+
+AbilityId : Aro1
+Descriprion : 
+	Id : Aro1
+	Name : Root
+	Ubertip : "Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+
+
+AbilityId : Abdl
+Descriprion : 
+	Id : Abdl
+	Name : Blight Dispel Large
+	Ubertip : 
+
+
+AbilityId : Atol
+Descriprion : 
+	Id : Atol
+	Name : Tree of Life upgrade ability
+	Ubertip : 
+
+
+AbilityId : Arlm
+Descriprion : 
+	Id : Arlm
+	Name : Return Lumber
+	Ubertip : 
+
+
+Hero ability list:

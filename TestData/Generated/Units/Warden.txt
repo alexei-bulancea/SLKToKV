@@ -1,0 +1,57 @@
+UnitId : E002
+Descriprion : 
+	Id : E002
+	Name : Warden
+	Ubertip : "Cunning Hero, adept at entering and escaping combat. Can learn Smoke Bomb, Shadow Needle, Thousand Knives, Command Aura and Assassin Hit."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1RI
+Descriprion : 
+	Id : A1RI
+	Name : Acid Bomb
+	Ubertip : "Throws a flask with acid dealing 50 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throws a flask with acid dealing 100 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Throws a flask with acid dealing 150 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r","Throws a flask with acid dealing 225 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Throws a flask with acid dealing 300 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 21 seconds.|r","Throws a flask with acid dealing 375 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Throws a flask with acid dealing 500 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 19 seconds.|r","Throws a flask with acid dealing 750 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throws a flask with acid dealing 1000 damage to all units in 350 AOE per second.|nlasts 5 seconds.|n|n|cffc3dbffCooldown: 17 seconds.|r"
+
+
+AbilityId : A1RK
+Descriprion : 
+	Id : A1RK
+	Name : "Poison Dagger"
+	Ubertip : "Ninja Stabs the target with a poisoned throwing dagger to deal 25 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 45 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 40 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 43 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 80 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 41 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 100 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 39 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 125 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 37 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 175 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 250 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 33 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 500 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 31 seconds.|r","Ninja Stabs the target with a poisoned throwing dagger to deal 750 damage per second.|nlasts 60 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A1RH
+Descriprion : 
+	Id : A1RH
+	Name : "Poison Mastery"
+	Ubertip : "|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Choro Spear poison.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Choro Spear poison.|n|c00006400Poison Dagger|r: 50% chance to reset Acid Bomb cooldown.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in spell damage if the unit is affected by poison dagger.|n|c00006400Poison Dagger|r: 50% chance to reset Acid Bomb cooldown.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in spell damage if the unit is affected by poison dagger.|n|c00006400Poison Dagger|r: 50% chance to reset Acid Bomb cooldown.|n|c00106246Toxin Weapon|r: deals +104 damage to targets unit venom strike.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in pure damage if the unit is affected by poison dagger.|n|c00006400Poison Dagger|r: 50% chance to reset Acid Bomb cooldown, now deals extra damage if casted on a target with Poison Arrow or Venom Curse debuff (poison dagger level *0.10* poison dagger damage).|n|c00106256Toxin Weapon|r: deals +104 damage to targets unit venom strike.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in pure damage if the unit is affected by poison dagger.|n|c00006500Poison Dagger|r: 50% chance to reset Acid Bomb cooldown, now explodes if casted on a target with Poison Arrow or Venom Curse debuff dealing 15% max hp of the target.|n|c00106256Toxin Weapon|r: deals +104 damage to targets under venom strike.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in pure damage if the unit is affected by poison dagger.|n|c00006500Poison Dagger|r: 50% chance to reset Acid Bomb cooldown, now explodes if casted on a target with Poison Arrow or Venom Curse debuff dealing 15% max hp of the target.|n|c00106256Toxin Weapon|r: deals +104 damage to targets under venom strike, Damage type is pure.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in pure damage if the unit is affected by poison dagger.|n|c00006500Poison Dagger|r: 50% chance to reset Acid Bomb cooldown, now explodes if casted on a target with Poison Arrow or Venom Curse debuff dealing 15% max hp of the target.|n|c00106256Toxin Weapon|r: deals +104 damage to targets under venom strike, deals double damage to targets under byatis coxa poison, Damage type is pure.|n","|c0000FF00Acid Bomb|r: deals 500 damage to units in 350 AOE if the target is under Chrono Spear poison, explodes for (poison dagger level + Acid Bomb level/2) * (str + int +agi) in pure damage if the unit is affected by poison dagger.|n|c00006500Poison Dagger|r: 50% chance to reset Acid Bomb cooldown, now explodes if casted on a target with Poison Arrow or Venom Curse debuff dealing 15% max hp of the target.|n|c00106256Toxin Weapon|r: deals +104 damage to targets under venom strike, deals double damage to targets under byatis coxa poison, Damage type is pure.|n|c0096FF96Venom Strike|r: deals extra 1.5% hp per second in spell damage if the target has byatis scythe or poison dagger debuff. (max 1 unit at a time)|n"
+
+
+AbilityId : A1RJ
+Descriprion : 
+	Id : A1RJ
+	Name : "Venom Strike"
+	Ubertip : "Teleport to the target and poison it.The poison deals 100 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 75 seconds.|r","Teleport to the target and poison it.The poison deals 1000 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 65 seconds.|r","Teleport to the target and poison it.The poison deals 3000 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r","Teleport to the target and poison it.The poison deals 7000 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 600 initial damage, and 450 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 22 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 800 initial damage, and 600 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 20 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 1000 initial damage, and 900 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 1400 initial damage, and 1400 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 2200 initial damage, and 2850 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+
+
+AbilityId : A1RL
+Descriprion : 
+	Id : A1RL
+	Name : Slam
+	Ubertip : "Every hit deals additional 13 damage. Damage is stackable. Duration 5 seconds. |n|n|cffc3dbffCooldown: 60 seconds|r","Every hit deals additional 26 damage. Damage is stackable. Duration 6 seconds.|n|n|cffc3dbffCooldown: 55 seconds|r","Every hit deals additional 39 damage. Damage is stackable. Duration 7 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Every hit deals additional 52 damage. Damage is stackable. Duration 8 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r","Every hit deals additional 65 damage. Damage is stackable. Duration 9 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r","Every hit deals additional 78 damage. Damage is stackable. Duration 10 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Every hit deals additional 91 damage. Damage is stackable. Duration 11 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Every hit deals additional 104 damage. Damage is stackable. Duration 12 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Every hit deals additional 117 damage. Damage is stackable. Duration 13 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r"
+
+

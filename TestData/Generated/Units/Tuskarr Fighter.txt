@@ -1,0 +1,8 @@
+UnitId : ntkf
+Descriprion : 
+	Id : ntkf
+	Name : Tuskarr Fighter
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

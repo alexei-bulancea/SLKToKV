@@ -1,0 +1,71 @@
+UnitId : nane
+Descriprion : 
+	Id : nane
+	Name : "Earth-Borer "
+	Ubertip : "Medium ranged unit with Envenomed Weapons and Shadow Strike. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1FV
+Descriprion : 
+	Id : A1FV
+	Name : "Shadow Strike Earth"
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration."
+
+
+AbilityId : A061
+Descriprion : 
+	Id : A061
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : S010
+Descriprion : 
+	Id : S010
+	Name : "Speed Aura Earth"
+	Ubertip : "Increases all friendly units attack speed by 18%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A15T
+Descriprion : 
+	Id : A15T
+	Name : "Envenomed Weapons Plague Z"
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A1FW
+Descriprion : 
+	Id : A1FW
+	Name : "Pulverize Earth"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","2","3","4"
+
+
+AbilityId : A0GC
+Descriprion : 
+	Id : A0GC
+	Name : "BirdT Defense"
+	Ubertip : "10% chance to reduce 90000 damage","15% chance to reduce 90000 damage","20% chance to reduce 90000 damage","25% chance to reduce 90000 damage"
+
+
+AbilityId : A1FU
+Descriprion : 
+	Id : A1FU
+	Name : "Fear W"
+	Ubertip : "Reduces the armor of nearby enemies by 120.","Reduces the armor of nearby enemies by 180.","Reduces the armor of nearby enemies by 200.","Reduces the armor of nearby enemies by 250."
+
+
+AbilityId : A12D
+Descriprion : 
+	Id : A12D
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrh,DataA1> damage to nearby enemy land units and stunning them for <Awrh,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

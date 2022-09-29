@@ -1,0 +1,50 @@
+UnitId : H062
+Descriprion : 
+	Id : H062
+	Name : "Mur'gul Shadowcaster"
+	Ubertip : "Support Hero, adept at Increasing damage, stats, armor and healing towers, allieds or himself. Can learn Blade of Tides, Anfibius Growth, Guardian Angel, Magic Knot and Road to Excellence. |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0ZZ
+Descriprion : 
+	Id : A0ZZ
+	Name : "Mur Damage"
+	Ubertip : "Increases a target friendly unit's damage by 80%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Increases a target friendly unit's damage by 100%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r.","Increases a target friendly unit's damage by 120%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 27 seconds|r.","Increases a target friendly unit's damage by 140%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r.","Increases a target friendly unit's damage by 160%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 21 seconds|r.","Increases a target friendly unit's damage by 180%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 18 seconds|r.","Increases a target friendly unit's damage by 200%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 15 seconds|r.","Increases a target friendly unit's damage by 220%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 12 seconds|r.","Increases a target friendly unit's damage by 250%.|nLasts 10 seconds.|n|n|cffc3dbffCooldown: 9 seconds|r."
+
+
+AbilityId : A104
+Descriprion : 
+	Id : A104
+	Name : "Mur Magic bound"
+	Ubertip : "Magically binds a target enemy unit, so that it cannot move or attack and takes 40 damage per second. |nLasts 4 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 60 damage per second. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 80 damage per second. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 100 damage per second. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 130 damage per second. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 160 damage per second. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 200 damage per second. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 250 damage per second. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Magically binds a target enemy unit, so that it cannot move or attack and takes 300 damage per second. |nLasts 18 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r"
+
+
+AbilityId : A100
+Descriprion : 
+	Id : A100
+	Name : "Mur Stats "
+	Ubertip : "Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 44 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 50 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 46 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 45 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 48 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 40 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 50 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 36 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 52 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 32 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 54 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 28 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 56 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 24 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack |nLasts 58 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 20 seconds|r.","Increases all stats of target friendly unit by 20, stack infinite times. Have an extra mana cost depending the times it stack. |nLasts 60 seconds.|nAbility end text can be toggled with -toggletext between on screen and at hero location.|n|n|cffc3dbffCooldown: 15 seconds|r."
+
+
+AbilityId : A103
+Descriprion : 
+	Id : A103
+	Name : "Mur UTT"
+	Ubertip : "Increases hit points by 500, damage by 25, attack speed by 15% and mana by 250 of target hero permanently.|n|n|cffc3dbffCooldown: 360 seconds.|r","Increases hit points by 500, damage by 25, attack speed by 15% and mana by 250 of target hero permanently.|n|n|cffc3dbffCooldown: 300 seconds.|r","Increases hit points by 500, damage by 25, attack speed by 15% and mana by 250 of target hero permanently.|n|n|cffc3dbffCooldown: 270 seconds.|r","Increases hit points by 500, damage by 25, attack speed by 15% and mana by 250 of target hero permanently.|n|n|cffc3dbffCooldown: 140 seconds.|r"
+
+
+AbilityId : A101
+Descriprion : 
+	Id : A101
+	Name : "Murc Hea armor test"
+	Ubertip : "Heal target unit for 200 and increases his armor by 1100 for 4 seconds when duration is over the unit is healed again for 3% of his total hit points, also deal 40 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 400 and increases his armor by 1100 for 4.5 seconds when duration is over the unit is healed again for 6% of his total hit points, also deal 90 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 600 and increases his armor by 1100 for 5 seconds when duration is over the unit is healed again for 9% of his total hit points, also deal 140 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 800 and increases his armor by 1100 for 5.5 seconds when duration is over the unit is healed again for 12% of his total hit points, also deal 200 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 1000 and increases his armor by 1100 for 6 seconds when duration is over the unit is healed again for 15% of his total hit points, also deal 270 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 1200 and increases his armor by 1100 for 6.5 seconds when duration is over the unit is healed again for 18% of his total hit points, also deal 340 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 1400 and increases his armor by 1100 for 7 seconds when duration is over the unit is healed again for 21% of his total hit points, also deal 420 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 1600 and increases his armor by 1100 for 7.5 seconds when duration is over the unit is healed again for 24% of his total hit points, also deal 500 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Heal target unit for 1800 and increases his armor by 1100 for 8 seconds when duration is over the unit is healed again for 27% of his total hit points, also deal 630 damage to units around the target and slow them for 4 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r"
+
+

@@ -1,0 +1,8 @@
+UnitId : nmrr
+Descriprion : 
+	Id : nmrr
+	Name : Murloc Huntsman
+	Ubertip : "Light melee unit that can Ensnare opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

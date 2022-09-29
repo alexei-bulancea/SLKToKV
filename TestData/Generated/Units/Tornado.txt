@@ -1,0 +1,22 @@
+UnitId : ntor
+Descriprion : 
+	Id : ntor
+	Name : Tornado
+	Ubertip : 
+
+Ability List:
+AbilityId : A02T
+Descriprion : 
+	Id : A02T
+	Name : "TornadoX"
+	Ubertip : 
+
+
+AbilityId : Aasl
+Descriprion : 
+	Id : Aasl
+	Name : Slow Aura
+	Ubertip : 
+
+
+Hero ability list:

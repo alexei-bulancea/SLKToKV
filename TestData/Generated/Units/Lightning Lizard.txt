@@ -1,0 +1,15 @@
+UnitId : nltl
+Descriprion : 
+	Id : nltl
+	Name : Lightning Lizard
+	Ubertip : "Light ranged unit that hurls bolts of lightning. Can cast Purge. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACcl
+Descriprion : 
+	Id : ACcl
+	Name : Chain Lightning
+	Ubertip : "Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+
+
+Hero ability list:

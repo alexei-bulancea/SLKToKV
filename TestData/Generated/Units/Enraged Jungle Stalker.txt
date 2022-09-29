@@ -1,0 +1,43 @@
+UnitId : njgb
+Descriprion : 
+	Id : njgb
+	Name : Enraged Jungle Stalker
+	Ubertip : "Heavy melee unit that can Slam opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0VN
+Descriprion : 
+	Id : A0VN
+	Name : "Attack Speed +30%"
+	Ubertip : 
+
+
+AbilityId : A037
+Descriprion : 
+	Id : A037
+	Name : "Giant Shield D2"
+	Ubertip : "Have 50% change to reduce damage in 150."
+
+
+AbilityId : ACtc
+Descriprion : 
+	Id : ACtc
+	Name : Slam
+	Ubertip : "Slams the ground, dealing <ACtc,DataA1> points of damage and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : ANbh
+Descriprion : 
+	Id : ANbh
+	Name : Bash
+	Ubertip : "Gives a <ANbh,DataA1>% chance that an attack will do <ANbh,DataC1> bonus damage and stun an opponent for 1.5 seconds."
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

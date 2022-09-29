@@ -1,0 +1,43 @@
+UnitId : ngh2
+Descriprion : 
+	Id : ngh2
+	Name : "Apparition"
+	Ubertip : "Heavy ranged unit that can cast Curse and Possession. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aakb
+Descriprion : 
+	Id : Aakb
+	Name : "War Drumsjl"
+	Ubertip : "Have 60% spell damage reduction. "
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+AbilityId : A013
+Descriprion : 
+	Id : A013
+	Name : "Swamp IT TT"
+	Ubertip : 
+
+
+AbilityId : ACsk
+Descriprion : 
+	Id : ACsk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

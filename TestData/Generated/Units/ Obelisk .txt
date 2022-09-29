@@ -1,0 +1,36 @@
+UnitId : h02Q
+Descriprion : 
+	Id : h02Q
+	Name : "Obelisk"
+	Ubertip : "A mistical and powerfull building that can cast spells with infinite range.This Building only can be build one time."
+
+Ability List:
+AbilityId : A0L4
+Descriprion : 
+	Id : A0L4
+	Name : Chain Lightning
+	Ubertip : "Hurls a bolt of lightning that bounces up to 5 times, dealing 400 damage to the primary target. Each jump deals less damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a bolt of lightning that bounces up to 7 times, dealing 600 damage to the primary target. Each jump deals less damage.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a bolt of lightning that bounces up to 9 times, dealing 900 damage to the primary target. Each jump deals less damage.|n|n|cffc3dbffCooldown: 14 seconds.|r","Hurls a bolt of lightning that bounces up to 12 times, dealing 1200 damage to the primary target. Each jump deals less damage.|n|n|cffc3dbffCooldown: 12 seconds.|r"
+
+
+AbilityId : A0L0
+Descriprion : 
+	Id : A0L0
+	Name : "Rain of Fire "
+	Ubertip : "Calls down waves of fire that damage units in an area of 260. Each wave deals 100 initial damage and 20 damage per second for 5 seconds. |nLasts for 4 waves.","Calls down waves of fire that damage units in an area of 300. Each wave deals 140 initial damage and 30 damage per second for 5 seconds. |nLasts for 6 waves.","Calls down waves of fire that damage units in an area of 340. Each wave deals 200 initial damage and 50 damage per second for 8 seconds. |nLasts for 8 waves.","Calls down waves of fire that damage units in an area of 400. Each wave deals 300 initial damage and 80 damage per second for 8 seconds. |nLasts for 10 waves."
+
+
+AbilityId : A0L6
+Descriprion : 
+	Id : A0L6
+	Name : "Thunder Obelisk"
+	Ubertip : "Summon a thunder from the sky that deal 1400 damage and paralyze the target for 3 seconds.","Summon a thunder from the sky that deal 2000 damage and paralyze the target for 4 seconds.","Summon a thunder from the sky that deal 2800 damage and paralyze the target for 5 seconds.","Summon a thunder from the sky that deal 4000 damage and paralyze the target for 6 seconds."
+
+
+AbilityId : A0L5
+Descriprion : 
+	Id : A0L5
+	Name : "Obelisk Heal "
+	Ubertip : "Heals the target for 1000 hitpoints.","Heals the target for 2000 hitpoints.","Heals the target for 3500 hitpoints.","Heals the target for 7000 hitpoints."
+
+
+Hero ability list:

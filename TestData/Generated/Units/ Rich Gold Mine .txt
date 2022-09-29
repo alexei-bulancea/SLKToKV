@@ -1,0 +1,15 @@
+UnitId : h02J
+Descriprion : 
+	Id : h02J
+	Name : "Rich Gold Mine"
+	Ubertip : "Increases your gold in 50 per second."
+
+Ability List:
+AbilityId : A0KO
+Descriprion : 
+	Id : A0KO
+	Name : "Gold Mine 50"
+	Ubertip : 
+
+
+Hero ability list:

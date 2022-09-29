@@ -1,0 +1,15 @@
+UnitId : h02V
+Descriprion : 
+	Id : h02V
+	Name : "Book of Move Speed"
+	Ubertip : "Aura of Move Speed. "
+
+Ability List:
+AbilityId : S009
+Descriprion : 
+	Id : S009
+	Name : "Book Move Speed Aura"
+	Ubertip : "Increases all friendly units Move speed by 6%."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : h08B
+Descriprion : 
+	Id : h08B
+	Name : Knight
+	Ubertip : "Powerful mounted warrior. Can learn Animal War Training and Bash. "
+
+Ability List:
+AbilityId : A0KR
+Descriprion : 
+	Id : A0KR
+	Name : "Knight Bash"
+	Ubertip : "Gives a 18% chance that an attack will do 90 bonus damage and stun an opponent for 1.4 seconds."
+
+
+Hero ability list:

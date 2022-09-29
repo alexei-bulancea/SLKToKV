@@ -1,0 +1,29 @@
+UnitId : nmrm
+Descriprion : 
+	Id : nmrm
+	Name : Murloc Nightcrawler
+	Ubertip : "Light melee unit that poisons opponents. Can also Shadowmeld. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACvs
+Descriprion : 
+	Id : ACvs
+	Name : Envenomed Weapons
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds."
+
+
+AbilityId : Ashm
+Descriprion : 
+	Id : Ashm
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+AbilityId : ACce
+Descriprion : 
+	Id : ACce
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that <ACce,DataA1,%>% of their damage strikes through to enemies near the primary attacked unit."
+
+
+Hero ability list:

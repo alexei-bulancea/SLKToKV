@@ -1,0 +1,22 @@
+UnitId : hhdl
+Descriprion : 
+	Id : hhdl
+	Name : "Trained Horse"
+	Ubertip : "A strong and fast horse that can carry 6 items."
+
+Ability List:
+AbilityId : A064
+Descriprion : 
+	Id : A064
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A1H9
+Descriprion : 
+	Id : A1H9
+	Name : "Tp Horse"
+	Ubertip : "Teleport [ |c00FFFC01Q|r ]"
+
+
+Hero ability list:

@@ -1,0 +1,29 @@
+UnitId : u005
+Descriprion : 
+	Id : u005
+	Name : "Skeletal Mage Level 6"
+	Ubertip : 
+
+Ability List:
+AbilityId : A06W
+Descriprion : 
+	Id : A06W
+	Name : "Necro Skeleton Frost Bolt L2"
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 320 damage and stunning the target for 1.6 seconds."
+
+
+AbilityId : A06T
+Descriprion : 
+	Id : A06T
+	Name : Rain of Fire
+	Ubertip : "Calls down waves of fire that damage units in an area. Each wave deals 40 initial damage and 10 damage per second for 5 seconds. |nLasts for 4 waves. |n|n|cffc3dbffCooldown: 20 seconds.|r","Calls down waves of fire that damage units in an area. Each wave deals 100 initial damage and 40 damage per second for 5 seconds. |nLasts for 4 waves. |n|n|cffc3dbffCooldown: 20 seconds.|r","Calls down waves of fire that damage units in an area. Each wave deals 750 initial damage and 300 damage per second for 5 seconds. |nLasts for 4 waves. |n|n|cffc3dbffCooldown: 20 seconds.|r","Calls down waves of fire that damage units in an area. Each wave deals 3000 initial damage and 900 damage per second for 5 seconds. |nLasts for 4 waves. |n|n|cffc3dbffCooldown: 20 seconds.|r","Calls down waves of fire that damage units in an area. Each wave deals 12000 initial damage and 3000 damage per second for 5 seconds. |nLasts for 4 waves. |n|n|cffc3dbffCooldown: 20 seconds.|r","Calls down waves of fire that damage units in an area. Each wave deals 70 initial damage and 60 damage per second for 5 seconds. |nLasts for 4 waves.","Calls down waves of fire that damage units in an area. Each wave deals 70 initial damage and 70 damage per second for 5 seconds. |nLasts for 4 waves.","Calls down waves of fire that damage units in an area. Each wave deals 70 initial damage and 80 damage per second for 5 seconds. |nLasts for 4 waves.","Calls down waves of fire that damage units in an area. Each wave deals 70 initial damage and 90 damage per second for 5 seconds. |nLasts for 4 waves.","Calls down waves of fire that damage units in an area. Each wave deals 70 initial damage and 100 damage per second for 5 seconds. |nLasts for 4 waves."
+
+
+AbilityId : A06Y
+Descriprion : 
+	Id : A06Y
+	Name : Cripple
+	Ubertip : "Reduces movement speed by 25%, attack rate by 40%, and damage by 40% of a target enemy unit. |nLasts 6 seconds."
+
+
+Hero ability list:

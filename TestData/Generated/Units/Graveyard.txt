@@ -1,0 +1,36 @@
+UnitId : ugrv
+Descriprion : 
+	Id : ugrv
+	Name : Graveyard
+	Ubertip : "Provides attack and armor upgrades for Undead units. Also produces corpses and serves as a drop-off point for harvested lumber."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Asid
+Descriprion : 
+	Id : Asid
+	Name : Sell Items
+	Ubertip : "Permits the sale of items."
+
+
+Hero ability list:

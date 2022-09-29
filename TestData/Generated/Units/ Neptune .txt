@@ -1,0 +1,43 @@
+UnitId : nmyr
+Descriprion : 
+	Id : nmyr
+	Name : "Neptune"
+	Ubertip : "Powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Can learn the Ensnare ability.  |n|n|cffffcc00Attacks land units."
+
+Ability List:
+AbilityId : S00V
+Descriprion : 
+	Id : S00V
+	Name : "Gods Presense"
+	Ubertip : "Decreases enemies speed.","2","3","4"
+
+
+AbilityId : A1BC
+Descriprion : 
+	Id : A1BC
+	Name : "BNEP"
+	Ubertip : "d","DD","DDD","DDDD"
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+Hero ability list:

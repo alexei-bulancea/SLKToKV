@@ -1,0 +1,15 @@
+UnitId : n005
+Descriprion : 
+	Id : n005
+	Name : "Mana Burn Tower"
+	Ubertip : "Have more damage, hit points, armor, life regeneration and burn mana with every hit. "
+
+Ability List:
+AbilityId : A06G
+Descriprion : 
+	Id : A06G
+	Name : "Feedback Level 2"
+	Ubertip : "Attacks destroy 120 mana per hit. The mana combusts, dealing damage to the attacked unit."
+
+
+Hero ability list:

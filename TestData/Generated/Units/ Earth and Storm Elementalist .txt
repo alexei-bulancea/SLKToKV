@@ -1,0 +1,57 @@
+UnitId : n058
+Descriprion : 
+	Id : n058
+	Name : "Earth and Storm Elementalist"
+	Ubertip : "Lord of the Ogres. This powerfully built Ogre can crush lesser beasts with his bare hands. Has Taunt, Bash, and Endurance Aura. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1QH
+Descriprion : 
+	Id : A1QH
+	Name : "Bash SE"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+AbilityId : A1LM
+Descriprion : 
+	Id : A1LM
+	Name : "SR"
+	Ubertip : "Seek and Destroy","Seek and Destroy2","Seek and Destroy3","Seek and Destroy4"
+
+
+AbilityId : A1QA
+Descriprion : 
+	Id : A1QA
+	Name : "Pulverize storem"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","2","3","4"
+
+
+AbilityId : A1QB
+Descriprion : 
+	Id : A1QB
+	Name : "Earth"
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing 400 points of damage and stunning the target for 2 seconds."
+
+
+AbilityId : A1QQ
+Descriprion : 
+	Id : A1QQ
+	Name : "ES"
+	Ubertip : "Let Storm split the Earth","Let Storm split the Earth2","Let Storm split the Earth3","Let Storm split the Earth4"
+
+
+Hero ability list:

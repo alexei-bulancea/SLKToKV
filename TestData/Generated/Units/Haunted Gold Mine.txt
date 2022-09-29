@@ -1,0 +1,22 @@
+UnitId : ugol
+Descriprion : 
+	Id : ugol
+	Name : Haunted Gold Mine
+	Ubertip : "Haunts a gold mine so that Acolytes can mine. Use on gold mines to corrupt them."
+
+Ability List:
+AbilityId : Abgl
+Descriprion : 
+	Id : Abgl
+	Name : Blight Growth Large
+	Ubertip : 
+
+
+AbilityId : Abgm
+Descriprion : 
+	Id : Abgm
+	Name : Blighted Gold Mine Ability
+	Ubertip : 
+
+
+Hero ability list:

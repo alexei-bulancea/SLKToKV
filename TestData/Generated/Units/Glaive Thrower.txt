@@ -1,0 +1,8 @@
+UnitId : ebal
+Descriprion : 
+	Id : ebal
+	Name : Glaive Thrower
+	Ubertip : "Long-range siege weaponry. Good damage versus buildings. "
+
+Ability List:
+Hero ability list:

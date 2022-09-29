@@ -1,0 +1,43 @@
+UnitId : n04Z
+Descriprion : 
+	Id : n04Z
+	Name : "Bandit"
+	Ubertip : "Medium ranged unit that fires envenomed bolts and can Shadowmeld. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A022
+Descriprion : 
+	Id : A022
+	Name : "Envenomed Weapons BM"
+	Ubertip : "Deals 25 poison damage per second. |nLasts 15 seconds."
+
+
+AbilityId : A1PS
+Descriprion : 
+	Id : A1PS
+	Name : Ensnare
+	Ubertip : "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <ACen,Dur1> seconds."
+
+
+AbilityId : A1PT
+Descriprion : 
+	Id : A1PT
+	Name : Divine Shield
+	Ubertip : "An impenetrable shield surrounds this unit, protecting it from all damage and spells for <ACds,Dur1> seconds."
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

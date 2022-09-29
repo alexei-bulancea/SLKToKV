@@ -1,0 +1,15 @@
+UnitId : o00P
+Descriprion : 
+	Id : o00P
+	Name : "Frezing Tower"
+	Ubertip : "Have splash damage and can frost several enemies. "
+
+Ability List:
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : h07I
+Descriprion : 
+	Id : h07I
+	Name : "Phoenix Dummy"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+Hero ability list:

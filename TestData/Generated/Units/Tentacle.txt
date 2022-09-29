@@ -1,0 +1,29 @@
+UnitId : nfgt
+Descriprion : 
+	Id : nfgt
+	Name : Tentacle
+	Ubertip : "A gnarly tentacle from the depths. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A01E
+Descriprion : 
+	Id : A01E
+	Name : "Attack Speed +70%"
+	Ubertip : 
+
+
+AbilityId : A182
+Descriprion : 
+	Id : A182
+	Name : "Te"
+	Ubertip : "ss"
+
+
+AbilityId : A183
+Descriprion : 
+	Id : A183
+	Name : "Ten"
+	Ubertip : "Razor-sharp spikes on the Turtle's shell deal <ANth,DataA1,%>% of an enemy unit's melee attack damage back to it."
+
+
+Hero ability list:

@@ -1,0 +1,8 @@
+UnitId : h00O
+Descriprion : 
+	Id : h00O
+	Name : "The Pillar of the Empire"
+	Ubertip : "Have more damage, a lot of more armor, hit points and hit points regeneration."
+
+Ability List:
+Hero ability list:

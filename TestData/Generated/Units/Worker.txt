@@ -1,0 +1,15 @@
+UnitId : nhew
+Descriprion : 
+	Id : nhew
+	Name : Worker
+	Ubertip : "Basic worker unit. Can build a lot of differents structures. "
+
+Ability List:
+AbilityId : Ahrp
+Descriprion : 
+	Id : Ahrp
+	Name : Repair
+	Ubertip : "This unit can build."
+
+
+Hero ability list:

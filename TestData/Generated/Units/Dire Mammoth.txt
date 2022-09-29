@@ -1,0 +1,22 @@
+UnitId : nmdr
+Descriprion : 
+	Id : nmdr
+	Name : Dire Mammoth
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ANbh
+Descriprion : 
+	Id : ANbh
+	Name : Bash
+	Ubertip : "Gives a <ANbh,DataA1>% chance that an attack will do <ANbh,DataC1> bonus damage and stun an opponent for 1.5 seconds."
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

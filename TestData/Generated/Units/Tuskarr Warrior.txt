@@ -1,0 +1,15 @@
+UnitId : ntkw
+Descriprion : 
+	Id : ntkw
+	Name : Tuskarr Warrior
+	Ubertip : "Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09T
+Descriprion : 
+	Id : A09T
+	Name : "Command Aura Tuskar Warrior"
+	Ubertip : "Gives extra damage to the attacks of nearby friendly units."
+
+
+Hero ability list:

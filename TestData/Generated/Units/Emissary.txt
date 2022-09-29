@@ -1,0 +1,29 @@
+UnitId : nemi
+Descriprion : 
+	Id : nemi
+	Name : Emissary
+	Ubertip : 
+
+Ability List:
+AbilityId : Ahea
+Descriprion : 
+	Id : Ahea
+	Name : Heal
+	Ubertip : "Heals a target friendly non-mechanical wounded unit for <Ahea,DataA1> hit points."
+
+
+AbilityId : Ainf
+Descriprion : 
+	Id : Ainf
+	Name : Inner Fire
+	Ubertip : "Increases a target friendly unit's damage by <Ainf,DataA1,%>% , armor by <Ainf,DataB1>. and regeneration rate in 10.  |nLasts <Ainf,Dur1> seconds.|n|n|cffc3dbffCooldown: 60 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA2,%>% , armor by <Ainf,DataB2>. and regeneration rate in 15.  |nLasts <Ainf,Dur2> seconds.|n|n|cffc3dbffCooldown: 57 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA3,%>% , armor by <Ainf,DataB3>. and regeneration rate in 20.  |nLasts <Ainf,Dur3> seconds.|n|n|cffc3dbffCooldown: 54 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA4,%>% , armor by <Ainf,DataB4>. and regeneration rate in 25.  |nLasts <Ainf,Dur4> seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA5,%>% , armor by <Ainf,DataB5>. and regeneration rate in 30.  |nLasts <Ainf,Dur5> seconds.|n|n|cffc3dbffCooldown: 46 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA6,%>% , armor by <Ainf,DataB6>. and regeneration rate in 40.  |nLasts <Ainf,Dur6> seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA7,%>% , armor by <Ainf,DataB7>. and regeneration rate in 50.  |nLasts <Ainf,Du7> seconds.|n|n|cffc3dbffCooldown: 38 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA8,%>% , armor by <Ainf,DataB8>. and regeneration rate in 60.  |nLasts <Ainf,Dur8> seconds.|n|n|cffc3dbffCooldown: 34 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA9,%>% , armor by <Ainf,DataB9>. and regeneration rate in 80.  |nLasts <Ainf,Dur9> seconds.|n|n|cffc3dbffCooldown: 30 seconds|r."
+
+
+AbilityId : Adis
+Descriprion : 
+	Id : Adis
+	Name : Dispel Magic
+	Ubertip : 
+
+
+Hero ability list:

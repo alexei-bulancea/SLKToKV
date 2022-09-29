@@ -1,0 +1,29 @@
+UnitId : ngir
+Descriprion : 
+	Id : ngir
+	Name : "Mechanic Warrior"
+	Ubertip : "A powerfull melee unit made of iron."
+
+Ability List:
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : A067
+Descriprion : 
+	Id : A067
+	Name : Critical Strike
+	Ubertip : "Gives a 20% chance to do 2.3  times normal damage on an attack."
+
+
+AbilityId : A131
+Descriprion : 
+	Id : A131
+	Name : "Magroth Blessing"
+	Ubertip : "Reduces Dragon and Spell damage in 60%."
+
+
+Hero ability list:

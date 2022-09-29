@@ -1,0 +1,15 @@
+UnitId : nowe
+Descriprion : 
+	Id : nowe
+	Name : Enraged Wildkin
+	Ubertip : 
+
+Ability List:
+AbilityId : A09M
+Descriprion : 
+	Id : A09M
+	Name : "Crushin Wave ITWildkin"
+	Ubertip : 
+
+
+Hero ability list:

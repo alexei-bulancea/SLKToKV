@@ -1,0 +1,15 @@
+UnitId : h02X
+Descriprion : 
+	Id : h02X
+	Name : "Book of Damage Level 3"
+	Ubertip : "Stronger Aura of Damage. "
+
+Ability List:
+AbilityId : A0LA
+Descriprion : 
+	Id : A0LA
+	Name : "Book Damage Aura 3"
+	Ubertip : "Gives 60% extra damage to the attacks of all friendly units."
+
+
+Hero ability list:

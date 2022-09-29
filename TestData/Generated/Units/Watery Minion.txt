@@ -1,0 +1,8 @@
+UnitId : ntws
+Descriprion : 
+	Id : ntws
+	Name : Watery Minion
+	Ubertip : "Light melee amphibious unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

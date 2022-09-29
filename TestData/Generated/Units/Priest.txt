@@ -1,0 +1,50 @@
+UnitId : hmpr
+Descriprion : 
+	Id : hmpr
+	Name : Priest
+	Ubertip : "Supporting spellcaster. "
+
+Ability List:
+AbilityId : A197
+Descriprion : 
+	Id : A197
+	Name : "FBP"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A0KV
+Descriprion : 
+	Id : A0KV
+	Name : "Priest Heal "
+	Ubertip : "Heals a targeted unit for 1200 hitpoints."
+
+
+AbilityId : A0KU
+Descriprion : 
+	Id : A0KU
+	Name : "Frost Bolt Priest"
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 600 damage and frozen the target for 2.8 seconds."
+
+
+AbilityId : A0KW
+Descriprion : 
+	Id : A0KW
+	Name : "Priest Crushing Wave"
+	Ubertip : "Sends a gigantic wave which deals 280 damage to each enemy land unit in a line."
+
+
+AbilityId : A0KX
+Descriprion : 
+	Id : A0KX
+	Name : "Priest Finger of Death"
+	Ubertip : "Deal 2400 damage to target enemy unit."
+
+
+AbilityId : A0KY
+Descriprion : 
+	Id : A0KY
+	Name : "PriestTranquility"
+	Ubertip : "Causes rains of healing energy to pour down in a large area, healing friendly allied units for 1600 hit points per second. |nLasts 10 seconds."
+
+
+Hero ability list:

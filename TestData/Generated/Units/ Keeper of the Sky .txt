@@ -1,0 +1,57 @@
+UnitId : E000
+Descriprion : 
+	Id : E000
+	Name : "Keeper of the Sky"
+	Ubertip : "Mystical Hero, adept at using nature spells. Can learn Solar Bean, Feral Spirit, Acid Death, Mind Control and Starfall."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AOsf
+Descriprion : 
+	Id : AOsf
+	Name : "Feral Spirit."
+	Ubertip : "Summons <AOsf,DataB1> Spirit Wolf companions.|n|n|cffc3dbffCooldown: 30 seconds.|r","Summons <AOsf,DataB2> Spirit Wolf companions.|n|n|cffc3dbffCooldown: 29 seconds.|r","Summons <AOsf,DataB3> Spirit Wolf companions.|n|n|cffc3dbffCooldown: 28 seconds.|r","Summons <AOsf,DataB4> Dire Wolf companions that have Critical Strike.|n|n|cffc3dbffCooldown: 27 seconds.|r","Summons <AOsf,DataB5> Dire Wolf companions that have Critical Strike.|n|n|cffc3dbffCooldown: 25 seconds.|r","Summons <AOsf,DataB6> Dire Wolf companions that have Critical Strike.|n|n|cffc3dbffCooldown: 23 seconds.|r","Summons <AOsf,DataB7> Shadow Wolf companions that have a greater Critical Strike.|n|n|cffc3dbffCooldown: 20 seconds.|r","Summons <AOsf,DataB8> Shadow Wolf companions that have a greater Critical Strike.|n|n|cffc3dbffCooldown: 17 seconds.|r","Summons <AOsf,DataB9> Killer Wolf companions that have even greater Critical Strike, Greater Magic reduction and Evasion.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A12N
+Descriprion : 
+	Id : A12N
+	Name : "Sky's Blessing"
+	Ubertip : "Increases allieds armor and decreases enemies armor around you by 20. Last 12 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Increases allieds armor and decreases enemies armor around you by 24. Last 14 seconds.|n|n|cffc3dbffCooldown: 48 seconds.|r","Increases allieds armor and decreases enemies armor around you by 28. Last 16 seconds.|n|n|cffc3dbffCooldown: 46 seconds.|r","Increases allieds armor and decreases enemies armor around you by 32. Last 18 seconds.|n|n|cffc3dbffCooldown: 44 seconds.|r","Increases allieds armor and decreases enemies armor around you by 36. Last 20 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Increases allieds armor and decreases enemies armor around you by 40. Last 22 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Increases allieds armor and decreases enemies armor around you by 50. Last 24 seconds.|n|n|cffc3dbffCooldown: 37 seconds.|r","Increases allieds armor and decreases enemies armor around you by 60. Last 26 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","Increases allieds armor and decreases enemies armor around you by 80. Last 28 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : AUfn
+Descriprion : 
+	Id : AUfn
+	Name : "Solar Beam"
+	Ubertip : "Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA1> in 550 AOE and slows movement and attack rate for <AUfn,Dur1> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA2> in 550 AOE and slows movement and attack rate for <AUfn,Dur2> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA3> in 550 AOE and slows movement and attack rate for <AUfn,Dur3> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA4> in 550 AOE and slows movement and attack rate for <AUfn,Dur4> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA5> in 550 AOE and slows movement and attack rate for <AUfn,Dur5> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA6> in 550 AOE and slows movement and attack rate for <AUfn,Dur6> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA7> in 550 AOE and slows movement and attack rate for <AUfn,Dur7> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA8> in 550 AOE and slows movement and attack rate for <AUfn,Dur8> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA9> in 550 AOE and slows movement and attack rate for <AUfn,Dur9> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r"
+
+
+AbilityId : ACch
+Descriprion : 
+	Id : ACch
+	Name : "Mind Control"
+	Ubertip : "Takes control of a target enemy unit. Cannot be used on units above level 1.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 170 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 3.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 150 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 4.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 140 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 5.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 135 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 8.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 130 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 9.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 120 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 10.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 100 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 11.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 90 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 22.|nIf your spellpower is 2000 or greater then it will give the controlled unit 50% attack speed, 75 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 85 seconds.|r"
+
+
+AbilityId : A12O
+Descriprion : 
+	Id : A12O
+	Name : "C Disarm"
+	Ubertip : "Reduce Target enemy unit damage by 500, attack speed by 150% and armor by 220, last 8 seconds, this effect can't be removed until the duration is over, effect go through spell shield.|n|n|cffc3dbffCooldown: 300 seconds.|r","Reduce Target enemy unit damage by 500, attack speed by 150% and armor by 220, last 14 seconds, this effect can't be removed until the duration is over, effect go through spell shield.|n|n|cffc3dbffCooldown: 250 seconds.|r","Reduce Target enemy unit damage by 500, attack speed by 150% and armor by 220, last 20 seconds, this effect can't be removed until the duration is over, effect go through spell shield.|n|n|cffc3dbffCooldown: 180 seconds.|r","Reduce Target enemy unit damage by 500, attack speed by 150% and armor by 220, last 26 seconds, this effect can't be removed until the duration is over, effect go through spell shield.|n|n|cffc3dbffCooldown: 70 seconds.|r"
+
+

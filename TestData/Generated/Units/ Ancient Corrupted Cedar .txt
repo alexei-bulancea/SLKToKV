@@ -1,0 +1,8 @@
+UnitId : e00S
+Descriprion : 
+	Id : e00S
+	Name : "Ancient Corrupted Cedar"
+	Ubertip : "Have low splash damage in an insane area of effect."
+
+Ability List:
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : nsgt
+Descriprion : 
+	Id : nsgt
+	Name : Giant Spider
+	Ubertip : "Medium melee unit that poisons opponents. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A021
+Descriprion : 
+	Id : A021
+	Name : "Magic Reduccion"
+	Ubertip : "Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+
+
+AbilityId : ACvs
+Descriprion : 
+	Id : ACvs
+	Name : Envenomed Weapons
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds."
+
+
+Hero ability list:

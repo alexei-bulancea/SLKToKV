@@ -1,0 +1,15 @@
+UnitId : o018
+Descriprion : 
+	Id : o018
+	Name : "Ulimos"
+	Ubertip : 
+
+Ability List:
+AbilityId : A15Q
+Descriprion : 
+	Id : A15Q
+	Name : "PFU"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+Hero ability list:

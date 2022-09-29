@@ -1,0 +1,22 @@
+UnitId : h022
+Descriprion : 
+	Id : h022
+	Name : "Ancient Elm"
+	Ubertip : "Have an aura of life regeneration that affect nearby allieds building."
+
+Ability List:
+AbilityId : A0K7
+Descriprion : 
+	Id : A0K7
+	Name : "Bash Entalge Root 2"
+	Ubertip : "Gives a 10% chance to paralize an enemy with roots last 3 seconds."
+
+
+AbilityId : A0K2
+Descriprion : 
+	Id : A0K2
+	Name : "Healing Tower Aura L3"
+	Ubertip : "Increases nearby friendly towers life regeneration rate by 8 in 1000 area of effect."
+
+
+Hero ability list:

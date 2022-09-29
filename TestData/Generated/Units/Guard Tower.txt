@@ -1,0 +1,22 @@
+UnitId : hgtw
+Descriprion : 
+	Id : hgtw
+	Name : Guard Tower
+	Ubertip : "Primary defensive structure. "
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

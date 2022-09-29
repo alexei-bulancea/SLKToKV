@@ -1,0 +1,15 @@
+UnitId : n000
+Descriprion : 
+	Id : n000
+	Name : "Death Helper"
+	Ubertip : "Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A068
+Descriprion : 
+	Id : A068
+	Name : "Death Critical Strike"
+	Ubertip : "Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack."
+
+
+Hero ability list:

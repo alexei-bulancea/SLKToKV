@@ -1,0 +1,29 @@
+UnitId : h06X
+Descriprion : 
+	Id : h06X
+	Name : "BBF W DU"
+	Ubertip : "Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : A158
+Descriprion : 
+	Id : A158
+	Name : "PI BB"
+	Ubertip : "Burns nearby enemy units."
+
+
+Hero ability list:

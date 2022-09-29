@@ -1,0 +1,15 @@
+UnitId : npnw
+Descriprion : 
+	Id : npnw
+	Name : Penguin
+	Ubertip : "Call upon the spirit of Penguin to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

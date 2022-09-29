@@ -1,0 +1,36 @@
+UnitId : h087
+Descriprion : 
+	Id : h087
+	Name : "Bounty Hunter"
+	Ubertip : "Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+
+Ability List:
+AbilityId : Asid
+Descriprion : 
+	Id : Asid
+	Name : Sell Items
+	Ubertip : "Permits the sale of items."
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : A1VL
+Descriprion : 
+	Id : A1VL
+	Name : "Bounty Progress (Bounty Hunter)"
+	Ubertip : "Check progress and how many times you completed repeatable bounties. '-bounty' also works"
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

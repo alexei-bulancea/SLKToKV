@@ -1,0 +1,15 @@
+UnitId : n00Q
+Descriprion : 
+	Id : n00Q
+	Name : Sea Elemental
+	Ubertip : "Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACbh
+Descriprion : 
+	Id : ACbh
+	Name : Bash
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : unpl
+Descriprion : 
+	Id : unpl
+	Name : Necropolis
+	Ubertip : "Primary structure, used to train Acolytes and receive lumber gathered by Ghouls. Can be upgraded to Halls of the Dead and then Black Citadel to enable the production of additional types of structures and units."
+
+Ability List:
+AbilityId : Abgl
+Descriprion : 
+	Id : Abgl
+	Name : Blight Growth Large
+	Ubertip : 
+
+
+AbilityId : Arlm
+Descriprion : 
+	Id : Arlm
+	Name : Return Lumber
+	Ubertip : 
+
+
+Hero ability list:

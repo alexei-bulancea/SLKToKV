@@ -1,0 +1,22 @@
+UnitId : nfps
+Descriprion : 
+	Id : nfps
+	Name : Polar Furbolg Shaman
+	Ubertip : "Medium ranged unit with Abolish Magic and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACf2
+Descriprion : 
+	Id : ACf2
+	Name : Frost Armor
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds <ACfa,DataB1> armor and slows melee units that attack it for <ACfa,Dur1> seconds. |nLasts <ACfa,DataA1> seconds."
+
+
+AbilityId : ACdm
+Descriprion : 
+	Id : ACdm
+	Name : Abolish Magic
+	Ubertip : "Dispels positive buffs from enemy units, and negative buffs from friendly units. |n|cffffcc00Deals <ACdm,DataB1> damage to summoned units.|r"
+
+
+Hero ability list:

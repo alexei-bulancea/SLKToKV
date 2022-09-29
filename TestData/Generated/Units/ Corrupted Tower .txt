@@ -1,0 +1,22 @@
+UnitId : negf
+Descriprion : 
+	Id : negf
+	Name : "Corrupted Tower"
+	Ubertip : "Have more damage ,more range, chaos attack , more armor , hit points and Reduce the armor of the enemys."
+
+Ability List:
+AbilityId : A0IR
+Descriprion : 
+	Id : A0IR
+	Name : "Attack Corruption TL3"
+	Ubertip : "Reduce enemy armor by 15"
+
+
+AbilityId : A06B
+Descriprion : 
+	Id : A06B
+	Name : "Attack Corruption Bonus Level 3"
+	Ubertip : 
+
+
+Hero ability list:

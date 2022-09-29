@@ -1,0 +1,57 @@
+UnitId : noga
+Descriprion : 
+	Id : noga
+	Name : "Mortaar The Ogre"
+	Ubertip : "Lord of the Ogres. This powerfully built Ogre can crush lesser beasts with his bare hands. Has Taunt, Bash, and Endurance Aura. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : S00U
+Descriprion : 
+	Id : S00U
+	Name : "OGOH SAU"
+	Ubertip : "Increases all friendly units attack speed by 18%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A1B5
+Descriprion : 
+	Id : A1B5
+	Name : "DS OGN"
+	Ubertip : "Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+
+
+AbilityId : A1B6
+Descriprion : 
+	Id : A1B6
+	Name : "Shockwave OGOH"
+	Ubertip : "A wave of force that ripples outward, causing <ACsh,DataA1> damage to land units in a line."
+
+
+AbilityId : A1B3
+Descriprion : 
+	Id : A1B3
+	Name : "Bash NOGre"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A1B4
+Descriprion : 
+	Id : A1B4
+	Name : "Pulverize NOgre"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+Hero ability list:

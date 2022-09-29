@@ -1,0 +1,22 @@
+UnitId : n04B
+Descriprion : 
+	Id : n04B
+	Name : "Dummy-Phoenix"
+	Ubertip : "Call upon the spirit of fearsome Chicken to save you."
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

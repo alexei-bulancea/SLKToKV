@@ -1,0 +1,22 @@
+UnitId : n05E
+Descriprion : 
+	Id : n05E
+	Name : "Wolf Cub"
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A02X
+Descriprion : 
+	Id : A02X
+	Name : "Critical Strike Wolf"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+Hero ability list:

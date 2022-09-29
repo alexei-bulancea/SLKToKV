@@ -1,0 +1,43 @@
+UnitId : n04N
+Descriprion : 
+	Id : n04N
+	Name : "Legendary Hydra"
+	Ubertip : "Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1PK
+Descriprion : 
+	Id : A1PK
+	Name : "Faerie Fire H4"
+	Ubertip : "Reduces a target enemy unit's armor by <ACff,DataA1> and gives vision of that unit. |nLasts <ACff,Dur1> seconds."
+
+
+AbilityId : A14X
+Descriprion : 
+	Id : A14X
+	Name : "Envenomed Weapons Byatis "
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A1PL
+Descriprion : 
+	Id : A1PL
+	Name : Roar
+	Ubertip : "Gives friendly nearby units a <Ara2,DataA1,%>% bonus to damage. |nLasts <Ara2,Dur1> seconds."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A06L
+Descriprion : 
+	Id : A06L
+	Name : Firebolt
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit.","2","222","2222"
+
+
+Hero ability list:

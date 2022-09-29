@@ -1,0 +1,22 @@
+UnitId : nftk
+Descriprion : 
+	Id : nftk
+	Name : Forest Troll Warlord
+	Ubertip : "Heavy ranged unit with Trueshot Aura. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACat
+Descriprion : 
+	Id : ACat
+	Name : Trueshot Aura
+	Ubertip : "An aura that gives nearby friendly units a <ACat,DataA1,%>% bonus damage to their ranged attacks.","An aura that gives nearby friendly units a <ACat,DataA1,%>% bonus damage to their ranged attacks.","An aura that gives nearby friendly units a <ACat,DataA1,%>% bonus damage to their ranged attacks.","An aura that gives nearby friendly units a <ACat,DataA1,%>% bonus damage to their ranged attacks."
+
+
+AbilityId : A11D
+Descriprion : 
+	Id : A11D
+	Name : "Berserk T"
+	Ubertip : "Causes this unit to attack 220% faster, but take 30% more damage.","Causes this unit to attack 260% faster, but take 20% more damage.","Causes this unit to attack 300% faster, but take 15% more damage.","Causes this unit to attack 350% faster, but take 10% more damage."
+
+
+Hero ability list:

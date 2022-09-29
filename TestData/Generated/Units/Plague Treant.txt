@@ -1,0 +1,36 @@
+UnitId : nepl
+Descriprion : 
+	Id : nepl
+	Name : Plague Treant
+	Ubertip : "Medium melee unit that diseases opponents. Can cast Entangling Roots. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A17P
+Descriprion : 
+	Id : A17P
+	Name : "Tough Root"
+	Ubertip : "Has 20% chance to block an attack 50% spell dmage reduction and 1% life regeneration per second."
+
+
+AbilityId : A0GQ
+Descriprion : 
+	Id : A0GQ
+	Name : "Life Regeneration Sacred stregt"
+	Ubertip : 
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

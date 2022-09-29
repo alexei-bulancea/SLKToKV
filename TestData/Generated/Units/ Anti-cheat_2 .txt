@@ -1,0 +1,36 @@
+UnitId : h05I
+Descriprion : 
+	Id : h05I
+	Name : "Anti-cheat_2"
+	Ubertip : "A unit used in the Anti-cheat system"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Ahar
+Descriprion : 
+	Id : Ahar
+	Name : Harvest
+	Ubertip : "Mines gold from gold mines and harvests lumber from trees."
+
+
+AbilityId : Amil
+Descriprion : 
+	Id : Amil
+	Name : Call to Arms
+	Ubertip : "Run to the nearest Keep, Castle or starting Town Hall to arm the Peasant, converting him into Militia. |nLasts <Amil,Dur1> seconds."
+
+
+AbilityId : Ahrp
+Descriprion : 
+	Id : Ahrp
+	Name : Repair
+	Ubertip : "This unit can build."
+
+
+Hero ability list:

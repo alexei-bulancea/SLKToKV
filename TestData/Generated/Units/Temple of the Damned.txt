@@ -1,0 +1,15 @@
+UnitId : utod
+Descriprion : 
+	Id : utod
+	Name : Temple of the Damned
+	Ubertip : "Spellcaster production building. Trains Necromancers and Banshees. |nAlso contains upgrades for Necromancers, Banshees, Skeletal Longevity, and Skeletal Mastery."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

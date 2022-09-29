@@ -1,0 +1,15 @@
+UnitId : o00T
+Descriprion : 
+	Id : o00T
+	Name : "Poison Tower"
+	Ubertip : "Have a poison attack that reduce move, attack speed and deal damage per second. "
+
+Ability List:
+AbilityId : A0KB
+Descriprion : 
+	Id : A0KB
+	Name : "Poison Tower Attack 1"
+	Ubertip : "Deals 80 poison damage per second and reduce move speed and attack speed by 15%. |nLasts 10 seconds.|n|n|cffff0000Poison attack do not stack with each others|r."
+
+
+Hero ability list:

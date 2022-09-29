@@ -1,0 +1,8 @@
+UnitId : ngnb
+Descriprion : 
+	Id : ngnb
+	Name : Gnoll Brute
+	Ubertip : "Light melee unit to bolster your forces. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

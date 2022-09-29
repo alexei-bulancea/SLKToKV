@@ -1,0 +1,8 @@
+UnitId : h01W
+Descriprion : 
+	Id : h01W
+	Name : "Adult Cypress Tower"
+	Ubertip : "Have more life regeneration than the others tower."
+
+Ability List:
+Hero ability list:

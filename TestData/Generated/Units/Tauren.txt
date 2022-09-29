@@ -1,0 +1,22 @@
+UnitId : otau
+Descriprion : 
+	Id : otau
+	Name : Tauren
+	Ubertip : "Mighty warrior. Can learn the Pulverize ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Awar
+Descriprion : 
+	Id : Awar
+	Name : "Thousand Knives"
+	Ubertip : "Gives a <Awar,DataA1>% chance that an attack will deal <Awar,DataB1> damage to nearby enemy units.","Gives a <Awar,DataA2>% chance that an attack will deal <Awar,DataB2> damage to nearby enemy units.","Gives a <Awar,DataA3>% chance that an attack will deal <Awar,DataB3> damage to nearby enemy units.","Gives a <Awar,DataA4>% chance that an attack will deal <Awar,DataB4> damage to nearby enemy units.","Gives a <Awar,DataA5>% chance that an attack will deal <Awar,DataB5> damage to nearby enemy units.","Gives a <Awar,DataA6>% chance that an attack will deal <Awar,DataB6> damage to nearby enemy units.","Gives a <Awar,DataA7>% chance that an attack will deal <Awar,DataB7> damage to nearby enemy units.","Gives a <Awar,DataA8>% chance that an attack will deal <Awar,DataB8> damage to nearby enemy units.","Gives a <Awar,DataA9>% chance that an attack will deal <Awar,DataB9> damage to nearby enemy units."
+
+
+AbilityId : Aion
+Descriprion : 
+	Id : Aion
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : uaod
+Descriprion : 
+	Id : uaod
+	Name : Altar of Darkness
+	Ubertip : "Summons Heroes. Revives slain Heroes."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

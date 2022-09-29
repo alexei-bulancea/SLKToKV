@@ -1,0 +1,43 @@
+UnitId : n05F
+Descriprion : 
+	Id : n05F
+	Name : "Alpha Wolf"
+	Ubertip : "Medium melee unit with Critical Strike. Can cast Roar. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A1VF
+Descriprion : 
+	Id : A1VF
+	Name : Vampiric Aura
+	Ubertip : "This unit gains 18% of their attack damage when they hit enemy units."
+
+
+AbilityId : A06F
+Descriprion : 
+	Id : A06F
+	Name : "Feedback Level 1"
+	Ubertip : "Attacks destroy 50 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 100 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 175 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 300 mana per hit. The mana combusts, dealing damage to the attacked unit."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A1VG
+Descriprion : 
+	Id : A1VG
+	Name : "Summon Wolves"
+	Ubertip : "Summons 4 Greater Frost Wolf companions. |nLasts 20 seconds. |n|n|cffffcc00Attacks land units.|r"
+
+
+Hero ability list:

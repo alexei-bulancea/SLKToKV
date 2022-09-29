@@ -1,0 +1,50 @@
+UnitId : H049
+Descriprion : 
+	Id : H049
+	Name : "Skeleton Warrior"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0QY
+Descriprion : 
+	Id : A0QY
+	Name : "|cffffcc00G|rrowth Up 5"
+	Ubertip : "Skeleton with similar skills. This growth cost you 7 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0OG
+Descriprion : 
+	Id : A0OG
+	Name : "Skeletal Bones property"
+	Ubertip : "The skeletons are hard hitting from afar, have a chance 16% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 20% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 25% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 30% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 36% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 42% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 50% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 60% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 70% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r"
+
+
+AbilityId : A0OH
+Descriprion : 
+	Id : A0OH
+	Name : "Skeletal Bash 1"
+	Ubertip : "Gives a 10% chance that an attack will do 160 bonus damage and stun an opponent for 0.1 seconds.","Gives a 14% chance that an attack will do 180 bonus damage and stun an opponent for 0.1 seconds.","Gives a 18% chance that an attack will do 200 bonus damage and stun an opponent for 0.1 seconds.","Gives a 22% chance that an attack will do 240 bonus damage and stun an opponent for 0.1 seconds.","Gives a 26% chance that an attack will do 300 bonus damage and stun an opponent for 0.1 seconds.","Gives a 30% chance that an attack will do 400 bonus damage and stun an opponent for 0.1 seconds.","Gives a 35% chance that an attack will do 600 bonus damage and stun an opponent for 0.1 seconds.","Gives a 40% chance that an attack will do 900 bonus damage and stun an opponent for 0.1 seconds.","Gives a 45% chance that an attack will do 1350 bonus damage and stun an opponent for 0.1 seconds."
+
+
+AbilityId : A0OL
+Descriprion : 
+	Id : A0OL
+	Name : "Skeleton Fan of Knives"
+	Ubertip : "Throw 6 bones at nearby enemies. Each bone does 120 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 200 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 320 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 450 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 600 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 900 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 1300 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 1900 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 2700 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A0OK
+Descriprion : 
+	Id : A0OK
+	Name : "Skeleton Fire Bolt"
+	Ubertip : "Thrown a fire ball at an enemy unit, causing 100 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","Thrown a fire ball at an enemy unit, causing 200 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 10 seconds.|r","Thrown a fire ball at an enemy unit, causing 300 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 9 seconds.|r","Thrown a fire ball at an enemy unit, causing 750 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 8 seconds.|r","Thrown a fire ball at an enemy unit, causing 1200 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 7 seconds.|r","Thrown a fire ball at an enemy unit, causing 1600 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 6 seconds.|r","Thrown a fire ball at an enemy unit, causing 2000 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 5 seconds.|r","Thrown a fire ball at an enemy unit, causing 2500 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 4 seconds.|r","Thrown a fire ball at an enemy unit, causing 3400 damage and stunning the target for 1.7 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+
+

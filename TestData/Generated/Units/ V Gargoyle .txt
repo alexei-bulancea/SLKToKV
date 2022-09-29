@@ -1,0 +1,15 @@
+UnitId : u00F
+Descriprion : 
+	Id : u00F
+	Name : "V Gargoyle"
+	Ubertip : "Flying attack creature. Can learn the Stone Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+Hero ability list:

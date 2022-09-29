@@ -1,0 +1,36 @@
+UnitId : ngnv
+Descriprion : 
+	Id : ngnv
+	Name : Gnoll Overseer
+	Ubertip : "Heavy melee unit with Command Aura. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : S003
+Descriprion : 
+	Id : S003
+	Name : Endurance Aura
+	Ubertip : "Increases nearby friendly units' movement speed by <SCae,DataA1,%>% and attack rate by <SCae,DataB1,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A03D
+Descriprion : 
+	Id : A03D
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A05L
+Descriprion : 
+	Id : A05L
+	Name : Command Aura
+	Ubertip : "Gives extra damage to the attacks of nearby friendly units."
+
+
+AbilityId : A05M
+Descriprion : 
+	Id : A05M
+	Name : "Devotion Aura(Gnoll Overseer)"
+	Ubertip : "Gives <ACav,DataA1> additional armor to nearby friendly units."
+
+
+Hero ability list:

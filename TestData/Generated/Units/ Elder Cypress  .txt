@@ -1,0 +1,8 @@
+UnitId : h01Y
+Descriprion : 
+	Id : h01Y
+	Name : "Elder Cypress "
+	Ubertip : "Have more life regeneration than the others tower."
+
+Ability List:
+Hero ability list:

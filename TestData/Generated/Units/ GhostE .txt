@@ -1,0 +1,22 @@
+UnitId : u00C
+Descriprion : 
+	Id : u00C
+	Name : "GhostE"
+	Ubertip : "A permanently invisible spirit that can see other invisible units, but cannot attack."
+
+Ability List:
+AbilityId : Atru
+Descriprion : 
+	Id : Atru
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : Agho
+Descriprion : 
+	Id : Agho
+	Name : Ghost
+	Ubertip : 
+
+
+Hero ability list:

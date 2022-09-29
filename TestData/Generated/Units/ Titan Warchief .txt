@@ -1,0 +1,43 @@
+UnitId : owar
+Descriprion : 
+	Id : owar
+	Name : "Titan Warchief"
+	Ubertip : "Titans are extremely strong but very slow."
+
+Ability List:
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0LL
+Descriprion : 
+	Id : A0LL
+	Name : "Titan Evasion"
+	Ubertip : "Titan has a 25% percent chance to avoid an attack.","Titan has a 30% percent chance to avoid an attack.","Titan has a 35% percent chance to avoid an attack.","Titan has a 40% percent chance to avoid an attack.","Titan has a 65% percent chance to avoid an attack."
+
+
+AbilityId : A0LM
+Descriprion : 
+	Id : A0LM
+	Name : "Titan Critical Strike"
+	Ubertip : "Gives a 16% chance to do 5.5  times normal damage on an attack.","Gives a 20% chance to do 8  times normal damage on an attack.","Gives a 25% chance to do 11  times normal damage on an attack.","Gives a 30% chance to do 15  times normal damage on an attack.","Gives a 40% chance to do 17  times normal damage on an attack."
+
+
+AbilityId : A0LE
+Descriprion : 
+	Id : A0LE
+	Name : "Titan Cleaving Attack"
+	Ubertip : "The Titan strikes with such force that 16% of their damage strikes through to enemies near the primary attacked unit in a huge AOE."
+
+
+AbilityId : A1LG
+Descriprion : 
+	Id : A1LG
+	Name : "Titan Assassin Hit"
+	Ubertip : "Hit a target enemy unit, dealing 10000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hit a target enemy unit, dealing 40000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hit a target enemy unit, dealing 80000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hit a target enemy unit, dealing 120000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hit a target enemy unit, dealing 180000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r"
+
+
+Hero ability list:

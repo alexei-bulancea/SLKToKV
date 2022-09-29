@@ -1,0 +1,22 @@
+UnitId : oshm
+Descriprion : 
+	Id : oshm
+	Name : Shaman
+	Ubertip : "Primary spellcaster. Can initially cast Purge, which slows and dispels positive and negative buffs. Can also learn Lightning Shield and Bloodlust. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0T0
+Descriprion : 
+	Id : A0T0
+	Name : "Test Harde Block"
+	Ubertip : "Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+
+
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:

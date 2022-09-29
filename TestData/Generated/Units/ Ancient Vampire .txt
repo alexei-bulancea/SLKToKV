@@ -1,0 +1,50 @@
+UnitId : H047
+Descriprion : 
+	Id : H047
+	Name : "Ancient Vampire"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0OA
+Descriprion : 
+	Id : A0OA
+	Name : "Vampire Mark "
+	Ubertip : "Vampire mark an enemy reducing his armor by 100 and gives vision of that unit. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 140 seconds.|r","Vampire mark an enemy reducing his armor by 140 and gives vision of that unit. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 140 seconds.|r","Vampire mark an enemy reducing his armor by 200 and gives vision of that unit. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 140 seconds.|r","Vampire mark an enemy reducing his armor by 280 and gives vision of that unit. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 140 seconds.|r","Vampire mark an enemy reducing his armor by 400 and gives vision of that unit. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 140 seconds.|r"
+
+
+AbilityId : A0O9
+Descriprion : 
+	Id : A0O9
+	Name : "Vampire Damage"
+	Ubertip : "Increase Vampire base damage in 50% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 65% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 80% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 100% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 130% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 160% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 200% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 280% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase Vampire base damage in 350% for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A0O6
+Descriprion : 
+	Id : A0O6
+	Name : "Vampire Vampiric Reflex 2"
+	Ubertip : "Gives a 8% chance to dodge an attack and 6% chance to deal 4 times normal damage.","Gives a 10% chance to dodge an attack and 8% chance to deal 4 times normal damage.","Gives a 13% chance to dodge an attack and 10% chance to deal 4 times normal damage.","Gives a 16% chance to dodge an attack and 12% chance to deal 4 times normal damage.","Gives a 20% chance to dodge an attack and 14% chance to deal 4 times normal damage.","Gives a 25% chance to dodge an attack and 16% chance to deal 4 times normal damage.","Gives a 30% chance to dodge an attack and 18% chance to deal 4 times normal damage.","Gives a 36% chance to dodge an attack and 20% chance to deal 4 times normal damage.","Gives a 44% chance to dodge an attack and 22% chance to deal 4 times normal damage."
+
+
+AbilityId : A0O7
+Descriprion : 
+	Id : A0O7
+	Name : "Vampire Vampiric Aura 2"
+	Ubertip : "Ancient Vampire gain 12% of their attack damage when they hit enemy units.","Ancient Vampire gain 15% of their attack damage when they hit enemy units.","Ancient Vampire gain 18% of their attack damage when they hit enemy units.","Ancient Vampire gain 22% of their attack damage when they hit enemy units.","Ancient Vampire gain 26% of their attack damage when they hit enemy units.","Ancient Vampire gain 30% of their attack damage when they hit enemy units.","Ancient Vampire gain 35% of their attack damage when they hit enemy units.","Ancient Vampire gain 40% of their attack damage when they hit enemy units.","Ancient Vampire gain 50% of their attack damage when they hit enemy units."
+
+
+AbilityId : A0O8
+Descriprion : 
+	Id : A0O8
+	Name : "Vampire Terror"
+	Ubertip : "Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 4. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 8. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 14. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 20. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 25. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 30. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 38. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 48. |n|n|cffc3dbffCooldown: 16 seconds.|r","Vampires can cause fear in his enemies, reduces nearby enemy units attack damage by 25% and armor by 60. |n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+

@@ -1,0 +1,15 @@
+UnitId : h02E
+Descriprion : 
+	Id : h02E
+	Name : "Money Box"
+	Ubertip : "Increases your gold in 2 per second."
+
+Ability List:
+AbilityId : A0KJ
+Descriprion : 
+	Id : A0KJ
+	Name : "Gold Mine 2"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,8 @@
+UnitId : e00M
+Descriprion : 
+	Id : e00M
+	Name : "Corrupted Oak "
+	Ubertip : "Have high splash damage in a short area of effect."
+
+Ability List:
+Hero ability list:

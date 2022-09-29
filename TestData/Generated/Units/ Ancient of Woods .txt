@@ -1,0 +1,29 @@
+UnitId : n00W
+Descriprion : 
+	Id : n00W
+	Name : "Ancient of Woods"
+	Ubertip : "Medium melee unit that diseases opponents. Can cast Entangling Roots. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AUls
+Descriprion : 
+	Id : AUls
+	Name : Locust Swarm
+	Ubertip : "Creates a swarm of angry albatross that bite and tear at nearby enemy units. As they chew the enemy flesh, they convert it into a substance that restores hit points to the user when they return. |nLasts 35 seconds."
+
+
+AbilityId : A0GB
+Descriprion : 
+	Id : A0GB
+	Name : "Entangle BirdT"
+	Ubertip : "Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 1500 damage on cast.","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 2500 damage on cast.","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 3500 damage on cast.","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 4500 damage on cast."
+
+
+AbilityId : A0GC
+Descriprion : 
+	Id : A0GC
+	Name : "BirdT Defense"
+	Ubertip : "10% chance to reduce 90000 damage","15% chance to reduce 90000 damage","20% chance to reduce 90000 damage","25% chance to reduce 90000 damage"
+
+
+Hero ability list:

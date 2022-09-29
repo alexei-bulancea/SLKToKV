@@ -1,0 +1,15 @@
+UnitId : h048
+Descriprion : 
+	Id : h048
+	Name : "Mortar Team pOISON 2"
+	Ubertip : "Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : A0FD
+Descriprion : 
+	Id : A0FD
+	Name : "aoE POISON TF 2"
+	Ubertip : "Decreases armor by 2 ; deals 20 damage per second.|nLasts 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 4; deals 30 damage per second.|nLasts 16 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 6; deals 40 damage per second.|nLasts 17 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 8; deals 50 damage per second.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 11; deals 60 damage per second.|nLasts 19 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 15; deals 70 damage per second.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 20; deals 80 damage per second.|nLasts 22 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 26; deals 100 damage per second.|nLasts 24 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 34; deals 120 damage per second.|nLasts 26 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+Hero ability list:

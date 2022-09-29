@@ -1,0 +1,22 @@
+UnitId : nkol
+Descriprion : 
+	Id : nkol
+	Name : Kobold Taskmaster
+	Ubertip : "Heavy melee unit with Command Aura. Can Bash opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A16N
+Descriprion : 
+	Id : A16N
+	Name : "Taskmaster Aura"
+	Ubertip : "Increases nearby friendly units' movement speed by 30% and life regeneration rate by 10."
+
+
+AbilityId : ANbh
+Descriprion : 
+	Id : ANbh
+	Name : Bash
+	Ubertip : "Gives a <ANbh,DataA1>% chance that an attack will do <ANbh,DataC1> bonus damage and stun an opponent for 1.5 seconds."
+
+
+Hero ability list:

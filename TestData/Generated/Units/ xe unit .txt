@@ -1,0 +1,15 @@
+UnitId : e015
+Descriprion : 
+	Id : e015
+	Name : "xe unit"
+	Ubertip : "http://wc3campaigns.net/vexorian"
+
+Ability List:
+AbilityId : Aeth
+Descriprion : 
+	Id : Aeth
+	Name : Ghost
+	Ubertip : 
+
+
+Hero ability list:

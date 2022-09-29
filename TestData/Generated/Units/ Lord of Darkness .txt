@@ -1,0 +1,57 @@
+UnitId : n03D
+Descriprion : 
+	Id : n03D
+	Name : "Lord of Darkness"
+	Ubertip : "Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1BA
+Descriprion : 
+	Id : A1BA
+	Name : "Lord NA"
+	Ubertip : "Shoot arrows that deal 70 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","The Warden hurls a flurry of knives, damaging nearby enemies. Each knife does <AEfk,DataA2> damage.","The Warden hurls a flurry of knives damaging, nearby enemies. Each knife does <AEfk,DataA3> damage."
+
+
+AbilityId : A15A
+Descriprion : 
+	Id : A15A
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 700 points of damage in (700) AOE and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : A159
+Descriprion : 
+	Id : A159
+	Name : "DBF"
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit."
+
+
+AbilityId : A11R
+Descriprion : 
+	Id : A11R
+	Name : "Evasion 80"
+	Ubertip : "Gives a <ACes,DataA1,%>% percent chance to avoid an attack."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+Hero ability list:

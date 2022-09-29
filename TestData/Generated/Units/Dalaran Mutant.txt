@@ -1,0 +1,8 @@
+UnitId : ndmu
+Descriprion : 
+	Id : ndmu
+	Name : Dalaran Mutant
+	Ubertip : 
+
+Ability List:
+Hero ability list:

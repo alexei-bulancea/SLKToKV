@@ -1,0 +1,50 @@
+UnitId : n03M
+Descriprion : 
+	Id : n03M
+	Name : "Black Knight"
+	Ubertip : "Heavy melee unit with Shadowmeld and Devotion Aura. Can cast Divine Shield. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A181
+Descriprion : 
+	Id : A181
+	Name : "BK Doom"
+	Ubertip : "Marks a target unit for the manifestation of a Demon. The afflicted unit cannot cast spells and will take <ANdo,DataA1> damage per second until it dies. Upon its death, a great Demon will spawn from its corpse. Doom cannot be dispelled or cancelled.","2","3","4"
+
+
+AbilityId : A17W
+Descriprion : 
+	Id : A17W
+	Name : "Shock BK"
+	Ubertip : "Shock a target enemy unit.","2","3","4"
+
+
+AbilityId : A1A0
+Descriprion : 
+	Id : A1A0
+	Name : "Black Knight Speed"
+	Ubertip : "Increases nearby friendly units' movement speed by <ACua,DataA1,%>% and life regeneration rate by <ACua,DataB1,%>%."
+
+
+AbilityId : S00O
+Descriprion : 
+	Id : S00O
+	Name : "Black Knight Gravity"
+	Ubertip : "Decreases enemies speed.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+Hero ability list:

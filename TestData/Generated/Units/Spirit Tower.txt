@@ -1,0 +1,29 @@
+UnitId : uzg1
+Descriprion : 
+	Id : uzg1
+	Name : Spirit Tower
+	Ubertip : "Upgrade to create a defensive structure. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

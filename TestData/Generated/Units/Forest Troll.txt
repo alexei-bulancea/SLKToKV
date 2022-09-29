@@ -1,0 +1,8 @@
+UnitId : nftr
+Descriprion : 
+	Id : nftr
+	Name : Forest Troll
+	Ubertip : "Axe-throwing Troll. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+Hero ability list:

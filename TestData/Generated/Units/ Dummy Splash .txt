@@ -1,0 +1,29 @@
+UnitId : h080
+Descriprion : 
+	Id : h080
+	Name : "Dummy Splash"
+	Ubertip : "Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : A1MD
+Descriprion : 
+	Id : A1MD
+	Name : "Dummy Splash"
+	Ubertip : "?"
+
+
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

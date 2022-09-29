@@ -1,0 +1,15 @@
+UnitId : nogo
+Descriprion : 
+	Id : nogo
+	Name : Stonemaul Ogre
+	Ubertip : "Powerful warrior. Less intelligent than the two-headed variety, but great combat fodder. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACen
+Descriprion : 
+	Id : ACen
+	Name : Ensnare
+	Ubertip : "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts 4 seconds."
+
+
+Hero ability list:

@@ -1,0 +1,29 @@
+UnitId : n05B
+Descriprion : 
+	Id : n05B
+	Name : "Training Dummy"
+	Ubertip : 
+
+Ability List:
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : A1UF
+Descriprion : 
+	Id : A1UF
+	Name : "Life Regeneration Sacred stregt"
+	Ubertip : 
+
+
+AbilityId : A1UK
+Descriprion : 
+	Id : A1UK
+	Name : "Magic res tooltip dummies"
+	Ubertip : "Gives <ACav,DataA1> additional armor to nearby friendly units."
+
+
+Hero ability list:

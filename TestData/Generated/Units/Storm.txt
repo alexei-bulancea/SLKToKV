@@ -1,0 +1,29 @@
+UnitId : npn5
+Descriprion : 
+	Id : npn5
+	Name : Storm
+	Ubertip : "Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0NI
+Descriprion : 
+	Id : A0NI
+	Name : "Panda Chain light IT"
+	Ubertip : 
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : ANss
+Descriprion : 
+	Id : ANss
+	Name : Spell Shield
+	Ubertip : 
+
+
+Hero ability list:

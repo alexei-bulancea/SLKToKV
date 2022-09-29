@@ -1,0 +1,50 @@
+UnitId : H05C
+Descriprion : 
+	Id : H05C
+	Name : "Wendigo"
+	Ubertip : "Tank Hero, exceptional at defense and Freezing enemies troops. Can learn Avalanche, Frozen Seal, Frost Aura, Glacial Toughness and Ice Field. |n|nDifficult to use: |CFFFFFF01Normal.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0TI
+Descriprion : 
+	Id : A0TI
+	Name : "Avalanche [Q]"
+	Ubertip : "Slams the ground, dealing 200 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Slams the ground, dealing 300 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Slams the ground, dealing 400 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slams the ground, dealing 500 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Slams the ground, dealing 600 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing 700 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r","Slams the ground, dealing 800 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Slams the ground, dealing 900 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 6 seconds.|r","Slams the ground, dealing 3000 damage, slowing the move speed by 35% and attack rate by 50% of nearby enemy units in 500 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 4 seconds.|r"
+
+
+AbilityId : A0TL
+Descriprion : 
+	Id : A0TL
+	Name : "Frozen Seal [W]"
+	Ubertip : "Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 50%, move speed by 35% and deal 8% of targets total hit points in magic damage. Last 8 seconds. |n|n|cffc3dbffCooldown: 60 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 60%, move speed by 37% and deal 8% of targets total hit points in magic damage. Last 9 seconds. |n|n|cffc3dbffCooldown: 59 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 70%, move speed by 40% and deal 8% of targets total hit points in magic damage. Last 10 seconds. |n|n|cffc3dbffCooldown: 58 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 80%, move speed by 43% and deal 8% of targets total hit points in magic damage. Last 11 seconds. |n|n|cffc3dbffCooldown: 56 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 90%, move speed by 46% and deal 8% of targets total hit points in magic damage. Last 12 seconds. |n|n|cffc3dbffCooldown: 54 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 100%, move speed by 49% and deal 8% of targets total hit points in magic damage. Last 14 seconds. |n|n|cffc3dbffCooldown: 52 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 115%, move speed by 52% and deal 8% of targets total hit points in magic damage. Last 16 seconds. |n|n|cffc3dbffCooldown: 50 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 130%, move speed by 55% and deal 8% of targets total hit points in magic damage. Last 18 seconds. |n|n|cffc3dbffCooldown: 45 seconds.|r","Seal the moves of an enemy with a powerfull ice enchant reducing his attack speed by 150%, move speed by 60% and deal 8% of targets total hit points in magic damage. Last 20 seconds. |n|n|cffc3dbffCooldown: 38 seconds.|r"
+
+
+AbilityId : A0TK
+Descriprion : 
+	Id : A0TK
+	Name : "Frost Aura [E]"
+	Ubertip : "Reduce nearby enemy units' movement speed by -6%, attack speed by -10% and increases base strength by 3. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -8%, attack speed by -13% and increases base strength by 6. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -10%, attack speed by -16% and increases base strength by 9. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -12%, attack speed by -20% and increases base strength by 12. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -14%, attack speed by -24% and increases base strength by 15. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -17%, attack speed by -28% and increases base strength by 18. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -20%, attack speed by -32% and increases base strength by 21. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -23%, attack speed by -38% and increases base strength by 24. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage.","Reduce nearby enemy units' movement speed by -45%, attack speed by -80% and increases base strength by 27. If your spellpower is 2025 or greater than it has a 8% chance to cause a blizzard upon attacking dealing 22% of your max hp in spell damage."
+
+
+AbilityId : A0TJ
+Descriprion : 
+	Id : A0TJ
+	Name : "Glacial Toughness [R]"
+	Ubertip : "Whenever a wendigo ate one of his victims it would grow increasing his hit points by 3 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 6 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 9 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 16 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 20 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 27 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 30 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 36 permanently.","Whenever a wendigo ate one of his victims it would grow increasing his hit points by 50 permanently."
+
+
+AbilityId : A0TM
+Descriprion : 
+	Id : A0TM
+	Name : "Ice Field [T]"
+	Ubertip : "Freeze all around you in 800 Aoe dealing 80% of your total hit points + 6 x your strength in damage to enemies and frozen them for 2 seconds. Passively increase your base strength by 12.|n|n|cffc3dbffCooldown: 250 seconds.|r","Freeze all around you in 800 Aoe dealing 150% of your total hit points + 12 x your strength in damage to enemies and frozen them for 2 seconds. Passively increase your base strength by 24.|n|n|cffc3dbffCooldown: 220 seconds.|r","Freeze all around you in 800 Aoe dealing 220% of your total hit points + 18 x your strength in damage to enemies and frozen them for 2 seconds. Passively increase your base strength by 36.|n|n|cffc3dbffCooldown: 170 seconds.|r","Freeze all around you in 800 Aoe dealing 290% of your total hit points + 24 x your strength in damage to enemies and frozen them for 2 seconds. Passively increase your base strength by 48.|n|n|cffc3dbffCooldown: 100 seconds.|r"
+
+

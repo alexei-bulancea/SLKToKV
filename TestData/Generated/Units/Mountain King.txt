@@ -1,0 +1,57 @@
+UnitId : H03C
+Descriprion : 
+	Id : H03C
+	Name : Mountain King
+	Ubertip : 
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A1IP
+Descriprion : 
+	Id : A1IP
+	Name : "MK 10hp"
+	Ubertip : "Set Mountain King's Hitpoints to 10%.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+
+
+Hero ability list:
+AbilityId : A1IN
+Descriprion : 
+	Id : A1IN
+	Name : "MK - 1 - Fury Peak"
+	Ubertip : "Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds.","Mountain King goes into mountain rage, his speeds increases and he will stun enemy for 0.4 second and deal extra damage based on lost hitpoint on every attack. Last 6 seconds."
+
+
+AbilityId : A0DN
+Descriprion : 
+	Id : A0DN
+	Name : "Dwarf Stomp"
+	Ubertip : "Slams the ground, dealing 400 damage to enemy units in 1000 AOE and stunning them for 8 seconds.|n|n|cffc3dbffCooldown: 130 seconds.|r","Slams the ground, dealing 600 damage to enemy units in 1000 AOE and stunning them for 10 seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r","Slams the ground, dealing 900 damage to enemy units in 1000 AOE and stunning them for 14 seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r","Slams the ground, dealing 1600 damage to enemy units in 1000 AOE and stunning them for 20 seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+
+
+AbilityId : A0D1
+Descriprion : 
+	Id : A0D1
+	Name : "Storm Bolt Murd"
+	Ubertip : "Throws a magical hammer at a target enemy unit, dealing 20% of your total hit points damage and stunning the target for 3 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 23% of your total hit points damage and stunning the target for 3.25 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 26% of your total hit points damage and stunning the target for 3.5 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 29% of your total hit points damage and stunning the target for 3.75 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 32% of your total hit points damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 35% of your total hit points damage and stunning the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 38% of your total hit points damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 41% of your total hit points damage and stunning the target for 5.5 seconds.|n|n|cffc3dbffCooldown: 19 seconds.|r","Throws a magical hammer at a target enemy unit, dealing 44% of your total hit points damage and stunning the target for 6 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : A0D4
+Descriprion : 
+	Id : A0D4
+	Name : "Dwarf Stamina"
+	Ubertip : "Increases the mountain king hit points by 100, mana points by 100 and base damage by 10.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 200, mana points by 200 and base damage by 16.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 300, mana points by 300 and base damage by 22.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 400, mana points by 400 and base damage by 28.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 600, mana points by 600 and base damage by 34.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 800, mana points by 800 and base damage by 40.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 1200, mana points by 1200 and base damage by 46.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 1600, mana points by 1600 and base damage by 52.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack","Increases the mountain king hit points by 2000, mana points by 2000 and base damage by 58.|nIf your spellpower is 1900 or greater have a 10% chance to deal 10% your maximum hitpoints in pure damage on attack"
+
+
+AbilityId : AHav
+Descriprion : 
+	Id : AHav
+	Name : "Avatar MK"
+	Ubertip : 
+
+

@@ -1,0 +1,36 @@
+UnitId : h08H
+Descriprion : 
+	Id : h08H
+	Name : Swordsman
+	Ubertip : "Versatile foot soldier. have Defends abilitys."
+
+Ability List:
+AbilityId : A0KS
+Descriprion : 
+	Id : A0KS
+	Name : "Total Defense"
+	Ubertip : "Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+
+
+AbilityId : Assk
+Descriprion : 
+	Id : Assk
+	Name : Hardened Skin
+	Ubertip : "Reduces all attacks on this unit by 12 damage. Attacks cannot be reduced below 1 damage."
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : A17B
+Descriprion : 
+	Id : A17B
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:

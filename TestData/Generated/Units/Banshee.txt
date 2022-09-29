@@ -1,0 +1,36 @@
+UnitId : uban
+Descriprion : 
+	Id : uban
+	Name : Banshee
+	Ubertip : "Supporting caster. Can initially cast Curse, which causes enemy units to occasionally miss in combat. Can also learn Anti-magic Shell and Possession. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aams
+Descriprion : 
+	Id : Aams
+	Name : Anti-magic Shell
+	Ubertip : "Creates a barrier that stops spells from affecting a target unit. |nLasts <Aams,Dur1> seconds."
+
+
+AbilityId : Acrs
+Descriprion : 
+	Id : Acrs
+	Name : Curse
+	Ubertip : "Curses a target enemy unit, causing it to have a <Acrs,DataA1,%>% chance to miss on an attack. |nLasts <Acrs,Dur1> seconds."
+
+
+AbilityId : Apos
+Descriprion : 
+	Id : Apos
+	Name : Possession
+	Ubertip : "Displaces the soul of an enemy, giving you permanent control of it, but destroying the caster's body. |nPossession cannot be used on flying units, Heroes, or creeps above level <Apos,DataA1>."
+
+
+AbilityId : Aiun
+Descriprion : 
+	Id : Aiun
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

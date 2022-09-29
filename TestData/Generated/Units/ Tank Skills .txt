@@ -1,0 +1,15 @@
+UnitId : h07N
+Descriprion : 
+	Id : h07N
+	Name : "Tank Skills"
+	Ubertip : "Creates a shop with purchasable items. The items available depend upon what level of upgrade your Town Hall has (Town Hall, Keep, or Castle) and which buildings you have."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : n04F
+Descriprion : 
+	Id : n04F
+	Name : "Shelob"
+	Ubertip : "Heavy melee unit that poisons opponents and carries its young into battle. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : A1M1
+Descriprion : 
+	Id : A1M1
+	Name : "Shadow Strike shleob"
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration.","2","3","4"
+
+
+AbilityId : A02R
+Descriprion : 
+	Id : A02R
+	Name : "channelshelobb"
+	Ubertip : "Conjures a pillar of flame that burns ground units for 2400 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take minor damage."
+
+
+Hero ability list:

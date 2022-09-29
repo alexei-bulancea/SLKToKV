@@ -1,0 +1,15 @@
+UnitId : nanm
+Descriprion : 
+	Id : nanm
+	Name : Barbed Arachnathid
+	Ubertip : "Light ranged unit that has the Burrow ability. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A035
+Descriprion : 
+	Id : A035
+	Name : "Shadow Strike,"
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration."
+
+
+Hero ability list:

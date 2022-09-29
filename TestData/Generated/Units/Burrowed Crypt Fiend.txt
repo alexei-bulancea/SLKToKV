@@ -1,0 +1,29 @@
+UnitId : ucrm
+Descriprion : 
+	Id : ucrm
+	Name : Burrowed Crypt Fiend
+	Ubertip : "Ranged combat support creature. Can learn the Web, and Burrow abilities. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aspa
+Descriprion : 
+	Id : Aspa
+	Name : Spider Attack
+	Ubertip : 
+
+
+AbilityId : Abur
+Descriprion : 
+	Id : Abur
+	Name : Burrow
+	Ubertip : "The Crypt Fiend digs into the ground, becomes invisible, and gains a regeneration rate of <ucrm,regenHP> hit points per second. |nThe Crypt Fiend cannot attack while burrowed."
+
+
+AbilityId : Aiun
+Descriprion : 
+	Id : Aiun
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

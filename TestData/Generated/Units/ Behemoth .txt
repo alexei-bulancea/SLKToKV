@@ -1,0 +1,36 @@
+UnitId : nsgb
+Descriprion : 
+	Id : nsgb
+	Name : "Behemoth"
+	Ubertip : "Heavy melee amphibious unit with Hurl Boulder, War Stomp, and Pulverize. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A03O
+Descriprion : 
+	Id : A03O
+	Name : "Pulverize Behemoth"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","2","3","4"
+
+
+AbilityId : Awrs
+Descriprion : 
+	Id : Awrs
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+AbilityId : A05N
+Descriprion : 
+	Id : A05N
+	Name : Hurl Boulder
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing <ACtb,DataA1> points of damage and stunning the target for <ACtb,Dur1> seconds.","2","3","4"
+
+
+Hero ability list:

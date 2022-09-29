@@ -1,0 +1,50 @@
+UnitId : n03R
+Descriprion : 
+	Id : n03R
+	Name : "Gaia Awakening"
+	Ubertip : "Heavy melee unit that can Slam opponents. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0GQ
+Descriprion : 
+	Id : A0GQ
+	Name : "Life Regeneration Sacred stregt"
+	Ubertip : 
+
+
+AbilityId : A0BH
+Descriprion : 
+	Id : A0BH
+	Name : "Critical Strike Gaia"
+	Ubertip : "Gives a 5% chance to do 4.4  times normal damage on an attack."
+
+
+AbilityId : A0BG
+Descriprion : 
+	Id : A0BG
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrg,DataA1> damage to nearby enemy land units and stunning them for <Awrg,Dur1> seconds."
+
+
+AbilityId : A0BF
+Descriprion : 
+	Id : A0BF
+	Name : "Bash Gaia"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

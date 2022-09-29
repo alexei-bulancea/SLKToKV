@@ -1,0 +1,57 @@
+UnitId : H05Y
+Descriprion : 
+	Id : H05Y
+	Name : "Unholy Knight"
+	Ubertip : "Warrior Hero, exceptional at getting souls and dealing high damage based on the amount of souls. Can learn Impious Strike, Sinester Pack, Tranquility, Unholy Ritual and Souls Liberation .|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+
+Ability List:
+AbilityId : A0YY
+Descriprion : 
+	Id : A0YY
+	Name : "Soul Collect"
+	Ubertip : "The Unholy Knight can take a soul that wanders around. Type -QS to see your soul amount.|n70% chance to absorb 1 Soul|n20% chance to absorb 2 Souls|n10% chance to absorb 4 Souls.|n|n|cffc3dbffCooldown: 150 seconds.|r","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0YZ
+Descriprion : 
+	Id : A0YZ
+	Name : "Impious Strike"
+	Ubertip : "|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 2 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 35% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 3 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 35% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 4 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 35% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 5 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 35% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 6 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 50% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 7 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 50% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 8 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 50% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 9 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 50% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r","|n|cffc3dbffSouls Cost: 1.|r|n|nStrike an enemy dealing 10 x strength + 20 x the amount of souls in spell damage, also reduce target move speed by 32% and damage by 50% last 5 seconds, if target die with this attack you will absorb his soul. |n|n|cffc3dbffCooldown: 20 seconds.|r"
+
+
+AbilityId : A0Z0
+Descriprion : 
+	Id : A0Z0
+	Name : "Sinister Pact"
+	Ubertip : "|n|cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 6 seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r","|n|cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 9 seconds.|n|n|cffc3dbffCooldown: 76 seconds.|r","|n|cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 12 seconds.|n|n|cffc3dbffCooldown: 72 seconds.|r","|n|cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 15 seconds.|n|n|cffc3dbffCooldown: 68 seconds.|r","|c001CE6B9Passive:|r Increases your strength by 1 for each soul you have.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 18 seconds.|n|n|cffc3dbffCooldown: 64 seconds.|r","|c001CE6B9Passive:|r Increases your strength by 1 for each soul you have.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 21 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","|c001CE6B9Passive:|r Increases your strength by 1 for each soul you have.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 24 seconds.|n|n|cffc3dbffCooldown: 56 seconds.|r","|c001CE6B9Passive:|r Increases your strength by 1 for each soul you have.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 27 seconds.|n|n|cffc3dbffCooldown: 52 seconds.|r","|c001CE6B9Passive:|r Increases your strength by 1 for each soul you have.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 3.|r|n|nIncreases the strength of the Unholy Knight by 3 x number of souls, last 30 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r"
+
+
+AbilityId : S01J
+Descriprion : 
+	Id : S01J
+	Name : "Tranquility"
+	Ubertip : "Unholy Knight has a 10% chance to create a devastating explosion that deal 90 damage in 400 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 180 damage in 400 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 300 damage in 400 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 420 damage in 450 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 500 damage in 450 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 500 + 3x souls damage in 450 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 600 + 6x souls damage in 500 area of effect.","Unholy Knight has a 10% chance to create a devastating explosion that deal 800 + 6x souls damage in 500 area of effect. Also increases your movement speed by 10%.","Unholy Knight has a 12% chance to create a devastating explosion that deal 1500 + 40x souls damage in 500 area of effect. Also increases your movement speed by 15%. If your level is 28 or greater it will do 1500 + 70x souls instead."
+
+
+AbilityId : A0Z2
+Descriprion : 
+	Id : A0Z2
+	Name : "Unholy Ritual"
+	Ubertip : "|c001CE6B9Passive:|r Gives 4% chance to absorb a soul when you kill a unit.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 5 x your amount of souls.|n|n|cffc3dbffCooldown: 70 seconds.|r","|c001CE6B9Passive:|r Gives 7% chance to absorb a soul when you kill a unit, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 10 x your amount of souls.|n|n|cffc3dbffCooldown: 68 seconds.|r","|c001CE6B9Passive:|r Gives 10% chance to absorb a soul when you kill a unit, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 15 x your amount of souls.|n|n|cffc3dbffCooldown: 66 seconds.|r","|c001CE6B9Passive:|r Gives 13% chance to absorb a soul when you kill a unit, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 20 x your amount of souls.|n|n|cffc3dbffCooldown: 64 seconds.|r","|c001CE6B9Passive:|r Gives 16% chance to absorb a soul when you kill a unit, 13% less than level 6 and more than level 1 units, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 25 x your amount of souls.|n|n|cffc3dbffCooldown: 62 seconds.|r","|c001CE6B9Passive:|r Gives 20% chance to absorb a soul when you kill a unit, 13% less than level 6 and more than level 1 units, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 30 x your amount of souls.|n|n|cffc3dbffCooldown: 60 seconds.|r","|c001CE6B9Passive:|r Gives 25% chance to absorb a soul when you kill a unit, 100% chance for bosses, 13% less than level 6 and more than level 1 units, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 35 x your amount of souls.|n|n|cffc3dbffCooldown: 58 seconds.|r","|c001CE6B9Passive:|r Gives 30% chance to absorb a soul when you kill a unit, 100% chance for bosses, 13% less than level 6 and more than level 1 units, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 40 x your amount of souls.|n|n|cffc3dbffCooldown: 55 seconds.|r","|c001CE6B9Passive:|r Gives 36% chance to absorb a soul when you kill a unit, 100% chance for bosses, 13% less than level 6 and more than level 1 units, 4% for level 1 units.|n|n|c006969FFActive Ability:|r |cffc3dbffSouls Cost: 2.|r|n|nConsume a soul to heal you for 25% of your total hit points + 45 x your amount of souls.|n|n|cffc3dbffCooldown: 50 seconds.|r"
+
+
+AbilityId : A1VN
+Descriprion : 
+	Id : A1VN
+	Name : "Souls Amplify"
+	Ubertip : "|c001CE6B9Passive:|r Gives 25 souls to the Unholy Knight.|n|n|c006969FFActive Ability:|r|cffc3dbffSouls Cost: 20. |n|nDouble your souls for 8 seconds.|r|n|n|cffc3dbffCooldown: 300 seconds|r","|c001CE6B9Passive:|r Gives 50 souls. |n|n|c006969FFActive Ability:|r|cffc3dbffSouls Cost: 20. |n|nDouble your souls for 10 seconds.|r|n|n|cffc3dbffCooldown: 270 seconds|r","|c001CE6B9Passive:|r Gives 75 souls.|n|n|c006969FFActive Ability:|r|cffc3dbffSouls Cost: 20. |n|nDouble your souls for 12 seconds.|r|n|n|cffc3dbffCooldown: 240 seconds|r","|c001CE6B9Passive:|r Gives 100 souls.|n|n|c006969FFActive Ability:|r|cffc3dbffSouls Cost: 20. |n|nDouble your souls for 14 seconds.|r|n|n|cffc3dbffCooldown: 210 seconds|r","Every hit deals additional 65 damage. Damage is stackable. Duration 9 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r","Every hit deals additional 78 damage. Damage is stackable. Duration 10 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Every hit deals additional 91 damage. Damage is stackable. Duration 11 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Every hit deals additional 104 damage. Damage is stackable. Duration 12 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Every hit deals additional 117 damage. Damage is stackable. Duration 13 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r"
+
+

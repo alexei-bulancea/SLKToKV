@@ -1,0 +1,8 @@
+UnitId : o00F
+Descriprion : 
+	Id : o00F
+	Name : "Ziggurat Tower"
+	Ubertip : "A very strong tower has the best resistence and damage but dont have any abilities. "
+
+Ability List:
+Hero ability list:

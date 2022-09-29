@@ -1,0 +1,22 @@
+UnitId : h07F
+Descriprion : 
+	Id : h07F
+	Name : "Dummi3"
+	Ubertip : ""
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

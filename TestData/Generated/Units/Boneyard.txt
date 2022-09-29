@@ -1,0 +1,15 @@
+UnitId : ubon
+Descriprion : 
+	Id : ubon
+	Name : Boneyard
+	Ubertip : "Produces Frost Wyrms. Also contains the Freezing Breath upgrade."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : h023
+Descriprion : 
+	Id : h023
+	Name : "Elder Linden of Armor"
+	Ubertip : "Have an aura of armor that affect allieds building , aura tipe can be changed."
+
+Ability List:
+AbilityId : A0K8
+Descriprion : 
+	Id : A0K8
+	Name : "Tower Armor Aura"
+	Ubertip : "Gives 40 additional armor to nearby friendly Building."
+
+
+Hero ability list:

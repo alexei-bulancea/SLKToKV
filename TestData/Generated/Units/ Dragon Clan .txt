@@ -1,0 +1,50 @@
+UnitId : H08P
+Descriprion : 
+	Id : H08P
+	Name : "Dragon Clan"
+	Ubertip : "Warrior Hero, exceptional at completing tasks and becoming stronger after it, has a total of 13 abilities and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1C4
+Descriprion : 
+	Id : A1C4
+	Name : "DC SS1"
+	Ubertip : "","s"
+
+
+AbilityId : A1C5
+Descriprion : 
+	Id : A1C5
+	Name : "DC SS2"
+	Ubertip : "","s"
+
+
+AbilityId : A1C6
+Descriprion : 
+	Id : A1C6
+	Name : "DC SS3"
+	Ubertip : "","s"
+
+
+AbilityId : A1CD
+Descriprion : 
+	Id : A1CD
+	Name : "DC SS5"
+	Ubertip : "","s"
+
+
+AbilityId : A1BO
+Descriprion : 
+	Id : A1BO
+	Name : "Dragon Clan Tasks"
+	Ubertip : "|CFF0042FFTask:|r Kill 20 units.|n|cffffcc00Reward:|r 100 bonus damage.","|CFF0042FFTask:|r Kill 22 units of level 3 or highers.|n|cffffcc00Reward:|r 35 base strength.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFTask:|r Kill 60 units.|n|cffffcc00Reward:|r 800 hit points.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFTask:|r Kill a level 10 or higher unit.|n|cffffcc00Reward:|r 190 bonus damage.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFPerpetual Task:|r Kill 40 spiders of any kind.|n|cffffcc00Reward:|r 28 base damage.|nPerpetual Tasks can be completed unlimited times.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFTask:|r Kill a level 36 or higher unit.|n|cffffcc00Reward:|r Dragkur.|n|n|CFF0042FFPerpetual Task:|r Kill 40 spiders of any kind.|n|cffffcc00Reward:|r 28 base damage.|nPerpetual Tasks can be completed unlimited times.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFTask:|r Kill 500 units.|n|cffffcc00Reward:|r 3000 hit points.|n|n|CFF0042FFPerpetual Task:|r Kill 40 spiders of any kind.|n|cffffcc00Reward:|r 28 base damage.|nPerpetual Tasks can be completed unlimited times.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFPerpetual Task:|r Kill 18 Makrura of any kind except Tidal Lord.|n|cffffcc00Reward:|r 14 base strength.|n|n|CFF0042FFPerpetual Task:|r Kill 40 spiders of any kind.|n|cffffcc00Reward:|r 28 base damage.|nPerpetual Tasks can be completed unlimited times.|n|nPrevious tasks can be done if you have not completed it yet.","|CFF0042FFTask:|r Kill a level 98 unit or higher.|n|cffffcc00Reward: 840 base damage.|n|CFF0042FFTask:|r Kill a level 96 dragon or higher.|n|cffffcc00Reward: Dragon Damage. |n|n|r|CFF0042FFPerpetual Task:|r Kill a level 62 or higher unit.|n|cffffcc00Reward:|r 18 base strength and 28 base damage. |n|n|r|CFF0042FFPerpetual Task:|r Kill 18 Makrura of any kind except Tidal Lord.|n|cffffcc00Reward:|r 14 base strength.|n|n|CFF0042FFPerpetual Task:|r Kill 40 spiders of any kind.|n|cffffcc00Reward:|r 28 base damage."
+
+

@@ -1,0 +1,29 @@
+UnitId : nhfp
+Descriprion : 
+	Id : nhfp
+	Name : Fallen Priest
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : AChx
+Descriprion : 
+	Id : AChx
+	Name : Hex
+	Ubertip : "Transforms an enemy unit into a random critter and disables their orders for 10 seconds."
+
+
+AbilityId : A021
+Descriprion : 
+	Id : A021
+	Name : "Magic Reduccion"
+	Ubertip : "Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+
+
+AbilityId : A03N
+Descriprion : 
+	Id : A03N
+	Name : "B.Fire IT"
+	Ubertip : 
+
+
+Hero ability list:

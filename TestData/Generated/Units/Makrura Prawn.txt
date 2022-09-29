@@ -1,0 +1,15 @@
+UnitId : nlpr
+Descriprion : 
+	Id : nlpr
+	Name : Makrura Prawn
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A00E
+Descriprion : 
+	Id : A00E
+	Name : "armor defense 1"
+	Ubertip : "Reduces all attacks on that unit by 7 damage."
+
+
+Hero ability list:

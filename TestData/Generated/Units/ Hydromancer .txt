@@ -1,0 +1,50 @@
+UnitId : nsrw
+Descriprion : 
+	Id : nsrw
+	Name : "Hydromancer"
+	Ubertip : "Heavy ranged unit with Monsoon and Animate Dead. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A11H
+Descriprion : 
+	Id : A11H
+	Name : "Tsunami"
+	Ubertip : "Calls down hordes of rampaging thunder lizards to explode upon the Beastmaster's enemies. Each exploding lizard deals <ANst,DataC1> damage. |nLasts <ANst,Dur1> seconds."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A060
+Descriprion : 
+	Id : A060
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A11F
+Descriprion : 
+	Id : A11F
+	Name : "H Crushing Wave"
+	Ubertip : "Sends a gigantic wave which deals 6000 damage to each enemy land unit in a line and create water elemetals.","2","3","4"
+
+
+AbilityId : A11E
+Descriprion : 
+	Id : A11E
+	Name : "H Hidrobomb"
+	Ubertip : "1","2","3","4"
+
+
+Hero ability list:

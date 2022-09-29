@@ -1,0 +1,43 @@
+UnitId : Ulic
+Descriprion : 
+	Id : Ulic
+	Name : Lich
+	Ubertip : "Mystical Hero, particularly adept at cold magic. Can learn Frost Armor, Frost Nova, Dark Ritual and Death And Decay. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AUfn
+Descriprion : 
+	Id : AUfn
+	Name : "Solar Beam"
+	Ubertip : "Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA1> in 550 AOE and slows movement and attack rate for <AUfn,Dur1> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA2> in 550 AOE and slows movement and attack rate for <AUfn,Dur2> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA3> in 550 AOE and slows movement and attack rate for <AUfn,Dur3> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA4> in 550 AOE and slows movement and attack rate for <AUfn,Dur4> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA5> in 550 AOE and slows movement and attack rate for <AUfn,Dur5> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA6> in 550 AOE and slows movement and attack rate for <AUfn,Dur6> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA7> in 550 AOE and slows movement and attack rate for <AUfn,Dur7> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA8> in 550 AOE and slows movement and attack rate for <AUfn,Dur8> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Blasts enemy units around a target enemy unit with a beam from the sky that damage <AUfn,DataB1> damage to the target, and <AUfn,DataA9> in 550 AOE and slows movement and attack rate for <AUfn,Dur9> seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r"
+
+
+AbilityId : AUfu
+Descriprion : 
+	Id : AUfu
+	Name : Frost Armor
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds <AUfu,DataB1> armor and slows melee units that attack it for <AUfu,Dur1> seconds. |nLasts <AUfu,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA3> seconds."
+
+
+AbilityId : AUdr
+Descriprion : 
+	Id : AUdr
+	Name : Dark Ritual
+	Ubertip : "Sacrifices a target friendly Undead unit to convert <AUdr,DataA1,%>% of its hit points into mana for the Lich.","Sacrifices a target friendly Undead unit to convert <AUdr,DataA2,%>% of its hit points into mana for the Lich.","Sacrifices a target friendly Undead unit to convert <AUdr,DataA3,%>% of its hit points into mana for the Lich."
+
+
+AbilityId : A0EG
+Descriprion : 
+	Id : A0EG
+	Name : "Death And Decay I"
+	Ubertip : "Damages everything in its area of effect by 3% of its base hit points per second. |nLasts 16 seconds."
+
+

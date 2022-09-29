@@ -1,0 +1,22 @@
+UnitId : nogm
+Descriprion : 
+	Id : nogm
+	Name : Ogre Mauler
+	Ubertip : "Large brutal warrior of the Ogre Legion. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A01V
+Descriprion : 
+	Id : A01V
+	Name : "Bash E.Hamer"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A09J
+Descriprion : 
+	Id : A09J
+	Name : "Demolish 1"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

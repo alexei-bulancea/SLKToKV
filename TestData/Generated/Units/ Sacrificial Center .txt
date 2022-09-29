@@ -1,0 +1,15 @@
+UnitId : h08W
+Descriprion : 
+	Id : h08W
+	Name : "Sacrificial Center"
+	Ubertip : "Contains Upgrades for your Nature Titan in Exchange of your tokens."
+
+Ability List:
+AbilityId : A1WT
+Descriprion : 
+	Id : A1WT
+	Name : "Info Titan Upgrades"
+	Ubertip : "Damage, Hitpoints and Armor upgrades cost 1 Enhancement Token.|n|nAbility Upgrades cost 1 Ability token.|n|nYou gain 1 Enhancement Token every 30 sacrifices and you gain 1 Ability Token every 110 sacrifices.|nCheck your current tokens by typing '-tokens'"
+
+
+Hero ability list:

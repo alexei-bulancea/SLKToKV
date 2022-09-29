@@ -1,0 +1,8 @@
+UnitId : ucry
+Descriprion : 
+	Id : ucry
+	Name : Crypt Fiend
+	Ubertip : "Ranged combat support creature. Can learn the Web, and Burrow abilities. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

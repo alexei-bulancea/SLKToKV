@@ -1,0 +1,15 @@
+UnitId : nhmc
+Descriprion : 
+	Id : nhmc
+	Name : Hermit Crab
+	Ubertip : "Call upon the spirit of Hermit Crab to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

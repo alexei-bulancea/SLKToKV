@@ -1,0 +1,50 @@
+UnitId : N02Y
+Descriprion : 
+	Id : N02Y
+	Name : Dark Ranger
+	Ubertip : "Range Hero, adept at dealing high damage from afar. Can learn Black Arrow, Shadow Bow, Venom Curse, Death Pack and Zeal. |n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A10V
+Descriprion : 
+	Id : A10V
+	Name : "DR Black Arrow"
+	Ubertip : "Adds 0.3 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 0.6 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 0.9 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 1.2 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 1.5 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 1.8 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 2.1 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 2.4 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r.","Adds 2.7 x agility extra damage and heal you for half of this damage, but drains mana with each shot fired.|r|n|n|cffff0000Orb effects do not stack|r."
+
+
+AbilityId : A10Y
+Descriprion : 
+	Id : A10Y
+	Name : "DR Death Pact"
+	Ubertip : "Sacrifices a unit of the empire or yours to restore 30% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 60 seconds|r.","Sacrifices a unit of the empire or yours to restore 40% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 56 seconds|r.","Sacrifices a unit of the empire or yours to restore 50% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 52 seconds|r.","Sacrifices a unit of the empire or yours to restore 60% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 48 seconds|r.","Sacrifices a unit of the empire or yours to restore 70% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 44 seconds|r.","Sacrifices a unit of the empire or yours to restore 80% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 40 seconds|r.","Sacrifices a unit of the empire or yours to restore 90% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 35 seconds|r.","Sacrifices a unit of the empire or yours to restore 100% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 30 seconds|r.","Sacrifices a unit of the empire or yours to restore 110% of his current life on mana points for the Dark Ranger.|n|n|cffc3dbffCooldown: 22 seconds|r."
+
+
+AbilityId : A10W
+Descriprion : 
+	Id : A10W
+	Name : "DR Shadow Bow"
+	Ubertip : "Gives the Dark Ranger 30% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 50% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 70% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 90% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 110% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 140% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 180% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 230% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Gives the Dark Ranger 285% bonus to damage of base attack damage and agility bonus. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r"
+
+
+AbilityId : A10Z
+Descriprion : 
+	Id : A10Z
+	Name : "DR Venom Curse"
+	Ubertip : "Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 3 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 3.5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 4 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 4.5 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 5 seconds.|n|n|cffc3dbffCooldown: 21 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 5.5 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 6 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 6.5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Curse a target enemy unit, reducing his move speed by 70%, attack damage by 40% and taking 3 x agility in damage per second, last 7 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r"
+
+
+AbilityId : A1WC
+Descriprion : 
+	Id : A1WC
+	Name : "DR Zeal"
+	Ubertip : "Dark Ranger increases his agility by 7 with each attack, lasts 16 seconds.Also increase Dark Ranger's agility by 7 |n|n|cffc3dbffCooldown: 260 seconds|r","Dark Ranger increases his agility by 7 with each attack, lasts 22 seconds Also increase Dark Ranger's agility by 14 .|n|n|cffc3dbffCooldown: 240 seconds|r","Dark Ranger increases his agility by 7 with each attack, lasts 28 seconds Also increase Dark Ranger's agility by 21.|n|n|cffc3dbffCooldown: 200 seconds|r","Dark Ranger increases his agility by 7 with each attack, lasts 34 seconds Also increase Dark Ranger's agility by 28.|n|n|cffc3dbffCooldown: 180 seconds|r","Increases Tauren's Hit points by 2000.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 94 seconds.|r","Increases Tauren's Hit points by 3100.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 86 seconds.|r","Increases Tauren's Hit points by 5200.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 78 seconds.|r","Increases Tauren's Hit points by 8100.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 70 seconds.|r","Increases Tauren's Hit points by 16500.|nOn cast increases Tauren's Hit points by 150.|n|n|cffc3dbffCooldown: 65 seconds.|r"
+
+

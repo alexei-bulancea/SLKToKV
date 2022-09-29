@@ -1,0 +1,15 @@
+UnitId : ntkh
+Descriprion : 
+	Id : ntkh
+	Name : Tuskarr Healer
+	Ubertip : "Light ranged unit with Heal and Abolish Magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACsk
+Descriprion : 
+	Id : ACsk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

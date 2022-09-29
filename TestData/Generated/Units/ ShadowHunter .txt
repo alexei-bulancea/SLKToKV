@@ -1,0 +1,43 @@
+UnitId : O01J
+Descriprion : 
+	Id : O01J
+	Name : "ShadowHunter"
+	Ubertip : "Cunning Hero. adept at hunting enemies with serpent wards . Can learn Glaive Throw, Curse,  Serpent Ward, Magic Sentry and Absorb.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1MV
+Descriprion : 
+	Id : A1MV
+	Name : "Curse of Zul'jin"
+	Ubertip : "Zul'jin puts a curse on the target reducing a stat.|n-6% spell resistance, -13 armor or -50 damage. if you roll the same debuff twice you deal between 1x agi and 4x agi in damage to the target. |n|n|cffc3dbffCooldown: 90 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-10% spell resistance, -20 armor or -100 damage. if you roll the same debuff twice you deal between 2x agi and 8x agi in damage to the target. |n|n|cffc3dbffCooldown: 85 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-14% spell resistance, -27 armor or -150 damage. if you roll the same debuff twice you deal between 3x agi and 12x agi in damage to the target. |n|n|cffc3dbffCooldown: 80 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-18% spell resistance, -35 armor or -200 damage. if you roll the same debuff twice you deal between 4x agi and 16x agi in damage to the target. |n|n|cffc3dbffCooldown: 74 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-23% spell resistance, -45 armor or -275 damage. if you roll the same debuff twice you deal between 5x agi and 20x agi in damage to the target. |n|n|cffc3dbffCooldown: 68 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-27% spell resistance, -55 armor or -350 damage. if you roll the same debuff twice you deal between 6x agi and 24x agi in damage to the target. |n|n|cffc3dbffCooldown: 62 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-31% spell resistance, -65 armor or -475 damage. if you roll the same debuff twice you deal between 7x agi and 28x agi in damage to the target. |n|n|cffc3dbffCooldown: 55 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-40% spell resistance, -70 armor or -600 damage. if you roll the same debuff twice you deal between 8x agi and 32x agi in damage to the target. |n|n|cffc3dbffCooldown: 50 seconds.|r","Zul'jin puts a curse on the target reducing a stat.|n-50% spell resistance, -86 armor or -800 damage. if you roll the same debuff twice you deal between 9x agi and 36x agi in damage to the target. |n|n|cffc3dbffCooldown: 42 seconds.|r"
+
+
+AbilityId : A1MU
+Descriprion : 
+	Id : A1MU
+	Name : "Glaive Throw"
+	Ubertip : "Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 100 spell damage + 4x agi in pure damage. |n|n|cffc3dbffCooldown: 42 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 300 spell damage + 6x agi in pure damage. |n|n|cffc3dbffCooldown: 40 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 550 spell damage + 8x agi in pure damage. |n|n|cffc3dbffCooldown: 36 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 800 spell damage + 10x agi in pure damage. |n|n|cffc3dbffCooldown: 33 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 1300 spell damage + 12x agi in pure damage. |n|n|cffc3dbffCooldown: 29 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 2100 spell damage + 14x agi in pure damage. |n|n|cffc3dbffCooldown: 25 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 3000 spell damage + 16x agi in pure damage. |n|n|cffc3dbffCooldown: 23 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 5000 spell damage + 18x agi in pure damage. |n|n|cffc3dbffCooldown: 20 seconds.|r","Throws a powerful glaive at an enemy stunning it for 7 seconds and dealing 15000 spell damage + 20x agi in pure damage. |n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A1MS
+Descriprion : 
+	Id : A1MS
+	Name : "Absorb"
+	Ubertip : "Steals up to 10000 hit points and 2000 mana.|r increases serpent ward hit points by 300, damage by 20, armor by 5 and attack speed by 5% also increases Shadowhunter's base move speed by 5 hit points by 200 and mana by 75 each time used. |n|n|cffc3dbffChanneling|r|n|cffc3dbffCooldown: 300 seconds.|r","Steals up to 30000 hit points and 8000 mana.|r increases serpent ward hit points by 300, damage by 20, armor by 5 and attack speed by 5% also increases Shadowhunter's base move speed by 5 hit points by 200 and mana by 75 each time used. |n|n|cffc3dbffChanneling|r|n|cffc3dbffCooldown: 240 seconds.|r","Steals up to 50000 hit points and 25000 mana.|r increases serpent ward hit points by 300, damage by 20, armor by 5 and attack speed by 5% also increases Shadowhunter's base move speed by 5 hit points by 200 and mana by 75 each time used. |n|n|cffc3dbffChanneling|r|n|cffc3dbffCooldown: 170 seconds.|r","Steals up to 400000 hit points and 120000 mana.|r increases serpent ward hit points by 300, damage by 20, armor by 5 and attack speed by 5% also increases Shadowhunter's base move speed by 5 hit points by 200 and mana by 75 each time used. |n|n|cffc3dbffChanneling|r|n|cffc3dbffCooldown: 90 seconds.|r"
+
+
+AbilityId : Arsw
+Descriprion : 
+	Id : Arsw
+	Name : Serpent Ward
+	Ubertip : "Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp1,realHP> base hit points, is magic immune, and deals 15 - 39 base damage. |nLasts <Arsw,Dur1> seconds. |n|n|cffc3dbffCooldown: 10 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp2,realHP> base hit points, is magic immune, and deals 23 - 49 base damage. |nLasts <Arsw,Dur2> seconds. |n|n|cffc3dbffCooldown: 9 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp3,realHP> base hit points, is magic immune, and deals 40 - 70 base damage. |nLasts <Arsw,Dur3> seconds. |n|n|cffc3dbffCooldown: 8 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <osp4,realHP> base hit points, is magic immune, and deals 55 - 90 base damage. |nLasts <Arsw,Dur4> seconds. |n|n|cffc3dbffCooldown: 7 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <o007,realHP> base hit points, is magic immune, and deals 68 - 110 base damage. |nLasts <Arsw,Dur5> seconds. |n|n|cffc3dbffCooldown: 6 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <o008,realHP> base hit points, is magic immune, and deals 90 - 132 base damage. |nLasts <Arsw,Dur6> seconds. |n|n|cffc3dbffCooldown: 5 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <o009,realHP> base hit points, is magic immune, and deals 100 - 150 base damage. |nLasts <Arsw,Dur7> seconds. |n|n|cffc3dbffCooldown: 4 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <o00A,realHP> base hit points, is magic immune, and deals 110 - 190 base damage. |nLasts <Arsw,Dur8> seconds. |n|n|cffc3dbffCooldown: 3 seconds.|r","Summons an immobile serpentine ward to attack the Shadow Hunter's enemies. The ward has <o006,realHP> base hit points, is magic immune, and deals 214 - 274 base damage. |nLasts <Arsw,Dur9> seconds and has extra abilities. |n|n|cffc3dbffCooldown: 13 seconds.|r"
+
+

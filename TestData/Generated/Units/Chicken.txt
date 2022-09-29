@@ -1,0 +1,22 @@
+UnitId : nech
+Descriprion : 
+	Id : nech
+	Name : Chicken
+	Ubertip : "Call upon the spirit of fearsome Chicken to save you."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

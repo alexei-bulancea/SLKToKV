@@ -1,0 +1,22 @@
+UnitId : ngh1
+Descriprion : 
+	Id : ngh1
+	Name : Ghost
+	Ubertip : "Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A03P
+Descriprion : 
+	Id : A03P
+	Name : "Evasion G"
+	Ubertip : "Gives a 60% percent chance to avoid an attack."
+
+
+AbilityId : Afbb
+Descriprion : 
+	Id : Afbb
+	Name : Feedback
+	Ubertip : "Each hit burns 40 mana. dealing bonus damage"
+
+
+Hero ability list:
