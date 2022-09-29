@@ -1,0 +1,71 @@
+UnitId : nskm
+Descriprion : 
+	Id : nskm
+	Name : "Death Hood"
+	Ubertip : "Light ranged unit that shoots Cold Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A060
+Descriprion : 
+	Id : A060
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A1F5
+Descriprion : 
+	Id : A1F5
+	Name : "Sk Fire Arrow"
+	Ubertip : "Wreaths an enemy unit in magical flames which cause <ANso,DataA1> damage per second, prevent the casting of spells, reduce attack damage by <ANso,DataC1,%>% and stun the target for 3 seconds.|nLasts <ANso,Dur1> seconds.|n|n|cffc3dbffCooldown: 60 seconds|r.","Wreaths an enemy unit in magical flames which cause <ANso,DataA2> damage per second, prevent the casting of spells, and reduce attack damage by <ANso,DataC2,%>%.|nLasts <ANso,Dur2> seconds.","Wreaths an enemy unit in magical flames which cause <ANso,DataA3> damage per second, prevent the casting of spells, and reduce attack damage by <ANso,DataC3,%>%.|nLasts <ANso,Dur3> seconds."
+
+
+AbilityId : A1F4
+Descriprion : 
+	Id : A1F4
+	Name : "Sk PA"
+	Ubertip : "Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC1>; deals <ANab,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur1> seconds.","2","3","34"
+
+
+AbilityId : A1F3
+Descriprion : 
+	Id : A1F3
+	Name : "Sk FrostA"
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 600 damage and frozen the target for 2.8 seconds.","2","3","4"
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+AbilityId : A1F2
+Descriprion : 
+	Id : A1F2
+	Name : "SKPFA"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire.","2","22","222"
+
+
+AbilityId : A1F1
+Descriprion : 
+	Id : A1F1
+	Name : "SkMA"
+	Ubertip : "Can shot three arrows at the same time."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A11R
+Descriprion : 
+	Id : A11R
+	Name : "Evasion 80"
+	Ubertip : "Gives a <ACes,DataA1,%>% percent chance to avoid an attack."
+
+
+Hero ability list:

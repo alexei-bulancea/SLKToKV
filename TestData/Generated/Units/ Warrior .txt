@@ -1,0 +1,50 @@
+UnitId : H072
+Descriprion : 
+	Id : H072
+	Name : "Warrior"
+	Ubertip : 
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0I3
+Descriprion : 
+	Id : A0I3
+	Name : "WD SS1"
+	Ubertip : "","s"
+
+
+AbilityId : A0I4
+Descriprion : 
+	Id : A0I4
+	Name : "WD SS2"
+	Ubertip : "","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence","Increases Hero Stats + 16 to Strength +12 to Agility +12 to Intelligence","Increases Hero Stats + 20 to Strength +15 to Agility +15 to Intelligence","Increases Hero Stats + 24 to Strength +18 to Agility +18 to Intelligence","Increases Hero Stats + 28 to Strength +22 to Agility +22 to Intelligence","Increases Hero Stats + 32 to Strength +26 to Agility +26 to Intelligence","Increases Hero Stats + 40 to Strength +30 to Agility +30 to Intelligence"
+
+
+AbilityId : A18I
+Descriprion : 
+	Id : A18I
+	Name : "WD SS3"
+	Ubertip : "","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence"
+
+
+AbilityId : A18J
+Descriprion : 
+	Id : A18J
+	Name : "WD SS4"
+	Ubertip : "","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence","Increases Hero Stats + 16 to Strength +12 to Agility +12 to Intelligence","Increases Hero Stats + 20 to Strength +15 to Agility +15 to Intelligence","Increases Hero Stats + 24 to Strength +18 to Agility +18 to Intelligence","Increases Hero Stats + 28 to Strength +22 to Agility +22 to Intelligence","Increases Hero Stats + 32 to Strength +26 to Agility +26 to Intelligence","Increases Hero Stats + 40 to Strength +30 to Agility +30 to Intelligence"
+
+
+AbilityId : A18K
+Descriprion : 
+	Id : A18K
+	Name : "WD SS5"
+	Ubertip : "","Increases Hero Stats + 8 to Strength +6 to Agility +6 to Intelligence","Increases Hero Stats +12 to Strength +9 to Agility +9 to Intelligence","Increases Hero Stats + 16 to Strength +12 to Agility +12 to Intelligence"
+
+

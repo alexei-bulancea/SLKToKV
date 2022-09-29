@@ -1,0 +1,29 @@
+UnitId : n03Z
+Descriprion : 
+	Id : n03Z
+	Name : "P Elemental"
+	Ubertip : "Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1FA
+Descriprion : 
+	Id : A1FA
+	Name : "EnvW PE"
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds."
+
+
+AbilityId : A0GG
+Descriprion : 
+	Id : A0GG
+	Name : "Attack Speed +50%"
+	Ubertip : 
+
+
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+Hero ability list:

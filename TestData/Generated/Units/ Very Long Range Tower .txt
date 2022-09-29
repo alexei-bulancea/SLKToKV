@@ -1,0 +1,22 @@
+UnitId : h00P
+Descriprion : 
+	Id : h00P
+	Name : "Very Long Range Tower"
+	Ubertip : "Have more damage but less attack speed, more armor, more range, more hit points and have hit points regeneration."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

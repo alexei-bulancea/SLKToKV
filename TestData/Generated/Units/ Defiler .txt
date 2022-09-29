@@ -1,0 +1,22 @@
+UnitId : n010
+Descriprion : 
+	Id : n010
+	Name : "Defiler"
+	Ubertip : "Have more damage ,more range, more armor , hit points and Reduce more armor of enemies."
+
+Ability List:
+AbilityId : A0IT
+Descriprion : 
+	Id : A0IT
+	Name : "Attack Corruption TL5"
+	Ubertip : "Reduce enemy armor by 80"
+
+
+AbilityId : A0IO
+Descriprion : 
+	Id : A0IO
+	Name : "Attack Corruption Defiler"
+	Ubertip : 
+
+
+Hero ability list:

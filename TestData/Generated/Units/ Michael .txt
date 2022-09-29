@@ -1,0 +1,43 @@
+UnitId : h05V
+Descriprion : 
+	Id : h05V
+	Name : "Michael"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. "
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : A0GG
+Descriprion : 
+	Id : A0GG
+	Name : "Attack Speed +50%"
+	Ubertip : 
+
+
+AbilityId : A1F0
+Descriprion : 
+	Id : A1F0
+	Name : "MLighB"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+Hero ability list:

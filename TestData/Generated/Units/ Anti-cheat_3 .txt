@@ -1,0 +1,8 @@
+UnitId : h05K
+Descriprion : 
+	Id : h05K
+	Name : "Anti-cheat_3"
+	Ubertip : "A building used in the Anti-cheat system"
+
+Ability List:
+Hero ability list:

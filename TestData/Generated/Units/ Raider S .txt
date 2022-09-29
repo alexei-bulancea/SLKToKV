@@ -1,0 +1,15 @@
+UnitId : o01B
+Descriprion : 
+	Id : o01B
+	Name : "Raider S"
+	Ubertip : "Highly mobile wolf rider. Effective against buildings. Can learn the Ensnare ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0WU
+Descriprion : 
+	Id : A0WU
+	Name : "Spell Damage Reduction 80"
+	Ubertip : 
+
+
+Hero ability list:

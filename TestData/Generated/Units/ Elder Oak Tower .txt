@@ -1,0 +1,15 @@
+UnitId : e00H
+Descriprion : 
+	Id : e00H
+	Name : "Elder Oak Tower"
+	Ubertip : "Have more damage, range and hit points and have a high chance to slow down enemys."
+
+Ability List:
+AbilityId : A0JP
+Descriprion : 
+	Id : A0JP
+	Name : "Slow down l1"
+	Ubertip : "Gives a 55% chance that an attack will do 140 bonus damage and slow down the enemy, this attack cant miss."
+
+
+Hero ability list:

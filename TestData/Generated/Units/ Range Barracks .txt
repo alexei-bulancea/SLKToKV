@@ -1,0 +1,8 @@
+UnitId : h02L
+Descriprion : 
+	Id : h02L
+	Name : "Range Barracks"
+	Ubertip : "Range troop production building. |nAlso contains upgrades to this units."
+
+Ability List:
+Hero ability list:

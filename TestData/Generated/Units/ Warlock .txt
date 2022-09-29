@@ -1,0 +1,43 @@
+UnitId : H08G
+Descriprion : 
+	Id : H08G
+	Name : "Warlock"
+	Ubertip : "Cunning Hero Adept at quickly deal damage to a single target, Can Learn Nova Strike, Burning Legion, Consume, Unrelenting Force, Finger of Death and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1I0
+Descriprion : 
+	Id : A1I0
+	Name : "Nova Strike"
+	Ubertip : "Archimonde strikes with such force that 10% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 20% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 30% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 35% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 44% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 50% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 56% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 62% of his damage strikes through to enemies near the primary attacked unit.","Archimonde strikes with such force that 70% of his damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A1HY
+Descriprion : 
+	Id : A1HY
+	Name : "Unrelenting Force"
+	Ubertip : "Gives a 20% chance that an attack will do <A1HY,DataC1> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC2> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC3> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC4> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC5> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC6> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC7> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC8> bonus damage.","Gives a 20% chance that an attack will do <A1HY,DataC9> bonus damage."
+
+
+AbilityId : A1I1
+Descriprion : 
+	Id : A1I1
+	Name : "Consume"
+	Ubertip : "Archimonde increases his damage in 20 and heal with the blood of his enemys, 20% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Archimonde increases his damage in 30 and heal with the blood of his enemys, 25% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Archimonde increases his damage in 40 and heal with the blood of his enemys, 30% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Archimonde increases his damage in 50 and heal with the blood of his enemys, 35% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 34 seconds|r","Archimonde increases his damage in 70 and heal with the blood of his enemys, 40% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 32 seconds|r","Archimonde increases his damage in 100 and heal with the blood of his enemys, 45% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Archimonde increases his damage in 140 and heal with the blood of his enemys, 50% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 27 seconds|r","Archimonde increases his damage in 200 and heal with the blood of his enemys, 55% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","Archimonde increases his damage in 500 and heal with the blood of his enemys, 60% of the damage. Last 16 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+
+
+AbilityId : A1PC
+Descriprion : 
+	Id : A1PC
+	Name : "farch"
+	Ubertip : "On cast increases Archimonde's armor by 20 and life regeneration by 10 for 8 seconds also while under effect of this buff gives 10% chance to deal 5% of target current hit points in pure damage. |n|n|cffc3dbffCooldown: 120 seconds.|r","On cast increases Archimonde's armor by 50 and life regeneration by 20 for 9 seconds also while under effect of this buff gives 10% chance to deal 5% of target current hit points in pure damage. |n|n|cffc3dbffCooldown: 90 seconds.|r","On cast increases Archimonde's armor by 100 and life regeneration by 30 for 10 seconds also while under effect of this buff gives 10% chance to deal 5% of target current hit points in pure damage. |n|n|cffc3dbffCooldown: 60 seconds.|r","On cast increases Archimonde's armor by 150 and life regeneration by 40 for 11 seconds also while under effect of this buff gives 10% chance to deal 5% of target current hit points in pure damage. |n|n|cffc3dbffCooldown: 40 seconds.|r","Increase base damage in 100%. hit points regeneration by 10 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 120%. hit points regeneration by 13 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 140%. hit points regeneration by 17 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 160%. hit points regeneration by 22 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Increase base damage in 180%. hit points regeneration by 40 . for 15 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+

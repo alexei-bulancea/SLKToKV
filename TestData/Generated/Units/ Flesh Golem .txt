@@ -1,0 +1,43 @@
+UnitId : H040
+Descriprion : 
+	Id : H040
+	Name : "Flesh Golem"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0NU
+Descriprion : 
+	Id : A0NU
+	Name : "Pure Stre speed"
+	Ubertip : "Increase attack speed by 160% for 3 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 4 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 5 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 6 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 7 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 8 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 9 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 10 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r","Increase attack speed by 160% for 12 seconds and gives a random stat permanently.|n|n|cffc3dbffCooldown: 16 seconds|r"
+
+
+AbilityId : A0NV
+Descriprion : 
+	Id : A0NV
+	Name : "Pure Strength Ult"
+	Ubertip : "Increases Strength by 300. ","Increases Strength by 400. ","Increases Strength by 1000. ","Increases Strength by 2000. ","Increases Strength by 6000. "
+
+
+AbilityId : A0NW
+Descriprion : 
+	Id : A0NW
+	Name : "Pure Strength punch"
+	Ubertip : "Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 30 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 27 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 24 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 21 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 15 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 12 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 9 seconds.|r","Hit a enemy unit, causing 100 + 7 x your strength damage and stunning the target for 1.6 seconds..|n|n|cffc3dbffCooldown: 5 seconds.|r"
+
+
+AbilityId : A0FO
+Descriprion : 
+	Id : A0FO
+	Name : "Pure stre Pulvire"
+	Ubertip : "Gives 3% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 5% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 7% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 9% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 11% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 15% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 20% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 26% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe.","Gives 38% chance that an attack will deal 3400 damage to nearby enemy units in 330 aoe."
+
+

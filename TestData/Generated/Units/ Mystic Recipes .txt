@@ -1,0 +1,29 @@
+UnitId : hgra
+Descriprion : 
+	Id : hgra
+	Name : "Mystic Recipes"
+	Ubertip : "Trains Gryphon Riders, and Dragonhawk Riders. |nAlso contains the Storm Hammers and Cloud upgrades."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+Hero ability list:

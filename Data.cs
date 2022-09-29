@@ -8,15 +8,24 @@ namespace SLKToKV
 {
     public class Data
     {
+        private Dictionary<int, string> _keyValues;
         public Data(Dictionary<int, string> keyValues)
         {
-
+            _keyValues = keyValues;
         }
 
         internal string TryGetValue(Dictionary<int, string> keyValues, int id)
         {
             string temp;
             keyValues.TryGetValue(id, out temp);
+
+            return temp;
+        }
+
+        internal string TryGetValue(int id)
+        {
+            string temp;
+            _keyValues.TryGetValue(id, out temp);
 
             return temp;
         }

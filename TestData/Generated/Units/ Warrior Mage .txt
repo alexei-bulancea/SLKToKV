@@ -1,0 +1,50 @@
+UnitId : H051
+Descriprion : 
+	Id : H051
+	Name : "Warrior Mage"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0QA
+Descriprion : 
+	Id : A0QA
+	Name : "White Mage Rejuvenation 2"
+	Ubertip : "Heals a target friendly unit for 1000 hit points and 150 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 2000 hit points and 200 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 3000 hit points and 250 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 4000 hit points and 300 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 6000 hit points and 375 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 8000 hit points and 500 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 10000 hit points and 750 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 13000 hit points and 1500 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 20000 hit points and 3000 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r"
+
+
+AbilityId : A0Q5
+Descriprion : 
+	Id : A0Q5
+	Name : "White mage self damage 3"
+	Ubertip : "Increases a target friendly unit's damage by 40%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 60%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 80%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 100%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 120%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 150%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 200%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 250%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Increases a target friendly unit's damage by 320%.|nLasts 18 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r."
+
+
+AbilityId : A0Q7
+Descriprion : 
+	Id : A0Q7
+	Name : "White mage self Frenzy"
+	Ubertip : "Increases the unit's attack rate by 230% and movement speed by 40% for 4 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 6 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 8 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 10 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 12 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 14 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 16 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 18 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Increases the unit's attack rate by 230% and movement speed by 40% for 20 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r"
+
+
+AbilityId : A0Q2
+Descriprion : 
+	Id : A0Q2
+	Name : "White mage Self Frost Armor "
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds 30 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 50 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 70 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 100 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 140 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 180 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 220 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 260 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r.","Creates a shield of frost around a target friendly unit. The shield adds 300 armor and slows melee units that attack it for 15 seconds. |nLasts 30 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r."
+
+
+AbilityId : A0QB
+Descriprion : 
+	Id : A0QB
+	Name : "White mage Self Ultimate"
+	Ubertip : "Decrease 70 armor,  80% attack speed and 50% move speed of a target enemy unit.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Decrease 100 armor, 100% attack speed and 60% move speed of a target enemy unit.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Decrease 160 armor, 150% attack speed and 70% move speed of a target enemy unit.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Decrease 250 armor, 200% attack speed and 80% move speed of a target enemy unit.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Decrease 400 armor, 400% attack speed and 90% move speed of a target enemy unit.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r"
+
+

@@ -1,0 +1,50 @@
+UnitId : H007
+Descriprion : 
+	Id : H007
+	Name : Archmage
+	Ubertip : "Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield, Banish."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AHbz
+Descriprion : 
+	Id : AHbz
+	Name : Blizzard
+	Ubertip : "Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.|n|n|cffc3dbffCooldown: 19 seconds.|r","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area.|n|n|cffc3dbffCooldown: 18 seconds.|r","Calls down <AHbz,DataA4> freezing ice shard waves; each wave deals <AHbz,DataB4> damage to units in an area.|n|n|cffc3dbffCooldown: 17 seconds.|r","Calls down <AHbz,DataA5> freezing ice shard waves; each wave deals <AHbz,DataB5> damage to units in an area.|n|n|cffc3dbffCooldown: 16 seconds.|r","Calls down <AHbz,DataA6> freezing ice shard waves; each wave deals <AHbz,DataB6> damage to units in an area.|n|n|cffc3dbffCooldown: 15 seconds.|r","Calls down <AHbz,DataA7> freezing ice shard waves; each wave deals <AHbz,DataB7> damage to units in an area.|n|n|cffc3dbffCooldown: 14 seconds.|r","Calls down <AHbz,DataA8> freezing ice shard waves; each wave deals <AHbz,DataB8> damage to units in an area.|n|n|cffc3dbffCooldown: 12 seconds.|r","Calls down <AHbz,DataA9> freezing ice shard waves; each wave deals <AHbz,DataB9> damage to units in an area.|n|n|cffc3dbffCooldown: 9 seconds.|r"
+
+
+AbilityId : A1P5
+Descriprion : 
+	Id : A1P5
+	Name : "Pyro"
+	Ubertip : "Burn your enemies in 300 AOE for 3x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 60 seconds.|r","Burn your enemies in 300 AOE for 5x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 58 seconds.|r","Burn your enemies in 300 AOE for 7x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 55 seconds.|r","Burn your enemies in 300 AOE for 9x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 51 seconds.|r","Burn your enemies in 300 AOE for 11x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 48 seconds.|r","Burn your enemies in 300 AOE for 13x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 43 seconds.|r","Burn your enemies in 300 AOE for 15x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 37 seconds.|r","Burn your enemies in 300 AOE for 17x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 30 seconds.|r","Burn your enemies in 300 AOE for 19x Spellpower in spell Damage. |n|n|cffc3dbffCooldown: 24 seconds.|r"
+
+
+AbilityId : A02U
+Descriprion : 
+	Id : A02U
+	Name : "Shock"
+	Ubertip : "Throws a thunder at a target enemy unit, dealing 4x int in damage and paralyzed the target for 2 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throws a thunder at a target enemy unit, dealing 5x int in damage and paralyzed the target for 3 seconds.|n|n|cffc3dbffCooldown: 17 seconds.|r","Throws a thunder at a target enemy unit, dealing 6x int in damage and paralyzed the target for 3.15 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Throws a thunder at a target enemy unit, dealing 7x int in damage and paralyzed the target for 3.30 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throws a thunder at a target enemy unit, dealing 8x int in damage and paralyzed the target for 3.45 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throws a thunder at a target enemy unit, dealing 9x int in damage and paralyzed the target for 3.6 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Throws a thunder at a target enemy unit, dealing 10x int in damage and paralyzed the target for 3.75 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Throws a thunder at a target enemy unit, dealing 11x int in damage and paralyzed the target for 3.85 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Throws a thunder at a target enemy unit, dealing 12x int in damage and paralyzed the target for 3.90 seconds.|n|n|cffc3dbffCooldown: 9 seconds.|r"
+
+
+AbilityId : AHds
+Descriprion : 
+	Id : AHds
+	Name : Divine Shield
+	Ubertip : "An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur1> seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur2> seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur3> seconds.|n|n|cffc3dbffCooldown: 28 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur4> seconds.|n|n|cffc3dbffCooldown: 26 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur5> seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur6> seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur7> seconds.|n|n|cffc3dbffCooldown: 22 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur8> seconds.|n|n|cffc3dbffCooldown: 21 seconds|r","An impenetrable shield surrounds this unit, protecting it from all damage and spells for <AHds,Dur9> seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+
+
+AbilityId : A0U7
+Descriprion : 
+	Id : A0U7
+	Name : "Amplify Magic"
+	Ubertip : "Reduce target enemy spell resistance by 120%, attack speed by 90%, attack damage by 80% and move speed by 40%. if the target have less resistance, it will amplify the damage for the rest. Last 6 seconds. Spell amplify cant be removed until the duration is over, even if the buff is removed. Gives +7 Spell power or +5 Int on cast |n|n|cffc3dbffCooldown: 180 seconds.|r","Reduce target enemy spell resistance by 120%, attack speed by 90%, attack damage by 80% and move speed by 40%. if the target have less resistance, it will amplify the damage for the rest. Last 6 seconds. Spell amplify cant be removed until the duration is over, even if the buff is removed. Gives +14 Spell power or +10 Int on cast |n|n|cffc3dbffCooldown: 160 seconds.|r","Reduce target enemy spell resistance by 120%, attack speed by 90%, attack damage by 80% and move speed by 40%. if the target have less resistance, it will amplify the damage for the rest. Last 6 seconds. Spell amplify cant be removed until the duration is over, even if the buff is removed. Gives +21 Spell power or +15 Int on cast |n|n|cffc3dbffCooldown: 140 seconds.|r","Reduce target enemy spell resistance by 120%, attack speed by 90%, attack damage by 80% and move speed by 40%. if the target have less resistance, it will amplify the damage for the rest. Last 6 seconds. Spell amplify cant be removed until the duration is over, even if the buff is removed. Gives +28 Spell power or +20 Int on cast |n|n|cffc3dbffCooldown: 100 seconds.|r"
+
+

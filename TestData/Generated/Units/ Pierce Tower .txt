@@ -1,0 +1,22 @@
+UnitId : h00G
+Descriprion : 
+	Id : h00G
+	Name : "Pierce Tower"
+	Ubertip : "Have more damage, more armor, more range and more hit points."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

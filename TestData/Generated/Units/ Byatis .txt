@@ -1,0 +1,43 @@
+UnitId : n03C
+Descriprion : 
+	Id : n03C
+	Name : "Byatis"
+	Ubertip : "Heavy melee unit that poisons opponents and carries its young into battle. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A156
+Descriprion : 
+	Id : A156
+	Name : "Byat PF"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire.","2","3","4"
+
+
+AbilityId : A14X
+Descriprion : 
+	Id : A14X
+	Name : "Envenomed Weapons Byatis "
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds.","2","3","4"
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : ngni
+Descriprion : 
+	Id : ngni
+	Name : Infected Granary
+	Ubertip : 
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

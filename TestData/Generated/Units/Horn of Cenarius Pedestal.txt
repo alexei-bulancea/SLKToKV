@@ -1,0 +1,36 @@
+UnitId : nhcn
+Descriprion : 
+	Id : nhcn
+	Name : Horn of Cenarius Pedestal
+	Ubertip : 
+
+Ability List:
+AbilityId : A0AU
+Descriprion : 
+	Id : A0AU
+	Name : "Grace Time"
+	Ubertip : "Make a building almost invulnerable for 6 seconds.|nIts said that the Owl will appear when an Improved Tower of War is attacked by a hero to assist its alliance or to bless the hero by attacking it.|n|n|cffc3dbffCooldown: 200 seconds|r"
+
+
+AbilityId : AIpl
+Descriprion : 
+	Id : AIpl
+	Name : "Recover"
+	Ubertip : "Heal mana and life of hero, has 1 second casting time. Can be used 3 times.|n|n|cffc3dbffCooldown: 200 seconds|r."
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : A1QP
+Descriprion : 
+	Id : A1QP
+	Name : "|CFF00FFFFDark|r Summoning"
+	Ubertip : "Teleports a target hero to fountain. Have 10 seconds casting time.|n|n|cffc3dbffCooldown: 300 seconds|r"
+
+
+Hero ability list:

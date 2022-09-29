@@ -1,0 +1,1900 @@
+[Harf]
+Name="Swordman"
+EditorSuffix= (wielding Frostmourne)
+Hotkey=A
+Propernames=Arthas
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Shockwave, Bash, Sword Mastery, Uncommon Power and Mirror Image. |n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Tip="|cffffcc00Arthas"
+[Huth]
+Name="Blood Grunt"
+Hotkey=B
+Propernames=Harek
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Stamina or Blood Thirsty, Funeral Blow, Blood Rage, Hyper Regeneration and Explosive Blood.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Revivetip=""
+Awakentip=""
+Tip="|cffffcc00Blood Grunt"
+[Hpb2]
+Name="Party Leader"
+Hotkey=P
+Propernames=Sir Gregory 
+Revivetip="Party Leader"
+Awakentip="Party Leader"
+Ubertip="The Party Team is a group of heroes, you decide which of them you will use on the game starting with Party Leader, others party members do not gain experience normally, they level up with 3 differents ways, one of them is each 4 levels of the party leader all party members level up even if they isn't recruit yet, Party members can't change his attack tipe, if one party member change his armor tipe all members change it as well, party members have less inventory slots but increases more stats per level and have powerfull abilities.|n|nDifficulty to use: |c00FF0000Extremely Hard.|r"
+Tip="|cffffcc00Party Team"
+[Hdgo]
+Name="Priest"
+Hotkey=P
+Propernames=Savior,Cura,Cipriani
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Healing Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Rejuvenation, Sword and Shield, Restauration and Tranquility.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Tip="|cffffcc00Priest"
+[Hmgd]
+Name="Worker"
+Hotkey=W
+Propernames=Magroth
+Revivetip="Revive Worker"
+Awakentip="Revive Worker"
+Ubertip="Worker Hero, exceptional at defense, also has good offensive abilities. Can learn Build Barracks, Build Flak Cannon, Build Tower, Build Town Center and Repair.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Tip="|cffffcc00Worker"
+[Hhkl]
+Name="Infernal"
+Hotkey=I
+Propernames=Halahk 
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Tank Hero, exceptional at defense and burning enemy troops. Can learn Flame Strike, Ground Smash, Infernal Strength, Fire Skin and Burn to Ashes.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Tip="|cffffcc00Infernal"
+[Hjai]
+Name=Archmage
+Hotkey=J
+Propernames=Jaina
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Jaina"
+[Hvwd]
+Name="Archer"
+Hotkey=A
+Propernames=Sylvanas,Windrunner,Claudias,Veronicas
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+Tip="|cffffcc00Archer|r"
+Ubertip="Ranger Hero, adept at enhancing ranged attacks from slaying enemies. Can learn Searing Arrows, Frost Arrows, Sky Shot, Trueshot Aura and Dextery.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+[Hkal]
+Name=Blood Mage
+Hotkey=K
+Propernames=Kael
+Revivetip=Revive |cffffcc00B|rlood Mage
+Awakentip=Revive |cffffcc00B|rlood Mage
+Ubertip="Mystical Hero, adept at controlling magic and ranged assaults. Can learn Orb of Annihilation, Forked Lightning, Entangling Roots, Brillance Aura and Mana Shield.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Kael"
+[Hvsh]
+Name="Medusa "
+Hotkey=M
+Propernames=Gorgon
+Revivetip=Revive |cffffcc00N|raga Sea Witch
+Awakentip=Revive |cffffcc00N|raga Sea Witch
+Ubertip="Mystical Hero, adept at ranged combat. Can learn Frost Nova, Petrifaction, Stone Scales, Gorgon Attribute, Multiple Arrow.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Medusa"
+[Hlgr]
+Name=Dark Knight
+Hotkey=D
+Propernames=Lord Garithos
+Revivetip=""
+Awakentip=""
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Blue Axe, Berserk, Cleaving Attack, Holy Aura and Ares Blessing.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Dark Knight"
+[hhdl]
+Name="Trained Horse"
+Tip="Trained Horse"
+Ubertip="A strong and fast horse that can carry 6 items."
+[hhes]
+Name="Light Warrior"
+Tip="Light Warrior"
+Hotkey=S
+Ubertip="Versatile foot soldier. has a block damage ability."
+[Hapm]
+Name="Admiral"
+Hotkey=A
+Propernames=Proudmoore
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, |cffffcc00can't change attack type with items|r, exceptional at defense and attack. Can learn Explosive Attack, Imbued Sword, Infinite Growth, Battle Knowledge and Adrenaline Control.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Admiral"
+[hrdh]
+Name=Pack Horse
+Tip="Pack Horse"
+Ubertip="A Weak horse that can carry 4 items."
+[Othr]
+Name=Far Seer
+Hotkey=F
+Propernames=Grimsight
+Revivetip=Revive |cffffcc00F|rar Seer
+Awakentip=Revive |cffffcc00F|rar Seer
+Ubertip="Mystical Hero, adept at dealing high pure damage (check Quest(F9) for more information about pure damage) . Can learn Noxious Blast, Malediction, Devastation, Focus and Fulmination. |n|nDifficult to use: |CFFFFFF01Normal.|r "
+Tip="|cffffcc00Far Seer"
+[owar]
+Name="Titan Warchief"
+Tip="Titan Warchief"
+Ubertip="Titans are extremely strong but very slow."
+[odkt]
+Name="Pyromancer"
+[Orkn]
+Name="Satyr"
+Propernames=Shadow Stealer
+Hotkey=S
+Tip="|cffffcc00Shadow Stealer"
+Ubertip="Cunning Hero, exceptional at disarming enemies. Can learn Steal Damage, Armor Break, Speed Absorption, Power Reduction and Assassin Path.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Revivetip="Revive |cffffcc00S|rhadow Stealer"
+Awakentip="Revive |cffffcc00S|rhadow Stealer"
+[ngzd]
+Name=Misha
+EditorSuffix= (Level 2)
+[osp4]
+Name=Serpent Ward
+EditorSuffix= (Level 4)
+[npn4]
+Name=Fire
+Tip=Summon |cffffcc00F|rire
+Ubertip="Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=F
+EditorSuffix="T"
+[npn5]
+Name=Storm
+Tip=Summon S|cffffcc00t|rorm
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+EditorSuffix="T"
+[npn6]
+Name=Earth
+Tip=Summon |cffffcc00E|rarth
+Ubertip="Sturdy Pandaren warrior of earth. Has Resistant Skin, and Spell Immunity. Can cast Pulverize, and Taunt. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=E
+EditorSuffix="T"
+[ogrk]
+Name="Gar'thok'"
+[Uear]
+Name=Death Knight
+EditorSuffix= (Evil)
+Hotkey=D
+Propernames=Arthas
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Ubertip="Warrior Hero, evil counterpart to the Human Paladin. Can learn Death Coil, Death Pact, Unholy Aura, and Animate Dead. |n|n|cffffcc00Attacks land units.|r"
+[Ubal]
+Name="The First One"
+Hotkey=E
+Propernames=Nosferatu
+Revivetip=Revive Dr|cffffcc00e|radlord
+Awakentip=Revive Dr|cffffcc00e|radlord
+Ubertip="Cunning Hero, adept at controlling combat. Can learn Carrion Swarm, Sleep, Vampiric Aura, and Inferno. |n|n|cffffcc00Attacks land units.|r"
+[Uvng]
+Name="Necromancer"
+Hotkey=
+Propernames=Fausto
+Revivetip=Revive Dr|cffffcc00e|radlord
+Awakentip=Revive Dr|cffffcc00e|radlord
+Ubertip="Mystical Hero, particularly adept at death spells. Can learn Raise Dead, Skeletal Mage, Death Soul, Advanced Summoning and Golem.|n|cffff0000Can't change attack type.|r|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Tip="|cffffcc00Necromancer"
+[uktg]
+Name="Kel'Thuzad'"
+EditorSuffix= (Ghost)
+[Eilm]
+Name="Angel of Death"
+EditorSuffix=" (Final)"
+Hotkey=D
+Propernames=Doom
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+Ubertip="Cunning Hero, adept at maneuvering through battles. Can learn Immolation, Evasion, Mana Burn, and Metamorphosis. |n|n|cffffcc00Attacks land units.|r"
+[Efur]
+Name="Half Demon Wizard"
+Hotkey=H
+Propernames=Azura
+Revivetip=Revive |cffffcc00K|reeper of the Grove
+Awakentip=Revive |cffffcc00K|reeper of the Grove
+Ubertip="Mystical Hero, adept at using unholy spells. Can learn Healing Wave, Hell Magma, Hell Lighting, Spirit Touch and Pandemonium Portal. |n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Tip="|cffffcc00Half Demon Wizard"
+[eshd]
+Name=Shandris
+Hotkey=S
+Tip="Train |cffffcc00S|rhandris"
+Ubertip="Powerful ranged unit, have critical and evasion."
+[Eevi]
+Name=Demon Hunter
+Hotkey=D
+Propernames=Illidan
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+EditorSuffix= (Evil)
+Ubertip="Cunning Hero, adept at maneuvering through battles. Can learn Rain of Fire, Killer Instict, Vampiric Aura, Demonic Reflexs and Demonic Speed.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Demon Hunter"
+[Eevm]
+Name="Angel of Death"
+EditorSuffix= (Morphed)
+Hotkey=D
+Propernames=Doom
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+EditorSuffix= (Evil)
+Ubertip="Cunning Hero, adept at maneuvering through battles. Can learn Immolation, Evasion, Mana Burn, and Metamorphosis. |n|n|cffffcc00Attacks land units.|r"
+[Nbbc]
+Name="Warrior"
+Hotkey=B
+Propernames=Berseker
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip="|cffffcc00B|rerseker"
+Ubertip="Warrior Hero, adept at dealing damage to himself in order to kill faster his enemies, also is a versatile hero that can take several differents roles depending what abilities and items you chose. Have 15 abilities to chose |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Tip="|cffffcc00Berseker"
+[nemi]
+Name=Emissary
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Heal","- Heal|n- Dispel Magic","- Heal|n- Dispel Magic|n- Inner Fire"
+[nhef]
+Name=High Elf
+EditorSuffix= (Female)
+[nhea]
+Name=Archer
+Tip=Train A|cffffcc00r|rcher
+Hotkey=R
+Ubertip="Basic ranged attacker. "
+[nefm]
+Name="Elven House"
+[nef1]
+Name="High Elven House"
+EditorSuffix=2
+[nef3]
+Name="Flak Cannon"
+EditorSuffix="L1"
+[negt]
+Name="Magic Tower"
+Hotkey=G
+Tip="Upgrade to Magic Tower"
+Ubertip="Have more damage , hero attack , more armor , hit points and Reduce the armor of the enemys."
+[negf]
+Name="Corrupted Tower"
+Tip="Upgrade to Corrupted Tower"
+Ubertip="Have more damage ,more range, chaos attack , more armor , hit points and Reduce the armor of the enemys."
+[negm]
+Name="Stun Tower"
+Tip="Upgrade to Stun Tower"
+Ubertip="Have more damage, more hit points , armor , life regeneration and chance to bash."
+[ndgt]
+Name="FeedBack Tower"
+Tip="Upgrade to FeedBack Tower"
+Ubertip="Have more damage, hit points, armor, life regeneration and burn mana with every hit. "
+[nheb]
+Name="High Strength Barracks"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+[nfnp]
+Name=Fountain of Power
+[nbsm]
+Name=Book of Summoning Pedestal
+[nhcn]
+Name=Horn of Cenarius Pedestal
+[nmyr]
+Name="Neptune"
+Hotkey=M
+Tip=Train Naga |cffffcc00M|ryrmidon
+Ubertip="Powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Can learn the Ensnare ability.  |n|n|cffffcc00Attacks land units."
+[nmys]
+Name=Submerged Naga Myrmidon
+Hotkey=M
+Tip=Train Naga |cffffcc00M|ryrmidon
+Ubertip="Powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Can Can learn the Ensnare ability.  |n|n|cffffcc00Attacks land units."
+[nnrg]
+Name=Naga Royal Guard
+Tip=Train Naga Royal Guard
+Ubertip="Incredibly powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Also has Resistant Skin, which reduces the duration of negative spells, Frost Bolt, which stuns a target enemy unit, Crushing Wave, which deals damage in a line, and Summon Sea Elemental, which summons a ranged attack unit. |n|n|cffffcc00Attacks land units.|r"
+[nnrs]
+Name=Submerged Naga Royal Guard
+Tip=Train Naga Royal Guard
+Ubertip="Incredibly powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Also has Resistant Skin, which reduces the duration of negative spells, Frost Bolt, which stuns a target enemy unit, Crushing Wave, which deals damage in a line, and Summon Sea Elemental, which summons a ranged attack unit. |n|n|cffffcc00Attacks land units.|r"
+[nnsw]
+Name="Angel of Death"
+Hotkey=S
+Tip=Train Naga |cffffcc00S|riren
+Ubertip="Powerful spellcaster. Can initially cast Parasite, which damages an enemy unit over time and can spawn a Watery Minion from their corpse. Can also learn Frost Armor, and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Parasite","- Parasite|n- Frost Armor","- Parasite|n- Frost Armor|n- Cyclone"
+[nnsu]
+Name="Ligeia"
+Hotkey=S
+Tip=Train |cffffcc00S|rummoner
+Ubertip="Powerful summoner. Can initially cast Parasite, which damages an enemy unit over time and can spawn a Watery Minion from their corpse. Can also learn Frost Armor, and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Parasite","- Parasite|n- Frost Armor","- Parasite|n- Frost Armor|n- Cyclone"
+[nbel]
+Name=Blood Elf Lieutenant
+Hotkey=L
+Tip=Train Blood Elf |cffffcc00L|rieutenant
+Ubertip="Powerful lieutenants from Prince Kael's Blood Elf army. Experts at destroying spellcasters. |n|n|cffffcc00Attacks land units.|r"
+[ndmu]
+Name=Dalaran Mutant
+[ndrj]
+Name="Final Disease"
+[Naka]
+Name="Marine"
+Propernames=Raynor
+Revivetip=Revive A|cffffcc00k|rama
+Awakentip=Revive A|cffffcc00k|rama
+Hotkey=M
+Tip="|cffffcc00Marine"
+Ubertip="Ranger Hero, adept at slaying enemies from afar. Marine can get up to 460% attack speed, reaching a faster attack speed than any other normal hero(normal is 400%). Can learn Stim Pack, Raynor Rocked, Hitman Mode, Equipment Upgrade and Cluster Rockets.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+[nsw3]
+Name=Greater Spirit Beast
+EditorSuffix= (Level 3)
+[npgr]
+Name="Trophy"
+[nhew]
+Name=Worker
+EditorSuffix=" (Empire)"
+Hotkey=W
+Tip=Train |cffffcc00W|rorker
+Ubertip="Basic worker unit. Can build a lot of differents structures. "
+[nft1]
+Name=Flame Tower
+Hotkey=F
+Tip=Build |cffffcc00F|rlame Tower
+Ubertip="Have more Damage, more hit points, more armor , life regeneration and do a large but weak AOE attack."
+[nft2]
+Name=Advanced Flame Tower
+Hotkey=U
+Tip=|cffffcc00U|rpgrade to Advanced Flame Tower
+Ubertip="Have more Damage, more hit points, more armor, more attack speed , life regeneration and do a large but weak AOE attack."
+[ndt1]
+Name="Water Tower"
+Hotkey=C
+Tip="Upgrade to Water Tower"
+Ubertip="Have more attack speed, more hit points , more armor, life regeneration and do a strong but short  AOE attack."
+[ndt2]
+Name="Advanced Water Tower"
+Hotkey=U
+Tip="Upgrade to Advanced Water Tower"
+Ubertip="Have more attack speed, more damage, more hit points , more armor, life regeneration and do a strong but short  AOE attack."
+[ntt1]
+Name="Critical Tower"
+Hotkey=D
+Tip="Upgrade to CriticalTower"
+Ubertip="Have more damage, more hit points, more armor,  life regeneration and critical strike."
+[ntx2]
+Name="Death Tower"
+Hotkey=U
+Tip="Upgrade to Death Tower"
+Ubertip="Have more damage, more hit points, more armor,  life regeneration and death critical strike."
+[nfrt]
+Name=Fruit Stand
+Tip=Build Fruit Stand
+Ubertip="The most incredible fruit stand you have ever seen in your entire life."
+[nbse]
+Name=Resurrection Stone
+Tip=Create Resurrection Stone
+Ubertip=""
+EditorSuffix= (southeast facing)
+[o017]
+Name="Hidromancer"
+[n03V]
+Name="Naga Empress"
+Hotkey=S
+Tip=Train |cffffcc00S|rummoner
+Ubertip="Powerful summoner. Can initially cast Parasite, which damages an enemy unit over time and can spawn a Watery Minion from their corpse. Can also learn Frost Armor, and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Parasite","- Parasite|n- Frost Armor","- Parasite|n- Frost Armor|n- Cyclone"
+[n03U]
+Name="Golden Maiden"
+EditorSuffix=""
+[n03T]
+Name="Flak Cannon"
+EditorSuffix="L10"
+[n03H]
+Name="Plague Zombie"
+EditorSuffix="4"
+[n03B]
+Name="Zombie"
+EditorSuffix="T2"
+[n03A]
+Name="Zombie"
+EditorSuffix="T1"
+[n02X]
+Name="High Intelligence Barracks"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+EditorSuffix="2nd"
+[n02W]
+Name="High Agility Range Barracks"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+[n02V]
+Name="High Strength Barracks"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+EditorSuffix="Tanks"
+[n02U]
+Name="Final Disease"
+EditorSuffix="6"
+[n02T]
+Name="Final Disease"
+EditorSuffix="5"
+[n02S]
+Name="Final Disease"
+EditorSuffix="4"
+[n02R]
+Name="Final Disease"
+EditorSuffix="3"
+[n02Q]
+Name="Final Disease"
+EditorSuffix="2"
+[n02J]
+Name="Zombie"
+EditorSuffix="6"
+[n02I]
+Name="Zombie"
+EditorSuffix="5"
+[n02H]
+Name="Zombie"
+EditorSuffix="4"
+[n02G]
+Name="Zombie"
+EditorSuffix="3"
+[n02F]
+Name="Zombie"
+EditorSuffix="2"
+[n02E]
+Name="Zombie"
+EditorSuffix="1"
+[n021]
+Name="High Intelligence Barracks"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+[n01B]
+Name="Sacred Well"
+Tip="Upgrade to Sacred Well"
+Ubertip="Heal nearby units and building by the same porcentage of his total life in a large area of effect, it cant attack."
+[n01A]
+Name="Fountain of Salvation"
+Tip="Upgrade to Fountain of Regeneration"
+Ubertip="Heal more life of nearby units and building in the same area of effect by a porcentage of his total life but cant attack."
+[n019]
+Name="Fountain of Regeneration"
+Tip="Upgrade to Fountain of Regeneration"
+Ubertip="Heal nearby units and building by a porcentage of his total life but cant attack."
+[n018]
+Name="Flak Cannon"
+EditorSuffix="L9"
+[n017]
+Name="Flak Cannon"
+EditorSuffix="L8"
+[n016]
+Name="Flak Cannon"
+EditorSuffix="L7"
+[n015]
+Name="Flak Cannon"
+EditorSuffix="L6"
+[n014]
+Name="Flak Cannon"
+EditorSuffix="L5"
+[n013]
+Name="Flak Cannon"
+EditorSuffix="L4"
+[n012]
+Name="Flak Cannon"
+EditorSuffix="L2"
+[n011]
+Name="Flak Cannon"
+EditorSuffix="L3"
+[n010]
+Name="Defiler"
+Tip="Upgrade to Defiler"
+Ubertip="Have more damage ,more range, more armor , hit points and Reduce more armor of enemies."
+[n00Z]
+Name="Drought Tower"
+Tip="Upgrades to Drought Tower"
+Ubertip="Have more damage, hit points, armor, life regeneration, range, attack speed and burn more mana with every hit. "
+[n00Y]
+Name="Stop Tower"
+Tip="Stop Tower"
+Ubertip="Have more damage, more hit points , armor , life regeneration, range and better chance to bash."
+[n00X]
+Name="Emily"
+EditorSuffix=""
+[n00O]
+Name="Thanatos"
+Hotkey=U
+Tip="Upgrade to Thanatos"
+Ubertip="Death Bringer"
+[n00N]
+Name="High Agility Melee Barracks"
+Hotkey=B
+Tip=Build |cffffcc00B|rarracks
+Ubertip="Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+[n005]
+Name="Mana Burn Tower"
+Tip="Upgrades to Mana Burn Tower"
+Ubertip="Have more damage, hit points, armor, life regeneration and burn mana with every hit. "
+[n004]
+Name="Advanced Stun Tower"
+Tip="Upgrade to advanced Stun Tower"
+Ubertip="Have more damage, more hit points , armor , life regeneration and chance to bash."
+[n003]
+Name="Corrupted Tower Level 2"
+Tip="Upgrade to Corrupted Tower Level 2"
+Ubertip="Have more damage ,more range, chaos attack , more armor , hit points and Reduce the armor of the enemys."
+[n002]
+Name="Advanced Magic Tower"
+Hotkey=G
+Tip="Upgrade to Advanced Magic Tower"
+Ubertip="Have more damage , hero attack , more armor , hit points and Reduce the armor of the enemys."
+[h04M]
+Name=Swordsman
+Tip="Light Warrior"
+Hotkey=S
+Ubertip="Versatile foot soldier. have Defends abilitys."
+[h03L]
+Name="Light Warrior"
+Tip="Light Warrior"
+Hotkey=S
+Ubertip="Versatile foot soldier. have Defends abilitys."
+EditorSuffix="Hire"
+[U00B]
+Name="Necromancer"
+Hotkey=
+Propernames=Fausto
+Revivetip=Revive Dr|cffffcc00e|radlord
+Awakentip=Revive Dr|cffffcc00e|radlord
+Ubertip="Mystical Hero, particularly adept at death spells.Can learn Raise Dead, Skeletal Mage, Death Soul, Howl of Terror and Golem."
+EditorSuffix="Dragon"
+Tip="|cffffcc00N|recromancer"
+[U00A]
+Name="Necromancer"
+Hotkey=
+Propernames=Fausto
+Revivetip=Revive Dr|cffffcc00e|radlord
+Awakentip=Revive Dr|cffffcc00e|radlord
+Ubertip="Mystical Hero, particularly adept at death spells.Can learn Raise Dead, Skeletal Mage, Death Soul, Howl of Terror and Golem."
+EditorSuffix="(Chaos)"
+Tip="Necromancer"
+[U009]
+Name="Necromancer"
+Hotkey=
+Propernames=Fausto
+Revivetip=Revive Dr|cffffcc00e|radlord
+Awakentip=Revive Dr|cffffcc00e|radlord
+Ubertip="Mystical Hero, particularly adept at death spells.Can learn Raise Dead, Skeletal Mage, Death Soul, Howl of Terror and Golem."
+EditorSuffix="(Hero)"
+Tip="Necromancer"
+[O016]
+Name=Far Seer
+Hotkey=F
+Propernames=Thrall
+Revivetip=Revive |cffffcc00F|rar Seer
+Awakentip=Revive |cffffcc00F|rar Seer
+Ubertip="Mystical Hero, adept at dealing high pure damage (check Quest(F9) for more information about pure damage) . Can learn Noxious Blast, Malediction, Devastation, Focus and Fulmination. "
+EditorSuffix="Dragon"
+[O015]
+Name=Far Seer
+Hotkey=F
+Propernames=Thrall
+Revivetip=Revive |cffffcc00F|rar Seer
+Awakentip=Revive |cffffcc00F|rar Seer
+Ubertip="Mystical Hero, adept at dealing high pure damage (check Quest(F9) for more information about pure damage) . Can learn Noxious Blast, Malediction, Devastation, Focus and Fulmination. "
+EditorSuffix="Chaos"
+[O014]
+Name=Far Seer
+Hotkey=F
+Propernames=Thrall
+Revivetip=Revive |cffffcc00F|rar Seer
+Awakentip=Revive |cffffcc00F|rar Seer
+Ubertip="Mystical Hero, adept at dealing high pure damage (check Quest(F9) for more information about pure damage) . Can learn Noxious Blast, Malediction, Devastation, Focus and Fulmination. "
+EditorSuffix="Hero"
+[O010]
+Name="Satyr"
+Propernames=Shadow Stealer
+Hotkey=S
+Tip=Summon |cffffcc00S|rhadow Hunter
+Ubertip="Cunning Hero, adept at healing magics and voodoo curses. Can learn Healing Wave, Hex, Serpent Ward and Big Bad Voodoo. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip="Revive |cffffcc00S|rhadow Stealer"
+Awakentip=Revive |cffffcc00S|rhadow Hunter
+EditorSuffix="Dragon"
+[O00Z]
+Name="Satyr"
+Propernames=Shadow Stealer
+Hotkey=S
+Tip=Summon |cffffcc00S|rhadow Hunter
+Ubertip="Cunning Hero, adept at healing magics and voodoo curses. Can learn Healing Wave, Hex, Serpent Ward and Big Bad Voodoo. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip="Revive |cffffcc00S|rhadow Stealer"
+Awakentip=Revive |cffffcc00S|rhadow Hunter
+EditorSuffix="Chaos"
+[O00Y]
+Name="Satyr"
+Propernames=Shadow Stealer
+Hotkey=S
+Tip=Summon |cffffcc00S|rhadow Hunter
+Ubertip="Cunning Hero, adept at healing magics and voodoo curses. Can learn Healing Wave, Hex, Serpent Ward and Big Bad Voodoo. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip="Revive |cffffcc00S|rhadow Stealer"
+Awakentip=Revive |cffffcc00S|rhadow Hunter
+EditorSuffix="Hero"
+[O004]
+Name=Blademaster
+Hotkey=B
+Propernames=Samuro,Arashicage,Jubei
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip=Revive |cffffcc00B|rlademaster
+Ubertip="Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Shadow Legion, Knock out, Clean Cut and Tornado."
+EditorSuffix="Dragon"
+Tip="|cffffcc00B|rlademaster"
+[O001]
+Name=Blademaster
+Hotkey=B
+Propernames=Samuro,Arashicage,Jubei
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip=Revive |cffffcc00B|rlademaster
+Ubertip="Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Shadow Legion, Knock out, Clean Cut and Tornado."
+EditorSuffix="Hero"
+Tip="|cffffcc00B|rlademaster"
+[O000]
+Name=Blademaster
+Hotkey=B
+Propernames=Samuro,Arashicage,Jubei
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip=Revive |cffffcc00B|rlademaster
+Ubertip="Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Shadow Legion, Knock out, Clean Cut and Tornado."
+EditorSuffix="Chaos"
+Tip="|cffffcc00B|rlademaster"
+[N04A]
+Name=Pit Lord
+Propernames=Magtheridon
+Revivetip=""
+Awakentip=""
+Hotkey=D
+Ubertip="Warrior Hero, |cffffcc00starts with Hero attack type but can't change it with items|r, exceptional at defense and attack. Can learn Cleaving Attack, Demonic Terror, Howl of Doom, Blood Thirsty and Tremble Before Me.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00P|rit Lord"
+[N03Q]
+Name="Warrior"
+Hotkey=B
+Propernames=Berseker
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip="|cffffcc00B|rerseker"
+Ubertip="Warrior Hero, adept at dealing damage to himself in order to kill faster his enemies, also is a versatile hero that can take several differents roles depending what abilities and items you chose. Have 15 abilities to chose |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+EditorSuffix="Dragon"
+Tip="|cffffcc00B|rerseker"
+[N03P]
+Name="Warrior"
+Hotkey=B
+Propernames=Berseker
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip="|cffffcc00B|rerseker"
+Ubertip="Warrior Hero, adept at dealing damage to himself in order to kill faster his enemies, also is a versatile hero that can take several differents roles depending what abilities and items you chose. Have 15 abilities to chose |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+EditorSuffix="Chaos"
+Tip="|cffffcc00B|rerseker"
+[N03O]
+Name="Warrior"
+Hotkey=B
+Propernames=Berseker
+Revivetip=Revive |cffffcc00B|rlademaster
+Awakentip="|cffffcc00B|rerseker"
+Ubertip="Warrior Hero, adept at dealing damage to himself in order to kill faster his enemies, also is a versatile hero that can take several differents roles depending what abilities and items you chose. Have 15 abilities to chose |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+EditorSuffix="Hero"
+Tip="|cffffcc00B|rerseker"
+[N02K]
+Name=Pit Lord
+Propernames=Azgalor,Brutillus,Mongrethod,Destromath,Gogonnash,Magtheridon
+Revivetip=Revive |cffffcc00P|rit Lord
+Awakentip=Revive |cffffcc00P|rit Lord
+Hotkey=P
+[N00V]
+Name="Marine"
+Propernames=Raynor
+Revivetip="|cffffcc00M|rarine"
+Awakentip="|cffffcc00M|rarine"
+Hotkey=K
+EditorSuffix="Dragon"
+Tip="|cffffcc00M|rarine"
+Ubertip="Warrior Hero, adept at enhancing ranged attacks and slaying enemies from afar. Can learn Stim Pack, Raynor Rocked, Vital Point, Equipment Upgrade and Cluster Rockets."
+[N00M]
+Name="Marine"
+Propernames=Raynor
+Revivetip=Revive A|cffffcc00k|rama
+Awakentip=Revive A|cffffcc00k|rama
+Hotkey=K
+EditorSuffix="(Chaos)"
+Tip="Marine"
+Ubertip="Warrior Hero, adept at enhancing ranged attacks and slaying enemies from afar. Can learn Stim Pack, Raynor Rocked, Vital Point, Equipment Upgrade and Cluster Rockets."
+[N00L]
+Name="Marine"
+Propernames=Raynor
+Revivetip=Revive A|cffffcc00k|rama
+Awakentip=Revive A|cffffcc00k|rama
+Hotkey=K
+EditorSuffix="(Hero)"
+Tip="Marine"
+Ubertip="Warrior Hero, adept at enhancing ranged attacks and slaying enemies from afar. Can learn Stim Pack, Raynor Rocked, Vital Point, Equipment Upgrade and Cluster Rockets."
+[N00K]
+Name=Elder Sage
+Propernames=Akama
+Revivetip=Revive A|cffffcc00k|rama
+Awakentip=Revive A|cffffcc00k|rama
+Hotkey=K
+[H07H]
+Name="Phoenix"
+Hotkey=K
+Propernames=Icarus
+Revivetip=Revive |cffffcc00B|rlood Mage
+Awakentip=Revive |cffffcc00B|rlood Mage
+Ubertip="Mystical Hero, adept at controlling fire and ranged assaults. Can learn Flame Strike, Darkness Fire, Fire Shield, Phoenix Fire and Melting Phoenixes.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Phoenix"
+[H07G]
+Name="Warlock"
+Hotkey=D
+Propernames=Archimonde
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Cunning Hero Adept at quickly deal damage to a single target, Can Learn Nova Strike, Burning Legion, Consume, Unrelenting Force, Finger of Death. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="(wielding Frostmourne)"
+Tip="|cffffcc00Archimonde"
+[H07A]
+Name="Dragon Clan"
+Hotkey=D
+Propernames=Lone Wolf
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at completing tasks and becoming stronger after it, has a total of 13 abilities and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="(wielding Frostmourne)"
+Tip="|cffffcc00Dragon Clan"
+[H06W]
+Name="Party Archer"
+Hotkey=A
+Propernames=Duen
+Revivetip=""
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="s"
+[H06V]
+Name="Party DarkTroll"
+Hotkey=A
+Propernames=Rhazin
+Revivetip=""
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="s"
+[H06U]
+Name="Party Priest"
+Hotkey=A
+Propernames=Anduim
+Revivetip=""
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00J|raina"
+[H06T]
+Name="Party Priest"
+Hotkey=A
+Propernames=Dulius
+Revivetip=""
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00J|raina"
+[H06S]
+Name="Party Mage"
+Hotkey=A
+Propernames=Caitlin
+Revivetip=""
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00J|raina"
+[H06F]
+Name="Centaur Impaler"
+Hotkey=P
+Propernames=Thereus
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+EditorSuffix="Dragon"
+Tip="|cffffcc00A|rrcher"
+Ubertip="Ranger Hero, adept at enhancing ranged attacks and slaying enemies from afar, can learn Searing Arrows, Frost Arrows, Deadly Arrow, Trueshot Aura and Dextery.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+[H06E]
+Name="Centaur Impaler"
+Hotkey=P
+Propernames=Thereus
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+EditorSuffix="Chaos"
+Tip="|cffffcc00A|rrcher"
+Ubertip="Ranger Hero, adept at enhancing ranged attacks and slaying enemies from afar, can learn Searing Arrows, Frost Arrows, Deadly Arrow, Trueshot Aura and Dextery.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+[H06D]
+Name="Centaur Impaler"
+Hotkey=P
+Propernames=Thereus
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+EditorSuffix="Hero"
+Tip="|cffffcc00A|rrcher"
+Ubertip="Ranger Hero, adept at enhancing ranged attacks and slaying enemies from afar, can learn Searing Arrows, Frost Arrows, Deadly Arrow, Trueshot Aura and Dextery.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+[H06C]
+Name="Mur'gul Shadowcaster"
+Hotkey=A
+Propernames=Clawed
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="Dragon"
+Tip="|cffffcc00J|raina"
+[H06B]
+Name="Mur'gul Shadowcaster"
+Hotkey=A
+Propernames=Clawed
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="Chaos"
+Tip="|cffffcc00J|raina"
+[H06A]
+Name="Mur'gul Shadowcaster"
+Hotkey=A
+Propernames=Clawed
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="Hero"
+Tip="|cffffcc00J|raina"
+[H062]
+Name="Mur'gul Shadowcaster"
+Hotkey=M
+Propernames=Clawed
+Revivetip="|cffffcc00M|rur'gul Shadowcaster"
+Awakentip="|cffffcc00Mur'gul Shadowcaster|r"
+Ubertip="Support Hero, adept at Increasing damage, stats, armor and healing towers, allieds or himself. Can learn Blade of Tides, Anfibius Growth, Guardian Angel, Magic Knot and Road to Excellence. |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Tip="|cffffcc00Mur'gul Shadowcaster|r"
+[H060]
+Name="Centaur Impaler"
+Hotkey=C
+Propernames=Thereus
+Revivetip="|cffffcc00C|rentaur Impaler"
+Awakentip="|cffffcc00Centaur Impaler|r"
+Tip="|cffffcc00Centaur Impaler|r"
+Ubertip="Ranger Hero, adept at enhancing ranged attacks and slaying enemies from afar, have strong abilities with a big cooldown and ways to eliminate that cooldown. Can learn Explosive Arrow, Poison Arrow, Centaur Power, Impaler Spikes and Tireless Resistance.|n|nDifficulty to use: |CFF20C000Hard.|r"
+[H05B]
+Name="Necromancer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Necromancer Death 8"
+[H05A]
+Name="Necromancer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Necromancer Summoner 8"
+[H059]
+Name="Necromancer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Necromancer 5"
+[H058]
+Name="Dark Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Dark Mage 8"
+[H057]
+Name="Dark Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Dark Mage 5"
+[H056]
+Name="Dark Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Dark Mage 4"
+[H055]
+Name="Elementalist"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Black Mage 8"
+[H054]
+Name="Black Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Black Mage 7"
+[H053]
+Name="Black Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Black Mage 4"
+[H052]
+Name="Black Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Black Mage 3"
+[H051]
+Name="Warrior Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Warrior Mage 8"
+[H050]
+Name="White Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="White Mage 8"
+[H04Z]
+Name="White Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="White Mage 6"
+[H04Y]
+Name="Healer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Healer 8"
+[H04X]
+Name="Healer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Healer 6"
+[H04W]
+Name="White Mage"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="White Mage 3"
+[H04V]
+Name="Martial Arts Master"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Martial Arts Master 8"
+[H04U]
+Name="Monk "
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Monk 8"
+[H04T]
+Name="Dark Knight"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Dark Knight 8"
+[H04S]
+Name="Commander"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Commander 8"
+[H04R]
+Name="Knight"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Knight 6"
+[H04Q]
+Name="Dragon Slayer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Swordman 8"
+[H04P]
+Name="Swordman"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Swordman 6"
+[H04O]
+Name="Swordman"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Swordman 5"
+[H04L]
+Name="Footman"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Footman 8"
+[H04K]
+Name="Footman"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Footman 6"
+[H04J]
+Name="Footman"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Footman 5"
+[H04I]
+Name="Footman"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Footman 4"
+[H04H]
+Name="Militia"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Militia 8"
+[H04G]
+Name="Militia"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Militia 5"
+[H04F]
+Name="Militia"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Militia 4"
+[H04E]
+Name="Skeleton Viking"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Skeleton Viking 8"
+[H04D]
+Name="Skeleton Archer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Skeleton Archer 8"
+[H04C]
+Name="Skeleton Archer"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Skeleton Archer 6"
+[H04B]
+Name="Skeleton Warrior"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Skeleton Warrior 8"
+[H04A]
+Name="Skeleton Warrior"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Skeleton Warrior 6"
+[H049]
+Name="Skeleton Warrior"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Skeleton Warrior 5"
+[H047]
+Name="Ancient Vampire"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Ancient Vampire 8"
+[H046]
+Name="Vampire Lord"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Vampire Lord 8"
+[H045]
+Name="Savage Vampire"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Savege Vampire 7"
+[H044]
+Name="Vampire"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Vampire 7"
+[H043]
+Name="Vampire"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Vampire 6"
+[H042]
+Name="Abomination"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Abomination 8"
+[H041]
+Name="Abomination"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Abomination 7"
+[H040]
+Name="Flesh Golem"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Flesh Golem 8"
+[H03Z]
+Name="Zombie"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Zombie 8"
+[H03Y]
+Name="Zombie"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Zombie 7"
+[H03X]
+Name="Zombie"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Zombie 6"
+[H03W]
+Name="Zombie"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Zombie 5"
+[H03S]
+Name="Zombie"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Zombie 4"
+[H03R]
+Name="Hermit"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Hermit 4"
+[H03Q]
+Name="Fighter"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Fighter 3"
+[H03P]
+Name="Militia"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Militia 3"
+[H03O]
+Name="Initiate"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Initiate 2"
+[H03N]
+Name="Little Child"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Little Child starts very weak but he can grow up into something very powerful, all forms have something usefull isnt nessesary reach a final form, final forms have one less invetory slot, Little Child cant change his attack tipe with weapons like Excalibur or Dragon Slayer.  |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Tip="|cffffcc00Little Child|r"
+[H03M]
+Name="Villager"
+Hotkey=L
+Propernames=Joseph
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Villager 2"
+[H03K]
+Name="Ancient Wizzard"
+Hotkey=L
+Propernames=Medivh
+Revivetip="|cffffcc00M|redivh"
+Awakentip="|cffffcc00M|redivh"
+Ubertip="Mystical Hero, specialized in ancient spells that deal damage based in his intelligence. Can learn Interficy, Blaze, Alpha Lighting, Power Absorption and Final Wisdom. "
+EditorSuffix="Dragon"
+Tip="|cffffcc00M|redivh"
+[H03J]
+Name="Ancient Wizzard"
+Hotkey=L
+Propernames=Medivh
+Revivetip="|cffffcc00M|redivh"
+Awakentip="|cffffcc00M|redivh"
+Ubertip="Mystical Hero, specialized in ancient spells that deal damage based in his intelligence. Can learn Interficy, Blaze, Alpha Lighting, Power Absorption and Final Wisdom. "
+EditorSuffix="Chaos"
+Tip="|cffffcc00M|redivh"
+[H03I]
+Name="Ancient Wizzard"
+Hotkey=L
+Propernames=Medivh
+Revivetip="|cffffcc00M|redivh"
+Awakentip="|cffffcc00M|redivh"
+Ubertip="Mystical Hero, specialized in ancient spells that deal damage based in his intelligence. Can learn Interficy, Blaze, Alpha Lighting, Power Absorption and Final Wisdom. "
+EditorSuffix="Hero"
+Tip="|cffffcc00M|redivh"
+[H03H]
+Name="Magnataur"
+Hotkey=L
+Propernames=Buzan
+Revivetip="Magnataur"
+Awakentip="Magnataur"
+Ubertip="Tank Hero, exceptional at absorbing damage and defense. Can learn Crushing Blow, Divine Skin, Thorns, Power /Speed and Cellular Evolution."
+EditorSuffix="Dragon"
+Tip="|cffffcc00B|ruzan"
+[H03G]
+Name="Magnataur"
+Hotkey=L
+Propernames=Buzan
+Revivetip="Magnataur"
+Awakentip="Magnataur"
+Ubertip="Tank Hero, exceptional at absorbing damage and defense. Can learn Crushing Blow, Divine Skin, Thorns, Power /Speed and Cellular Evolution."
+EditorSuffix="Chaos"
+Tip="|cffffcc00B|ruzan"
+[H03F]
+Name="Magnataur"
+Hotkey=L
+Propernames=Buzan
+Revivetip="Magnataur"
+Awakentip="Magnataur"
+Ubertip="Tank Hero, exceptional at absorbing damage and defense. Can learn Crushing Blow, Divine Skin, Thorns, Power /Speed and Cellular Evolution."
+EditorSuffix="Hero"
+Tip="|cffffcc00B|ruzan"
+[H03B]
+Name="Magnataur"
+Hotkey=B
+Propernames=Buzan
+Revivetip="Magnataur"
+Awakentip="Magnataur"
+Ubertip="Tank Hero, exceptional at absorbing damage and defense. Can learn Crushing Blow, Divine Skin, Thorns, Power/Speed and Cellular Evolution.|n|nDifficult to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Buzan|r"
+[H039]
+Name="Ancient Wizzard"
+Hotkey=L
+Propernames=Medivh
+Revivetip="|cffffcc00M|redivh"
+Awakentip="|cffffcc00|rMedivh"
+Ubertip="Mystical Hero, specialized in ancient spells that deal damage based on his intelligence. Can learn Interficy, Blaze, Alpha Lighting, Power Absorption and Final Wisdom.|n|nDifficult to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Medivh|r"
+[H038]
+Name="Magroth"
+Hotkey=W
+Propernames=Worker
+Revivetip="Revive Worker"
+Awakentip="Revive Worker"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Dragon"
+Tip="|cffffcc00W|orker"
+[H037]
+Name="Magroth"
+Hotkey=W
+Propernames=Worker
+Revivetip="Revive Worker"
+Awakentip="Revive Worker"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Chaos"
+Tip="|cffffcc00W|orker"
+[H036]
+Name="Magroth"
+Hotkey=W
+Propernames=Worker
+Revivetip="Revive Worker"
+Awakentip="Revive Worker"
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="Hero"
+Tip="|cffffcc00W|orker"
+[H01J]
+Name="Admiral"
+Hotkey=L
+Propernames=Proudmoore
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(1rs Transf)"
+[H01I]
+Name="Admiral"
+Hotkey=L
+Propernames=Proudmoore
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(4th Transf)"
+[H01G]
+Name="Medusa "
+Hotkey=N
+Propernames=The Gorgon
+Revivetip=Revive |cffffcc00N|raga Sea Witch
+Awakentip=Revive |cffffcc00N|raga Sea Witch
+Ubertip="Mystical Hero, adept at ranged combat. Can learn Frost Nova, Petrifaction, Stone Scales, Gorgon Attribute, Multiple Arrow."
+EditorSuffix="Dragon"
+Tip="|cffffcc00M|redusa"
+[H01F]
+Name="Archer"
+Hotkey=P
+Propernames=Sylvanas,Windrunner,Claudias,Veronicas
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+EditorSuffix="Dragon"
+Tip="|cffffcc00A|rrcher"
+Ubertip="Ranger Hero, can learn Searing Arrows, Frost Arrows, Deadly Arrow, Trueshot Aura and Dextery."
+[H01E]
+Name=Dark Knight
+Hotkey=L
+Propernames=Lord Garithos
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. "
+EditorSuffix="Dragon"
+Tip="|cffffcc00D|rark Knight"
+[H01D]
+Name=Blood Mage
+Hotkey=B
+Propernames=Kael
+Revivetip=Revive |cffffcc00B|rlood Mage
+Awakentip=Revive |cffffcc00B|rlood Mage
+Ubertip="Mystical Hero, adept at controlling magic and ranged assaults. Can learn Orb of Annihilation, Forked Lightning, Entangling Roots, Brillance Aura and Mana Shield."
+EditorSuffix="Dragon"
+Tip="|cffffcc00K|rael"
+[H01C]
+Name=Archmage
+Hotkey=A
+Propernames=Jaina
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield, Banish."
+EditorSuffix="Dragon"
+Tip="|cffffcc00J|raina"
+[H01B]
+Name="Blood Grunt"
+Hotkey=L
+Propernames=Harek
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=""
+EditorSuffix="Dragon"
+Tip="Blood Grunt"
+[H01A]
+Name="Infernal"
+Hotkey=L
+Propernames=Halahk 
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and burn enemys troops. Can learn Flame Strike, Ground Smash, Infernal Strength, Fire Skin and Burn to Ashes."
+EditorSuffix="Dragon"
+Tip="|cffffcc00I|rnfernal"
+[H019]
+Name="Swordman"
+EditorSuffix="Dragon"
+Hotkey=L
+Propernames=Arthas
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Shockwave, Bash, Sword Mastery, Uncomun Power and Mirror Image. "
+Tip="|cffffcc00A|rrthas"
+[H018]
+Name="Priest"
+Hotkey=L
+Propernames=Savior,Cura,Cipriani
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Healing Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Rejuvenation , Sword and Shield , Restauration and Tranquility."
+EditorSuffix="Dragon"
+Tip="|cffffcc00P|rriest"
+[H013]
+Name="Blood Grunt"
+Hotkey=L
+Propernames=Harek
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=""
+EditorSuffix="Chaos"
+Tip="Blood Grunt"
+[H012]
+Name="Blood Grunt"
+Hotkey=L
+Propernames=Harek
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=""
+EditorSuffix="Hero"
+Tip="Blood Grunt"
+[H00V]
+Name=Dark Knight
+Hotkey=L
+Propernames=Lord Garithos
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(Chaos)"
+[H00U]
+Name=Dark Knight
+Hotkey=L
+Propernames=Lord Garithos
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(hero)"
+[H00S]
+Name="Infernal"
+Hotkey=L
+Propernames=Halahk 
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and burn enemys troops. Can learn Flame Strike, Ground Smash, Infernal Strength, Fire Skin and Burn to Ashes."
+EditorSuffix="(Chaos)"
+Tip="Infernal"
+[H00R]
+Name="Infernal"
+Hotkey=L
+Propernames=Halahk 
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and burn enemys troops. Can learn Flame Strike, Ground Smash, Infernal Strength, Fire Skin and Burn to Ashes."
+EditorSuffix="(Hero)"
+Tip="Infernal"
+[H00E]
+Name="Medusa "
+Hotkey=N
+Propernames=The Gorgon
+Revivetip=Revive |cffffcc00N|raga Sea Witch
+Awakentip=Revive |cffffcc00N|raga Sea Witch
+Ubertip="Cunning Hero, adept at ranged combat. Can learn Frost Nova, Petrifaction, Stone Scales, Gorgon Attribute, Multiple Arrow."
+EditorSuffix="Chaos"
+Tip="|cffffcc00M|redusa"
+[H00D]
+Name="Medusa "
+Hotkey=N
+Propernames=The Gorgon
+Revivetip=Revive |cffffcc00N|raga Sea Witch
+Awakentip=Revive |cffffcc00N|raga Sea Witch
+Ubertip="Mystical Hero, adept at ranged combat. Can learn Frost Nova, Petrifaction, Stone Scales, Gorgon Attribute, Multiple Arrow."
+EditorSuffix="Hero"
+Tip="|cffffcc00M|redusa"
+[H00C]
+Name="Archer"
+Hotkey=P
+Propernames=Sylvanas,Windrunner,Claudias,Veronicas
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+EditorSuffix="Hero"
+Tip="|cffffcc00A|rrcher"
+Ubertip="Ranger Hero, can learn Searing Arrows, Frost Arrows, Deadly Arrow, Trueshot Aura and Dextery."
+[H00B]
+Name="Archer"
+Hotkey=P
+Propernames=Sylvanas,Windrunner,Claudias,Veronicas
+Revivetip=Revive |cffffcc00R|ranger
+Awakentip=Revive |cffffcc00R|ranger
+EditorSuffix="Chaos"
+Tip="|cffffcc00A|rrcher"
+Ubertip="Ranger Hero, can learn Searing Arrows, Frost Arrows, Deadly Arrow, Trueshot Aura and Dextery."
+[H00A]
+Name=Blood Mage
+Hotkey=B
+Propernames=Kael
+Revivetip=Revive |cffffcc00B|rlood Mage
+Awakentip=Revive |cffffcc00B|rlood Mage
+Ubertip="Mystical Hero, adept at controlling magic and ranged assaults. Can learn Orb of Annihilation, Forked Lightning, Entangling Roots, Brillance Aura and Mana Shield."
+EditorSuffix="hero"
+Tip="|cffffcc00K|rael"
+[H009]
+Name=Blood Mage
+Hotkey=B
+Propernames=Kael
+Revivetip=Revive |cffffcc00B|rlood Mage
+Awakentip=Revive |cffffcc00B|rlood Mage
+Ubertip="Mystical Hero, adept at controlling magic and ranged assaults. Can learn Orb of Annihilation, Forked Lightning, Entangling Roots, Brillance Aura and Mana Shield."
+EditorSuffix="Chaos"
+Tip="|cffffcc00K|rael"
+[H008]
+Name=Archmage
+Hotkey=A
+Propernames=Jaina
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield, Banish."
+EditorSuffix="Chaos"
+Tip="|cffffcc00J|raina"
+[H007]
+Name=Archmage
+Hotkey=A
+Propernames=Jaina
+Revivetip=Revive |cffffcc00A|rrchmage
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield, Banish."
+EditorSuffix="Hero"
+Tip="|cffffcc00J|raina"
+[H006]
+Name="Priest"
+Hotkey=L
+Propernames=Savior,Cura,Cipriani
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Healing Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Rejuvenation , Sword and Shield , Restauration and Tranquility."
+EditorSuffix="Hero"
+Tip="|cffffcc00P|rriest"
+[H005]
+Name="Priest"
+Hotkey=L
+Propernames=Savior,Cura,Cipriani
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Healing Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Rejuvenation , Sword and Shield , Restauration and Tranquility."
+EditorSuffix="Chaos"
+Tip="|cffffcc00P|rriest"
+[H002]
+Name="Swordman"
+EditorSuffix=" (Chaos)"
+Hotkey=L
+Propernames=Arthas
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[H001]
+Name="Swordman"
+EditorSuffix=" (Hero)"
+Hotkey=L
+Propernames=Arthas
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+[E010]
+Name="Thief"
+Hotkey=T
+Propernames=Reika
+Revivetip="|cffffcc00T|rhief"
+Awakentip="|cffffcc00T|rhief"
+Ubertip="Cunning Hero, adept at increase gold and deal high damage for a short time. Can learn Steal, Speed Absorbtion, Cut and Seize, Assassin Steps and Soul Theft.|n|nDifficult to use: |c00FF0000Very Hard.|r"
+EditorSuffix="Dragon"
+Tip="|cffffcc00T|rhief"
+[E00Z]
+Name="Thief"
+Hotkey=T
+Propernames=Reika
+Revivetip="|cffffcc00T|rhief"
+Awakentip="|cffffcc00T|rhief"
+Ubertip="Cunning Hero, adept at increase gold and deal high damage for a short time. Can learn Steal, Speed Absorbtion, Cut and Seize, Assassin Steps and Soul Theft.|n|nDifficult to use: |c00FF0000Very Hard.|r"
+EditorSuffix="Chaos"
+Tip="|cffffcc00T|rhief"
+[E00Y]
+Name="Thief"
+Hotkey=T
+Propernames=Reika
+Revivetip="|cffffcc00T|rhief"
+Awakentip="|cffffcc00T|rhief"
+Ubertip="Cunning Hero, adept at increase gold and deal high damage for a short time. Can learn Steal, Speed Absorbtion, Cut and Seize, Assassin Steps and Soul Theft.|n|nDifficult to use: |c00FF0000Very Hard.|r"
+EditorSuffix="Hero"
+Tip="|cffffcc00T|rhief"
+[E00X]
+Name="Thief"
+Hotkey=T
+Propernames=Reika
+Revivetip="|cffffcc00T|rhief"
+Awakentip="|cffffcc00Thief|r"
+Ubertip="Cunning Hero, adept at gaining gold and dealing high damage for a short time. Can learn Steal, Speed Absorbtion, Cut and Seize, Assassin Steps and Soul Theft.|n|nDifficulty to use: |c00FF0000Very Hard.|r"
+Tip="|cffffcc00Thief|r"
+[E00W]
+Name=Warden
+Hotkey=M
+Propernames=Maiev
+Revivetip=Revive |cffffcc00W|rarden
+Awakentip="|cffffcc00Warden|r"
+Ubertip="Cunning Hero, exceptional at combat. Can learn Mirage, Shuriken Fury, Impulse, Blind Spot, and Ultimate Fighting Style.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Maiev|r"
+[E00V]
+Name=Warden
+Hotkey=M
+Propernames=Maiev
+Revivetip=Revive |cffffcc00W|rarden
+Awakentip=Revive |cffffcc00W|rarden
+Ubertip="Cunning Hero, exceptional at combat. Can learn Mirage, Shuriken Fury, Impulse, Blind Spot, and Ultimate Fighting Style."
+EditorSuffix="Chaos"
+Tip="Maiev"
+[E00U]
+Name=Warden
+Hotkey=M
+Propernames=Maiev
+Revivetip=Revive |cffffcc00W|rarden
+Awakentip=Revive |cffffcc00W|rarden
+Ubertip="Cunning Hero, exceptional at combat. Can learn Mirage, Shuriken Fury, Impulse, Blind Spot, and Ultimate Fighting Style."
+EditorSuffix="Dragon"
+Tip="Maiev"
+[E00T]
+Name=Warden
+Hotkey=M
+Propernames=Maiev
+Revivetip=Revive |cffffcc00W|rarden
+Awakentip=Revive |cffffcc00W|rarden
+Ubertip="Cunning Hero, exceptional at combat. Can learn Mirage, Shuriken Fury, Impulse, Blind Spot, and Ultimate Fighting Style."
+EditorSuffix="Hero"
+Tip="Maiev"
+[E00E]
+Name=Demon Hunter
+Hotkey=D
+Propernames=Illidan
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+EditorSuffix="Dragon"
+Ubertip="Cunning Hero, adept at maneuvering through battles. Can learn Rain of Fire, Killer Instict, Vampiric Aura, Demonic Reflexs and Demonic Speed."
+Tip="|cffffcc00D|remon Hunter"
+[E00D]
+Name="Half Demon Wizzard"
+Hotkey=
+Propernames=Azura
+Revivetip=Revive |cffffcc00K|reeper of the Grove
+Awakentip=Revive |cffffcc00K|reeper of the Grove
+Ubertip="Mystical Hero, adept at using unholy spells.Can learn Healing Wave, Hell Magma, Hell Lighting, Spirit Touch and Pandemonium Portal. "
+EditorSuffix="Dragon"
+Tip="|cffffcc00H|ralf Demon Wizzard"
+[E007]
+Name="Half Demon Wizzard"
+Hotkey=
+Propernames=Azura
+Revivetip=Revive |cffffcc00K|reeper of the Grove
+Awakentip=Revive |cffffcc00K|reeper of the Grove
+Ubertip="Mystical Hero, adept at using unholy spells.Can learn Healing Wave, Hell Magma, Hell Lighting, Spirit Touch and Pandemonium Portal. "
+EditorSuffix="(Chaos)"
+Tip="Half Demon Wizzard"
+[E006]
+Name="Half Demon Wizzard"
+Hotkey=
+Propernames=Azura
+Revivetip=Revive |cffffcc00K|reeper of the Grove
+Awakentip=Revive |cffffcc00K|reeper of the Grove
+Ubertip="Mystical Hero, adept at using unholy spells.Can learn Healing Wave, Hell Magma, Hell Lighting, Spirit Touch and Pandemonium Portal. "
+EditorSuffix="(Hero)"
+Tip="Half Demon Wizzard"
+[E005]
+Name=Demon Hunter
+Hotkey=D
+Propernames=Illidan
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+EditorSuffix="Hero"
+Ubertip="Cunning Hero, adept at maneuvering through battles. Can learn Rain of Fire, Killer Instict, Vampiric Aura, Demonic Reflexs and Demonic Speed."
+Tip="|cffffcc00D|remon Hunter"
+[E004]
+Name=Demon Hunter
+Hotkey=D
+Propernames=Illidan
+Revivetip=Revive |cffffcc00D|remon Hunter
+Awakentip=Revive |cffffcc00D|remon Hunter
+EditorSuffix="Chaos"
+Ubertip="Cunning Hero, adept at maneuvering through battles. Can learn Rain of Fire, Killer Instict, Vampiric Aura, Demonic Reflexs and Demonic Speed."
+Tip="|cffffcc00D|remon Hunter"
+[H07L]
+Name="Tank"
+Hotkey=B
+Propernames=Minos
+Revivetip="Magnataur"
+Awakentip="Magnataur"
+Ubertip="Special Hero, can be build like you want, chose between 24 abilities and 5 different stats, this hero can not change his attack type, any hero can use the command -spellpower to check your current Spell Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Minos|r"
+[H07M]
+Name="Mage"
+Hotkey=A
+Propernames=Selene
+Revivetip=""
+Awakentip=Revive |cffffcc00A|rrchmage
+Ubertip="Special Hero, can be build like you want, chose between 24 abilities and 5 different stats, this hero can not change his attack type, any hero can use the command -spellpower to check your current Spell Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+Tip="|cffffcc00Selene|r"
+[n04G]
+Name="Shelob Hatchling"
+EditorSuffix="2"
+[u00X]
+Name="Water Mage"
+EditorSuffix=(Ghost)
+[h088]
+Name="Town Hall"
+Hotkey=V
+Tip=Build Arcane Obser|cffffcc00v|ratory
+[H089]
+Name="Swordman"
+EditorSuffix="Dragonqq"
+Hotkey=L
+Propernames=Arthas
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Shockwave, Bash, Sword Mastery, Uncomun Power and Mirror Image. "
+Tip="|cffffcc00A|rrthas"
+[h08A]
+Name="Dark Warrior"
+Tip="Light Warrior"
+Hotkey=S
+Ubertip="Versatile foot soldier. has a block damage ability."
+[n04Q]
+Name="Zombie"
+EditorSuffix="7"
+[H08E]
+Name="Warlock"
+Hotkey=D
+Propernames=Archimonde
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Cunning Hero Adept at quickly deal damage to a single target, Can Learn Nova Strike, Burning Legion, Consume, Unrelenting Force, Finger of Death and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="(Hero)"
+Tip="|cffffcc00Archimonde"
+[H08F]
+Name="Warlock"
+Hotkey=D
+Propernames=Archimonde
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Cunning Hero Adept at quickly deal damage to a single target, Can Learn Nova Strike, Burning Legion, Consume, Unrelenting Force, Finger of Death and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="(Chaos)"
+Tip="|cffffcc00Archimonde"
+[H08G]
+Name="Warlock"
+Hotkey=D
+Propernames=Archimonde
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Cunning Hero Adept at quickly deal damage to a single target, Can Learn Nova Strike, Burning Legion, Consume, Unrelenting Force, Finger of Death and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="(Dragon)"
+Tip="|cffffcc00Archimonde"
+[h08H]
+Name=Swordsman
+Tip="Light Warrior"
+Hotkey=S
+Ubertip="Versatile foot soldier. have Defends abilitys."
+[n059]
+Name="Training Dummy"
+EditorSuffix=""
+[n05A]
+Name="Training Dummy"
+EditorSuffix="2"
+[n05B]
+Name="Training Dummy"
+EditorSuffix="3"
+[n05D]
+Name="Junkyard"
+Tip=Build Draenei Barracks
+Ubertip=""
+[H08L]
+Name="Admiral"
+Hotkey=L
+Propernames=Proudmoore
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(2nd Transf)"
+[H08M]
+Name="Admiral"
+Hotkey=L
+Propernames=Proudmoore
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(3rd Transf)"
+[n05H]
+Name="Book of Secrets"
+[H08P]
+Name="Dragon Clan"
+Hotkey=D
+Propernames=Lone Wolf
+Revivetip=Revive Pa|cffffcc00l|radin
+Awakentip=Revive Pa|cffffcc00l|radin
+Ubertip="Warrior Hero, exceptional at completing tasks and becoming stronger after it, has a total of 13 abilities and can not change attack type. |n|nDifficulty to use: |CFF20C000Hard.|r"
+EditorSuffix="(Dragon)"
+Tip="|cffffcc00Dragon Clan"

@@ -1,0 +1,22 @@
+UnitId : h07E
+Descriprion : 
+	Id : h07E
+	Name : "FM ICe"
+	Ubertip : "Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

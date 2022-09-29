@@ -1,0 +1,8 @@
+UnitId : h02C
+Descriprion : 
+	Id : h02C
+	Name : "Melee Barracks"
+	Ubertip : "Primary troop production building. Trains Melee Units. |nAlso contains upgrades to this units."
+
+Ability List:
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : h08J
+Descriprion : 
+	Id : h08J
+	Name : "Dummy Spirit shield"
+	Ubertip : "Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : A1UD
+Descriprion : 
+	Id : A1UD
+	Name : "Spiritlink Spiritshield"
+	Ubertip : "Links <Aspl,DataB1> units together in a chain. All units with Spirit Link on them will live longer, by distributing <Aspl,DataA1,%>% of the damage they take across other Spirit Linked units. |nLasts <Aspl,Dur1> seconds."
+
+
+Hero ability list:

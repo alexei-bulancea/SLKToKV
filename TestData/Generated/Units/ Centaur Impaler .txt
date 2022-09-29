@@ -1,0 +1,57 @@
+UnitId : H060
+Descriprion : 
+	Id : H060
+	Name : "Centaur Impaler"
+	Ubertip : "Ranger Hero, adept at enhancing ranged attacks and slaying enemies from afar, have strong abilities with a big cooldown and ways to eliminate that cooldown. Can learn Explosive Arrow, Poison Arrow, Centaur Power, Impaler Spikes and Tireless Resistance.|n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0ZC
+Descriprion : 
+	Id : A0ZC
+	Name : "CI Fire Arrow"
+	Ubertip : "Shot an explosive arrow that deal 100 damage and stun the target for 0.5 seconds, have 4% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 200 damage and stun the target for 0.5 seconds, have 8% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 310 damage and stun the target for 0.5 seconds, have 12% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 440 damage and stun the target for 0.5 seconds, have 16% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 600 damage and stun the target for 0.5 seconds, have 20% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 900 damage and stun the target for 0.5 seconds, have 24% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 1200 damage and stun the target for 0.5 seconds, have 28% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 1700 damage and stun the target for 0.5 seconds, have 32% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r","Shot an explosive arrow that deal 2300 damage and stun the target for 0.5 seconds, have 36% chance to reset the cooldown. Have 900 cast range.|n|n|cffc3dbffCooldown: 19 seconds.|r"
+
+
+AbilityId : A0ZI
+Descriprion : 
+	Id : A0ZI
+	Name : "CI True Impale"
+	Ubertip : "Impale target enemy dealing your agility + strength in spell damage and stun the target for 2.5 seconds. Also have 60% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 60 seconds.|r","Impale target enemy dealing your agility + strength x 2 in spell damage and stun the target for 3 seconds. Also have 65% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 58 seconds.|r","Impale target enemy dealing your agility + strength x 3 in spell damage and stun the target for 3.5 seconds. Also have 70% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 56 seconds.|r","Impale target enemy dealing your agility + strength x 4 in spell damage and stun the target for 4 seconds. Also have 75% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 52 seconds.|r","Impale target enemy dealing your agility + strength x 5 in spell damage and stun the target for 4.5 seconds. Also have 80% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 48 seconds.|r","Impale target enemy dealing your agility + strength x 6 in spell damage and stun the target for 5 seconds. Also have 85% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 44 seconds.|r","Impale target enemy dealing your agility + strength x 7 in spell damage and stun the target for 5.5 seconds. Also have 90% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 40 seconds.|r","Impale target enemy dealing your agility + strength x 8 in spell damage and stun the target for 6 seconds. Also have 95% chance to reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 36 seconds.|r","Impale target enemy dealing your agility + strength x 9 in spell damage and stun the target for 7 seconds. Also reset the cooldown of Explosive Arrow.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A0ZD
+Descriprion : 
+	Id : A0ZD
+	Name : "CI Poison Arrow"
+	Ubertip : "Shoot a poison arrow to target enemy dealing 40 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Shoot a poison arrow to target enemy dealing 60 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 29 seconds.|r","Shoot a poison arrow to target enemy dealing 80 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","Shoot a poison arrow to target enemy dealing 120 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 27 seconds.|r","Shoot a poison arrow to target enemy dealing 180 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 26 seconds.|r","Shoot a poison arrow to target enemy dealing 250 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Shoot a poison arrow to target enemy dealing 360 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Shoot a poison arrow to target enemy dealing 500 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r","Shoot a poison arrow to target enemy dealing 700 damage per second in 360 area of effect also reduce attack speed by 60% and move speed by 60%. Last 5 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : A1WJ
+Descriprion : 
+	Id : A1WJ
+	Name : "CI speed"
+	Ubertip : "Increases the attack rate in 30%, move speed by 20% and bonus damage by 120. Lasts 4 seconds. Also have 60% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 56 seconds|r","Increases the attack rate in 35%, move speed by 25% and bonus damage by 120. Lasts 6 seconds. Also have 65% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 54 seconds|r","Increases the attack rate in 40%, move speed by 30% and bonus damage by 120. Lasts 8 seconds. Also have 70% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 52 seconds|r","Increases the attack rate in 50%, move speed by 35% and bonus damage by 120. Lasts 10 seconds. Also have 75% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 50 seconds|r","Increases the attack rate in 60%, move speed by 40% and bonus damage by 120. Lasts 12 seconds. Also have 80% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 48 seconds|r","Increases the attack rate in 70%, move speed by 45% and bonus damage by 120. Lasts 14 seconds. Also have 85% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 46 seconds|r","Increases the attack rate in 80%, move speed by 50% and bonus damage by 120. Lasts 16 seconds. Also have 90% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 44 seconds|r","Increases the attack rate in 90%, move speed by 60% and bonus damage by 120. Lasts 18 seconds. Also have 95% chance to reset the Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 40 seconds|r","Increases the attack rate in 120%, move speed by 80% and bonus damage by 120. Lasts 20 seconds. Also reset Poison Arrow cooldown.|n|n|cffc3dbffCooldown: 36 seconds|r"
+
+
+AbilityId : A0ZH
+Descriprion : 
+	Id : A0ZH
+	Name : "CI Ultimate"
+	Ubertip : "Each attacks have 7% chance to reset the cooldown of your abilities, this ability have 20 seconds cooldown.","Each attacks have 7% chance to reset the cooldown of your abilities, this ability have 14 seconds cooldown.","Each attacks have 7% chance to reset the cooldown of your abilities, this ability have 8 seconds cooldown.","Each attacks have 7% chance to reset the cooldown of your abilities, this ability have 2 seconds cooldown."
+
+

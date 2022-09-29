@@ -1,0 +1,50 @@
+UnitId : H052
+Descriprion : 
+	Id : H052
+	Name : "Black Mage"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0QE
+Descriprion : 
+	Id : A0QE
+	Name : "Black mage Frost bolt 2"
+	Ubertip : "Throws a frost bolt at a target enemy unit, dealing 100 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 200 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 300 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 400 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 600 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 800 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 1000 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 1200 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throws a frost bolt at a target enemy unit, dealing 1500 damage and frozen the target for 4.5 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r"
+
+
+AbilityId : A0QH
+Descriprion : 
+	Id : A0QH
+	Name : "White mage chain Lightning 2"
+	Ubertip : "A bolt of lightning that deal 150 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 300 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 450 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 600 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 800 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 1000 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 1200 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 1500 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r","A bolt of lightning that deal 2000 damage at a target enemy that jumps up to 8 nearby enemies. Each jump deals 20% less damage.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A0QM
+Descriprion : 
+	Id : A0QM
+	Name : "Black mage Fire"
+	Ubertip : "Make an attack dealing 200 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 400 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 600 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 800 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 1000 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 1200 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 1500 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 1800 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r","Make an attack dealing 2100 damage in 300 AOE.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+
+
+AbilityId : A0QL
+Descriprion : 
+	Id : A0QL
+	Name : "Black mage Crush wave"
+	Ubertip : "Sends a gigantic wave which deals 110 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 190 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 300 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 400 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 500 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 700 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 900 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 1200 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r","Sends a gigantic wave which deals 1600 damage to each enemy land unit in a line. |n|n|cffc3dbffCooldown: 5 seconds.|r"
+
+
+AbilityId : A0RS
+Descriprion : 
+	Id : A0RS
+	Name : "|cffffcc00G|rrowth Up 3"
+	Ubertip : "Has stronger spells with more mana cost. This growth costs you 5 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+

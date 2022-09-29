@@ -1,0 +1,15 @@
+UnitId : h024
+Descriprion : 
+	Id : h024
+	Name : "MultiLeaf Tower"
+	Ubertip : "Can attack 5 enemys at once and have more range."
+
+Ability List:
+AbilityId : A0JN
+Descriprion : 
+	Id : A0JN
+	Name : "Multileaf 2"
+	Ubertip : "Attack 5 enemies at once."
+
+
+Hero ability list:

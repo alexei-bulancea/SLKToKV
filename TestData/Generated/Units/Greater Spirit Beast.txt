@@ -1,0 +1,22 @@
+UnitId : nsw3
+Descriprion : 
+	Id : nsw3
+	Name : Greater Spirit Beast
+	Ubertip : 
+
+Ability List:
+AbilityId : Afbb
+Descriprion : 
+	Id : Afbb
+	Name : Feedback
+	Ubertip : "Each hit burns 40 mana. dealing bonus damage"
+
+
+AbilityId : Ambb
+Descriprion : 
+	Id : Ambb
+	Name : Mana Burn
+	Ubertip : "Sends a bolt of negative energy that burns <Ambb,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+Hero ability list:

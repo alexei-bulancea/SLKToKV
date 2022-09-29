@@ -1,0 +1,29 @@
+UnitId : uobs
+Descriprion : 
+	Id : uobs
+	Name : Obsidian Statue
+	Ubertip : "Fortified statue that can help replenish the life and mana of your army. Can initially cast Spirit Touch and Essence of Blight, and learn the Destroyer Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Arpl
+Descriprion : 
+	Id : Arpl
+	Name : Essence of Blight
+	Ubertip : "Restores <Arpl,DataA1> hit points to nearby friendly units."
+
+
+AbilityId : Arpm
+Descriprion : 
+	Id : Arpm
+	Name : Spirit Touch
+	Ubertip : "Restores <Arpm,DataB1> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB2> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB3> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB4> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB5> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB6> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB7> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB8> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB9> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r"
+
+
+AbilityId : Aave
+Descriprion : 
+	Id : Aave
+	Name : "Destroyer Form"
+	Ubertip : 
+
+
+Hero ability list:

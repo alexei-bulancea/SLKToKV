@@ -1,0 +1,43 @@
+UnitId : esen
+Descriprion : 
+	Id : esen
+	Name : Huntress
+	Ubertip : "Agile short-ranged warrior. Can learn the Sentinel ability and the Moon Glaive attack. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aesn
+Descriprion : 
+	Id : Aesn
+	Name : Sentinel
+	Ubertip : "Send an owl to a nearby tree to reveal the area around it. |nCan see invisible units."
+
+
+AbilityId : Ashm
+Descriprion : 
+	Id : Ashm
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+AbilityId : Amgl
+Descriprion : 
+	Id : Amgl
+	Name : Moon Glaive
+	Ubertip : "Gives the Huntress the ability to strike additional units with her bouncing glaive attacks."
+
+
+AbilityId : Aien
+Descriprion : 
+	Id : Aien
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

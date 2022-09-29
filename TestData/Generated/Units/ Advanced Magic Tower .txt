@@ -1,0 +1,22 @@
+UnitId : n002
+Descriprion : 
+	Id : n002
+	Name : "Advanced Magic Tower"
+	Ubertip : "Have more damage , hero attack , more armor , hit points and Reduce the armor of the enemys."
+
+Ability List:
+AbilityId : A0IQ
+Descriprion : 
+	Id : A0IQ
+	Name : "Attack Corruption TL2"
+	Ubertip : "Reduce enemy armor by 8"
+
+
+AbilityId : A06A
+Descriprion : 
+	Id : A06A
+	Name : "Attack Corruption Bonus Level 2"
+	Ubertip : 
+
+
+Hero ability list:

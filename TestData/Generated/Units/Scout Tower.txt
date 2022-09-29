@@ -1,0 +1,15 @@
+UnitId : hwtw
+Descriprion : 
+	Id : hwtw
+	Name : Scout Tower
+	Ubertip : "Basic observation tower. Has no attack, but can be upgraded into a Guard Tower, an Arcane Tower, or a Cannon Tower. Can learn the Magic Sentry ability."
+
+Ability List:
+AbilityId : A1U3
+Descriprion : 
+	Id : A1U3
+	Name : "Expert build"
+	Ubertip : "Margroth got an expert at building Scout Towers. Scout Towers will no longer take damage from attacking neutral creeps. however upgraded scout towers will have a chance to send the creep back to their respawn/spawn location."
+
+
+Hero ability list:

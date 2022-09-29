@@ -1,0 +1,29 @@
+UnitId : echm
+Descriprion : 
+	Id : echm
+	Name : Chimaera
+	Ubertip : "Flying two headed Dragon. Can learn Corrosive Breath. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Acor
+Descriprion : 
+	Id : Acor
+	Name : Corrosive Breath
+	Ubertip : "Hurls a ball of corrosive bile that is effective against buildings."
+
+
+AbilityId : Alit
+Descriprion : 
+	Id : Alit
+	Name : Lightning Attack
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

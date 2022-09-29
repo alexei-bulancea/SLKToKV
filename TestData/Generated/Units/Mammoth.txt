@@ -1,0 +1,8 @@
+UnitId : nmam
+Descriprion : 
+	Id : nmam
+	Name : Mammoth
+	Ubertip : "Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

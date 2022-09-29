@@ -1,0 +1,43 @@
+UnitId : n00C
+Descriprion : 
+	Id : n00C
+	Name : "Dark Necro Skeleton "
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1N6
+Descriprion : 
+	Id : A1N6
+	Name : "Destroy Unit"
+	Ubertip : "Kills the unit making room for new ones to spawn"
+
+
+AbilityId : A06Q
+Descriprion : 
+	Id : A06Q
+	Name : Evasion
+	Ubertip : "Gives a 6% percent chance to avoid an attack. 7% to do 8% max health in pure damage upon being attacked","Gives a 13% percent chance to avoid an attack. 9% to do 16% max health in pure damage upon being attacked","Gives a 18% percent chance to avoid an attack. 12% to do 24% max health in pure damage upon being attacked","Gives a 22% percent chance to avoid an attack. 14% to do 32% max health in pure damage upon being attacked","Gives a 30% percent chance to avoid an attack. 16% to do 40% max health in pure damage upon being attacked"
+
+
+AbilityId : A06N
+Descriprion : 
+	Id : A06N
+	Name : "Weak Critical Strike"
+	Ubertip : "Gives a 20% chance to do 1.7  times normal damage on an attack."
+
+
+AbilityId : A06S
+Descriprion : 
+	Id : A06S
+	Name : Feedback
+	Ubertip : "Attacks destroy 1 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 10 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 30 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 50 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 120 mana per hit. The mana combusts, dealing damage to the attacked unit."
+
+
+AbilityId : A1UC
+Descriprion : 
+	Id : A1UC
+	Name : "Spell Damage Reduction 10"
+	Ubertip : 
+
+
+Hero ability list:

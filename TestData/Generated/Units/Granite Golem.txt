@@ -1,0 +1,36 @@
+UnitId : nggr
+Descriprion : 
+	Id : nggr
+	Name : Granite Golem
+	Ubertip : "Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A00H
+Descriprion : 
+	Id : A00H
+	Name : "armor defense 4"
+	Ubertip : "Reduces all attacks on that unit by <Assk,DataC1> damage."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+AbilityId : ACtb
+Descriprion : 
+	Id : ACtb
+	Name : Hurl Boulder
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing <ACtb,DataA1> points of damage and stunning the target for <ACtb,Dur1> seconds."
+
+
+AbilityId : ACtc
+Descriprion : 
+	Id : ACtc
+	Name : Slam
+	Ubertip : "Slams the ground, dealing <ACtc,DataA1> points of damage and slowing the movement and attack rate of nearby enemy units."
+
+
+Hero ability list:

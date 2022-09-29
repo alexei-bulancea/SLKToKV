@@ -1,0 +1,50 @@
+UnitId : H012
+Descriprion : 
+	Id : H012
+	Name : "Blood Grunt"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1UI
+Descriprion : 
+	Id : A1UI
+	Name : "BG4"
+	Ubertip : "","s"
+
+
+AbilityId : A0FP
+Descriprion : 
+	Id : A0FP
+	Name : "Funeral Blow"
+	Ubertip : "Harek hit an enemy with all his power dealing 250 + 4% of his current hit points in spell damage to the target and 100 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 500 + 8% of his current hit points in spell damage to the target and 200 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 750 + 12% of his current hit points in spell damage to the target and 300 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 1100 + 16% of his current hit points in spell damage to the target and 400 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 1450 + 20% of his current hit points in spell damage to the target and 500 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 1800 + 24% of his current hit points in spell damage to the target and 600 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 2250 + 28% of his current hit points in spell damage to the target and 700 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 2600 + 32% of his current hit points in spell damage to the target and 800 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Harek hit an enemy with all his power dealing 3100 + 36% of his current hit points in spell damage to the target and 900 damage to units around the target in 700 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+
+
+AbilityId : A0FQ
+Descriprion : 
+	Id : A0FQ
+	Name : "Hyper Regeneration"
+	Ubertip : "Gives 10 + 1% of your max hp in hit points regeneration per second lasts 7 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Gives 14 + 1% of your max hp in hit points regeneration per second lasts 8 seconds.|n|n|cffc3dbffCooldown: 58 seconds|r.","Gives 20 + 1% of your max hp in hit points regeneration per second lasts 9 seconds.|n|n|cffc3dbffCooldown: 56 seconds|r.","Gives 27 + 1% of your max hp in hit points regeneration per second lasts 10 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r.","Gives 35 + 1%of your max hp in hit points regeneration per second lasts 11 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r.","Gives 50 + 1% of your max hp in hit points regeneration per second lasts 12 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Gives 70 + 1% of your max hp in hit points regeneration per second lasts 13 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r.","Gives 90 + 1% of your max hp in hit points regeneration per second lasts 14 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r.","Gives 115 + 1% of your max hp in hit points regeneration per second lasts 15 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r."
+
+
+AbilityId : A1UG
+Descriprion : 
+	Id : A1UG
+	Name : "Blood Rage"
+	Ubertip : "Deal 2% of your max hp on attack and deal 0.5% of your max health to yourself.|nLasts 5 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Deal 4% of your max hp on attack and deal 1% of your max health to yourself.|nLasts 5.7 seconds.|n|n|cffc3dbffCooldown: 58 seconds|r","Deal 6% of your max hp on attack and deal 1.5% of your max health to yourself.|nLasts 6.5 seconds.|n|n|cffc3dbffCooldown: 56 seconds|r","Deal 8% of your max hp on attack and deal 2% of your max health to yourself.|nLasts 7.2 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r","Deal 10% of your max hp on attack and deal 2.5% of your max health to yourself.|nLasts 8 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r","Deal 12% of your max hp on attack and deal 3% of your max health to yourself.|nLasts 8.7 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Deal 14% of your max hp on attack and deal 3.5% of your max health to yourself.|nLasts 9.5 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r","Deal 16% of your max hp on attack and deal 4% of your max health to yourself.|nLasts 10.2 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Deal 18% of your max hp on attack and deal 4.5% of your max health to yourself.|nLasts 11 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r"
+
+
+AbilityId : A0FR
+Descriprion : 
+	Id : A0FR
+	Name : "Explosive Blood"
+	Ubertip : "Harek imbue his blood with magic and throw it to the enemy, the blood grunt receives 6% of his current hit points damage, deal 400 + 70% of his current life damage to target enemy and stun for 5 seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r","Harek imbue his blood with magic and throw it to the enemy, the blood grunt receives 12% of his current hit points damage, deal 400 + 140% of his current life damage to target enemy and stun for 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r","Harek imbue his blood with magic and throw it to the enemy, the blood grunt receives 18% of his current hit points damage, deal 400 + 210% of his current life damage to target enemy and stun for 5 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Harek imbue his blood with magic and throw it to the enemy, the blood grunt receives 24% of his current hit points damage, deal 400 + 270% of his current life damage to target enemy and stun for 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+

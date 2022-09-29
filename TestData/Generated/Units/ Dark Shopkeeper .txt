@@ -1,0 +1,36 @@
+UnitId : n04C
+Descriprion : 
+	Id : n04C
+	Name : "Dark Shopkeeper"
+	Ubertip : 
+
+Ability List:
+AbilityId : Asid
+Descriprion : 
+	Id : Asid
+	Name : Sell Items
+	Ubertip : "Permits the sale of items."
+
+
+AbilityId : A1L1
+Descriprion : 
+	Id : A1L1
+	Name : "Select Herotome"
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

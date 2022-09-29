@@ -1,0 +1,29 @@
+UnitId : h00M
+Descriprion : 
+	Id : h00M
+	Name : "Chaos War Tower"
+	Ubertip : "Have more damage, a lot of more attack speed, more armor, more hit points, have hit points regeneration and HeadShot."
+
+Ability List:
+AbilityId : A065
+Descriprion : 
+	Id : A065
+	Name : "HeadShot"
+	Ubertip : "Gives a 20% chance that an attack will do 200 bonus damage and stun an opponent for 0.3 seconds."
+
+
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

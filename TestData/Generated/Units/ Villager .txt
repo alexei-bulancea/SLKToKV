@@ -1,0 +1,50 @@
+UnitId : H03M
+Descriprion : 
+	Id : H03M
+	Name : "Villager"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0EI
+Descriprion : 
+	Id : A0EI
+	Name : "|cffffcc00G|rrowth Up 2S"
+	Ubertip : "Growth up into a Militia, become a warrior with weapon and armor, have more armor, more damage but less mana and hit points. This growth cost you 3 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0EK
+Descriprion : 
+	Id : A0EK
+	Name : "Villager Punch"
+	Ubertip : "Throw a hard punch at a target enemy unit, dealing 120 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 200 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 300 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 400 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 520 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 650 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 780 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 900 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1100 damage and stunning the target for 2.6 seconds.|n|n|cffc3dbffCooldown: 7 seconds.|r"
+
+
+AbilityId : A0EL
+Descriprion : 
+	Id : A0EL
+	Name : "Hurl Boulder Villager"
+	Ubertip : "A boulder that is thrown at an enemy unit, causing 70 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 130 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 200 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 280 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 360 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 450 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 550 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 680 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 900 points of damage and stunning the target for 2 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+
+
+AbilityId : A0EM
+Descriprion : 
+	Id : A0EM
+	Name : "Critical Attack"
+	Ubertip : "Gives a 20% chance that an attack will do 50 bonus damage.","Gives a 25% chance that an attack will do 70 bonus damage.","Gives a 30% chance that an attack will do 100 bonus damage.","Gives a 35% chance that an attack will do 130 bonus damage.","Gives a 40% chance that an attack will do 170 bonus damage.","Gives a 45% chance that an attack will do 230 bonus damage.","Gives a 50% chance that an attack will do 300 bonus damage.","Gives a 55% chance that an attack will do 380 bonus damage.","Gives a 60% chance that an attack will do 500 bonus damage."
+
+
+AbilityId : A0EN
+Descriprion : 
+	Id : A0EN
+	Name : "M.A dodge"
+	Ubertip : "Gives a 8% chance to dodge an attack and increases base strength in 4.","Gives a 10% chance to dodge an attack and increases base strength in 8.","Gives a 12% chance to dodge an attack and increases base strength in 12.","Gives a 14% chance to dodge an attack and increases base strength in 16.","Gives a 16% chance to dodge an attack and increases base strength in 20.","Gives a 18% chance to dodge an attack and increases base strength in 24.","Gives a 20% chance to dodge an attack and increases base strength in 28.","Gives a 22% chance to dodge an attack and increases base strength in 32.","Gives a 25% chance to dodge an attack and increases base strength in 36."
+
+

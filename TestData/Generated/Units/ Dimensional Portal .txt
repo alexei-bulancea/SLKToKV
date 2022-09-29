@@ -1,0 +1,8 @@
+UnitId : h034
+Descriprion : 
+	Id : h034
+	Name : "Dimensional Portal"
+	Ubertip : "A Portal that can bring the strongers warriors of the others dimensions."
+
+Ability List:
+Hero ability list:

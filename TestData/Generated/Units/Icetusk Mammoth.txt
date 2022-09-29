@@ -1,0 +1,8 @@
+UnitId : nmit
+Descriprion : 
+	Id : nmit
+	Name : Icetusk Mammoth
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

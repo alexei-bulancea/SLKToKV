@@ -1,0 +1,15 @@
+UnitId : h02G
+Descriprion : 
+	Id : h02G
+	Name : "Currency Exchange"
+	Ubertip : "Increases your gold in 10 per second."
+
+Ability List:
+AbilityId : A0KL
+Descriprion : 
+	Id : A0KL
+	Name : "Gold Mine 10"
+	Ubertip : 
+
+
+Hero ability list:

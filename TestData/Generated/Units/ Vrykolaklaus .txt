@@ -1,0 +1,78 @@
+UnitId : n036
+Descriprion : 
+	Id : n036
+	Name : "Vrykolaklaus"
+	Ubertip : "Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A11Q
+Descriprion : 
+	Id : A11Q
+	Name : "Critical Strike Vrykkk"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack.","2","3","4"
+
+
+AbilityId : A11R
+Descriprion : 
+	Id : A11R
+	Name : "Evasion 80"
+	Ubertip : "Gives a <ACes,DataA1,%>% percent chance to avoid an attack."
+
+
+AbilityId : ACvp
+Descriprion : 
+	Id : ACvp
+	Name : Vampiric Aura
+	Ubertip : "Nearby friendly melee units gain 25% of their attack damage when they hit enemy units.","2","3","4"
+
+
+AbilityId : ACba
+Descriprion : 
+	Id : ACba
+	Name : "negative mana Aura"
+	Ubertip : "Gives additional mana regeneration to nearby friendly units of <ACba,DataA1> mana per second."
+
+
+AbilityId : A107
+Descriprion : 
+	Id : A107
+	Name : "Magic Reduccion Azze"
+	Ubertip : "Reduces the damage.,%>%."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : A0A3
+Descriprion : 
+	Id : A0A3
+	Name : "Life Steal Nosferatu"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : edoc
+Descriprion : 
+	Id : edoc
+	Name : Druid of the Claw
+	Ubertip : "Melee spellcaster. Can initially cast Roar, which increases attack damage. Can also learn Rejuvenation, Bear Form and Mark of the Claw. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Abrf
+Descriprion : 
+	Id : Abrf
+	Name : Bear Form
+	Ubertip : "Transforms the Druid into a bear, slowing mana regeneration, but making him an excellent warrior."
+
+
+AbilityId : Arej
+Descriprion : 
+	Id : Arej
+	Name : Rejuvenation
+	Ubertip : "Heals a target friendly unit for <Arej,DataA1> hit points over <Arej,Dur1> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 60 seconds.|r","Heals a target friendly unit for <Arej,DataA2> hit points over <Arej,Dur2> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 55 seconds.|r","Heals a target friendly unit for <Arej,DataA3> hit points over <Arej,Dur3> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 50 seconds.|r","Heals a target friendly unit for <Arej,DataA4> hit points over <Arej,Dur4> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 45 seconds.|r","Heals a target friendly unit for <Arej,DataA5> hit points over <Arej,Dur5> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 40 seconds.|r","Heals a target friendly unit for <Arej,DataA6> hit points over <Arej,Dur6> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for <Arej,DataA7> hit points over <Arej,Dur7> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 30 seconds.|r","Heals a target friendly unit for <Arej,DataA8> hit points over <Arej,Dur8> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 23 seconds.|r","Heals a target friendly unit for <Arej,DataA9> hit points over <Arej,Dur9> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : Aroa
+Descriprion : 
+	Id : Aroa
+	Name : "Restauration"
+	Ubertip : "Gives friendly nearby units a 12 hit points regeneration per second, 8 bonus armor and <Aroa,DataA1,%>% bonus to damage. |nLasts <Aroa,Dur1> seconds.|n|n|cffc3dbffCooldown: 24 seconds|r.","Gives friendly nearby units a 15 hit points regeneration per second, 8 bonus armor and <Aroa,DataA2,%>% bonus to damage. |nLasts <Aroa,Dur2> seconds.|n|n|cffc3dbffCooldown: 23 seconds|r.","Gives friendly nearby units a 18 hit points regeneration per second, 8 bonus armor and <Aroa,DataA3,%>% bonus to damage. |nLasts <Aroa,Dur3> seconds.|n|n|cffc3dbffCooldown: 22 seconds|r.","Gives friendly nearby units a 22 hit points regeneration per second, 8 bonus armor and <Aroa,DataA4,%>% bonus to damage. |nLasts <Aroa,Dur4> seconds.|n|n|cffc3dbffCooldown: 21 seconds|r.","Gives friendly nearby units a 26 hit points regeneration per second, 8 bonus armor and <Aroa,DataA5,%>% bonus to damage. |nLasts <Aroa,Dur5> seconds.|n|n|cffc3dbffCooldown: 20 seconds|r.","Gives friendly nearby units a 30 hit points regeneration per second, 8 bonus armor and <Aroa,DataA6,%>% bonus to damage. |nLasts <Aroa,Dur6> seconds.|n|n|cffc3dbffCooldown: 19 seconds|r.","Gives friendly nearby units a 40 hit points regeneration per second, 8 bonus armor and <Aroa,DataA7,%>% bonus to damage. |nLasts <Aroa,Dur7> seconds.|n|n|cffc3dbffCooldown: 18 seconds|r.","Gives friendly nearby units a 55 hit points regeneration per second, 8 bonus armor and <Aroa,DataA8,%>% bonus to damage. |nLasts <Aroa,Dur8> seconds.|n|n|cffc3dbffCooldown: 17 seconds|r.","Gives friendly nearby units a 80 hit points regeneration per second, 8 bonus armor and <Aroa,DataA9,%>% bonus to damage. |nLasts <Aroa,Dur9> seconds.|n|n|cffc3dbffCooldown: 16 seconds|r."
+
+
+AbilityId : Aien
+Descriprion : 
+	Id : Aien
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

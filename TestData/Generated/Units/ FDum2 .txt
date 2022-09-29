@@ -1,0 +1,29 @@
+UnitId : h076
+Descriprion : 
+	Id : h076
+	Name : "FDum2"
+	Ubertip : "Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Aivs
+Descriprion : 
+	Id : Aivs
+	Name : Invisibility
+	Ubertip : "Makes a unit invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts <Aivs,Dur1> seconds."
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

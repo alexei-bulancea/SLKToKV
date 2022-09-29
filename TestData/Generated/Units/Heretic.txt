@@ -1,0 +1,29 @@
+UnitId : nhhr
+Descriprion : 
+	Id : nhhr
+	Name : Heretic
+	Ubertip : "Medium ranged unit that hurls Demon fire. Can cast Raise Dead and Carrion Swarm. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACcl
+Descriprion : 
+	Id : ACcl
+	Name : Chain Lightning
+	Ubertip : "Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+
+
+AbilityId : ACua
+Descriprion : 
+	Id : ACua
+	Name : Unholy Aura
+	Ubertip : "Increases nearby friendly units' movement speed by <ACua,DataA1,%>% and life regeneration rate by 8.5."
+
+
+AbilityId : Acri
+Descriprion : 
+	Id : Acri
+	Name : Cripple
+	Ubertip : "Reduces movement speed by <Acri,DataA1,%>%, attack rate by <Acri,DataB1,%>%, and damage by <Acri,DataC1,%>% of a target enemy unit. |nLasts <Acri,Dur1> seconds."
+
+
+Hero ability list:

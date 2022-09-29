@@ -1,0 +1,29 @@
+UnitId : n05D
+Descriprion : 
+	Id : n05D
+	Name : "Junkyard"
+	Ubertip : ""
+
+Ability List:
+AbilityId : Asid
+Descriprion : 
+	Id : Asid
+	Name : Sell Items
+	Ubertip : "Permits the sale of items."
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : ucsC
+Descriprion : 
+	Id : ucsC
+	Name : Burrowed Carrion Beetle
+	Ubertip : 
+
+Ability List:
+AbilityId : Abu3
+Descriprion : 
+	Id : Abu3
+	Name : Burrow
+	Ubertip : "The Carrion Beetle digs into the ground and becomes invisible."
+
+
+Hero ability list:

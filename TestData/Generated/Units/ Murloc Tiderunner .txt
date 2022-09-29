@@ -1,0 +1,15 @@
+UnitId : ntrt
+Descriprion : 
+	Id : ntrt
+	Name : "Murloc Tiderunner"
+	Ubertip : "Medium ranged amphibious unit whose spiked shell harms enemy melee attackers. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ANth
+Descriprion : 
+	Id : ANth
+	Name : "Spiked Shell T"
+	Ubertip : "Deal 24% of an enemy unit's melee attack damage back to it."
+
+
+Hero ability list:

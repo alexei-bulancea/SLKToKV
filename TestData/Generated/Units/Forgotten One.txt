@@ -1,0 +1,43 @@
+UnitId : nfgo
+Descriprion : 
+	Id : nfgo
+	Name : Forgotten One
+	Ubertip : "An ancient and powerful creature who hurls fire at its enemies. Can cast Spawn Tentacle, Firebolt, and Charm. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A157
+Descriprion : 
+	Id : A157
+	Name : "AATB"
+	Ubertip : "Can shot three arrows at the same time."
+
+
+AbilityId : ACtn
+Descriprion : 
+	Id : ACtn
+	Name : Spawn Tentacle
+	Ubertip : "Unleashes a mighty tentacle upon the enemy."
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

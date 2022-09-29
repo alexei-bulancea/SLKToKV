@@ -1,0 +1,15 @@
+UnitId : ncim
+Descriprion : 
+	Id : ncim
+	Name : Centaur Impaler
+	Ubertip : "Medium ranged unit with Searing Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A16M
+Descriprion : 
+	Id : A16M
+	Name : Searing Arrows
+	Ubertip : "Adds 350 bonus fire damage to an attack against enemies, but drains mana with each shot fired."
+
+
+Hero ability list:

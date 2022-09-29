@@ -1,0 +1,36 @@
+UnitId : nlsn
+Descriprion : 
+	Id : nlsn
+	Name : "Crab Shorecrawler"
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A01U
+Descriprion : 
+	Id : A01U
+	Name : "Armor d.Warrior"
+	Ubertip : "Reduces all attacks on that unit by 30 damage."
+
+
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+AbilityId : A03M
+Descriprion : 
+	Id : A03M
+	Name : "Magic Reduccion 60%"
+	Ubertip : "Reduces the damage taken from spells and to 60%"
+
+
+AbilityId : A09K
+Descriprion : 
+	Id : A09K
+	Name : "Demolish 2"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

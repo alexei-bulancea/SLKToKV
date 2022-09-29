@@ -1,0 +1,43 @@
+UnitId : N02K
+Descriprion : 
+	Id : N02K
+	Name : Pit Lord
+	Ubertip : 
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AOsh
+Descriprion : 
+	Id : AOsh
+	Name : "Shockwave."
+	Ubertip : "A wave of force that ripples outward, causing <AOsh,DataA1> damage to land units in a line.|n|n|cffc3dbffCooldown: 6 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA2> damage to land units in a line.|n|n|cffc3dbffCooldown: 7 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA3> damage to land units in a line.|n|n|cffc3dbffCooldown: 8 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA4> damage to land units in a line.|n|n|cffc3dbffCooldown: 9 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA5> damage to land units in a line.|n|n|cffc3dbffCooldown: 10 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA6> damage to land units in a line.|n|n|cffc3dbffCooldown: 11 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA7> damage to land units in a line.|n|n|cffc3dbffCooldown: 12 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA8> damage to land units in a line.|n|n|cffc3dbffCooldown: 13 seconds|r","A wave of force that ripples outward, causing <AOsh,DataA9> damage to land units in a line.|n|n|cffc3dbffCooldown: 17 seconds|r"
+
+
+AbilityId : AHtc
+Descriprion : 
+	Id : AHtc
+	Name : Thunder Clap
+	Ubertip : "Slams the ground, dealing <AHtc,DataA1> damage to nearby enemy land units and slowing their movement by <AHtc,DataC1,%>% and attack rate by <AHtc,DataD1,%>%, last 5 seconds.|n|n|cffc3dbffCooldown: 17 seconds.|r","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>% last 5.5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%, last 6 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Slams the ground, dealing <AHtc,DataA4> damage to nearby enemy land units and slowing their movement by <AHtc,DataC4,%>% and attack rate by <AHtc,DataD4,%>%, last 6.5 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Slams the ground, dealing <AHtc,DataA5> damage to nearby enemy land units and slowing their movement by <AHtc,DataC5,%>% and attack rate by <AHtc,DataD5,%>%, last 7 seconds.|n|n|cffc3dbffCooldown: 13.5 seconds.|r","Slams the ground, dealing <AHtc,DataA6> damage to nearby enemy land units and slowing their movement by <AHtc,DataC6,%>% and attack rate by <AHtc,DataD6,%>%, last 8 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Slams the ground, dealing <AHtc,DataA7> damage to nearby enemy land units and slowing their movement by <AHtc,DataC7,%>% and attack rate by <AHtc,DataD7,%>%, last 9 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing <AHtc,DataA8> damage to nearby enemy land units and slowing their movement by <AHtc,DataC8,%>% and attack rate by <AHtc,DataD8,%>%, last 10 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Slams the ground, dealing <AHtc,DataA9> damage to nearby enemy land units and slowing their movement by <AHtc,DataC9,%>% and attack rate by <AHtc,DataD9,%>%, last 11 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : AOeq
+Descriprion : 
+	Id : AOeq
+	Name : Earthquake
+	Ubertip : "Makes the ground tremble and break, causing <AOeq,DataB1> damage per second to buildings and slowing units by <AOeq,DataC1,%>% within the area of effect. |nLasts <AOeq,Dur1> seconds."
+
+
+AbilityId : ANrn
+Descriprion : 
+	Id : ANrn
+	Name : Reincarnation
+	Ubertip : "When killed, the demon will come back to life. Reincarnation has a <ANrn,Cool1> second cooldown."
+
+

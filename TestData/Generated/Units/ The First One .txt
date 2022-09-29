@@ -1,0 +1,64 @@
+UnitId : Ubal
+Descriprion : 
+	Id : Ubal
+	Name : "The First One"
+	Ubertip : "Cunning Hero, adept at controlling combat. Can learn Carrion Swarm, Sleep, Vampiric Aura, and Inferno. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A05V
+Descriprion : 
+	Id : A05V
+	Name : "Critical Strike Nosferatu"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+AbilityId : A03P
+Descriprion : 
+	Id : A03P
+	Name : "Evasion G"
+	Ubertip : "Gives a 60% percent chance to avoid an attack."
+
+
+AbilityId : ACvp
+Descriprion : 
+	Id : ACvp
+	Name : Vampiric Aura
+	Ubertip : "Nearby friendly melee units gain 25% of their attack damage when they hit enemy units.","2","3","4"
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : ACba
+Descriprion : 
+	Id : ACba
+	Name : "negative mana Aura"
+	Ubertip : "Gives additional mana regeneration to nearby friendly units of <ACba,DataA1> mana per second."
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

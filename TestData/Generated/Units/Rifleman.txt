@@ -1,0 +1,15 @@
+UnitId : hrif
+Descriprion : 
+	Id : hrif
+	Name : Rifleman
+	Ubertip : "Highly skilled sharpshooter."
+
+Ability List:
+AbilityId : A0KT
+Descriprion : 
+	Id : A0KT
+	Name : "HeadShot Rifleman"
+	Ubertip : "Gives a 40% chance that an attack will do 100 bonus damage and stun an opponent for 0.3 seconds."
+
+
+Hero ability list:

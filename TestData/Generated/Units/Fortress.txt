@@ -1,0 +1,29 @@
+UnitId : ofrt
+Descriprion : 
+	Id : ofrt
+	Name : Fortress
+	Ubertip : "Upgrade to Fortress to enable the production of additional types of structures and units."
+
+Ability List:
+AbilityId : Abdl
+Descriprion : 
+	Id : Abdl
+	Name : Blight Dispel Large
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+AbilityId : Argl
+Descriprion : 
+	Id : Argl
+	Name : Return Gold and Lumber
+	Ubertip : 
+
+
+Hero ability list:

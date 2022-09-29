@@ -1,0 +1,29 @@
+UnitId : ohun
+Descriprion : 
+	Id : ohun
+	Name : Troll Headhunter
+	Ubertip : "Versatile spear-thrower, effective against air units. Can learn Troll Regeneration. Can be upgraded to Troll Berserker, which has the Berserk ability. |n|n|cffffcc00Attacks land and air units.|r "
+
+Ability List:
+AbilityId : Sbsk
+Descriprion : 
+	Id : Sbsk
+	Name : Berserker Upgrade
+	Ubertip : 
+
+
+AbilityId : Aion
+Descriprion : 
+	Id : Aion
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+AbilityId : A0BY
+Descriprion : 
+	Id : A0BY
+	Name : "Incinerate LSPW"
+	Ubertip : "Each attack made is enhanced with living flames that cling to the target. These flames add <ANic,DataA1> damage on the first attack, twice as much on the second attack, three times as much on the third attack, etc.|n|nIf a unit dies while under this effect, it is incinerated, causing up to <ANic,DataB1> damage to all nearby hostile units.","Each attack made is enhanced with living flames that cling to the target. These flames add <ANic,DataA2> damage on the first attack, twice as much on the second attack, three times as much on the third attack, etc.|n|nIf a unit dies while under this effect, it is incinerated, causing up to <ANic,DataB2> damage to all nearby hostile units.","Each attack made is enhanced with living flames that cling to the target. These flames add <ANic,DataA3> damage on the first attack, twice as much on the second attack, three times as much on the third attack, etc.|n|nIf a unit dies while under this effect, it is incinerated, causing up to <ANic,DataB3> damage to all nearby hostile units."
+
+
+Hero ability list:

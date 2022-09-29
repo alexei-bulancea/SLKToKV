@@ -1,0 +1,57 @@
+UnitId : H036
+Descriprion : 
+	Id : H036
+	Name : "Magroth"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A0LN
+Descriprion : 
+	Id : A0LN
+	Name : "Repair NW"
+	Ubertip : "Repair a target friendly building or mechanical unit for 120 hit points per second.","Repair a target friendly building or mechanical unit for 260 hit points per second.","Repair a target friendly building or mechanical unit for 400 hit points per second.","The Worker starts understand how it work living thing as well as building now he can Repair everything for 600 hit points per second."
+
+
+Hero ability list:
+AbilityId : A0IV
+Descriprion : 
+	Id : A0IV
+	Name : "B.Town Hall"
+	Ubertip : "Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 300 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 290 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 280 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 270 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 260 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 250 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 240 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 230 seconds.|r","Build a Town Hall that can train a worker  able to build a lot of different things based on the level of this ability. |nIncreases the maximum number of units that can be trained in 30.|n|n|cffc3dbffCooldown: 220 seconds.|r"
+
+
+AbilityId : A0JC
+Descriprion : 
+	Id : A0JC
+	Name : "Build Tower"
+	Ubertip : "Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 280 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 260 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 240 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 220 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 200 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 190 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 180 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 170 seconds.|r","Build a tower that can defense the empire agains enemies and can be upgrade in a lot of differents towers based on the level of this ability.|n|n|cffc3dbffCooldown: 160 seconds.|r"
+
+
+AbilityId : Aclf
+Descriprion : 
+	Id : Aclf
+	Name : "Last Flak Cannon"
+	Ubertip : "Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 33 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 26 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Build a flak cannon that attack your enemies with a very high speed last 30 seconds. Build time 5 seconds. Has 4 special abilities to be chosen. |n|n|cffc3dbffCooldown: 20 seconds.|r"
+
+
+AbilityId : A1LE
+Descriprion : 
+	Id : A1LE
+	Name : "tunnel worke"
+	Ubertip : "Worker digs through underground and creates a one way tunnel system between his location and target point. Tunnel stays for 15 seconds to help friendly units to quickly move between points.|n|n|n|cffc3dbffCooldown: 90 seconds.|r|n","Worker digs through underground and creates a one way tunnel system between his location and target point. Tunnel stays for 15 seconds to help friendly units to quickly move between points.|n|n|n|cffc3dbffCooldown: 30 seconds.|r|n","Create 2 port time maintain 15 seconds to help yourself and the teammates the freedom to move back and forth between 2 positions.|n|c00FFFC01Cooldown : 60 seconds .|r","Create 2 port time maintain 15 seconds to help yourself and the teammates the freedom to move back and forth between 2 positions.|n|c00FFFC01Cooldown : 40 seconds .|r"
+
+
+AbilityId : A0YP
+Descriprion : 
+	Id : A0YP
+	Name : "Build Barrack Fixed not kill trees"
+	Ubertip : "Build a Barrack for 30 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level.|n|n|cffc3dbffCooldown: 48 seconds.|r","Build a Barrack for 34 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level.|n|n|cffc3dbffCooldown: 46 seconds.|r","Build a Barrack for 38 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level.|n|n|cffc3dbffCooldown: 44 seconds.|r","Build a Barrack for 40 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level.|n|n|cffc3dbffCooldown: 42 seconds.|r","Build a Barrack for 42 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level. Whenever a soldier is killed by Dark forces or Neutral his sacrifce will be accepted by Titans. If there are enough sacrifices Titans will be stronger and Worker will be rewarded with experience. |n|n|cffc3dbffCooldown: 38 seconds.|r","Build a Barrack for 44 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level. Whenever a soldier is killed by Dark forces or Neutral his sacrifce will be accepted by Titans. If there are enough sacrifices Titans will be stronger and Worker will be rewarded with experience.|n|n|cffc3dbffCooldown: 36 seconds.|r","Build a Barrack for 46 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level. Whenever a soldier is killed by Dark forces or Neutral his sacrifce will be accepted by Titans. If there are enough sacrifices Titans will be stronger and Worker will be rewarded with experience.|n|n|cffc3dbffCooldown: 34 seconds.|r","Build a Barrack for 48 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level. Whenever a soldier is killed by Dark forces or Neutral his sacrifce will be accepted by Titans. If there are enough sacrifices Titans will be stronger and Worker will be rewarded with experience.|n|n|cffc3dbffCooldown: 34 seconds.|r","Build a Barrack for 50 seconds that spaw a soldier every 3 seconds. Build time 6 seconds. Soldiers attributes and life time improve per level. Whenever a soldier is killed by Dark forces or Neutral his sacrifce will be accepted by Titans. If there are enough sacrifices Titans will be stronger and Worker will be rewarded with experience.|n|n|cffc3dbffCooldown: 32 seconds.|r"
+
+

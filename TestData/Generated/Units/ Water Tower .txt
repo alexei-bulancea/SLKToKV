@@ -1,0 +1,8 @@
+UnitId : ndt1
+Descriprion : 
+	Id : ndt1
+	Name : "Water Tower"
+	Ubertip : "Have more attack speed, more hit points , more armor, life regeneration and do a strong but short  AOE attack."
+
+Ability List:
+Hero ability list:

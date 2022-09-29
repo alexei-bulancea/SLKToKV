@@ -1,0 +1,29 @@
+UnitId : hpxe
+Descriprion : 
+	Id : hpxe
+	Name : Phoenix Egg
+	Ubertip : 
+
+Ability List:
+AbilityId : Aphx
+Descriprion : 
+	Id : Aphx
+	Name : Phoenix Morphing (Egg Related)
+	Ubertip : 
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

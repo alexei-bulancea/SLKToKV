@@ -1,0 +1,43 @@
+UnitId : n049
+Descriprion : 
+	Id : n049
+	Name : "Alduin"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A068
+Descriprion : 
+	Id : A068
+	Name : "Death Critical Strike"
+	Ubertip : "Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack."
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0GG
+Descriprion : 
+	Id : A0GG
+	Name : "Attack Speed +50%"
+	Ubertip : 
+
+
+AbilityId : A1I4
+Descriprion : 
+	Id : A1I4
+	Name : ""
+	Ubertip : "Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds."
+
+
+AbilityId : A1I5
+Descriprion : 
+	Id : A1I5
+	Name : "aldubreath"
+	Ubertip : 
+
+
+Hero ability list:

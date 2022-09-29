@@ -1,0 +1,22 @@
+UnitId : nndk
+Descriprion : 
+	Id : nndk
+	Name : Nether Drake
+	Ubertip : "Heavy ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+AbilityId : A16O
+Descriprion : 
+	Id : A16O
+	Name : Frost Armor
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds 140 armor and slows melee units that attack it for 7 seconds. |nLasts 32 seconds."
+
+
+Hero ability list:

@@ -1,0 +1,29 @@
+UnitId : ngme
+Descriprion : 
+	Id : ngme
+	Name : Goblin Merchant
+	Ubertip : 
+
+Ability List:
+AbilityId : Aneu
+Descriprion : 
+	Id : Aneu
+	Name : Select Hero
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

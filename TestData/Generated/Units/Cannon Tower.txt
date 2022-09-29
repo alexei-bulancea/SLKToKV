@@ -1,0 +1,22 @@
+UnitId : hctw
+Descriprion : 
+	Id : hctw
+	Name : Cannon Tower
+	Ubertip : "A lot of more damage and less attack speed, more hit points, armor and have splash damage."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

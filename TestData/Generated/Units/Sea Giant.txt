@@ -1,0 +1,15 @@
+UnitId : nsgn
+Descriprion : 
+	Id : nsgn
+	Name : Sea Giant
+	Ubertip : "Light melee amphibious unit with Pulverize. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACpv
+Descriprion : 
+	Id : ACpv
+	Name : Pulverize
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units."
+
+
+Hero ability list:

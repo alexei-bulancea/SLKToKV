@@ -1,0 +1,50 @@
+UnitId : O014
+Descriprion : 
+	Id : O014
+	Name : Far Seer
+	Ubertip : "Mystical Hero, adept at dealing high pure damage (check Quest(F9) for more information about pure damage) . Can learn Noxious Blast, Malediction, Devastation, Focus and Fulmination. "
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A11C
+Descriprion : 
+	Id : A11C
+	Name : "M Fulmination"
+	Ubertip : "Deal your Spell Power x 20 as pure damage to a random unit of the target area.|n|n|cffc3dbffCooldown: 290 seconds|r.","Deal your Spell Power x 40 as pure damage to a random unit of the target area.|n|n|cffc3dbffCooldown: 260 seconds|r","Deal your Spell Power x 60 as pure damage to a random unit of the target area.|n|n|cffc3dbffCooldown: 200 seconds|r.","Deal your Spell Power x 80 as pure damage to a random unit of the target area.|n|n|cffc3dbffCooldown: 160 seconds|r."
+
+
+AbilityId : A11A
+Descriprion : 
+	Id : A11A
+	Name : "M Devastation"
+	Ubertip : "Deal 500 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc3dbffCooldown: 72 seconds.|r","Deal 750 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc3dbffCooldown: 68 seconds.|r","Deal 1000 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc3dbffCooldown: 64 seconds.|r","Deal 1250 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc4dbffCooldown: 60 seconds.|r","Deal 1500 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc5dbffCooldown: 55 seconds.|r","Deal 1750 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc6dbffCooldown: 50 seconds.|r","Deal 2000 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc7dbffCooldown: 45 seconds.|r","Deal 2250 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc8dbffCooldown: 36 seconds.|r","Deal 2500 base damage + 57 x the times that Devastation has been used. Damage type is pure.|nCheck total casts with -casts.|n|n|cffc9dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : A11B
+Descriprion : 
+	Id : A11B
+	Name : "M Focus"
+	Ubertip : "Gives a 8% chance to deal 1.6 times more damage to your abilities.","Gives a 10% chance to deal 1.7 times more damage to your abilities.","Gives a 12% chance to deal 1.8 times more damage to your abilities.","Gives a 14% chance to deal 1.9 times more damage to your abilities.","Gives a 16% chance to deal 2 times more damage to your abilities.","Gives a 18% chance to deal 2.1 times more damage to your abilities.","Gives a 20% chance to deal 2.2 times more damage to your abilities.","Gives a 22% chance to deal 2.3 times more damage to your abilities.","Gives a 24% chance to deal 2.4 times more damage to your abilities."
+
+
+AbilityId : A119
+Descriprion : 
+	Id : A119
+	Name : "M Malediction"
+	Ubertip : "Conjure an strong curse that damage the target for 2 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 15% chance to miss on attacks, last 2 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 3 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 20% chance to miss on attacks, last 2.5 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 4 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 25% chance to miss on attacks, last 3 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 5 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 30% chance to miss on attacks, last 3.5 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 6 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 35% chance to miss on attacks, last 4 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 7 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 40% chance to miss on attacks, last 4.5 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 8 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 45% chance to miss on attacks, last 5 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 9 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 55% chance to miss on attacks, last 5.5 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Conjure an strong curse that damage the target for 10 x intelligence, damage tipe is pure, cause the unit movement speed to be reduced by 30%, and have 70% chance to miss on attacks, last 6 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r"
+
+
+AbilityId : A118
+Descriprion : 
+	Id : A118
+	Name : "M Noxious Blast"
+	Ubertip : "Deal 80 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 14 seconds.|r","Deal 160 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 12 seconds.|r","Deal 240 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 11 seconds.|r","Deal 320 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 10 seconds.|r","Deal 400 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 9 seconds.|r","Deal 480 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 8 seconds.|r","Deal 560 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 7 seconds.|r","Deal 640 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 6 seconds.|r","Deal 720 pure damage to the target and enemy units in 350 AOE.|n|n|cffc3dbffCooldown: 5 seconds.|r"
+
+

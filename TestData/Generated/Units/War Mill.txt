@@ -1,0 +1,29 @@
+UnitId : ofor
+Descriprion : 
+	Id : ofor
+	Name : War Mill
+	Ubertip : "Serves as a drop-off point for harvested lumber. |nAlso contains upgrades for improved armor, melee weapons, ranged weapons, Reinforced Defenses, and Spiked Barricades."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+AbilityId : Arlm
+Descriprion : 
+	Id : Arlm
+	Name : Return Lumber
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : n039
+Descriprion : 
+	Id : n039
+	Name : "Omega"
+	Ubertip : "Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A16L
+Descriprion : 
+	Id : A16L
+	Name : "PO"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","2","3","4"
+
+
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A120
+Descriprion : 
+	Id : A120
+	Name : "Magic Reduccion O"
+	Ubertip : "Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : A057
+Descriprion : 
+	Id : A057
+	Name : "Attack Speed +80%"
+	Ubertip : 
+
+
+Hero ability list:

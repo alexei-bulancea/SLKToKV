@@ -1,0 +1,8 @@
+UnitId : e00O
+Descriprion : 
+	Id : e00O
+	Name : "Cedar"
+	Ubertip : "Have normal splash damage in a normal area of effect also good hit points and better attack speed."
+
+Ability List:
+Hero ability list:

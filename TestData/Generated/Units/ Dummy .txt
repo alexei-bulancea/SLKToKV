@@ -1,0 +1,15 @@
+UnitId : h084
+Descriprion : 
+	Id : h084
+	Name : "Dummy"
+	Ubertip : "Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+Hero ability list:

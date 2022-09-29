@@ -1,0 +1,78 @@
+UnitId : n040
+Descriprion : 
+	Id : n040
+	Name : "Magic Creator The First Mage"
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1FS
+Descriprion : 
+	Id : A1FS
+	Name : "FMBHSF"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds.","2","22","222"
+
+
+AbilityId : A1FE
+Descriprion : 
+	Id : A1FE
+	Name : "FM FPP"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A1FH
+Descriprion : 
+	Id : A1FH
+	Name : "FM FPD"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A1FF
+Descriprion : 
+	Id : A1FF
+	Name : "FM FPL"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A1FG
+Descriprion : 
+	Id : A1FG
+	Name : "FM FPF"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A0WU
+Descriprion : 
+	Id : A0WU
+	Name : "Spell Damage Reduction 80"
+	Ubertip : 
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A1G9
+Descriprion : 
+	Id : A1G9
+	Name : "SpFMF"
+	Ubertip : 
+
+
+AbilityId : A1GA
+Descriprion : 
+	Id : A1GA
+	Name : "SpFMI"
+	Ubertip : 
+
+
+AbilityId : A1GB
+Descriprion : 
+	Id : A1GB
+	Name : "SpFML"
+	Ubertip : 
+
+
+Hero ability list:

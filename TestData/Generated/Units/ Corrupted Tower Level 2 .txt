@@ -1,0 +1,22 @@
+UnitId : n003
+Descriprion : 
+	Id : n003
+	Name : "Corrupted Tower Level 2"
+	Ubertip : "Have more damage ,more range, chaos attack , more armor , hit points and Reduce the armor of the enemys."
+
+Ability List:
+AbilityId : A0IS
+Descriprion : 
+	Id : A0IS
+	Name : "Attack Corruption TL4"
+	Ubertip : "Reduce enemy armor by 35"
+
+
+AbilityId : A06C
+Descriprion : 
+	Id : A06C
+	Name : "Attack Corruption Bonus Level 4"
+	Ubertip : 
+
+
+Hero ability list:

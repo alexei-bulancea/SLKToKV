@@ -1,0 +1,36 @@
+UnitId : nfel
+Descriprion : 
+	Id : nfel
+	Name : Fel Stalker
+	Ubertip : "Demonic beast that casts Mana Burn. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A06S
+Descriprion : 
+	Id : A06S
+	Name : Feedback
+	Ubertip : "Attacks destroy 1 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 10 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 30 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 50 mana per hit. The mana combusts, dealing damage to the attacked unit.","Attacks destroy 120 mana per hit. The mana combusts, dealing damage to the attacked unit."
+
+
+AbilityId : A0E6
+Descriprion : 
+	Id : A0E6
+	Name : "Spell Damage Reduction 86"
+	Ubertip : 
+
+
+AbilityId : Ambb
+Descriprion : 
+	Id : Ambb
+	Name : Mana Burn
+	Ubertip : "Sends a bolt of negative energy that burns <Ambb,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+Hero ability list:

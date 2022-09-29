@@ -1,0 +1,29 @@
+UnitId : h00W
+Descriprion : 
+	Id : h00W
+	Name : Water Elemental
+	Ubertip : 
+
+Ability List:
+AbilityId : A0AD
+Descriprion : 
+	Id : A0AD
+	Name : "Water Bonce L1"
+	Ubertip : "The Water Elemental strike 1 additional unit with his bouncing attack."
+
+
+AbilityId : A0A7
+Descriprion : 
+	Id : A0A7
+	Name : "W.P L4"
+	Ubertip : "Have 40% chance to reduce 60 damage."
+
+
+AbilityId : A0AH
+Descriprion : 
+	Id : A0AH
+	Name : "W.C.Strike"
+	Ubertip : "Gives a 12% chance to do 3 times normal damage on an attack."
+
+
+Hero ability list:

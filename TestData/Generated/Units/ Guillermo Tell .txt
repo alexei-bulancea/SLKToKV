@@ -1,0 +1,29 @@
+UnitId : h00T
+Descriprion : 
+	Id : h00T
+	Name : "Guillermo Tell"
+	Ubertip : "The unit with the longest range in the game."
+
+Ability List:
+AbilityId : A046
+Descriprion : 
+	Id : A046
+	Name : "100% Accurate"
+	Ubertip : "Gillermo Tell never miss."
+
+
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

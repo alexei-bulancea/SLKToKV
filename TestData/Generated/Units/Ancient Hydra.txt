@@ -1,0 +1,22 @@
+UnitId : nahy
+Descriprion : 
+	Id : nahy
+	Name : Ancient Hydra
+	Ubertip : "Heavy ranged amphibious unit with Devour, War Stomp, and Slow Poison. When it is slain, smaller Hydras will arise from its corpse. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aspy
+Descriprion : 
+	Id : Aspy
+	Name : Spawn Hydra
+	Ubertip : 
+
+
+AbilityId : A1UQ
+Descriprion : 
+	Id : A1UQ
+	Name : "MultiShot"
+	Ubertip : "Allows you to hit 3 more Targets"
+
+
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : u00P
+Descriprion : 
+	Id : u00P
+	Name : "Kelt Skeletal Mage "
+	Ubertip : 
+
+Ability List:
+AbilityId : A1DL
+Descriprion : 
+	Id : A1DL
+	Name : "Entangling Roots MKel"
+	Ubertip : "Causes roots to burst from the ground, immobilizing a target enemy unit for <Aenw,Dur1> seconds, and dealing <Aenw,DataA1> damage per second."
+
+
+AbilityId : A0VN
+Descriprion : 
+	Id : A0VN
+	Name : "Attack Speed +30%"
+	Ubertip : 
+
+
+AbilityId : A15W
+Descriprion : 
+	Id : A15W
+	Name : "Kelt SKM B"
+	Ubertip : "Sends a bolt of negative energy that burns <Ambb,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+AbilityId : A15X
+Descriprion : 
+	Id : A15X
+	Name : "Kelt SKM FB"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+Hero ability list:

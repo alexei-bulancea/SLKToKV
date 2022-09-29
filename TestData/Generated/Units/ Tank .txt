@@ -1,0 +1,57 @@
+UnitId : H07L
+Descriprion : 
+	Id : H07L
+	Name : "Tank"
+	Ubertip : "Special Hero, can be build like you want, chose between 24 abilities and 5 different stats, this hero can not change his attack type, any hero can use the command -spellpower to check your current Spell Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A1JR
+Descriprion : 
+	Id : A1JR
+	Name : "MAN ABAB"
+	Ubertip : "Chose your hero skill, each time you level up you gain one hero skill and two stat points, you can have up to 5 normal hero skills."
+
+
+Hero ability list:
+AbilityId : A1K8
+Descriprion : 
+	Id : A1K8
+	Name : "MAM Wisdom"
+	Ubertip : "","s"
+
+
+AbilityId : A1K7
+Descriprion : 
+	Id : A1K7
+	Name : "MAM Vitality"
+	Ubertip : "","s"
+
+
+AbilityId : A1K6
+Descriprion : 
+	Id : A1K6
+	Name : "MAM Stamina"
+	Ubertip : "","s"
+
+
+AbilityId : A1K5
+Descriprion : 
+	Id : A1K5
+	Name : "MAM Serenity"
+	Ubertip : "","s"
+
+
+AbilityId : A0M4
+Descriprion : 
+	Id : A0M4
+	Name : "MAM Constitution"
+	Ubertip : "","s"
+
+

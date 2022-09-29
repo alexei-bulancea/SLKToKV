@@ -1,0 +1,43 @@
+UnitId : nsbm
+Descriprion : 
+	Id : nsbm
+	Name : Brood Mother
+	Ubertip : "Heavy melee unit that poisons opponents and carries its young into battle. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A022
+Descriprion : 
+	Id : A022
+	Name : "Envenomed Weapons BM"
+	Ubertip : "Deals 25 poison damage per second. |nLasts 15 seconds."
+
+
+AbilityId : Aspd
+Descriprion : 
+	Id : Aspd
+	Name : Spawn Spiders
+	Ubertip : 
+
+
+AbilityId : A01F
+Descriprion : 
+	Id : A01F
+	Name : "Critical Strike Corrupted Dragon"
+	Ubertip : "Gives a 7% chance to do 5.1 times normal damage on an attack."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A01U
+Descriprion : 
+	Id : A01U
+	Name : "Armor d.Warrior"
+	Ubertip : "Reduces all attacks on that unit by 30 damage."
+
+
+Hero ability list:

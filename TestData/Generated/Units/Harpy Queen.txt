@@ -1,0 +1,36 @@
+UnitId : nhrq
+Descriprion : 
+	Id : nhrq
+	Name : Harpy Queen
+	Ubertip : "Heavy flying ranged unit that can cast Rejuvenation and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A09J
+Descriprion : 
+	Id : A09J
+	Name : "Demolish 1"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : A05Q
+Descriprion : 
+	Id : A05Q
+	Name : Rejuvenation
+	Ubertip : "Heals a target friendly unit for <ACrj,DataA1> hit points over <ACrj,Dur1> seconds."
+
+
+AbilityId : A05R
+Descriprion : 
+	Id : A05R
+	Name : Healing Wave
+	Ubertip : "Calls forth a wave of healing energy that bounces up to <AChv,DataB1> times, healing <AChv,DataA1> damage on the primary target. Each jump heals less damage."
+
+
+AbilityId : ACcy
+Descriprion : 
+	Id : ACcy
+	Name : Cyclone
+	Ubertip : "Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <ACcy,Dur1> seconds."
+
+
+Hero ability list:

@@ -1,0 +1,8 @@
+UnitId : nenp
+Descriprion : 
+	Id : nenp
+	Name : Poison Treant
+	Ubertip : "Light melee unit that poisons opponents. Can cast Entangling Roots. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

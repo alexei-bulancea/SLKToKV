@@ -1,0 +1,15 @@
+UnitId : h088
+Descriprion : 
+	Id : h088
+	Name : "Town Hall"
+	Ubertip : 
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : nhea
+Descriprion : 
+	Id : nhea
+	Name : Archer
+	Ubertip : "Basic ranged attacker. "
+
+Ability List:
+AbilityId : A131
+Descriprion : 
+	Id : A131
+	Name : "Magroth Blessing"
+	Ubertip : "Reduces Dragon and Spell damage in 60%."
+
+
+Hero ability list:

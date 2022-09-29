@@ -1,0 +1,15 @@
+UnitId : uslh
+Descriprion : 
+	Id : uslh
+	Name : Slaughterhouse
+	Ubertip : "Produces Abominations, Obsidian Statues, and Meat Wagons. Also contains the Disease Cloud, and Destroyer Form upgrades."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

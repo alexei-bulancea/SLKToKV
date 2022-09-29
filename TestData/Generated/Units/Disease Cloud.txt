@@ -1,0 +1,15 @@
+UnitId : uplg
+Descriprion : 
+	Id : uplg
+	Name : Disease Cloud
+	Ubertip : 
+
+Ability List:
+AbilityId : Aap2
+Descriprion : 
+	Id : Aap2
+	Name : Disease Cloud
+	Ubertip : 
+
+
+Hero ability list:

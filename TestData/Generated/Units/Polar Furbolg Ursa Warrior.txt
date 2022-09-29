@@ -1,0 +1,22 @@
+UnitId : nfpu
+Descriprion : 
+	Id : nfpu
+	Name : Polar Furbolg Ursa Warrior
+	Ubertip : "Heavy melee unit with Command Aura and War Stomp. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Awrs
+Descriprion : 
+	Id : Awrs
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+AbilityId : ACac
+Descriprion : 
+	Id : ACac
+	Name : Command Aura
+	Ubertip : "Gives 20% extra damage to the attacks of nearby friendly units.","Gives 30% extra damage to the attacks of nearby friendly units.","Gives 40% extra damage to the attacks of nearby friendly units.","Gives 50% extra damage to the attacks of nearby friendly units.","Gives 60% extra damage to the attacks of nearby friendly units.","Gives 70% extra damage to the attacks of nearby friendly units.","Gives 80% extra damage to the attacks of nearby friendly units.","Gives 90% extra damage to the attacks of nearby friendly units.","Gives 110% extra damage to the attacks of nearby friendly units."
+
+
+Hero ability list:

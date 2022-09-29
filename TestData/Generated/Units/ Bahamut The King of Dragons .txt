@@ -1,0 +1,29 @@
+UnitId : nbzd
+Descriprion : 
+	Id : nbzd
+	Name : "Bahamut The King of Dragons"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A061
+Descriprion : 
+	Id : A061
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+Hero ability list:

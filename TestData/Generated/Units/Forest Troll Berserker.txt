@@ -1,0 +1,15 @@
+UnitId : nftb
+Descriprion : 
+	Id : nftb
+	Name : Forest Troll Berserker
+	Ubertip : "Rabid axe-thrower. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A09J
+Descriprion : 
+	Id : A09J
+	Name : "Demolish 1"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

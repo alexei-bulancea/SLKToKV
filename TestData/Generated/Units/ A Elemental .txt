@@ -1,0 +1,29 @@
+UnitId : n03X
+Descriprion : 
+	Id : n03X
+	Name : "A Elemental"
+	Ubertip : "Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1FB
+Descriprion : 
+	Id : A1FB
+	Name : "ElementA"
+	Ubertip : "Razor-sharp spikes on the Turtle's shell deal <ANth,DataA1,%>% of an enemy unit's melee attack damage back to it."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A11G
+Descriprion : 
+	Id : A11G
+	Name : "H WSD"
+	Ubertip : "Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+
+
+Hero ability list:

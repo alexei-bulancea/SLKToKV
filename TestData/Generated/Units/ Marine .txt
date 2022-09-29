@@ -1,0 +1,57 @@
+UnitId : N00L
+Descriprion : 
+	Id : N00L
+	Name : "Marine"
+	Ubertip : "Warrior Hero, adept at enhancing ranged attacks and slaying enemies from afar. Can learn Stim Pack, Raynor Rocked, Vital Point, Equipment Upgrade and Cluster Rockets."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A172
+Descriprion : 
+	Id : A172
+	Name : "MS"
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : ANc1
+Descriprion : 
+	Id : ANc1
+	Name : Cluster Rockets
+	Ubertip : "Bombards an area with rockets, dealing up to 800 damage to nearby enemy units and stunning them for 4 seconds.|n|n|cffc3dbffChanneling|r|n|cffc3dbffCooldown: 120 seconds.|r","Bombards an area with rockets, dealing up to 1800 damage to nearby enemy units and stunning them for 5 seconds. |n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 100 seconds.|r","Bombards an area with rockets, dealing up to 6000 damage to nearby enemy units and stunning them for 6 seconds. |n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 80 seconds.|r","Bombards an area with rockets, dealing up to 13000 damage to nearby enemy units and stunning them for 7 seconds. |n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 60 seconds.|r"
+
+
+AbilityId : AHtb
+Descriprion : 
+	Id : AHtb
+	Name : "Storm Bolt M"
+	Ubertip : "Launch a rocket at a target enemy unit, dealing 100 damage and stunning the target for 1.7 seconds also reduces target armor by 70 last 5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Launch a rocket at a target enemy unit, dealing 150 damage and stunning the target for 2 seconds also reduces target armor by 70 last 6.5 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r","Launch a rocket at a target enemy unit, dealing 200 damage and stunning the target for 2.3 seconds also reduces target armor by 70 last 8 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Launch a rocket at a target enemy unit, dealing 250 damage and stunning the target for 2.6 seconds also reduces target armor by 70 last 9.5 seconds.|n|n|cffc3dbffCooldown: 21 seconds.|r","Launch a rocket at a target enemy unit, dealing 300 damage and stunning the target for 2.9 seconds also reduces target armor by 70 last 11 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Launch a rocket at a target enemy unit, dealing 350 damage and stunning the target for 3.2 seconds also reduces target armor by 70 last 12.5 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Launch a rocket at a target enemy unit, dealing 460 damage and stunning the target for 3.5 seconds also reduces target armor by 70 last 14 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Launch a rocket at a target enemy unit, dealing 600 damage and stunning the target for 3.8 seconds also reduces target armor by 70 last 15.5 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Launch a rocket at a target enemy unit, dealing 800 damage and stunning the target for 4 seconds also reduces target armor by 70 last 17 seconds.|n|n|cffc3dbffCooldown: 9 seconds.|r"
+
+
+AbilityId : A080
+Descriprion : 
+	Id : A080
+	Name : "Equipment Upgrade"
+	Ubertip : "Increases 10 attack damage and the marine armor by 3.","Increases 20 attack damage and the marine armor by 6.","Increases 30 attack damage and the marine armor by 9.","Increases 40 attack damage and the marine armor by 12.","Increases 60 attack damage and the marine armor by 16.","Increases 80 attack damage and the marine armor by 20.","Increases 100 attack damage and the marine armor by 25.","Increases 160 attack damage and the marine armor by 30.","Increases 250 attack damage and the marine armor by 40."
+
+
+AbilityId : A175
+Descriprion : 
+	Id : A175
+	Name : "Hitman Mode"
+	Ubertip : "Gives a 50% chance that an attack will do 320 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 6 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Gives a 50% chance that an attack will do 400 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 7 seconds.|n|n|cffc3dbffCooldown: 39 seconds.|r","Gives a 50% chance that an attack will do 500 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 8 seconds.|n|n|cffc3dbffCooldown: 38 seconds.|r","Gives a 50% chance that an attack will do 600 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 9 seconds.|n|n|cffc3dbffCooldown: 37 seconds.|r","Gives a 50% chance that an attack will do 760 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 10 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Gives a 50% chance that an attack will do 1000 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 11 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Gives a 50% chance that an attack will do 1600 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 12 seconds.|n|n|cffc3dbffCooldown: 33 seconds.|r","Gives a 50% chance that an attack will do 2600 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 13 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Gives a 50% chance that an attack will do 4000 bonus damage, no miss and stun an opponent for 0.4 seconds. Last 14 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+
+
+AbilityId : Absk
+Descriprion : 
+	Id : Absk
+	Name : "Stim Pack offic"
+	Ubertip : "Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB1> damage to yourself. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB2> damage to yourself. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 28 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB3> damage to yourself. |nLasts 7 seconds.|n|n|cffc3dbffCooldown: 26 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB4> damage to yourself. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB5> damage to yourself. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB6> damage to yourself. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB7> damage to yourself. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 22 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB8> damage to yourself. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 21 seconds|r","Increases the attack rate of the Marine by <Suhf,DataA1,%>% and move speed by 40%, but deal <Suhf,DataB9> damage to yourself. |nLasts 18 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r"
+
+

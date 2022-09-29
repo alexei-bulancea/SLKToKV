@@ -1,0 +1,15 @@
+UnitId : ntks
+Descriprion : 
+	Id : ntks
+	Name : Tuskarr Sorcerer
+	Ubertip : "Medium ranged unit with Inner Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A09O
+Descriprion : 
+	Id : A09O
+	Name : "MultiShot"
+	Ubertip : "Allows you to hit 2 more units"
+
+
+Hero ability list:

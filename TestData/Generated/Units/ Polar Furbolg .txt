@@ -1,0 +1,8 @@
+UnitId : nfpc
+Descriprion : 
+	Id : nfpc
+	Name : "Polar Furbolg"
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

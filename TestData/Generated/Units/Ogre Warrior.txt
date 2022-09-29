@@ -1,0 +1,8 @@
+UnitId : nogr
+Descriprion : 
+	Id : nogr
+	Name : Ogre Warrior
+	Ubertip : "Standard warrior of the Ogre Legion. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

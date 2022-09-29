@@ -1,0 +1,15 @@
+UnitId : o00O
+Descriprion : 
+	Id : o00O
+	Name : "Ice Tower"
+	Ubertip : "Can frost enemies. "
+
+Ability List:
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+Hero ability list:

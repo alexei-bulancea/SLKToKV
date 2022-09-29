@@ -1,0 +1,29 @@
+UnitId : nmgr
+Descriprion : 
+	Id : nmgr
+	Name : "Titan"
+	Ubertip : "Heavy melee unit that hurls bolts of frost at opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACcb
+Descriprion : 
+	Id : ACcb
+	Name : Frost Bolt
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing <ACcb,DataA1> damage and stunning the target for <ACcb,Dur1> seconds."
+
+
+AbilityId : A03D
+Descriprion : 
+	Id : A03D
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

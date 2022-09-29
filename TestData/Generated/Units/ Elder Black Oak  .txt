@@ -1,0 +1,15 @@
+UnitId : e00K
+Descriprion : 
+	Id : e00K
+	Name : "Elder Black Oak "
+	Ubertip : "Have a chance to stun enemys and deal a high bonus damage but have less atributes."
+
+Ability List:
+AbilityId : A0JS
+Descriprion : 
+	Id : A0JS
+	Name : "Strong Bash"
+	Ubertip : "Gives a 10% chance that an attack will do 750 bonus damage and stun the enemy for 1.5 seconds, this attack cant miss."
+
+
+Hero ability list:

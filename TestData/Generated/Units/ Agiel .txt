@@ -1,0 +1,57 @@
+UnitId : n038
+Descriprion : 
+	Id : n038
+	Name : "Agiel"
+	Ubertip : "Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A11Y
+Descriprion : 
+	Id : A11Y
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 700 points of damage in (700) AOE and slowing the movement and attack rate of nearby enemy units.","2","3","4"
+
+
+AbilityId : A11Z
+Descriprion : 
+	Id : A11Z
+	Name : "AG ARDT"
+	Ubertip : "Hurls a flask of acid at a target.  The flask breaks upon impact, splashing a powerful acid on nearby hostile units.|n|nDecreases armor by <ANab,DataC1>; deals <ANab,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ANab,Dur1> seconds.","2","3","4"
+
+
+AbilityId : A11T
+Descriprion : 
+	Id : A11T
+	Name : "AG S"
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing 400 points of damage and stunning the target for 2 seconds."
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : ANth
+Descriprion : 
+	Id : ANth
+	Name : "Spiked Shell T"
+	Ubertip : "Deal 24% of an enemy unit's melee attack damage back to it."
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A107
+Descriprion : 
+	Id : A107
+	Name : "Magic Reduccion Azze"
+	Ubertip : "Reduces the damage.,%>%."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : usep
+Descriprion : 
+	Id : usep
+	Name : Crypt
+	Ubertip : "Primary troop production building. Trains Ghouls, Crypt Fiends, and Gargoyles. Also contains the upgrades Ghoul Frenzy, Cannibalize, Stone Form, Web and Burrow."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+Hero ability list:

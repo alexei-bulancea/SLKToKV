@@ -1,0 +1,22 @@
+UnitId : n019
+Descriprion : 
+	Id : n019
+	Name : "Fountain of Regeneration"
+	Ubertip : "Heal nearby units and building by a porcentage of his total life but cant attack."
+
+Ability List:
+AbilityId : A0K3
+Descriprion : 
+	Id : A0K3
+	Name : "Healing Fountain 1"
+	Ubertip : "Give 2% regeneration to nearby friendly units and 6 hit points regeneration to towers in 400 area of effect."
+
+
+AbilityId : A0JW
+Descriprion : 
+	Id : A0JW
+	Name : "Life Regeneration Fountain units"
+	Ubertip : 
+
+
+Hero ability list:

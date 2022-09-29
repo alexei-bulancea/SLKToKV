@@ -1,0 +1,22 @@
+UnitId : nrog
+Descriprion : 
+	Id : nrog
+	Name : "Choro"
+	Ubertip : "Light melee unit with Shadowmeld. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+AbilityId : Ashm
+Descriprion : 
+	Id : Ashm
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+Hero ability list:

@@ -1,0 +1,8 @@
+UnitId : h02N
+Descriprion : 
+	Id : h02N
+	Name : "WorkShop"
+	Ubertip : "Can train high range units with siege attack tipe that are good at destroying building."
+
+Ability List:
+Hero ability list:

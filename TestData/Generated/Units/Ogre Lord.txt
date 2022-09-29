@@ -1,0 +1,29 @@
+UnitId : nogl
+Descriprion : 
+	Id : nogl
+	Name : Ogre Lord
+	Ubertip : "Lord of the Ogre Legion. Has a defensive aura, and can cast Shockwave. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A00H
+Descriprion : 
+	Id : A00H
+	Name : "armor defense 4"
+	Ubertip : "Reduces all attacks on that unit by <Assk,DataC1> damage."
+
+
+AbilityId : ACpv
+Descriprion : 
+	Id : ACpv
+	Name : Pulverize
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units."
+
+
+AbilityId : ANbh
+Descriprion : 
+	Id : ANbh
+	Name : Bash
+	Ubertip : "Gives a <ANbh,DataA1>% chance that an attack will do <ANbh,DataC1> bonus damage and stun an opponent for 1.5 seconds."
+
+
+Hero ability list:

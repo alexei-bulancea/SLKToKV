@@ -1,0 +1,15 @@
+UnitId : hmtm
+Descriprion : 
+	Id : hmtm
+	Name : Mortar Team
+	Ubertip : "Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : A0CQ
+Descriprion : 
+	Id : A0CQ
+	Name : "Armagedon"
+	Ubertip : "Calls down hordes of rampaging thunder lizards to explode upon the Beastmaster's enemies. Each exploding lizard deals <ANst,DataC1> damage. |nLasts <ANst,Dur1> seconds."
+
+
+Hero ability list:

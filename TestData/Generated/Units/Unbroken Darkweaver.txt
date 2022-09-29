@@ -1,0 +1,71 @@
+UnitId : nubw
+Descriprion : 
+	Id : nubw
+	Name : Unbroken Darkweaver
+	Ubertip : "Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0V1
+Descriprion : 
+	Id : A0V1
+	Name : "Unbroken Faceless Ult"
+	Ubertip : "Channels powerful warding magic."
+
+
+AbilityId : A0V0
+Descriprion : 
+	Id : A0V0
+	Name : "Mirror Image Unbroken"
+	Ubertip : "Illusions","Confuses the enemy by creating <AOmi,DataA2> illusions of the Blademaster. Dispels all magic from the Blademaster. |nLasts <AOmi,Dur1> seconds.","Confuses the enemy by creating <AOmi,DataA3> illusions of the Blademaster. Dispels all magic from the Blademaster. |nLasts <AOmi,Dur1> seconds."
+
+
+AbilityId : ACsw
+Descriprion : 
+	Id : ACsw
+	Name : Slow
+	Ubertip : "Slows enemy unit's attack rate by <ACsw,DataB1,%>% and movement speed by <ACsw,DataA1,%>%. Lasts <ACsw,Dur1> seconds."
+
+
+AbilityId : A03D
+Descriprion : 
+	Id : A03D
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A1B9
+Descriprion : 
+	Id : A1B9
+	Name : "Critical Strike Unb"
+	Ubertip : "Gives a 23% chance to do 1.4 times normal damage on an attack.","2","3","4"
+
+
+AbilityId : A0GQ
+Descriprion : 
+	Id : A0GQ
+	Name : "Life Regeneration Sacred stregt"
+	Ubertip : 
+
+
+Hero ability list:

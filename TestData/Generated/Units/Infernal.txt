@@ -1,0 +1,22 @@
+UnitId : n00J
+Descriprion : 
+	Id : n00J
+	Name : Infernal
+	Ubertip : "Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

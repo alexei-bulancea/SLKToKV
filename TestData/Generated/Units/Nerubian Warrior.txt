@@ -1,0 +1,15 @@
+UnitId : nnwa
+Descriprion : 
+	Id : nnwa
+	Name : Nerubian Warrior
+	Ubertip : "Light melee unit that carries its young into battle. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0A0
+Descriprion : 
+	Id : A0A0
+	Name : "Web T"
+	Ubertip : 
+
+
+Hero ability list:

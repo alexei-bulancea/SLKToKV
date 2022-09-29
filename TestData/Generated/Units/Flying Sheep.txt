@@ -1,0 +1,15 @@
+UnitId : nshf
+Descriprion : 
+	Id : nshf
+	Name : Flying Sheep
+	Ubertip : "Call upon the Uber Sheep to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,29 @@
+UnitId : ngnw
+Descriprion : 
+	Id : ngnw
+	Name : Gnoll Warden
+	Ubertip : "Light ranged unit that hurls bolts of lightning. Can cast Purge. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A05I
+Descriprion : 
+	Id : A05I
+	Name : "Devotion Aura(Gnoll)"
+	Ubertip : "Gives <ACav,DataA1> additional armor to nearby friendly units."
+
+
+AbilityId : A05H
+Descriprion : 
+	Id : A05H
+	Name : "Bash Gnogoll"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A07Y
+Descriprion : 
+	Id : A07Y
+	Name : "Command Aura (Gnoll)"
+	Ubertip : "Gives extra damage to the attacks of nearby friendly units."
+
+
+Hero ability list:

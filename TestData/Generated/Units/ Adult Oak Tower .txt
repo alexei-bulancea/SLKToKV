@@ -1,0 +1,8 @@
+UnitId : e00G
+Descriprion : 
+	Id : e00G
+	Name : "Adult Oak Tower"
+	Ubertip : "Have more damage, range and hit points."
+
+Ability List:
+Hero ability list:

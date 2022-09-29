@@ -1,0 +1,22 @@
+UnitId : usap
+Descriprion : 
+	Id : usap
+	Name : Sacrificial Pit
+	Ubertip : "Has the Sacrifice ability for turning Acolytes into Shades. Shades are invisible spirits that can see invisible units, but cannot attack."
+
+Ability List:
+AbilityId : Abgs
+Descriprion : 
+	Id : Abgs
+	Name : Blight Growth Small
+	Ubertip : 
+
+
+AbilityId : Asac
+Descriprion : 
+	Id : Asac
+	Name : Sacrifice
+	Ubertip : "Target an Acolyte to sacrifice it and turn it into a Shade. Shades are invisible spirits that can see invisible units. |nShades cannot attack."
+
+
+Hero ability list:

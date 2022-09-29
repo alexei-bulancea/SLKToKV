@@ -1,0 +1,22 @@
+UnitId : npn4
+Descriprion : 
+	Id : npn4
+	Name : Fire
+	Ubertip : "Fierce Pandaren warrior of fire. Has Permanent Immolation and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0NF
+Descriprion : 
+	Id : A0NF
+	Name : "Panda Reflex"
+	Ubertip : "Gives a 17% chance to do 2.1 times normal damage on an attack and 22% chance to evade."
+
+
+AbilityId : Apig
+Descriprion : 
+	Id : Apig
+	Name : Permanent Immolation
+	Ubertip : "Burns nearby enemy units for 60 points of damage per second."
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : H04U
+Descriprion : 
+	Id : H04U
+	Name : "Monk "
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0PU
+Descriprion : 
+	Id : A0PU
+	Name : "Monk Final"
+	Ubertip : "Increases Armor in 600 and hit points regeneration in 600, last 18 seconds.|n|n|cffc3dbffCooldown: 180 seconds.|r","Increases Armor in 800 and hit points regeneration in 800, last 18 seconds.|n|n|cffc3dbffCooldown: 170 seconds.|r","Increases Armor in 1200 and hit points regeneration in 1200, last 18 seconds.|n|n|cffc3dbffCooldown: 150 seconds.|r","Increases Armor in 1800 and hit points regeneration in 1800, last 18 seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r","Increases Armor in 4000 and hit points regeneration in 4000, last 18 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r"
+
+
+AbilityId : A0PS
+Descriprion : 
+	Id : A0PS
+	Name : "Monk Punch"
+	Ubertip : "An ancient technique that hurt internal organs directly, causing 400 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","An ancient technique that hurt internal organs directly, causing 800 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","An ancient technique that hurt internal organs directly, causing 1200 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","An ancient technique that hurt internal organs directly, causing 1600 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","An ancient technique that hurt internal organs directly, causing 2000 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","An ancient technique that hurt internal organs directly, causing 2500 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 26 seconds.|r","An ancient technique that hurt internal organs directly, causing 3000 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","An ancient technique that hurt internal organs directly, causing 4000 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","An ancient technique that hurt internal organs directly, causing 6000 + 18 x strength + 8% of total hit points of the target damage and stun for 6 seconds.|n|n|cffc3dbffCooldown: 21 seconds.|r"
+
+
+AbilityId : A0PT
+Descriprion : 
+	Id : A0PT
+	Name : "Monk Metitation"
+	Ubertip : "",",",",",",",",","Monk meditates to heal himself for 2800 hit points.|n|n|cffc3dbffCooldown: 14 seconds.|r","","Monk meditates to heal himself for 4000 hit points.|n|n|cffc3dbffCooldown: 14 seconds.|r","Monk meditates to heal himself for 6000 hit points.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+
+
+AbilityId : A0PP
+Descriprion : 
+	Id : A0PP
+	Name : "Monk Tekai"
+	Ubertip : "Gives 800 bonus armor, last 6 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 8 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 12 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 14 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 17 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 20 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 24 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Gives 800 bonus armor, last 30 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r."
+
+
+AbilityId : A0ES
+Descriprion : 
+	Id : A0ES
+	Name : "M.A Martial Arts Hermit"
+	Ubertip : "Gives a 4% chance to dodge an attack, 6% chance to deal 3.3 times normal damage and increase base strength by 3.","Gives a 8% chance to dodge an attack, 8% chance to deal 3.3 times normal damage and increase base strength by 6.","Gives a 12% chance to dodge an attack, 10% chance to deal 3.3 times normal damage and increase base strength by 9.","Gives a 16% chance to dodge an attack, 13% chance to deal 3.3 times normal damage and increase base strength by 12.","Gives a 20% chance to dodge an attack, 16% chance to deal 3.3 times normal damage and increase base strength by 15.","Gives a 24% chance to dodge an attack, 20% chance to deal 3.3 times normal damage and increase base strength by 18.","Gives a 28% chance to dodge an attack, 24% chance to deal 3.3 times normal damage and increase base strength by 21.","Gives a 32% chance to dodge an attack, 28% chance to deal 3.3 times normal damage and increase base strength by 24.","Gives a 36% chance to dodge an attack, 33% chance to deal 3.3 times normal damage and increase base strength by 27."
+
+

@@ -1,0 +1,29 @@
+UnitId : h085
+Descriprion : 
+	Id : h085
+	Name : "Dummy Arrow"
+	Ubertip : "Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : A1ML
+Descriprion : 
+	Id : A1ML
+	Name : "Dummy Freeze"
+	Ubertip : "?","Throws a magical hammer at a target enemy unit, dealing <AHtb,DataA2> damage and stunning the target for <AHtb,Dur2> seconds.","Throws a magical hammer at a target enemy unit, dealing <AHtb,DataA3> damage and stunning the target for <AHtb,Dur3> seconds."
+
+
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

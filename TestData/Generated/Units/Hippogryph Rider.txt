@@ -1,0 +1,22 @@
+UnitId : ehpr
+Descriprion : 
+	Id : ehpr
+	Name : Hippogryph Rider
+	Ubertip : "Archer mounted Hippogryph. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Adec
+Descriprion : 
+	Id : Adec
+	Name : Dismount
+	Ubertip : "Dismounts the Archer from the Hippogryph."
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

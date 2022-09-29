@@ -1,0 +1,50 @@
+UnitId : n03I
+Descriprion : 
+	Id : n03I
+	Name : "Fel Demon"
+	Ubertip : "Demonic beast that casts Mana Burn. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1DK
+Descriprion : 
+	Id : A1DK
+	Name : "Frost Bolt Fel"
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 600 damage and frozen the target for 2.8 seconds."
+
+
+AbilityId : A054
+Descriprion : 
+	Id : A054
+	Name : "Attack Speed +120%"
+	Ubertip : 
+
+
+AbilityId : A15V
+Descriprion : 
+	Id : A15V
+	Name : "Mana Burn Fel"
+	Ubertip : "Sends a bolt of negative energy that burns <Ambb,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+AbilityId : ACes
+Descriprion : 
+	Id : ACes
+	Name : Evasion
+	Ubertip : "Gives a <ACes,DataA1,%>% percent chance to avoid an attack."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A15U
+Descriprion : 
+	Id : A15U
+	Name : "Feedback Fel"
+	Ubertip : "Spirit Beast attacks destroy <Afbb,DataA1> mana per hit. The mana combusts, dealing damage to the attacked unit."
+
+
+Hero ability list:

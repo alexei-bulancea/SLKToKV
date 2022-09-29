@@ -1,0 +1,29 @@
+UnitId : nowl
+Descriprion : 
+	Id : nowl
+	Name : Owl Scout
+	Ubertip : 
+
+Ability List:
+AbilityId : A1AZ
+Descriprion : 
+	Id : A1AZ
+	Name : "Rune bird Area Heal/Mana Regain"
+	Ubertip : "Heal all allieds around and restore mana."
+
+
+AbilityId : A03R
+Descriprion : 
+	Id : A03R
+	Name : "Chain Lightning Elder Void.W"
+	Ubertip : "Hurls a bolt of lightning that bounces up to 16 times, dealing 900 damage to the primary target. Each jump deals less damage.","Hurls a bolt of lightning that bounces up to 16 times, dealing 1500 damage to the primary target. Each jump deals less damage.","Hurls a bolt of lightning that bounces up to 16 times, dealing 2500 damage to the primary target. Each jump deals less damage.","Hurls a bolt of lightning that bounces up to 16 times, dealing 3500 damage to the primary target. Each jump deals less damage."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : n05C
+Descriprion : 
+	Id : n05C
+	Name : "Silversmith's brother"
+	Ubertip : "A hearty villager."
+
+Ability List:
+AbilityId : A17B
+Descriprion : 
+	Id : A17B
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

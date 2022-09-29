@@ -1,0 +1,43 @@
+UnitId : nskg
+Descriprion : 
+	Id : nskg
+	Name : "Nightmare"
+	Ubertip : "Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A11J
+Descriprion : 
+	Id : A11J
+	Name : "Knightmare Firebolt"
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit.","2","3","4"
+
+
+AbilityId : A0YA
+Descriprion : 
+	Id : A0YA
+	Name : "Critical Strike Death 2"
+	Ubertip : "sss","2","3","4"
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : A061
+Descriprion : 
+	Id : A061
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : nmgd
+Descriprion : 
+	Id : nmgd
+	Name : "Glacial Titan"
+	Ubertip : "Titans are extremely strong but very slow."
+
+Ability List:
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0LH
+Descriprion : 
+	Id : A0LH
+	Name : "Titan Frost Bolt "
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 15000 damage and frozen the target for 8 seconds.","Throws a magical shard of ice at a target enemy unit, dealing 45000 damage and frozen the target for 8 seconds.","Throws a magical shard of ice at a target enemy unit, dealing 65000 damage and frozen the target for 8 seconds.","Throws a magical shard of ice at a target enemy unit, dealing 80000 damage and frozen the target for 8 seconds.","Throws a magical shard of ice at a target enemy unit, dealing 175000 damage and frozen the target for 8 seconds."
+
+
+AbilityId : A0LJ
+Descriprion : 
+	Id : A0LJ
+	Name : "Titan Frost Nova"
+	Ubertip : "Blasts enemy units with a wave of frost that deals 700 damage in an area and 9000 damage to the target. Cold damage slows units' movement and attack rate for 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Blasts enemy units with a wave of frost that deals 2000 damage in an area and 20000 damage to the target. Cold damage slows units' movement and attack rate for 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Blasts enemy units with a wave of frost that deals 4000 damage in an area and 30000 damage to the target. Cold damage slows units' movement and attack rate for 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Blasts enemy units with a wave of frost that deals 6000 damage in an area and 50000 damage to the target. Cold damage slows units' movement and attack rate for 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Blasts enemy units with a wave of frost that deals 10000 damage in an area and 70000 damage to the target. Cold damage slows units' movement and attack rate for 15 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : A0LE
+Descriprion : 
+	Id : A0LE
+	Name : "Titan Cleaving Attack"
+	Ubertip : "The Titan strikes with such force that 16% of their damage strikes through to enemies near the primary attacked unit in a huge AOE."
+
+
+AbilityId : A0LI
+Descriprion : 
+	Id : A0LI
+	Name : "Titan Breath of Frost "
+	Ubertip : "Breathes a cone of frost at enemy units that deals 13500 initial damage, and 2000 damage per second over 16 seconds.","Breathes a cone of frost at enemy units that deals 27000 initial damage, and 4000 damage per second over 16 seconds.","Breathes a cone of frost at enemy units that deals 39000 initial damage, and 6000 damage per second over 16 seconds.","Breathes a cone of frost at enemy units that deals 55000 initial damage, and 8000 damage per second over 16 seconds.","Breathes a cone of frost at enemy units that deals 78000 initial damage, and 10000 damage per second over 16 seconds."
+
+
+Hero ability list:

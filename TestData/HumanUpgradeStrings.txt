@@ -1,0 +1,696 @@
+[Rhss]
+Name=Control Magic
+Tip=Research Control Ma|cffffcc00g|ric
+Ubertip="Gives Spell Breakers the ability to take control of enemy summoned units."
+Hotkey=G
+[Rhme]
+Name="Iron Forged Swords"
+Tip="Upgrade to Iron Forged |cffffcc00S|rwords","Upgrade to Iron Forged |cffffcc00S|rwords L2","Upgrade to Iron Forged |cffffcc00S|rwords L3","Upgrade to Iron Forged |cffffcc00S|rwords L4","Upgrade to Iron Forged |cffffcc00S|rwords L5","Upgrade to Iron Forged |cffffcc00S|rwords L6","Upgrade to Iron Forged |cffffcc00S|rwords L7","Upgrade to Iron Forged |cffffcc00S|rwords L8","Upgrade to Iron Forged |cffffcc00S|rwords L9","Upgrade to Iron Forged |cffffcc00S|rwords L10","Upgrade to Iron Forged |cffffcc00S|rwords L11","Upgrade to Iron Forged |cffffcc00S|rwords L12","Upgrade to Iron Forged |cffffcc00S|rwords L13"
+Ubertip="Increases the attack damage of all your melee and range units.","Increases the attack damage of all your melee and range units.","Increases the attack damage of all your melee and range units."
+Hotkey=S,S,S
+[Rhra]
+Name=Black Gunpowder,Refined Gunpowder,Imbued Gunpowder
+Tip=Upgrade to Black |cffffcc00G|runpowder,Upgrade to Refined |cffffcc00G|runpowder,Upgrade to Imbued |cffffcc00G|runpowder
+Ubertip="Increases the ranged attack damage of Riflemen, Mortar Teams, Siege Engines and Flying Machines.","Further increases the ranged attack damage of Riflemen, Mortar Teams, Siege Engines and Flying Machines.","Further increases the ranged attack damage of Riflemen, Mortar Teams, Siege Engines and Flying Machines."
+Hotkey=G,G,G
+[Rhar]
+Name="Iron Plating"
+Tip="Upgrade to Iron |cffffcc00P|rlating","Upgrade to Iron |cffffcc00P|rlating Level 2","Upgrade to Iron |cffffcc00P|rlating Level 3","Upgrade to Iron |cffffcc00P|rlating Level 4","Upgrade to Iron |cffffcc00P|rlating Level 5","Upgrade to Iron |cffffcc00P|rlating Level 6","Upgrade to Iron |cffffcc00P|rlating Level 7","Upgrade to Iron |cffffcc00P|rlating Level 8","Upgrade to Iron |cffffcc00P|rlating Level 9","Upgrade to Iron |cffffcc00P|rlating Level 10","Upgrade to Iron |cffffcc00P|rlating Level 11","Upgrade to Iron |cffffcc00P|rlating Level 12","Upgrade to Iron |cffffcc00P|rlating Level 13","Upgrade to Iron |cffffcc00P|rlating Level 14","Upgrade to Iron |cffffcc00P|rlating Level 15","Upgrade to Iron |cffffcc00P|rlating Level 16","Upgrade to Iron |cffffcc00P|rlating Level 17","Upgrade to Iron |cffffcc00P|rlating Level 18","Upgrade to Iron |cffffcc00P|rlating Level 19"
+Ubertip="Increases the armor of all your melee and range units.","Increases the armor of all your melee and range units.","Increases the armor of all your melee and range units."
+Hotkey=P,P,P
+[Rhla]
+Name=Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[Rhac]
+Name=Improved Masonry,Advanced Masonry,Imbued Masonry
+Tip=Upgrade to Improved |cffffcc00M|rasonry,Upgrade to Advanced |cffffcc00M|rasonry,Upgrade to Imbued |cffffcc00M|rasonry
+Ubertip="Increases the armor and hit points of Human buildings.","Further increases the armor and hit points of Human buildings.","Further increases the armor and hit points of Human buildings."
+Hotkey=M,M,M
+[Rhgb]
+Name=Flying Machine Bombs
+Tip=Research Flying Machine |cffffcc00B|rombs
+Ubertip="Allows Flying Machines to attack land units."
+Hotkey=B
+[Rhlh]
+Name=Improved Lumber Harvesting,Advanced Lumber Harvesting
+Tip=Improved |cffffcc00L|rumber Harvesting,Advanced |cffffcc00L|rumber Harvesting
+Ubertip="Increases the amount of lumber that Peasants can carry by <Rhlh,mod1>.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[Rhde]
+Name=Defend
+Tip=Research |cffffcc00D|refend
+UberTip="Allows Footmen to use the Defend ability, which increases their defensive capabilities against Piercing attacks."
+Hotkey=D
+[Rhan]
+Name="Muscular Training"
+Tip="Research |cffffcc00M|ruscular Training","Research |cffffcc00M|ruscular Training Level 2","Research |cffffcc00M|ruscular Training Level 3","Research |cffffcc00M|ruscular Training Level 4","Research |cffffcc00M|ruscular Training Level 5","Research |cffffcc00M|ruscular Training Level 6","Research |cffffcc00M|ruscular Training Level 7","Research |cffffcc00M|ruscular Training Level 8","Research |cffffcc00M|ruscular Training Level 9"
+Ubertip="Increases the maximum hit points of all your melee and range units by 8%."
+Hotkey=M
+[Rhpt]
+Name=Priest Adept Training,Priest Master Training
+Tip=Pries|cffffcc00t|r Adept Training,Pries|cffffcc00t|r Master Training
+Ubertip="Increases Priests' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Dispel Magic.","Increases Priests' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Inner Fire."
+Hotkey=T,T
+[Rhst]
+Name=Sorceress Adept Training,Sorceress Master Training
+Tip=S|cffffcc00o|rrceress Adept Training,S|cffffcc00o|rrceress Master Training
+Ubertip="Increases Sorceresses' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Invisibility.","Increases Sorceresses' mana capacity, mana regeneration rate, hit points, and gives them the ability to cast Polymorph."
+Hotkey=O,O
+[Rhri]
+Name=Long Rifles
+Tip=Upgrade to |cffffcc00L|rong Rifles
+Ubertip="Increases the range of Riflemen attacks."
+Hotkey=L
+[Rhse]
+Name=Magic Sentry
+Tip=Research |cffffcc00M|ragic Sentry
+Ubertip="Provides Human towers with the ability to detect invisible units."
+Hotkey=M
+[Rhfl]
+Name=Flare
+Tip=Research Fla|cffffcc00r|re
+Ubertip="Provides Mortar Teams with the Flare ability. Flares can be used to reveal any area of the map. |nCan see invisible units."
+Hotkey=R
+[Rhhb]
+Name=Storm Hammers
+Tip=Research Storm |cffffcc00H|rammers
+Ubertip="Causes a Gryphon Rider's attacks to damage multiple units."
+Hotkey=H
+[Rhrt]
+Name=Barrage
+Tip=Research Barra|cffffcc00g|re
+Ubertip="Upgrades Siege Engines, giving them the Barrage ability, which allows them to damage nearby enemy air units."
+Hotkey=G
+[Rhpm]
+Name=Backpack
+EditorSuffix= (Human)
+Tip=Research |cffffcc00B|rackpack
+Ubertip="Gives specific Human ground units the ability to carry items."
+Hotkey=B
+[Rhfc]
+Name=Flak Cannons
+Tip=Research Flak |cffffcc00C|rannons
+Ubertip="Upgrades the weapons on Flying Machines to give them an area effect damage attack against air units."
+Hotkey=C
+[Rhfs]
+Name=Fragmentation Shards
+Tip=Research Fragmentation |cffffcc00S|rhards
+Ubertip="Upgrades the mortar shells on Mortar Teams to increase the damage they deal to Unarmored and Medium armor units."
+Hotkey=S
+[R02W]
+Name=Long Rifles
+Tip=Upgrade to |cffffcc00L|rong Rifles
+Ubertip="Increases the range of Riflemen attacks."
+Hotkey=L
+[R02V]
+Name="BLvUPG H"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02U]
+Name="BLvUPG Bear"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02S]
+Name="SkMU"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02R]
+Name="SkGU"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02Q]
+Name="SkWU"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02P]
+Name="Dmg SIT"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02O]
+Name="DC CAT1"
+Tip=Research Barra|cffffcc00g|re
+Ubertip="Upgrades Siege Engines, giving them the Barrage ability, which allows them to damage nearby enemy air units."
+Hotkey=G
+[R02N]
+Name="DC Dragon Skin BD"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R02M]
+Name="GAW"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02L]
+Name="WB RSP"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02K]
+Name="WB Release P"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02J]
+Name="WB Hidden P"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02I]
+Name="s"
+Tip="WB HP","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="WB hit points","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02H]
+Name="ArmorU"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02G]
+Name="SKT"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02F]
+Name="InH2"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R02E]
+Name="InH1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R028]
+Name="Dexterity UP"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R027]
+Name="Boulder Covering U"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R026]
+Name="Archery Upgrade"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R021]
+Name="Weapon Improve"
+Tip="Weapon Improve","Weapon Improve"
+Ubertip="Increases Damage of your hero by 22.","Increases Damage of your hero by 22."
+Hotkey=L,L
+[R01X]
+Name="Flak Cannon Power"
+Tip="Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power","Flak Cannon Power"
+UberTip=",",",",",",",",",",",",",",",",",","Increases base damage of the Flak cannon by 10","","Increases base damage of the Flak cannon by 10","Increases base damage of the Flak cannon by 10","","Increases base damage of the Flak cannon by 10","Increases base damage of the Flak cannon by 10","","Increases base damage of the Flak cannon by 10"
+Hotkey=L
+[R01W]
+Name="Flak Cannon Resistance"
+Tip="Flak Cannon Resistance"
+Ubertip="Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5.","Increases Flak Cannon hit points by 200 and armor by 5."
+Hotkey=L
+[R01V]
+Name="Magroth Blessing"
+Tip="Research Magroth Blessing ","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Give you meele and range units high resistance agains Dragon and Spell damage.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01U]
+Name="IIIU"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R01T]
+Name="Dark Knight BD"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R01R]
+Name="Typh D"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01L]
+Name="Mur Upgrade Ut"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01K]
+Name="Ass 2"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01J]
+Name="Ass 1"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01I]
+Name="Smithing Upgrade"
+Tip="Research Shield Ability","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Give Footmen the ability to block some attacks.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01D]
+Name="Flying Machine Dargon 4"
+Tip=Research Flying Machine |cffffcc00B|rombs
+Ubertip="Allows Flying Machines to attack land units."
+Hotkey=B
+[R01C]
+Name="Flying Machine Dargon 3"
+Tip=Research Flying Machine |cffffcc00B|rombs
+Ubertip="Allows Flying Machines to attack land units."
+Hotkey=B
+[R01B]
+Name="Flying Machine Dargon 2"
+Tip=Research Flying Machine |cffffcc00B|rombs
+Ubertip="Allows Flying Machines to attack land units."
+Hotkey=B
+[R01A]
+Name="Flying Machine Dargon 1"
+Tip=Research Flying Machine |cffffcc00B|rombs
+Ubertip="Allows Flying Machines to attack land units."
+Hotkey=B
+[R019]
+Name="Glacial Level 6"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R018]
+Name="Glacial Level 8"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R017]
+Name="Glacial Level 5"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R016]
+Name="Glacial Level 3"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R015]
+Name="Glacial Level 7"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R014]
+Name="Glacial Level 9"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R013]
+Name="Glacial Level 4"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R012]
+Name="Glacial Level 2"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R011]
+Name="Glacial Level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00Z]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00Y]
+Name="Armor MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00X]
+Name="Especial Buzan"
+Tip="Especial Buzan","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Especial Buzan","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00W]
+Name="Animals Mastery"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00R]
+Name="Build Tower Level 9"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00Q]
+Name="Build Tower Level 4"
+Tip="Build Tower Level 4","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00P]
+Name="Town Hall Level 9"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00O]
+Name="Town Hall Level 6"
+Tip="Research Empire Level 6","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 6","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00N]
+Name="Town Hall Level 3"
+Tip="Research Empire Level 3","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00M]
+Name="Research Advanced Technology"
+Tip="Research Interdimensional Matter Transporter"
+Ubertip="Combining the latest knowledge in magic and technology make posible the interdimensional travel."
+Hotkey=L
+[R00L]
+Name="Research Advanced Technology L2"
+Tip="Research Advanced Technology","Research Advanced Technology L2"
+Ubertip="Allows to train new units.","Allows to train new units."
+Hotkey=L,L
+[R00J]
+Name="Research Heal"
+Tip="Research Heal","Research Heal Level 2","Research Heal Level 3","Research Heal Level 4"
+Ubertip="Allows Obelisk to cast Heal.","Increases level of Heal to 2","Increases level of Heal to 3","Increases level of Heal to 4"
+Hotkey=G
+[R00I]
+Name="Research Thunder Level 4"
+Tip="Research Thunder","Research Thunder Level 2","Research Thunder Level 3","Research Thunder Level 4"
+UberTip=",",",","Increases level of Thunder to 3"
+Hotkey=D
+[R00E]
+Name="Research Misil"
+Tip="Research Misil","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Air Machines can lauch rockets.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00B]
+Name="Research Accuracy"
+Tip="Research Accuracy","Research Accuracy Level 2","Research Accuracy Level 3","Research Accuracy Level 4","Research Accuracy Level 5","Research Accuracy Level 6","Research Accuracy Level 7"
+Ubertip="Increases Shandris attack range."
+Hotkey=A
+[R006]
+Name="Research Shield Ability"
+Tip="Research Shield Ability","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Give Footmen the ability to block some attacks.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R005]
+Name="Research Heavy Attacks"
+Tip="Research Heavy Attacks","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Increases Mechanic Warrior Attack Damage.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R004]
+Name="Research Complete Defense Ability"
+Tip="Research Complete Defense Ability","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Give Light warrior the ability to increases his defense a lot, for a short time.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R002]
+Name="Research Knight Bash"
+Tip="Research Knight Bash","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Give Knight a chance to stun his enemies with every hit.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R000]
+Name=Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords
+Tip=Upgrade to Iron Forged |cffffcc00S|rwords,Upgrade to Steel Forged |cffffcc00S|rwords,Upgrade to Mithril Forged |cffffcc00S|rwords
+Ubertip="Increases the attack damage of Militia, Footmen, Spell Breakers, Dragonhawk Riders, Gryphon Riders and Knights.","Further increases the attack damage of Militia, Footmen, Spell Breakers, Dragonhawk Riders, Gryphon Riders and Knights.","Further increases the attack damage of Militia, Footmen, Spell Breakers, Dragonhawk Riders, Gryphon Riders and Knights."
+Hotkey=S,S,S
+[R043]
+Name="BLvUPG Bear"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R044]
+Name="Glacial's Vitality upgrade"
+Tip="Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade","Glacial's Vitality upgrade"
+Ubertip="Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n0","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n5000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n10000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n15000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n20000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n25000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n30000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n35000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n40000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n45000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n50000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n55000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n60000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n65000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n70000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n75000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n80000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n85000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n90000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n95000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n100000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n105000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n110000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n115000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n120000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n125000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n130000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n135000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n140000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n145000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n150000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n155000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n160000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n165000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n170000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n175000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n180000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n185000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n190000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n195000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n200000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n205000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n210000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n215000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n220000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n225000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n230000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n235000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n240000","Increase the Hitpoints of your Glacial Titans by 5000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n245000"
+Hotkey=,
+[R045]
+Name="Glacial's Armor upgrade"
+Tip="Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade","Glacial's Armor upgrade"
+Ubertip="Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n0","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n20","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n40","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n60","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n80","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n100","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n120","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n140","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n160","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n180","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n200","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n220","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n240","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n260","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n280","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n300","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n320","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n340","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n360","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n380","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n400","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n420","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n440","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n460","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n480","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n500","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n520","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n540","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n560","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n580","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n600","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n620","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n640","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n660","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n680","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n700","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n720","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n740","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n760","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n780","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n800","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n820","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n840","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n860","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n880","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n900","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n920","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n940","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n960","Increase the Armor of your Glacial Titans by 20.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n980"
+Hotkey=,
+[R046]
+Name="Glacial's Weapon upgrade"
+Tip="Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade","Glacial's Weapon upgrade"
+Ubertip="Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n0","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n150","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n300","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n450","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n600","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n750","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n900","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1050","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1200","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1350","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1500","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1650","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1800","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1950","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2100","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2250","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2400","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2550","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2700","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2850","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3000","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3150","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3300","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3450","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3600","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3750","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3900","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4050","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4200","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4350","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4500","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4650","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4800","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4950","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5100","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5250","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5400","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5550","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5700","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5850","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6000","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6150","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6300","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6450","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6600","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6750","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6900","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7050","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7200","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7350","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7500","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7650","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7800","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7950","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8100","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8250","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8400","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8550","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8700","Increase the Damage of your Glacial Titans by 150.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8850"
+Hotkey=,
+[R047]
+Name="Warchief's Vitality Upgrade"
+Tip="Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade","Warchief's Vitality Upgrade"
+Ubertip="Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n0","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n4000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n8000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n12000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n16000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n20000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n24000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n28000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n32000","Increase the Hitpoints of your Warchief Titans by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n36000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n40000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n44000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n48000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n52000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n56000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n60000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n64000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n68000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n72000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n76000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n80000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n84000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n88000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n92000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n96000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n100000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n104000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n108000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n112000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n116000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n120000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n124000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n128000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n132000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n136000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n140000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n144000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n148000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n152000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n156000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n160000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n164000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n168000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n172000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n176000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n180000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n184000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n188000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n192000","Increase the Hitpoints of your Warchief Titan's by 4000.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n196000"
+Hotkey=,
+[R048]
+Name="Warchief's Armor upgrade"
+Tip="Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade","Warchief's Armor upgrade"
+Ubertip="Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n0","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n15","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n30","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n45","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n60","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n75","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n90","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n105","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n120","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n135","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n150","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n165","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n180","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n195","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n210","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n225","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n240","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n255","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n270","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n285","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n300","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n315","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n330","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n345","Increase the Armor of your Warchief Titans by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n360","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n375","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n390","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n405","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n420","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n435","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n450","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n465","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n480","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n495","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n510","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n525","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n540","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n555","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n570","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n585","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n600","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n615","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n630","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n645","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n660","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n675","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n690","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n705","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n720","Increase the Armor of your Warchief Titan's by 15.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n735"
+Hotkey=,
+[R049]
+Name="Warchief's Weapon Upgrade"
+Tip="Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade","Warchief's Weapon Upgrade"
+Ubertip="Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n0","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n200","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n400","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n600","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n800","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1000","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1200","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1400","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1600","Increase the Damage of your Warchief Titans by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n6800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n7800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n8800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n9000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n9200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n9400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n9600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n9800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n10000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n10200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n10400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n10600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n10800","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n11000","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n11200","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n11400","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n11600","Increase the Damage of your Warchief Titan's by 200.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n11800"
+Hotkey=,
+[R04A]
+Name="Nature's Weapon upgrade"
+Tip="Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade","Nature's Weapon upgrade"
+Ubertip="Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n0","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n100","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n200","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n300","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n400","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n500","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n600","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n700","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n800","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n900","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1000","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1100","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1200","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1300","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1400","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1500","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1600","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1700","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1800","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n1900","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2000","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2100","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2200","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2300","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2400","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2500","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2600","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2700","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2800","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n2900","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3000","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3100","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3200","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3300","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3400","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3500","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3600","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3700","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3800","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n3900","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4000","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4100","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4200","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4300","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4400","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4500","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4600","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4700","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4800","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n4900","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5000","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5100","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5200","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5300","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5400","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5500","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5600","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5700","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5800","Increase the Damage of your Nature Titans by 100.|n|n|CFF00FFFFCurrent base damage bonus from this upgrade:|r|n5900"
+Hotkey=,
+[R04B]
+Name="Nature's Armor upgrade"
+Tip="Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade","Nature's Armor upgrade"
+Ubertip="Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n0","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n25","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n50","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n75","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n100","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n125","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n150","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n175","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n200","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n225","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n250","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n275","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n300","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n325","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n350","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n375","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n400","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n425","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n450","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n475","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n500","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n525","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n550","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n575","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n600","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n625","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n650","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n675","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n700","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n725","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n750","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n775","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n800","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n825","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n850","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n875","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n900","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n925","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n950","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n975","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1000","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1025","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1050","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1075","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1100","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1125","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1150","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1175","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1200","Increase the Armor of your Nature Titans by 25.|n|n|CFF00FFFFCurrent base armor bonus from this upgrade:|r|n1225"
+Hotkey=,
+[R04C]
+Name="Nature's Vitality upgrade"
+Tip="Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade","Nature's Vitality upgrade"
+Ubertip="Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n0","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n5500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n11000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n16500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n23000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n28500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n34000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n39500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n45000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n50500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n56000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n61500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n67000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n72500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n78000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n83500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n89000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n94500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n100000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n105500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n111000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n116500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n122000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n127500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n133000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n138500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n144000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n149500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n155000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n160500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n166000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n171500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n177000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n182500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n188000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n193500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n199000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n204500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n210000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n215500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n221000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n226500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n232000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n237500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n243000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n248500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n254000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n259500","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n265000","Increase the Hitpoints of your Nature Titans by 5500.|n|n|CFF00FFFFCurrent base hitpoints bonus from this upgrade:|r|n270500"
+Hotkey=,
+[R057]
+Name="Serpentwardup"
+Tip="",""
+Ubertip="",""
+Hotkey=L,L
+[R056]
+Name="Shadowhunterup"
+Tip="",""
+Ubertip="",""
+Hotkey=L,L
+[R058]
+Name="Nightmare Skeleton upgrade (abil)"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R059]
+Name="Skeletal mage upgrade (abil)"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R05A]
+Name="Necro Skeleton up"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R05B]
+Name="Skeletal Mage up"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R05C]
+Name="Golem up"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R05D]
+Name="Golem HP up"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R05E]
+Name="Necro Skeleton HP up"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R05G]
+Name="Necro Skeleton up"
+Tip="",""
+Ubertip="",""
+Hotkey=L,L
+[R05H]
+Name="Skeleton Mage up (armor and damage)"
+Tip="",""
+Ubertip="",""
+Hotkey=L,L
+[R05I]
+Name="Eternal Ledger HP"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05J]
+Name="Mercenary Upgrade"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R00T]
+Name="Armor Footman up"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R00V]
+Name="LC martial arts"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R010]
+Name="Water elemental skillup"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R01E]
+Name="Water elemental Statsup"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R01F]
+Name="Zombie MS"
+Tip=Upgrade to Studded Leather |cffffcc00A|rrmor,Upgrade to Reinforced Leather |cffffcc00A|rrmor,Upgrade to Dragonhide |cffffcc00A|rrmor
+Ubertip="Increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders.","Further increases the armor of Riflemen, Mortar Teams, Dragonhawk Riders and Gryphon Riders."
+Hotkey=A,A,A
+[R01G]
+Name="Dark knight damage"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01H]
+Name="Smithing Upgrade"
+Tip="Research Shield Ability","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Give Footmen the ability to block some attacks.","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01M]
+Name="Animals Mastery"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01N]
+Name="Animals Mastery"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01Q]
+Name="Blood Grunt level 9"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01S]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R025]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05K]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05L]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05M]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05N]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05O]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05P]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05Q]
+Name="BloodThirsty level 1"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05R]
+Name="Blood Grunt level 9"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05S]
+Name="Glacial Level 9"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01O]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R01P]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05T]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05V]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05W]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05X]
+Name="Eternal Ledger HP"
+Tip="Research Empire Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 9","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05Y]
+Name="Damage MURD"
+Tip="Build Tower Level 9","Advanced |cffffcc00L|rumber Harvesting"
+Ubertip="Research Empire Level 3","Further increases the amount of lumber that Peasants can carry by <Rhlh,mod1>."
+Hotkey=L,L
+[R05Z]
+Name="Glacial's Speed upgrade"
+Tip="Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade","Glacial's Speed upgrade"
+Ubertip="Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|n0","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 12 and attack speed bonus: 10%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 24 and attack speed bonus: 20%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 36 and attack speed bonus: 30%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 48 and attack speed bonus: 40%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 60 and attack speed bonus: 50%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 72 and attack speed bonus: 60%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 84 and attack speed bonus: 70%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 96 and attack speed bonus: 80%","Increase the movementspeed by 12 and attack speed by 10% of your Glacial Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 108 and attack speed bonus: 90%"
+Hotkey=,,
+[R060]
+Name="Warchief's Speed upgrade"
+Tip="Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade","Warchief's Speed upgrade"
+Ubertip="Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|n0","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 15 and attack speed bonus: 15%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 30 and attack speed bonus: 30%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 45 and attack speed bonus: 45%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 60 and attack speed bonus: 60%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 75 and attack speed bonus: 75%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 90 and attack speed bonus: 90%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 105 and attack speed bonus: 105%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 120 and attack speed bonus: 120%","Increase the movementspeed by 15 and attack speed by 15% of your Warchief Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 135 and attack speed bonus: 135%"
+Hotkey=,,
+[R061]
+Name="Nature's Speed upgrade"
+Tip="Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade","Nature's Speed upgrade"
+Ubertip="Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|n0","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 10 and attack speed bonus: 9%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 20 and attack speed bonus: 18%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 30 and attack speed bonus: 27%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 40 and attack speed bonus: 36%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 50 and attack speed bonus: 45%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 60 and attack speed bonus: 54%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 70 and attack speed bonus: 63%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 80 and attack speed bonus: 72%","Increase the movementspeed by 10 and attack speed by 9% of your Nature Titans.|n|n|CFF00FFFFCurrent bonus from this upgrade:|r|nMovement speed bonus: 90 and attack speed bonus: 81%"
+Hotkey=,,

@@ -1,0 +1,43 @@
+UnitId : umtw
+Descriprion : 
+	Id : umtw
+	Name : Meat Wagon
+	Ubertip : "Corpse storage machine. Also serves as long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Disease Cloud ability. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : Sch2
+Descriprion : 
+	Id : Sch2
+	Name : Cargo Hold
+	Ubertip : 
+
+
+AbilityId : Amel
+Descriprion : 
+	Id : Amel
+	Name : Get Corpse
+	Ubertip : "Picks up a nearby corpse for later use."
+
+
+AbilityId : Amed
+Descriprion : 
+	Id : Amed
+	Name : Drop Corpse
+	Ubertip : "Drops all corpses for immediate use."
+
+
+AbilityId : Apts
+Descriprion : 
+	Id : Apts
+	Name : Disease Cloud
+	Ubertip : "Drops a Disease Cloud with each attack. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+
+
+AbilityId : Aexh
+Descriprion : 
+	Id : Aexh
+	Name : Exhume Corpses
+	Ubertip : "Generates a corpse within the Meat Wagon every <Aexh,Dur1> seconds."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : nvul
+Descriprion : 
+	Id : nvul
+	Name : Vulture
+	Ubertip : "Call upon the spirit of Vulture to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

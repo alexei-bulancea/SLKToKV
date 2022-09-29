@@ -1,0 +1,43 @@
+UnitId : eden
+Descriprion : 
+	Id : eden
+	Name : Ancient of Wonders
+	Ubertip : "Creates a shop with purchasable items. The items available depend upon what level of upgrade your Tree of Life has (Tree of Life, Tree of Ages, or Tree of Eternity) and which buildings you have. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aall
+Descriprion : 
+	Id : Aall
+	Name : Shop Sharing, Allied Bldg.
+	Ubertip : 
+
+
+AbilityId : Aeat
+Descriprion : 
+	Id : Aeat
+	Name : Eat Tree
+	Ubertip : "Consume a tree to restore <Aeat,DataC1> hit points over <Aeat,Dur1> seconds."
+
+
+AbilityId : Aro1
+Descriprion : 
+	Id : Aro1
+	Name : Root
+	Ubertip : "Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

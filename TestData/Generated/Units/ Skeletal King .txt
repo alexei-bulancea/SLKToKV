@@ -1,0 +1,43 @@
+UnitId : n04I
+Descriprion : 
+	Id : n04I
+	Name : "Skeletal King"
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+AbilityId : A1PD
+Descriprion : 
+	Id : A1PD
+	Name : Impale
+	Ubertip : "Slams the ground, sending a wave of force out in a straight line, dealing 1400 damage and hurling enemy ground units into the air in their wake, stunning them for 3 seconds."
+
+
+AbilityId : A1PE
+Descriprion : 
+	Id : A1PE
+	Name : "skelekingcl"
+	Ubertip : "Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage."
+
+
+Hero ability list:

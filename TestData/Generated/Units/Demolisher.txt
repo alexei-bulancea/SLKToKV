@@ -1,0 +1,15 @@
+UnitId : ocat
+Descriprion : 
+	Id : ocat
+	Name : Demolisher
+	Ubertip : "Long-range siege weaponry. Effective against buildings but slow. Can learn the Burning Oil ability."
+
+Ability List:
+AbilityId : Abof
+Descriprion : 
+	Id : Abof
+	Name : Burning Oil
+	Ubertip : "Drenches the Demolisher ammo in burning oil, causing them to light the ground on fire and burn enemy units."
+
+
+Hero ability list:

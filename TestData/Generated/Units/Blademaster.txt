@@ -1,0 +1,50 @@
+UnitId : O000
+Descriprion : 
+	Id : O000
+	Name : Blademaster
+	Ubertip : "Cunning Hero, adept at quickly killing individual units and creating confusion among enemies. Can learn Shadow Legion, Knock out, Clean Cut and Tornado."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A02S
+Descriprion : 
+	Id : A02S
+	Name : "Clean Cut"
+	Ubertip : "Gives a 15% chance that an attack will do 120 bonus damage.","Gives a 16% chance that an attack will do 200 bonus damage.","Gives a 17% chance that an attack will do 290 bonus damage.","Gives a 18% chance that an attack will do 390 bonus damage.","Gives a 19% chance that an attack will do 500 bonus damage.","Gives a 20% chance that an attack will do 640 bonus damage.","Gives a 21% chance that an attack will do 800 bonus damage.","Gives a 21% chance that an attack will do 1200 bonus damage.","Gives a 23% chance that an attack will do 1700 bonus damage. Have 3% chance to reduce attack speed or armor of attacked unit permanently or deal a random amount of spell damage based on Blademaster's level. Debuffs stack but they have a maximum limit."
+
+
+AbilityId : AOwk
+Descriprion : 
+	Id : AOwk
+	Name : Wind Walk
+	Ubertip : "The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur1> seconds, the attack will do <AOwk,DataC1> bonus damage.|n|n|cffc3dbffCooldown: 20 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur2> seconds, the attack will do <AOwk,DataC2> bonus damage.|n|n|cffc3dbffCooldown: 16 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur3> seconds, the attack will do <AOwk,DataC3> bonus damage.|n|n|cffc3dbffCooldown: 12 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur4> seconds, the attack will do <AOwk,DataC4> bonus damage.|n|n|cffc3dbffCooldown: 9 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur5> seconds, the attack will do <AOwk,DataC5> bonus damage.|n|n|cffc3dbffCooldown: 6 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur6> seconds, the attack will do <AOwk,DataC6> bonus damage.|n|n|cffc3dbffCooldown: 5 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur7> seconds, the attack will do <AOwk,DataC7> bonus damage.|n|n|cffc3dbffCooldown: 4 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur8> seconds, the attack will do <AOwk,DataC8> bonus damage.|n|n|cffc3dbffCooldown: 3 seconds|r","The Blademaster moves so fast that it is impossible to see it. Move to the fastest speed for <AOwk,Dur9> seconds, the attack will do <AOwk,DataC9> bonus damage.|n|n|cffc3dbffCooldown: 2 seconds|r"
+
+
+AbilityId : A1M9
+Descriprion : 
+	Id : A1M9
+	Name : "Rush and Slash"
+	Ubertip : "The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 1 times, dealing 25 + Agility*2 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 2 times, dealing 50 + Agility*4 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 3 times, dealing 100 + Agility*6 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 4 times dealing, 150 + Agility*8 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 5 times, dealing 200 + Agility*10 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 6 times, dealing 250 + Agility*12 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 7 times, dealing 300 + Agility*14 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 8 times, dealing 350 + Agility*16 in spell damage damage per attack.","The blademaster rushes to his enemy target. Once he reaches his target, he then attacks the target 9 times, dealing 400 + Agility*18 in spell damage damage per attack."
+
+
+AbilityId : A02Q
+Descriprion : 
+	Id : A02Q
+	Name : "Shadows Legion"
+	Ubertip : "Creating 3 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 40 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r.","Creating 4 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 43 seconds.|n|n|cffc3dbffCooldown: 51 seconds|r.","Creating 5 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 46 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Creating 6 illusion of the Blademaster that deals 58% normal damage and receive 10 times normal damage. Dispels all magic from the Blademaster. |nLasts 49 seconds.|n|n|cffc3dbffCooldown: 49 seconds|r.","Creating 7 illusion of the Blademaster that deals 58% normal damage and receive 9 times normal damage. Dispels all magic from the Blademaster. |nLasts 52 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r.","Creating 7 illusion of the Blademaster that deals 58% normal damage and receive 8 times normal damage. Dispels all magic from the Blademaster. |nLasts 60 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r.","Creating 8 illusion of the Blademaster that deals 58% normal damage and receive 7 times normal damage. Dispels all magic from the Blademaster. |nLasts 65 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r.","Creating 8 illusion of the Blademaster that deals 58% normal damage and receive 6 times normal damage. Dispels all magic from the Blademaster. |nLasts 75 seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Creating 9 illusion of the Blademaster that deals 58% normal damage and receive 5 times normal damage. Dispels all magic from the Blademaster. |nLasts 80 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r."
+
+
+AbilityId : AOww
+Descriprion : 
+	Id : AOww
+	Name : "Tornado"
+	Ubertip : "Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 140 per second. |n|n|cffc3dbffCooldown: 130 seconds|r","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 280 per second. |n|n|cffc3dbffCooldown: 100 seconds|r.","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 450 per second.|n|n|cffc3dbffCooldown: 70 seconds|r.","Causes a bladestorm of destructive force around the Blademaster, rendering him immune to magic and create a tornado last 18 seconds.Tornado damage 200 per second in 380 AOE and 100 damage in 750 AOE, bladestorm damage 800 per second. |n|n|cffc3dbffCooldown: 40 seconds|r."
+
+

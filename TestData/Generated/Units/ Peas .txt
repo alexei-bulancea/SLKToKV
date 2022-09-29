@@ -1,0 +1,15 @@
+UnitId : h07S
+Descriprion : 
+	Id : h07S
+	Name : "Peas"
+	Ubertip : "Basic worker unit. Can build towers but cant Repair. "
+
+Ability List:
+AbilityId : S01A
+Descriprion : 
+	Id : S01A
+	Name : "NITAUH"
+	Ubertip : ".","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+Hero ability list:

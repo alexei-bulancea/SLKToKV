@@ -1,0 +1,50 @@
+UnitId : N025
+Descriprion : 
+	Id : N025
+	Name : Beastmaster
+	Ubertip : "Warrior Hero, adept at summoning beasts into battle. Can learn Summon Bear, Summon Quilbeast, Summon Hawk, and Stampede. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0CM
+Descriprion : 
+	Id : A0CM
+	Name : "Summon Bear TT"
+	Ubertip : "Summons a powerful and resistant bear to attack your enemies.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r","Summons a powerful and resistant bear to attack your enemies and can carry your items but cant use its, if bear dies or its summoned again it will droop the items.|n|n|cffc3dbffCooldown: 150 seconds.|r"
+
+
+AbilityId : A0CN
+Descriprion : 
+	Id : A0CN
+	Name : "Battle Roar TT"
+	Ubertip : "Gives you and your summon units 15 bonus attack damage, 2 hp regeneration per second and 4 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Gives you and your summon units 30 bonus attack damage, 4 hp regeneration per second and 8 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 39 seconds.|r","Gives you and your summon units 45 bonus attack damage, 7 hp regeneration per second and 12 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 38 seconds.|r","Gives you and your summon units 60 bonus attack damage, 10 hp regeneration per second and 16 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Gives you and your summon units 75 bonus attack damage, 13 hp regeneration per second and 20 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","Gives you and your summon units 90 bonus attack damage, 16 hp regeneration per second and 24 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Gives you and your summon units 120 bonus attack damage, 20 hp regeneration per second and 28 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Gives you and your summon units 180 bonus attack damage, 30 hp regeneration per second and 36 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 27 seconds.|r","Gives you and your summon units 280 bonus attack damage, 50 hp regeneration per second and 50 bonus armor. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r"
+
+
+AbilityId : ANsw
+Descriprion : 
+	Id : ANsw
+	Name : Summon Hawk
+	Ubertip : "Summons a proud hawk to attack your enemies. |nLasts <ANsw,Dur1> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons a proud hawk to attack your enemies. |nLasts <ANsw,Dur2> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons a proud hawk to attack your enemies. |nLasts <ANsw,Dur3> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons a proud hawk to attack your enemies. |nLasts <ANsw,Dur4> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons 2 proud hawks to attack your enemies. |nLasts <ANsw,Dur5> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons 2 proud hawks to attack your enemies. |nLasts <ANsw,Dur6> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons 2 proud hawks to attack your enemies. |nLasts <ANsw,Dur7> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons 2 proud hawks to attack your enemies. |nLasts <ANsw,Dur8> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r.","Summons 2 proud hawks to attack your enemies. |nLasts <ANsw,Dur9> seconds.|n|n|cffc3dbffCooldown: 70 seconds|r."
+
+
+AbilityId : A0CP
+Descriprion : 
+	Id : A0CP
+	Name : "Beast Mastery"
+	Ubertip : "Give the Beast Master +10 strength +4 intelligence, increases bear and hawk hit points by 40%, damage by 50, armor of bear in 13 and armor of hawk in 4 .","Give the Beast Master +22 strength +9 intelligence, increases bear and hawk hit points by 120%, damage by 200, armor of bear in 26 and armor of hawk in 8 .","Give the Beast Master +48 strength +23 intelligence, increases bear and hawk hit points by 200%, damage by 350, armor of bear in 39 and armor of hawk in 12 .","Give the Beast Master +90 strength, +45 intelligence, increases bear and hawk hit points by 280%, damage by 500, armor of bear in 52 and armor of hawk in 16 and when ever you cast Battle Roar Increases Bear hit points by 200, damage by 30, Hawk hit points by 100 damage by 20 Permanently."
+
+
+AbilityId : A0CO
+Descriprion : 
+	Id : A0CO
+	Name : "Ferocity"
+	Ubertip : "Increases  your and your summoned units movement speed by 5% and attack rate by 8% in 1500 AOE.","Increases  your and your summoned units movement speed by 8% and attack rate by 16% in 1500 AOE.","Increases  your and your summoned units movement speed by 11% and attack rate by 24% in 1500 AOE.","Increases  your and your summoned units movement speed by 14% and attack rate by 32% in 1500 AOE.","Increases  your and your summoned units movement speed by 17% and attack rate by 40% in 1500 AOE.","Increases  your and your summoned units movement speed by 20% and attack rate by 48% in 1500 AOE.","Increases  your and your summoned units movement speed by 23% and attack rate by 56% in 1500 AOE.","Increases  your and your summoned units movement speed by 26% and attack rate by 62% in 1500 AOE.","Increases  your and your summoned units movement speed by 30% and attack rate by 70% in 1500 AOE."
+
+

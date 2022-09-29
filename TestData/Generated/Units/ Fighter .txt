@@ -1,0 +1,50 @@
+UnitId : H03Q
+Descriprion : 
+	Id : H03Q
+	Name : "Fighter"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0FL
+Descriprion : 
+	Id : A0FL
+	Name : "|cffffcc00G|rrowth Up 3SZ"
+	Ubertip : "Growth up into Zombie, change your soul and your speed for supernatural resistance, Zombie have a lot of hit points and regeneration but is very slow have poison abilities. This growth cost you 5 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0EQ
+Descriprion : 
+	Id : A0EQ
+	Name : "V Punch fighter"
+	Ubertip : "Throw a hard punch at a target enemy unit, dealing 160 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 300 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 500 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 700 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1300 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1600 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 2000 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a hard punch at a target enemy unit, dealing 2400 damage and stunning the target for 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+
+
+AbilityId : A0EP
+Descriprion : 
+	Id : A0EP
+	Name : "Hurl Boulder Fighter"
+	Ubertip : "A boulder that is thrown at an enemy unit, causing 100 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 200 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 300 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 420 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 550 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 700 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 900 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 1200 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r","A boulder that is thrown at an enemy unit, causing 1600 points of damage and stunning the target for 3 seconds. Have 900 cast range.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A0ER
+Descriprion : 
+	Id : A0ER
+	Name : "Tekai 1"
+	Ubertip : "Gives 300 bonus armor and 20 hit points regeneretaion per second, last 3 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 30 hit points regeneretaion per second, last 4 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 40 hit points regeneretaion per second, last 5 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 50 hit points regeneretaion per second, last 6 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 60 hit points regeneretaion per second, last 7 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 70 hit points regeneretaion per second, last 8 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 80 hit points regeneretaion per second, last 9 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 90 hit points regeneretaion per second, last 10 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r.","Gives 300 bonus armor and 100 hit points regeneretaion per second, last 12 seconds.|n|n|cffc3dbffCooldown: 25 seconds|r."
+
+
+AbilityId : A0EO
+Descriprion : 
+	Id : A0EO
+	Name : "M.A Martial Arts Fight"
+	Ubertip : "Gives a 8% chance to dodge an attack and a 44% chance to deal 1.2 times normal damage.","Gives a 11% chance to dodge an attack and a 44% chance to deal 1.3 times normal damage.","Gives a 14% chance to dodge an attack and a 44% chance to deal 1.4 times normal damage.","Gives a 17% chance to dodge an attack and a 44% chance to deal 1.5 times normal damage.","Gives a 20% chance to dodge an attack and a 44% chance to deal 1.6 times normal damage.","Gives a 23% chance to dodge an attack and a 44% chance to deal 1.8 times normal damage.","Gives a 26% chance to dodge an attack and a 44% chance to deal 2 times normal damage.","Gives a 29% chance to dodge an attack and a 44% chance to deal 2.2 times normal damage.","Gives a 32% chance to dodge an attack and a 44% chance to deal 2.4 times normal damage."
+
+

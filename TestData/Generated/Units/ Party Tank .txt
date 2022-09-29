@@ -1,0 +1,50 @@
+UnitId : Nalc
+Descriprion : 
+	Id : Nalc
+	Name : "Party Tank"
+	Ubertip : "Warrior Hero, known for offensive and defensive versatility. Can learn Healing Spray, Chemical Rage, Acid Bomb and Transmute.|n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A14P
+Descriprion : 
+	Id : A14P
+	Name : "Inventory TP"
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A149
+Descriprion : 
+	Id : A149
+	Name : "TPT Bouler Covering"
+	Ubertip : "Increases hit points by 100 and give 11% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 300 and give 13% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 500 and give 15% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 700 and give 17% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 900 and give 19% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1100 and give 21% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1300 and give 23% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1500 and give 25% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1700 and give 27% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 1900 and give 29% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 2100 and give 31% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 2300 and give 33% chance to deal 3 x your strength in spell damage to the attacker.","Increases hit points by 2500 and give 35% chance to deal 3 x your strength in spell damage to the attacker."
+
+
+AbilityId : A148
+Descriprion : 
+	Id : A148
+	Name : "TPT Spiked Skin"
+	Ubertip : "Give 5 bonus armor, 10% of melee damage return and reduce melee damage by 10%.","Give 10 bonus armor, 14% of melee damage return and reduce melee damage by 12%.","Give 15 bonus armor, 18% of melee damage return and reduce melee damage by 14%.","Give 20 bonus armor, 22% of melee damage return and reduce melee damage by 16%.","Give 25 bonus armor, 26% of melee damage return and reduce melee damage by 18%.","Give 30 bonus armor, 30% of melee damage return and reduce melee damage by 20%.","Give 40 bonus armor, 34% of melee damage return and reduce melee damage by 22%.","Give 50 bonus armor, 38% of melee damage return and reduce melee damage by 25%.","Give 60 bonus armor, 42% of melee damage return and reduce melee damage by 28%.","Give 80 bonus armor, 46% of melee damage return and reduce melee damage by 32%.","Give 100 bonus armor, 50% of melee damage return and reduce melee damage by 36%.","Give 120 bonus armor, 55% of melee damage return and reduce melee damage by 40%.","Give 150 bonus armor, 60% of melee damage return and reduce melee damage by 50%."
+
+
+AbilityId : A14C
+Descriprion : 
+	Id : A14C
+	Name : "TPTK  Overcome"
+	Ubertip : "Damage nearby enemy units for 22% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 90 seconds.|r","Damage nearby enemy units for 26% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 86 seconds.|r","Damage nearby enemy units for 30% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 82 seconds.|r","Damage nearby enemy units for 34% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 78 seconds.|r","Damage nearby enemy units for 38% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 74 seconds.|r","Damage nearby enemy units for 42% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 70 seconds.|r","Damage nearby enemy units for 46% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 65 seconds.|r","Damage nearby enemy units for 50% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 60 seconds.|r","Damage nearby enemy units for 54% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 55 seconds.|r","Damage nearby enemy units for 58% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 50 seconds.|r","Damage nearby enemy units for 62% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 45 seconds.|r","Damage nearby enemy units for 66% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 40 seconds.|r","Damage nearby enemy units for 70% of your total hit points and heal you for the same amount .|n|n|cffc3dbffCooldown: 33 seconds.|r"
+
+
+AbilityId : A14A
+Descriprion : 
+	Id : A14A
+	Name : "TPTK I Am the Shield"
+	Ubertip : "Turns all others team party members invulnerable in an area around you. Lasts 3 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 4 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 5 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 6 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 8 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 10 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 12 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 14 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 17 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 20 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 23 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 26 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r","Turns all others team party members invulnerable in an area around you. Lasts 30 seconds. |n|n|cffc3dbffCooldown: 40 seconds.|r"
+
+
+AbilityId : A14B
+Descriprion : 
+	Id : A14B
+	Name : "TPTK Slam"
+	Ubertip : "Slams the ground, dealing 40 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 3 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Slams the ground, dealing 80 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 3.5 seconds.|n|n|cffc3dbffCooldown: 38 seconds.|r","Slams the ground, dealing 120 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 4 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Slams the ground, dealing 160 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 4.5 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","Slams the ground, dealing 200 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 5 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Slams the ground, dealing 240 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 5.5 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Slams the ground, dealing 280 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 6 seconds.|n|n|cffc3dbffCooldown: 27 seconds.|r","Slams the ground, dealing 320 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 6.5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Slams the ground, dealing 360 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 7 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Slams the ground, dealing 400 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 7.5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slams the ground, dealing 440 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 8 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing 500 damage, slowing the move speed by 35% and attack rate by 125% of nearby enemy units in 600 Aoe. Last 8.5 seconds.|n|n|cffc3dbffCooldown: 8 seconds.|r","Slams the ground, dealing 600 damage, slowing the move speed by 35% and attack rate by 150% of nearby enemy units in 600 Aoe. Last 9 seconds.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+
+

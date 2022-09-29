@@ -1,0 +1,36 @@
+UnitId : npfm
+Descriprion : 
+	Id : npfm
+	Name : Fel Ravager
+	Ubertip : "Heavy melee unit that casts Black Arrow. Can also cast Devour Magic. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AIft
+Descriprion : 
+	Id : AIft
+	Name : Melee Cold Damage Bonus
+	Ubertip : 
+
+
+AbilityId : A03P
+Descriprion : 
+	Id : A03P
+	Name : "Evasion G"
+	Ubertip : "Gives a 60% percent chance to avoid an attack."
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+AbilityId : Aakb
+Descriprion : 
+	Id : Aakb
+	Name : "War Drumsjl"
+	Ubertip : "Have 60% spell damage reduction. "
+
+
+Hero ability list:

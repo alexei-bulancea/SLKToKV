@@ -1,0 +1,15 @@
+UnitId : h02T
+Descriprion : 
+	Id : h02T
+	Name : "Book of Armor"
+	Ubertip : "Aura of Armor. "
+
+Ability List:
+AbilityId : A0LB
+Descriprion : 
+	Id : A0LB
+	Name : "Book Armor Aura"
+	Ubertip : "Gives 8 additional armor to all friendly units."
+
+
+Hero ability list:

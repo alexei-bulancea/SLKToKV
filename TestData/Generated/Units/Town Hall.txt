@@ -1,0 +1,15 @@
+UnitId : htow
+Descriprion : 
+	Id : htow
+	Name : Town Hall
+	Ubertip : "Primary structure, used to train Peasants and receive gathered resources. Can be upgraded to Keep and then Castle to enable the production of additional types of structures and units."
+
+Ability List:
+AbilityId : Agho
+Descriprion : 
+	Id : Agho
+	Name : Ghost
+	Ubertip : 
+
+
+Hero ability list:

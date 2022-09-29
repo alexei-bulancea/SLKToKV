@@ -1,0 +1,22 @@
+UnitId : ngrk
+Descriprion : 
+	Id : ngrk
+	Name : Mud Golem
+	Ubertip : "Light melee unit that can Slow opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09S
+Descriprion : 
+	Id : A09S
+	Name : "Bash Bear"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

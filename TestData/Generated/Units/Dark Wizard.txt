@@ -1,0 +1,43 @@
+UnitId : nwzd
+Descriprion : 
+	Id : nwzd
+	Name : Dark Wizard
+	Ubertip : "Heavy ranged unit with Brilliance Aura. Can also cast Raise Dead and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : ACss
+Descriprion : 
+	Id : ACss
+	Name : 
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration."
+
+
+AbilityId : Ambd
+Descriprion : 
+	Id : Ambd
+	Name : Mana Burn
+	Ubertip : "Sends a bolt of negative energy that burns <Ambd,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned."
+
+
+AbilityId : ACbc
+Descriprion : 
+	Id : ACbc
+	Name : Breath of Fire
+	Ubertip : "Breathes a cone of fire at enemy units, dealing <ACbc,DataA1> damage."
+
+
+AbilityId : A03A
+Descriprion : 
+	Id : A03A
+	Name : Frost Bolt
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing <ACcb,DataA1> damage and stunning the target for <ACcb,Dur1> seconds."
+
+
+Hero ability list:

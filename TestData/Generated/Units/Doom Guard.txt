@@ -1,0 +1,57 @@
+UnitId : nbal
+Descriprion : 
+	Id : nbal
+	Name : Doom Guard
+	Ubertip : "Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A07D
+Descriprion : 
+	Id : A07D
+	Name : Cripple
+	Ubertip : "Reduces movement speed by 75%, attack rate by 70%, and damage by 70% of a target enemy unit. |nLasts 9 seconds."
+
+
+AbilityId : Adsm
+Descriprion : 
+	Id : Adsm
+	Name : Dispel Magic
+	Ubertip : 
+
+
+AbilityId : Awrs
+Descriprion : 
+	Id : Awrs
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+AbilityId : A16X
+Descriprion : 
+	Id : A16X
+	Name : Rain of Fire
+	Ubertip : "Calls down waves of fire that damage units in an area. Each wave deals 1700 damage. "
+
+
+AbilityId : A16Z
+Descriprion : 
+	Id : A16Z
+	Name : "Darkness"
+	Ubertip : "Reduces damage taken from spells and Dragons."
+
+
+AbilityId : A16Y
+Descriprion : 
+	Id : A16Y
+	Name : "Doom Aura"
+	Ubertip : "Enemys near to Doom Guard get his armor reduced by 90."
+
+
+AbilityId : ANth
+Descriprion : 
+	Id : ANth
+	Name : "Spiked Shell T"
+	Ubertip : "Deal 24% of an enemy unit's melee attack damage back to it."
+
+
+Hero ability list:

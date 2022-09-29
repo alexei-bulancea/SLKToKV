@@ -1,0 +1,22 @@
+UnitId : o01C
+Descriprion : 
+	Id : o01C
+	Name : "Fira"
+	Ubertip : 
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

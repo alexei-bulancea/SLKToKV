@@ -1,0 +1,43 @@
+UnitId : nwwg
+Descriprion : 
+	Id : nwwg
+	Name : Giant Frost Wolf
+	Ubertip : "Medium melee unit with Critical Strike |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+AbilityId : A1VF
+Descriprion : 
+	Id : A1VF
+	Name : Vampiric Aura
+	Ubertip : "This unit gains 18% of their attack damage when they hit enemy units."
+
+
+AbilityId : A09B
+Descriprion : 
+	Id : A09B
+	Name : "+120 Bonus Damage"
+	Ubertip : 
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+AbilityId : A017
+Descriprion : 
+	Id : A017
+	Name : "Attack Speed +25%"
+	Ubertip : 
+
+
+Hero ability list:

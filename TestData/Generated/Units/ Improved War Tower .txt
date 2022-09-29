@@ -1,0 +1,22 @@
+UnitId : h00J
+Descriprion : 
+	Id : h00J
+	Name : "Improved War Tower"
+	Ubertip : "Have more damage, more attack speed, more armor, more hit points and have hit points regeneration."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Adts
+Descriprion : 
+	Id : Adts
+	Name : Magic Sentry
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

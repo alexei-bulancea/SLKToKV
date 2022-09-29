@@ -1,0 +1,22 @@
+UnitId : negt
+Descriprion : 
+	Id : negt
+	Name : "Magic Tower"
+	Ubertip : "Have more damage , hero attack , more armor , hit points and Reduce the armor of the enemys."
+
+Ability List:
+AbilityId : A0IP
+Descriprion : 
+	Id : A0IP
+	Name : "Attack Corruption TL1"
+	Ubertip : "Reduce enemy armor by 4"
+
+
+AbilityId : A069
+Descriprion : 
+	Id : A069
+	Name : "Attack Corruption Bonus Level 1"
+	Ubertip : 
+
+
+Hero ability list:

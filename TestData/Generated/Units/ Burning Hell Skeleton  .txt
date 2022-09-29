@@ -1,0 +1,29 @@
+UnitId : n03F
+Descriprion : 
+	Id : n03F
+	Name : "Burning Hell Skeleton "
+	Ubertip : "Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A054
+Descriprion : 
+	Id : A054
+	Name : "Attack Speed +120%"
+	Ubertip : 
+
+
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+AbilityId : A01V
+Descriprion : 
+	Id : A01V
+	Name : "Bash E.Hamer"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+Hero ability list:

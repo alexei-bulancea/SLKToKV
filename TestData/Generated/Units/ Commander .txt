@@ -1,0 +1,50 @@
+UnitId : H04S
+Descriprion : 
+	Id : H04S
+	Name : "Commander"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0PL
+Descriprion : 
+	Id : A0PL
+	Name : "Knight Obliterate"
+	Ubertip : "Call 2 Royal Knights to annihilate your enemies, Last 60 seconds.|nStat calculation: HP= 9000 + 50% of hero hp.|nDamage= STR * 2.5.|nArmor = STR + AGI /20.|n|n|cffc3dbffCooldown: 200 seconds.|r","Call 2 Royal Knights to annihilate your enemies, Last 75 seconds.|nStat calculation: HP= 18000 + 50% of hero hp.|nDamage= STR * 2.5.|nArmor = STR + AGI /20.|n|n|cffc3dbffCooldown: 190 seconds.|r","Call 3 Mighty Royal Knights to annihilate your enemies, Last 90 seconds.|nStat calculation: HP= 27000 + 50% of hero hp.|nDamage= STR * 2.5.|nArmor = STR + AGI /20.|n|n|cffc3dbffCooldown: 180 seconds.|r","Call 3 Mighty Royal Knights to annihilate your enemies, Last 105 seconds.|nStat calculation: HP= 36000 + 50% of hero hp.|nDamage= STR * 2.5.|nArmor = STR + AGI /20.|n|n|cffc3dbffCooldown: 160 seconds.|r","Call 5 Mighty Royal Knights with the newest equipment from the Dragon Slayer to annihilate your enemies, Last 120 seconds.|nStat calculation: HP= 45000 + 50% of hero hp.|nDamage= STR * 2.5.|nArmor = STR + AGI /20.|n|n|cffc3dbffCooldown: 130 seconds.|r"
+
+
+AbilityId : A1W8
+Descriprion : 
+	Id : A1W8
+	Name : "Devotion Aura Knight"
+	Ubertip : "Gives 5 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 12 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 20 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 30 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 45 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 60 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 80 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 120 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives 166 additional armor and 1% hp regeneration to friendly units in 600 AOE.","Gives <AHad,DataA10,.> additional armor to nearby friendly units, but not to himself.","Gives <AHad,DataA11,.> additional armor only to Paladin."
+
+
+AbilityId : A0PH
+Descriprion : 
+	Id : A0PH
+	Name : "Knight Endurance Aura"
+	Ubertip : "Increases nearby friendly units' attack speed by 15% and movement speed by 10%","Increases nearby friendly units' attack speed by 25% and movement speed by 11%","Increases nearby friendly units' attack speed by 35% and movement speed by 12%","Increases nearby friendly units' attack speed by 45% and movement speed by 13%","Increases nearby friendly units' attack speed by 55% and movement speed by 14%","Increases nearby friendly units' attack speed by 70% and movement speed by 15%","Increases nearby friendly units' attack speed by 90%  and movement speed by 17%","Increases nearby friendly units' attack speed by 110% and movement speed by 20%","Increases nearby friendly units' attack speed by 140% and movement speed by 25%"
+
+
+AbilityId : A0PJ
+Descriprion : 
+	Id : A0PJ
+	Name : "Knight Thunder Clap"
+	Ubertip : "Slams the ground, dealing 500 + 3x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC1,%>% and attack rate by <A0PJ,DataD1,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Slams the ground, dealing 500 + 6x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC2,%>% and attack rate by <A0PJ,DataD2,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","Slams the ground, dealing 500 + 9x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC3,%>% and attack rate by <A0PJ,DataD3,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 26 seconds.|r","Slams the ground, dealing 500 + 12x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC4,%>% and attack rate by <A0PJ,DataD4,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 23 seconds.|r","Slams the ground, dealing 500 + 15x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC5,%>% and attack rate by <A0PJ,DataD5,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Slams the ground, dealing 500 + 18x str in spell  damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC6,%>% and attack rate by <A0PJ,DataD6,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slams the ground, dealing 500 + 21x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC7,%>% and attack rate by <A0PJ,DataD7,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Slams the ground, dealing 500 + 24x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC8,%>% and attack rate by <A0PJ,DataD8,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing 500 + 27x str in spell damage to enemy units in 600 AOE and slowing their movement by <A0PJ,DataC9,%>% and attack rate by <A0PJ,DataD9,%>%. Last 5 seconds.|n|n|cffc3dbffCooldown: 9 seconds.|r"
+
+
+AbilityId : A1WA
+Descriprion : 
+	Id : A1WA
+	Name : "Charge skill LC"
+	Ubertip : "Charge into enemies with all your force. Enemies in your path will be damaged for 200 + 6x your STR in spell damage. 240 Charge Range. |n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 25 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 400 + 8x your STR in spell damage. 280 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in and rocks.|r|n|n|cffc3dbffCooldown: 23 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 600 + 10x your STR in spell damage. 320 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 21 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 800 + 12x your STR in spell damage. 360 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 19 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 1000 + 14x your STR in spell damage. 400 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 17 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 1200 + 16x your STR in spell damage. 440 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 15 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 1400 + 18x your STR in spell damage. 480 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 13 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 1600 + 20x your STR in spell damage. 520 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 11 seconds|r","Charge into enemies with all your force. Enemies in your path will be damaged for 2000 + 22x your STR in spell damage. 560 Charge Range.|n|cffff0000Warning: Using this skill can get you stuck in rocks.|r|n|n|cffc3dbffCooldown: 10 seconds|r"
+
+

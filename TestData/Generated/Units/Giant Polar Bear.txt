@@ -1,0 +1,36 @@
+UnitId : nplg
+Descriprion : 
+	Id : nplg
+	Name : Giant Polar Bear
+	Ubertip : "Heavy melee amphibious unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09S
+Descriprion : 
+	Id : A09S
+	Name : "Bash Bear"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+AbilityId : ACce
+Descriprion : 
+	Id : ACce
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that <ACce,DataA1,%>% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A00G
+Descriprion : 
+	Id : A00G
+	Name : "armor defense 3"
+	Ubertip : "Reduces all attacks on that unit by 15 damage."
+
+
+Hero ability list:

@@ -1,0 +1,8 @@
+UnitId : nft2
+Descriprion : 
+	Id : nft2
+	Name : Advanced Flame Tower
+	Ubertip : "Have more Damage, more hit points, more armor, more attack speed , life regeneration and do a large but weak AOE attack."
+
+Ability List:
+Hero ability list:

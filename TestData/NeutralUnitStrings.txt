@@ -1,0 +1,1593 @@
+[HERO]
+Name=A Hero
+[nska]
+Name="Freezing Archer"
+Tip=Hire Skeleton Archer
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nske]
+Name=Skeleton Warrior
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nskg]
+Name="Nightmare"
+Tip=Hire Giant Skeleton Warrior
+Ubertip="Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nskm]
+Name="Death Hood"
+Hotkey=K
+Tip=Hire S|cffffcc00k|reletal Marksman
+Ubertip="Light ranged unit that shoots Cold Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+[nskf]
+Name=Burning Archer
+Hotkey=B
+Tip=Hire |cffffcc00B|rurning Archer
+Ubertip="Light ranged unit that shoots Searing Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+[nrog]
+Name="Choro"
+Hotkey=R
+Tip=Hire |cffffcc00R|rogue
+Ubertip="Light melee unit with Shadowmeld. |n|n|cffffcc00Attacks land units.|r"
+[nenf]
+Name="Lock The Bandit"
+Hotkey=E
+Tip=Hire |cffffcc00E|rnforcer
+Ubertip="Light melee unit with Shadowmeld and Evasion. |n|n|cffffcc00Attacks land units.|r"
+[nbld]
+Name=Bandit Lord
+Tip=Hire Bandit Lord
+Ubertip="Heavy melee unit with Shadowmeld and Devotion Aura. Can cast Divine Shield. |n|n|cffffcc00Attacks land units.|r"
+[nass]
+Name=Assassin
+Tip=Hire |cffffcc00A|rssassin
+Hotkey=A
+Ubertip="Medium ranged unit that fires envenomed bolts and can Shadowmeld. |n|n|cffffcc00Attacks land and air units.|r"
+[nrdr]
+Name="Red Dragon"
+Tip=Summon Red Dra|cffffcc00k|re
+Ubertip="Small ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=K
+[nbwm]
+Name="Dark Dragon"
+Tip=Summon Black |cffffcc00D|rragon
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=D
+[nrwm]
+Name="Darigaaz The Fire Dragon"
+Hotkey=D
+Tip=Summon Red |cffffcc00D|rragon
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[nadr]
+Name="Sapphiron The Blue Dragon"
+Tip=Summon Blue |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[nbzd]
+Name="Bahamut The King of Dragons"
+Tip=Summon Bronze |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[ngrd]
+Name=Green Dragon
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[ncim]
+Name=Centaur Impaler
+Tip=Hire Centaur Impaler
+Ubertip="Medium ranged unit with Searing Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+[ncen]
+Name=Centaur Outrunner
+Tip=Hire Centaur |cffffcc00O|rutrunner
+Ubertip="Medium melee attacker wielding a large axe. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=O
+[ncer]
+Name=Centaur Drudge
+Hotkey=D
+Tip=Hire Centaur |cffffcc00D|rrudge
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[ncnk]
+Name=Centaur Khan
+Tip=Hire Centaur Khan
+Ubertip="Heavy melee unit with Endurance Aura. Has the abilities War Stomp and Reincarnation."
+[ndtb]
+Name=Dark Troll Berserker
+Hotkey=B
+Tip=Hire Dark Troll |cffffcc00B|rerserker
+Ubertip="Rabid axe-thrower. |n|n|cffffcc00Attacks land and air units.|r"
+[nelb]
+Name=Berserk Elemental
+Tip=Summon Berserk Elemental
+Ubertip="Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[nenc]
+Name="Ancient Corrupted Treant"
+Tip=Summon Corrupted Treant
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nenp]
+Name=Poison Treant
+Tip=Summon Poison Treant
+Ubertip="Light melee unit that poisons opponents. Can cast Entangling Roots. |n|n|cffffcc00Attacks land units.|r"
+[nepl]
+Name=Plague Treant
+Tip=Summon Plague Treant
+Ubertip="Medium melee unit that diseases opponents. Can cast Entangling Roots. |n|n|cffffcc00Attacks land units.|r"
+[nfel]
+Name=Fel Stalker
+Tip=Summon Fel Stalker
+Ubertip="Demonic beast that casts Mana Burn. |n|n|cffffcc00Attacks land units.|r"
+[nfsp]
+Name="Troll Mage"
+Hotkey=P
+Tip=Hire Forest Troll Shadow |cffffcc00P|rriest
+Ubertip="Shadow Priest of healing magic. Hurls fiery missiles. Can cast Abolish Magic. |n|n|cffffcc00Attacks land and air units.|r"
+[nftr]
+Name=Forest Troll
+Hotkey=T
+Tip=Hire Forest |cffffcc00T|rroll
+Ubertip="Axe-throwing Troll. |n|n|cffffcc00Attacks land and air units.|r"
+[nftb]
+Name=Forest Troll Berserker
+Hotkey=B
+Tip=Hire Forest Troll |cffffcc00B|rerserker
+Ubertip="Rabid axe-thrower. |n|n|cffffcc00Attacks land and air units.|r"
+[nftt]
+Name=Forest Troll Trapper
+Hotkey=F
+Tip=Hire |cffffcc00F|rorest Troll Trapper
+Ubertip="Medium ranged unit that can Ensnare opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[nftk]
+Name=Forest Troll Warlord
+Hotkey=W
+Tip=Hire Forest Troll |cffffcc00W|rarlord
+Ubertip="Heavy ranged unit with Trueshot Aura. |n|n|cffffcc00Attacks land and air units.|r"
+[ngad]
+Name=Goblin Laboratory
+Tip=Build Goblin Laboratory
+Description=Allows you to take advantage of Goblin technology.
+[ngme]
+Name=Goblin Merchant
+Tip=Build Goblin Merchant
+Description=Sells various magic items.
+[ngrk]
+Name=Mud Golem
+Hotkey=U
+Tip=Summon M|cffffcc00u|rd Golem
+Ubertip="Light melee unit that can Slow opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[ngst]
+Name=Rock Golem
+Tip=Summon Rock Golem
+Ubertip="Heavy melee unit that hurls boulders at opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[nggr]
+Name=Granite Golem
+Tip=Summon Granite Golem
+Ubertip="Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
+[nwrg]
+Name=War Golem
+Tip=Summon War Golem
+Ubertip="Heavy melee unit, good at resisting mass enemys attacks. Immune to spells."
+[nsgg]
+Name=Siege Golem
+Tip=Summon Siege Golem
+Ubertip="Heavy melee unit. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[ngir]
+Name="Mechanic Warrior"
+Hotkey=M
+Tip="Train |cffffcc00M|rechanic Warrior"
+Ubertip="A powerfull melee unit made of iron."
+[nfrl]
+Name=Furbolg
+Tip=Hire Furbolg
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nfrg]
+Name=Furbolg Champion
+Tip=Hire Furbolg Champion
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nfra]
+Name=Furbolg Ursa Warrior
+Tip=Hire Furbolg Ursa Warrior
+Ubertip="Heavy melee unit with Command Aura. Can also War Stomp. |n|n|cffffcc00Attacks land units.|r"
+[ngh1]
+Name=Ghost
+Tip=Summon Ghost
+Ubertip="Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+[ngh2]
+Name="Apparition"
+Tip=Summon Wraith
+Ubertip="Heavy ranged unit that can cast Curse and Possession. |n|n|cffffcc00Attacks land and air units.|r"
+[ngns]
+Name=Gnoll Assassin
+Tip=Hire Gnoll A|cffffcc00s|rsassin
+Hotkey=S
+Ubertip="Light ranged unit that fires envenomed bolts. |n|n|cffffcc00Attacks land and air units.|r"
+[ngnb]
+Name=Gnoll Brute
+Tip=Hire Gnoll |cffffcc00B|rrute
+Hotkey=B
+Ubertip="Light melee unit to bolster your forces. |n|n|cffffcc00Attacks land units.|r"
+[ngnw]
+Name=Gnoll Warden
+Tip=Hire Gnoll |cffffcc00W|rarden
+Hotkey=W
+Ubertip="Light ranged unit that hurls bolts of lightning. Can cast Purge. |n|n|cffffcc00Attacks land and air units.|r"
+[ngnv]
+Name=Gnoll Overseer
+Tip=Hire Gnoll |cffffcc00O|rverseer
+Hotkey=O
+Ubertip="Heavy melee unit with Command Aura. |n|n|cffffcc00Attacks land units.|r"
+[nhrh]
+Name=Harpy Storm-hag
+Tip=Hire Harpy Storm-hag
+Ubertip="Medium flying ranged unit that hurls bolts of lightning. Can Curse opponents and cast Sleep. |n|n|cffffcc00Attacks land and air units.|r"
+[nhrq]
+Name=Harpy Queen
+Tip=Hire Harpy Queen
+Ubertip="Heavy flying ranged unit that can cast Rejuvenation and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+[nhfp]
+Name=Fallen Priest
+Tip=Hire Fallen Priest
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nhdc]
+Name=Deceiver
+Tip=Hire Deceiver
+Ubertip="Light ranged unit that hurls Demon fire. Can cast Curse. |n|n|cffffcc00Attacks land and air units.|r"
+[nhhr]
+Name=Heretic
+Tip=Hire Heretic
+Ubertip="Medium ranged unit that hurls Demon fire. Can cast Raise Dead and Carrion Swarm. |n|n|cffffcc00Attacks land and air units.|r"
+[nits]
+Name=Ice Troll Berserker
+Tip=Hire Ice Troll |cffffcc00B|rerserker
+Hotkey=B
+Ubertip="Medium ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nitw]
+Name=Ice Troll Warlord
+Tip=Hire Ice Troll Warlord
+Ubertip="Heavy ranged unit with Trueshot Aura. |n|n|cffffcc00Attacks land and air units.|r"
+[nith]
+Name=Ice Troll High Priest
+Tip=Hire Ice Troll High Priest
+Ubertip="High Priest of healing magic. Can cast Abolish Magic and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+[nkob]
+Name=Kobold
+Tip=Hire |cffffcc00K|robold
+Hotkey=K
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nkol]
+Name=Kobold Taskmaster
+Tip=Hire Kobold Taskmaster
+Ubertip="Heavy melee unit with Command Aura. Can Bash opponents. |n|n|cffffcc00Attacks land units.|r"
+[nltl]
+Name=Lightning Lizard
+Tip=Summon Lightning Lizard
+Ubertip="Light ranged unit that hurls bolts of lightning. Can cast Purge. |n|n|cffffcc00Attacks land and air units.|r"
+[nthl]
+Name=Thunder Lizard
+Tip=Summon |cffffcc00T|rhunder Lizard
+Hotkey=T
+Ubertip="Heavy ranged unit that hurls bolts of lightning. Can Slam opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[nmmu]
+Name=Murloc Mutant
+Tip=Hire Murloc Mutant
+Ubertip="Medium melee unit that can Cripple opponents. |n|n|cffffcc00Attacks land units.|r"
+[nmrr]
+Name=Murloc Huntsman
+Tip=Hire Murloc |cffffcc00H|runtsman
+Hotkey=H
+Ubertip="Light melee unit that can Ensnare opponents. |n|n|cffffcc00Attacks land units.|r"
+[nmrm]
+Name=Murloc Nightcrawler
+Tip=Hire Murloc Nightcrawler
+Ubertip="Light melee unit that poisons opponents. Can also Shadowmeld. |n|n|cffffcc00Attacks land units.|r"
+[nowb]
+Name="Wildking"
+Tip=Summon |cffffcc00W|rildkin
+Hotkey=W
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nowe]
+Name=Enraged Wildkin
+Tip=Summon Enraged Wildkin
+[nowk]
+Name=Berserk Wildkin
+Tip=Summon Berserk Wildkin
+Ubertip="Heavy melee unit with Bash and War Stomp. |n|n|cffffcc00Attacks land units.|r"
+[nrzg]
+Name=Razormane Chieftain
+Tip=Hire Razormane Chieftain
+Ubertip="Heavy melee unit with Thorns Aura. Can hurl boulders at enemies. |n|n|cffffcc00Attacks land units.|r"
+[nnwa]
+Name=Nerubian Warrior
+Tip=Summon Nerubian |cffffcc00W|rarrior
+Hotkey=W
+Ubertip="Light melee unit that carries its young into battle. |n|n|cffffcc00Attacks land units.|r"
+[ntav]
+Name=Tavern
+Tip=Build Tavern
+Description=Allows you to hire various Heroes.
+[nmrk]
+Name=Marketplace
+Tip=Build Marketplace
+Description=A store for purchasing goods.
+[nogr]
+Name=Ogre Warrior
+Tip=Hire Ogre |cffffcc00W|rarrior
+Ubertip="Standard warrior of the Ogre Legion. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=W
+[nogm]
+Name=Ogre Mauler
+Tip=Hire Ogre |cffffcc00M|rauler
+Ubertip="Large brutal warrior of the Ogre Legion. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=M
+[nogl]
+Name=Ogre Lord
+Tip=Hire Ogre |cffffcc00L|rord
+Ubertip="Lord of the Ogre Legion. Has a defensive aura, and can cast Shockwave. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=L
+[nomg]
+Name=Ogre Magi
+Tip=Hire O|cffffcc00g|rre Magi
+Ubertip="Spellcasting warrior of the Ogre Legion. Can cast Bloodlust. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=G
+[nslf]
+Name=Sludge Flinger
+Tip=Summon Sludge |cffffcc00F|rlinger
+Hotkey=F
+Ubertip="Light ranged unit that can Slow opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[nsln]
+Name=Sludge Monstrosity
+Tip=Summon Sludge Monstrosity
+Ubertip="Medium melee unit that can Slow opponents. |n|n|cffffcc00Attacks land units.|r"
+[nsll]
+Name="The Salamander "
+Tip=Summon Salamander Lord
+Ubertip="Heavy ranged unit that hurls fiery missiles. Has the ability to Devour opponents. Can cast Immolation and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[nsts]
+Name=Satyr Shadowdancer
+Tip=Hire Satyr |cffffcc00S|rhadowdancer
+Hotkey=S
+Ubertip="Light ranged unit with Shadowmeld. Can cast Curse. |n|n|cffffcc00Attacks land and air units.|r"
+[nstl]
+Name=Satyr Soulstealer
+Tip=Hire Satyr |cffffcc00S|roulstealer
+Hotkey=S
+Ubertip="Medium melee unit that can cast Mana Burn and Raise Dead. |n|n|cffffcc00Attacks land units.|r"
+[nspr]
+Name=Spider
+Tip=Summon Spider
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nsgt]
+Name=Giant Spider
+Tip=Summon Giant Spider
+Ubertip="Medium melee unit that poisons opponents. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+[nssp]
+Name=Spitting Spider
+Tip=Summon Spitting Spider
+Ubertip="Light ranged unit that spits poison at opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[nsbm]
+Name=Brood Mother
+Tip=Summon Brood Mother
+Ubertip="Heavy melee unit that poisons opponents and carries its young into battle. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+[nsqe]
+Name="Typhos"
+Tip=Summon Elder Sasquatch
+Ubertip="Heavy melee unit that can Bash opponents. Can cast Force of Nature. |n|n|cffffcc00Attacks land units.|r"
+[nsqa]
+Name="Ancient Demon"
+Tip=Summon Ancient Sasquatch
+Ubertip="Heavy melee unit that can Slam opponents. Can cast Force of Nature. Also has Reincarnation. |n|n|cffffcc00Attacks land units.|r"
+[npig]
+Name=Pig
+Tip=Invoke Pig
+Ubertip="Call upon the spirit of Pig to save you."
+[nder]
+Name=Stag
+Tip=Invoke Stag
+Ubertip="Call upon the spirit of Stag to save you."
+[nsea]
+Name=Seal
+Tip=Invoke Seal
+Ubertip="Call upon the spirit of Seal to save you."
+[nshe]
+Name=Sheep
+Tip=Invoke Sheep
+Ubertip="Call upon the spirit of Sheep to save you."
+[nsha]
+Name=Sheep
+Tip=Invoke Sheep
+Ubertip="Call upon the spirit of Sheep to save you."
+EditorSuffix= (Amphibious)
+[nshw]
+Name=Sheep
+Tip=Invoke Sheep
+Ubertip="Call upon the spirit of Sheep to save you."
+EditorSuffix= (Waterborne)
+[nshf]
+Name=Flying Sheep
+Tip=Invoke Uber Sheep
+Ubertip="Call upon the Uber Sheep to save you."
+[nvil]
+Name=Villager
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix= (Male)
+[nvlk]
+Name=Child
+Ubertip="A tiny villager."
+Tip=Hire Villager
+[nvlw]
+Name=Villager
+Tip=Hire Villager
+Ubertip="An intelligent villager."
+EditorSuffix= (Female)
+[nvul]
+Name=Vulture
+Tip=Invoke Vulture
+Ubertip="Call upon the spirit of Vulture to save you."
+[nwlt]
+Name=Timber Wolf
+Tip=Summon Timber Wolf
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nwld]
+Name=Dire Wolf
+Tip=Summon Dire Wolf
+Ubertip="Medium melee unit with Critical Strike. Can cast Roar. |n|n|cffffcc00Attacks land units.|r"
+[nwwf]
+Name="Glacial Wolf"
+Tip=Summon Frost Wolf
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nwwg]
+Name=Giant Frost Wolf
+Tip=Summon Giant Frost Wolf
+Ubertip="Medium melee unit with Critical Strike |n|n|cffffcc00Attacks land units.|r"
+[nwwd]
+Name=Dire Frost Wolf
+Tip=Summon Dire Frost Wolf
+Ubertip="Medium melee unit with Critical Strike. Can cast Roar. |n|n|cffffcc00Attacks land units.|r"
+[nwzr]
+Name=Rogue Wizard
+Tip=Hire Rogue Wizard
+Ubertip="Light ranged unit that can cast Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+[nwzg]
+Name=Renegade Wizard
+Tip=Hire Renegade Wizard
+Ubertip="Medium ranged unit that can cast Purge and Lightning Shield. |n|n|cffffcc00Attacks land and air units.|r"
+[nwiz]
+Name="Dark Priest"
+Tip=Hire Apprentice Wizard
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nwzd]
+Name=Dark Wizard
+Tip=Hire Dark Wizard
+Ubertip="Heavy ranged unit with Brilliance Aura. Can also cast Raise Dead and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+[ninf]
+Name="Titan"
+Tip="ssss"
+Ubertip="sss"
+[nbal]
+Name=Doom Guard
+Tip=Summon Doom Guard
+Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[nba2]
+Name=Doom Guard
+Tip=Summon Doom Guard
+Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[nwgt]
+Name=Way Gate
+Tip=Build Way Gate
+Description=Teleports units to a sister Way Gate.
+[nowl]
+Name=Owl Scout
+EditorSuffix= (Level 1)
+[now2]
+Name=Owl Scout
+EditorSuffix= (Level 2)
+[now3]
+Name=Owl Scout
+EditorSuffix= (Level 3)
+[Npbm]
+Name="Pandaren Battlemaster"
+Propernames=Chen
+Hotkey=P
+Tip="|cffffcc00Pandaren Battlemaster"
+Ubertip="Warrior Hero, exceptional at absorbing damage and melee combat. Can learn Pandaren Slam, Frozen Prision, Guard, Divine Punishment and Enlightenment. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip="|cffffcc00nP|randaren Battlemaster"
+Awakentip="|cffffcc00P|randaren Battlemaster"
+[npn2]
+Name=Storm
+Tip=Summon S|cffffcc00t|rorm
+Ubertip="Quick Pandaren warrior of storms. Has Resistant Skin. Can cast Dispel Magic, Cyclone, and Wind Walk. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[Nbrn]
+Name=Dark Ranger
+Propernames=Nara Pathstrider,Anya Eversong,Anthis Sunbow,Clea Deathstrider,Cyndia Hawkspear,Mira Shadewither,Amora Eagleye,Siren Ghostsong,Somand Wayfinder
+Hotkey=R
+Tip=Summon Dark |cffffcc00R|ranger
+Ubertip="Cunning Hero, adept at manipulating opponents. Can learn Silence, Black Arrow, Life Drain, and Charm. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip=Revive Dark |cffffcc00R|ranger
+Awakentip=Revive Dark |cffffcc00R|ranger
+[ndr3]
+Name=Greater Dark Minion
+Tip=Summon Dark Minion
+[Nfir]
+Name=Firelord
+Propernames=Ragepyre,Blazefury,Volcanus,Everburning,Singeslayer
+Hotkey=F
+Tip="|cffffcc00Firelord"
+Ubertip="Mystical Hero, adept at disrupting spells and dealing large amounts of fire damage. Can learn Sear, Pillar of Flame, Conflagration, Pyroclasm, and Volcano.|n|nDifficulty to use: |CFFFFFF01Normal.|r"
+Revivetip=Revive Firel|cffffcc00o|rrd
+Awakentip=Revive Firel|cffffcc00o|rrd
+[nlv1]
+Name=Lava Spawn
+EditorSuffix= (Level 1)
+[nlv2]
+Name=Lava Spawn
+EditorSuffix= (Level 2)
+[nlv3]
+Name=Lava Spawn
+EditorSuffix= (Level 3)
+[Nalc]
+Name="Party Tank"
+Propernames=Lapis 
+Hotkey=X
+Tip=Summon Alchemist (|cffffcc00X|r)
+Ubertip="Warrior Hero, known for offensive and defensive versatility. Can learn Healing Spray, Chemical Rage, Acid Bomb and Transmute.|n|n|cffffcc00Attacks land and air units.|r"
+Revivetip=Revive Alchemist (|cffffcc00X|r)
+Awakentip=Revive Alchemist (|cffffcc00X|r)
+[nfac]
+Name="Barrack"
+Tip=Summon Pocket |cffffcc00F|ractory
+Ubertip="Factory unit for spawning Clockwerk Goblins via the Pocket Factory ability."
+Hotkey=F
+EditorSuffix=" (T1)"
+[nskk]
+Name=Skink
+Tip=Invoke Skink
+Ubertip="Call upon the spirit of Skink to save you."
+[ncrb]
+Name=Crab
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[nhmc]
+Name=Hermit Crab
+Tip=Invoke Hermit Crab
+Ubertip="Call upon the spirit of Hermit Crab to save you."
+[nech]
+Name=Chicken
+Tip=Invoke Chicken
+Ubertip="Call upon the spirit of fearsome Chicken to save you."
+[nfro]
+Name=Frog
+Tip=Invoke Frog
+Ubertip="Call upon the spirit of fearsome Frog to save you."
+[necr]
+Name=Rabbit
+Tip=Invoke Rabbit
+Ubertip="Call upon the spirit of fearsome Rabbit to save you."
+[nrac]
+Name=Raccoon
+Tip=Invoke Raccoon
+Ubertip="Call upon the spirit of fearsome Raccoon to save you."
+[nalb]
+Name=Albatross
+Tip=Invoke Albatross
+Ubertip="Call upon the spirit of Albatross to save you."
+[ntrs]
+Name=Sea Turtle
+Tip=Hire Sea Turtle
+Ubertip="Light melee amphibious unit whose spiked shell harms enemy melee attackers. |n|n|cffffcc00Attacks land units.|r"
+[ntrt]
+Name="Murloc Tiderunner"
+Tip=Hire Giant Sea |cffffcc00T|rurtle
+Ubertip="Medium ranged amphibious unit whose spiked shell harms enemy melee attackers. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[ntrg]
+Name="Murloc Marauder"
+Tip=Hire Gargantuan Sea Turtle
+Ubertip="Heavy melee amphibious unit whose spiked shell harms enemy melee attackers. |n|n|cffffcc00Attacks land units.|r"
+[ntrd]
+Name=Dragon Turtle
+Tip=Hire Dragon Turtle
+Ubertip="Heavy melee amphibious unit with Devour and Spiked Shell. Can cast Crushing Wave. |n|n|cffffcc00Attacks land units.|r"
+[nhyd]
+Name=Hydra
+Tip=Hire Hydra
+Ubertip="Light ranged amphibious unit with Slow Poison. When it is slain, smaller Hydras will arise from its corpse. |n|n|cffffcc00Attacks land and air units.|r"
+[nhyh]
+Name=Hydra Hatchling
+Tip=Hire Hydra Hatchling
+Ubertip="Medium ranged amphibious unit with Slow Poison. |n|n|cffffcc00Attacks land and air units.|r"
+[nehy]
+Name=Elder Hydra
+Tip=Hire Elder Hydra
+Ubertip="Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[nahy]
+Name=Ancient Hydra
+Tip=Hire Ancient Hydra
+Ubertip="Heavy ranged amphibious unit with Devour, War Stomp, and Slow Poison. When it is slain, smaller Hydras will arise from its corpse. |n|n|cffffcc00Attacks land and air units.|r"
+[nlpr]
+Name=Makrura Prawn
+Tip=Hire Makrura Prawn
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nltc]
+Name=Makrura Tidecaller
+Tip=Hire Makrura Tidecaller
+Ubertip="Light ranged unit with Heal and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+[nlpd]
+Name=Makrura Pooldweller
+Tip=Hire Makrura Pooldweller
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nlds]
+Name="Makrura Tidecaller"
+Tip=Hire Makrura |cffffcc00D|reepseer
+Ubertip="Medium ranged unit that can cast Entangling Roots and summon Prawns. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=D
+[nlsn]
+Name="Crab Shorecrawler"
+Tip=Hire Mak|cffffcc00r|rura Snapper
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=R
+[nlkl]
+Name=Makrura Tidal Lord
+Tip=Hire Makrura Tidal Lord
+Ubertip="Heavy melee unit with Devotion Aura and Cleaving Attack. |n|n|cffffcc00Attacks land units.|r"
+[nmcf]
+Name="Mur'gul Cliffrunner'"
+Tip="Hire Mur'gul Cliffrunner'"
+Ubertip="Light melee amphibious unit. |n|n|cffffcc00Attacks land units.|r"
+[nmbg]
+Name="Murloc OverLord"
+Tip="Hire Mur'gul Blood-Gill'"
+Ubertip="Light ranged amphibious unit with Heal. |n|n|cffffcc00Attacks land and air units.|r"
+[nmrv]
+Name="Mur'gul Marauder'"
+Tip="Hire Mur'gul Marauder'"
+Ubertip="Heavy melee amphibious unit with Command Aura. |n|n|cffffcc00Attacks land units.|r"
+[nsrv]
+Name="Revenant "
+Tip=Hire Revenant of the Seas
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nrel]
+Name=Reef Elemental
+Tip=Summon Reef Elemental
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nsel]
+Name=Sea Elemental
+Tip=Summon Sea Elemental
+Ubertip="Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[nsgn]
+Name=Sea Giant
+Tip=Summon Sea Giant
+Ubertip="Light melee amphibious unit with Pulverize. |n|n|cffffcc00Attacks land units.|r"
+[nsgb]
+Name="Behemoth"
+Tip=Summon Sea Giant Behemoth
+Ubertip="Heavy melee amphibious unit with Hurl Boulder, War Stomp, and Pulverize. |n|n|cffffcc00Attacks land units.|r"
+[nsog]
+Name=Skeletal Orc Grunt
+Tip=Summon Skeletal Orc Grunt
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nsrw]
+Name="Hydromancer"
+Tip=Hire Stormreaver Warlock
+Ubertip="Heavy ranged unit with Monsoon and Animate Dead. |n|n|cffffcc00Attacks land and air units.|r"
+[Nngs]
+Name=Naga Sea Witch
+Propernames=Anna Kondra,Scilla Murkshadow,Ursula Snakemane,Lady Venomtongue,Lady Serpentra,Lady Darkscale,Serena Scarscale,Asprah Serpus,Venna Seastorm,Charib'dishal'
+Hotkey=G
+Tip=Summon Na|cffffcc00g|ra Sea Witch
+Ubertip="Mystical Hero, adept at ranged combat. Can learn Forked Lightning, Frost Arrows, Mana Shield, and Tornado. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip=Revive Na|cffffcc00g|ra Sea Witch
+Awakentip=Revive Na|cffffcc00g|ra Sea Witch
+[Nbst]
+Name=Beastmaster
+Propernames=Gaz Talonfang
+Hotkey=B
+Tip="|cffffcc00Beastmaster"
+Ubertip="Warrior Hero, adept at summoning and empowering beasts in battle. Can learn Summon Bear, Summon Hawk, Roar, Ferocity, Beast Mastery.|n|nDifficult to use: |CFFFFFF01Normal.|r "
+Revivetip=Revive Bea|cffffcc00s|rtmaster
+Awakentip=Revive Bea|cffffcc00s|rtmaster
+[ngz1]
+Name=Bear
+EditorSuffix= (Level 1)
+[ngz2]
+Name="Bear"
+EditorSuffix= (Level 2)
+[ngz3]
+Name="Bear"
+EditorSuffix= (Level 3)
+[nwe2]
+Name="Spirit Hawk"
+EditorSuffix= (Level 2)
+[nwe3]
+Name=Spirit Hawk
+EditorSuffix= (Level 3)
+[ntor]
+Name=Tornado
+[nmam]
+Name=Mammoth
+Tip=Hire Mammoth
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nmit]
+Name=Icetusk Mammoth
+Tip=Hire Icetusk Mammoth
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nmdr]
+Name=Dire Mammoth
+Tip=Hire Dire Mammoth
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nfgo]
+Name=Forgotten One
+Tip=Hire Forgotten One
+Ubertip="An ancient and powerful creature who hurls fire at its enemies. Can cast Spawn Tentacle, Firebolt, and Charm. |n|n|cffffcc00Attacks land and air units.|r"
+[nfgt]
+Name=Tentacle
+Ubertip="A gnarly tentacle from the depths. |n|n|cffffcc00Attacks land units.|r"
+[ntkf]
+Name=Tuskarr Fighter
+Tip=Hire Tuskarr Fighter
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[ntka]
+Name=Tuskarr Spearman
+Tip=Hire Tuskarr Spearman
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[ntkw]
+Name=Tuskarr Warrior
+Tip=Hire Tuskarr Warrior
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+[ntkt]
+Name=Tuskarr Trapper
+Tip=Hire Tuskarr Trapper
+Ubertip="Medium ranged unit with Ensnare. |n|n|cffffcc00Attacks land and air units.|r"
+[ntkh]
+Name=Tuskarr Healer
+Tip=Hire Tuskarr Healer
+Ubertip="Light ranged unit with Heal and Abolish Magic. |n|n|cffffcc00Attacks land and air units.|r"
+[ntks]
+Name=Tuskarr Sorcerer
+Tip=Hire Tuskarr Sorcerer
+Ubertip="Medium ranged unit with Inner Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[nmgr]
+Name="Titan"
+Tip=Hire Magnataur Reaver
+Ubertip="Heavy melee unit that hurls bolts of frost at opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[nmgd]
+Name="Glacial Titan"
+Tip="Glacial Titan"
+Ubertip="Titans are extremely strong but very slow."
+[nanb]
+Name=Barbed Arachnathid
+Tip=Hire |cffffcc00B|rarbed Arachnathid
+Hotkey=B
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nanm]
+Name=Barbed Arachnathid
+Tip=Hire |cffffcc00B|rarbed Arachnathid
+Hotkey=B
+Ubertip="Light ranged unit that has the Burrow ability. |n|n|cffffcc00Attacks land and air units.|r"
+[nanw]
+Name=Warrior Arachnathid
+Tip=Hire Warrior Arachnathid
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nane]
+Name="Earth-Borer "
+Tip="Hire Arachnathid Earth-borer"
+Ubertip="Medium ranged unit with Envenomed Weapons and Shadow Strike. |n|n|cffffcc00Attacks land and air units.|r"
+[nano]
+Name=Overlord Arachnathid
+Tip=Hire Overlord Arachnathid
+Ubertip="Heavy melee unit with Command Aura. |n|n|cffffcc00Attacks land units.|r"
+[nfor]
+Name="Faceless One Deathbringer"
+Tip=Hire Faceless One Trickster
+Ubertip="Heavy melee unit with Purge and Curse. |n|n|cffffcc00Attacks land units.|r"
+[nubr]
+Name="Faceless One Terror"
+Tip=Hire Unbroken Rager
+Ubertip="Medium melee unit. Can cast ensnare. |n|n|cffffcc00Attacks land units.|r"
+[nubw]
+Name=Unbroken Darkweaver
+Tip=Hire Unbroken Darkweaver
+Ubertip="Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+[nplg]
+Name=Giant Polar Bear
+Tip=Hire Giant Polar Bear
+Ubertip="Heavy melee amphibious unit. |n|n|cffffcc00Attacks land units.|r"
+[ncfs]
+Name=Watery Minion
+Tip=Summon Watery Minion
+Ubertip="Light melee amphibious unit. |n|n|cffffcc00Attacks land units.|r"
+[ntws]
+Name=Watery Minion
+Tip=Summon Watery Minion
+Ubertip="Light melee amphibious unit. |n|n|cffffcc00Attacks land units.|r"
+[nsns]
+Name=Watery Minion
+Tip=Summon Watery Minion
+Ubertip="Medium ranged amphibious unit with Abolish Magic and Slow. |n|n|cffffcc00Attacks land and air units.|r"
+[ngni]
+Name=Infected Granary
+Tip=Build Infected Granary
+Description=A decaying silo full of diseased grain.
+[nfpl]
+Name=Polar Furbolg
+Tip=Hire Polar Furbolg
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nfpc]
+Name="Polar Furbolg"
+Tip=Hire Polar Furbolg Champion
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[nfpe]
+Name=Polar Furbolg Elder Shaman
+Tip=Hire Polar Furbolg Elder Shaman
+Ubertip="Heavy ranged unit with Frost Nova and Healing Wave. |n|n|cffffcc00Attacks land and air units.|r"
+[nfps]
+Name=Polar Furbolg Shaman
+Tip=Hire Polar |cffffcc00F|rurbolg Shaman
+Hotkey=F
+Ubertip="Medium ranged unit with Abolish Magic and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+[nfpu]
+Name=Polar Furbolg Ursa Warrior
+Tip=Hire Polar Furbolg Ursa Warrior
+Ubertip="Heavy melee unit with Command Aura and War Stomp. |n|n|cffffcc00Attacks land units.|r"
+[nfpt]
+Name=Polar Furbolg Tracker
+Tip=Hire Polar Furbolg Tracker
+Ubertip="Heavy melee unit that can Slow opponents. |n|n|cffffcc00Attacks land units.|r"
+[nmrf]
+Name=Mercenary Camp
+EditorSuffix= (Black Citadel)
+Tip=Build Mercenary Camp
+Description=Allows you to hire various mercenaries.
+[npng]
+Name=Penguin
+Tip=Invoke Penguin
+Ubertip="Call upon the spirit of Penguin to save you."
+[npnw]
+Name=Penguin
+Tip=Invoke Penguin
+Ubertip="Call upon the spirit of Penguin to save you."
+EditorSuffix= (Waterborne)
+[nrat]
+Name=Rat
+Tip=Invoke Rat
+Ubertip="Call upon the spirit of Rat to save you."
+[nsno]
+Name=Snowy Owl
+Tip=Invoke Snowy Owl
+Ubertip="Call upon the spirit of Snowy Owl to save you."
+[nvk2]
+Name=Child
+Tip=Hire Villager
+Ubertip="A tiny villager."
+EditorSuffix= (2)
+[nvl2]
+Name=Villager
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix= (Male 2)
+[nzom]
+Name=Zombie
+Tip=Summon Zombie
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[npfm]
+Name=Fel Ravager
+Tip=Summon Fel Ravager
+Ubertip="Heavy melee unit that casts Black Arrow. Can also cast Devour Magic. |n|n|cffffcc00Attacks land units.|r"
+[ndqv]
+Name="Lesser Vampire"
+Tip=Hire Vile Tormentor
+Ubertip="Medium melee unit that can cast Silence. |n|n|cffffcc00Attacks land units.|r"
+[ndqt]
+Name="Savage Vampire"
+Tip="Savage Vampire"
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[ndqs]
+Name="Vampire"
+Tip=Hire Queen of Suffering
+Ubertip="Heavy melee unit with Death Coil, Unholy Aura and Charm. |n|n|cffffcc00Attacks land units.|r"
+[nfgb]
+Name="Living Shield"
+Tip=Hire Bloodfiend
+Ubertip="Medium melee unit with Cleaving Attack. |n|n|cffffcc00Attacks land units.|r"
+[ndrw]
+Name="Draenei Stalker"
+Tip=Hire Draenei Watcher
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[ndrd]
+Name=Draenei Darkslayer
+Tip=Hire Draenei Dark|cffffcc00s|rlayer
+Hotkey=S
+Ubertip="Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+[ndrm]
+Name=Draenei Disciple
+Tip=Hire Draenei |cffffcc00D|risciple
+Hotkey=D
+Ubertip="Light ranged unit that casts Heal. |n|n|cffffcc00Attacks land and air units.|r"
+[nina]
+Name=Infernal Juggernaut
+Tip=Hire Infernal Juggernaut
+Ubertip="Heavy ranged unit that hurls fiery missiles. Can cast Inferno. |n|n|cffffcc00Attacks land and air units.|r"
+[nvdw]
+Name=Voidwalker
+Tip=Hire |cffffcc00V|roidwalker
+Hotkey=V
+Ubertip="Light ranged unit with Cold Arrows. |n|n|cffffcc00Attacks land and air units.|r"
+[nvdg]
+Name=Greater Voidwalker
+Tip=Hire Greater |cffffcc00V|roidwalker
+Hotkey=V
+Ubertip="Heavy ranged unit that casts Chain Lightning and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+[nvde]
+Name=Elder Voidwalker
+Tip=Hire Elder Voidwalker
+Ubertip="Heavy ranged unit that can cast Devour Magic and Forked Lightning. |n|n|cffffcc00Attacks land and air units.|r"
+[nndk]
+Name=Nether Drake
+Tip=Summon Nether Dra|cffffcc00k|re
+Hotkey=K
+Ubertip="Heavy ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
+[nerd]
+Name="Demon Lord"
+Tip=Hire Eredar Diabolist
+Ubertip="Heavy ranged unit that casts Firebolt and Parasite. |n|n|cffffcc00Attacks land and air units.|r"
+[nerw]
+Name="Guardian of Tides"
+Tip=Hire Eredar Warlock
+Ubertip="Heavy ranged unit with Bash. Can cast Finger of Pain and Mana Shield. |n|n|cffffcc00Attacks land and air units.|r"
+[nogo]
+Name=Stonemaul Ogre
+Tip=Hire Stonemaul Ogre
+Ubertip="Powerful warrior. Less intelligent than the two-headed variety, but great combat fodder. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+[noga]
+Name="Mortaar The Ogre"
+Tip=Hire Stonemaul Warchief
+Ubertip="Lord of the Ogres. This powerfully built Ogre can crush lesser beasts with his bare hands. Has Taunt, Bash, and Endurance Aura. |n|n|cffffcc00Attacks land units.|r"
+[njgb]
+Name=Enraged Jungle Stalker
+Tip=Summon Enraged Jungle Stalker
+Ubertip="Heavy melee unit that can Slam opponents. |n|n|cffffcc00Attacks land units.|r"
+[n04C]
+Name="Dark Shopkeeper"
+Tip="Dark Shopkeeper"
+Description="Sells various tomes."
+[n04B]
+Name="Dummy-Phoenix"
+Tip=Invoke Chicken
+Ubertip="Call upon the spirit of fearsome Chicken to save you."
+[n048]
+Name="Searinox"
+Tip=Summon Black |cffffcc00D|rragon
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=D
+[n047]
+Name="Tharifas"
+Tip=Summon Black |cffffcc00D|rragon
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=D
+[n046]
+Name=Black Dragon
+Tip=Summon Black |cffffcc00D|rragon
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=D
+[n045]
+Name="Black Drake"
+Tip=Summon Black |cffffcc00D|rragon
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=D
+[n044]
+Name="Black Dragon Whelp"
+Tip="Summon Black |cffffcc00D|rragon"
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n043]
+Name="Black Dragon Hatchling"
+Tip="Summon Black |cffffcc00D|rragon"
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n042]
+Name="Belphegor"
+Tip=Summon Doom Guard
+Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[n041]
+Name="Blood Elemental"
+Tip=Summon Berserk Elemental
+Ubertip="Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n040]
+Name="Magic Creator The First Mage"
+Tip=Hire Apprentice Wizard
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n03Z]
+Name="P Elemental"
+Tip=Summon Berserk Elemental
+Ubertip="Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n03Y]
+Name="B Elemental"
+Tip=Summon Berserk Elemental
+Ubertip="Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n03X]
+Name="A Elemental"
+Tip=Summon Sea Elemental
+Ubertip="Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[n03W]
+Name="Y Elemental"
+Tip=Summon Sea Elemental
+Ubertip="Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[n03S]
+Name=Child
+Ubertip="A tiny villager."
+Tip=Hire Villager
+EditorSuffix="(3)"
+[n03R]
+Name="Gaia Awakening"
+Tip=Summon Enraged Jungle Stalker
+Ubertip="Heavy melee unit that can Slam opponents. |n|n|cffffcc00Attacks land units.|r"
+[n03N]
+Name="Gold Bahamut The King"
+Tip=Summon Bronze |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n03M]
+Name="Black Knight"
+Tip=Hire Bandit Lord
+Ubertip="Heavy melee unit with Shadowmeld and Devotion Aura. Can cast Divine Shield. |n|n|cffffcc00Attacks land units.|r"
+[n03L]
+Name="S Shadow Arthas"
+Tip=Hire Giant Skeleton Warrior
+Ubertip="Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n03K]
+Name="Shadow Arthas"
+Tip=Hire Giant Skeleton Warrior
+Ubertip="Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n03J]
+Name="Kelt Orc Skeletal "
+Tip=Summon Skeletal Orc Grunt
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n03I]
+Name="Fel Demon"
+Tip=Summon Fel Stalker
+Ubertip="Demonic beast that casts Mana Burn. |n|n|cffffcc00Attacks land units.|r"
+[n03G]
+Name="FelGuard"
+Tip=Hire Bloodfiend
+Ubertip="Medium melee unit with Cleaving Attack. |n|n|cffffcc00Attacks land units.|r"
+[n03F]
+Name="Burning Hell Skeleton "
+Tip=Hire Giant Skeleton Warrior
+Ubertip="Large melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n03E]
+Name="Cursed Golem"
+Tip=Summon Siege Golem
+Ubertip="Heavy melee unit. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n03D]
+Name="Lord of Darkness"
+Tip=Hire Draenei Dark|cffffcc00s|rlayer
+Hotkey=S
+Ubertip="Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+[n03C]
+Name="Byatis"
+Tip=Summon Brood Mother
+Ubertip="Heavy melee unit that poisons opponents and carries its young into battle. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+[n039]
+Name="Omega"
+Tip=Summon Doom Guard
+Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[n038]
+Name="Agiel"
+Tip=Summon Ghost
+Ubertip="Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+[n037]
+Name="Savage Vampire"
+Tip="Savage Vampire"
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n036]
+Name="Vrykolaklaus"
+Tip=Hire Draenei Dark|cffffcc00s|rlayer
+Hotkey=S
+Ubertip="Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+[n035]
+Name="Hidro Elemental"
+Tip=Summon Sea Elemental
+Ubertip="Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[n02P]
+Name="Hell Skeletal "
+Tip=Summon Skeletal Orc Grunt
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n02O]
+Name="Elite Skeletal Orc Grunt"
+Tip=Summon Skeletal Orc Grunt
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n02N]
+Name="Furbolg Test 2"
+Tip=Hire Furbolg
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(6)"
+[n02M]
+Name="Furbolg Test"
+Tip=Hire Furbolg
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(6)"
+[n02L]
+Name="Azazel Minion"
+Tip=Summon Doom Guard
+Ubertip="Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+[n02D]
+Name="Ancient Green Dragon"
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n02C]
+Name="Mighty Green Dragon"
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n02B]
+Name="Vicious Green Dragon"
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n02A]
+Name="Fierce Green Dragon"
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n029]
+Name="Adult Green Dragon"
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n028]
+Name="Big Green Dragon"
+Tip=Summon Green |cffffcc00D|rragon
+Hotkey=D
+Ubertip="Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+[n020]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 9)"
+[n01Z]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 8)"
+[n01Y]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 7)"
+[n01X]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 6)"
+[n01W]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 5)"
+[n01V]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 4)"
+[n01U]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 3)"
+[n01T]
+Name="Spirit Hawk"
+EditorSuffix="(Level 2)"
+[n01S]
+Name="Spirit Hawk"
+EditorSuffix=" (Level 1)"
+[n01R]
+Name="Bear"
+EditorSuffix=" (Level 9)"
+[n01Q]
+Name="Bear"
+EditorSuffix=" (Level 8)"
+[n01P]
+Name="Bear"
+EditorSuffix=" (Level 7)"
+[n01O]
+Name="Bear"
+EditorSuffix=" (Level 6)"
+[n01N]
+Name="Bear"
+EditorSuffix=" (Level 5)"
+[n01M]
+Name="Bear"
+EditorSuffix=" (Level 4)"
+[n01L]
+Name="Pyromancer"
+EditorSuffix="(Pet)"
+[n01K]
+Name=Lava Spawn
+EditorSuffix=" (Level 8)"
+[n01J]
+Name=Lava Spawn
+EditorSuffix=" (Level 7)"
+[n01I]
+Name=Lava Spawn
+EditorSuffix=" (Level 6)"
+[n01H]
+Name=Lava Spawn
+EditorSuffix=" (Level 5)"
+[n01G]
+Name=Lava Spawn
+EditorSuffix=" (Level 4)"
+[n01F]
+Name=Furbolg
+Tip=Hire Furbolg
+Ubertip="Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="(6)"
+[n01E]
+Name="Lich"
+Tip=Summon Ghost
+Ubertip="Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+[n01D]
+Name="Barrack "
+Tip=Summon Pocket |cffffcc00F|ractory
+Ubertip="Factory unit for spawning Clockwerk Goblins via the Pocket Factory ability."
+Hotkey=F
+EditorSuffix=" (T2)"
+[n01C]
+Name="Nature Titan"
+Hotkey=T
+Tip="Nature Titan"
+Ubertip="Titans are extremely strong but very slow."
+[n00W]
+Name="Ancient of Woods"
+Tip=Summon Plague Treant
+Ubertip="Medium melee unit that diseases opponents. Can cast Entangling Roots. |n|n|cffffcc00Attacks land units.|r"
+[n00U]
+Name="Gaia"
+Tip=Summon Enraged Jungle Stalker
+Ubertip="Heavy melee unit that can Slam opponents. |n|n|cffffcc00Attacks land units.|r"
+[n00T]
+Name="Zatan Priest"
+Tip=Hire Heretic
+Ubertip="Medium ranged unit that hurls Demon fire. Can cast Raise Dead and Carrion Swarm. |n|n|cffffcc00Attacks land and air units.|r"
+[n00S]
+Name="Blaspheme"
+Tip=Hire Heretic
+Ubertip="Medium ranged unit that hurls Demon fire. Can cast Raise Dead and Carrion Swarm. |n|n|cffffcc00Attacks land and air units.|r"
+[n00R]
+Name="Centaur Overlord"
+Tip="Hire Centaur Overlord"
+Ubertip="Has improved Endurance Aura and War Stomp.|n|n|cffff0000Endurace Aura of centaurs do not stack with each others|r."
+[n00Q]
+Name=Sea Elemental
+Tip=Summon Sea Elemental
+Ubertip="Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+[n00P]
+Name="Poisonous Archer"
+Tip=Hire Skeleton Archer
+Ubertip="Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n00J]
+Name=Infernal
+Tip=Summon Infernal
+Ubertip="Heavy melee unit cloaked in demonic flames that damage nearby enemy ground units. Immune to magic. |n|n|cffffcc00Attacks land units.|r"
+[n00I]
+Name="Necro Iron Golem"
+Tip=Summon Granite Golem
+Ubertip="Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
+[n00H]
+Name="Titanium Golem"
+Tip=Summon Granite Golem
+Ubertip="Heavy melee unit that can Slam opponents and hurl boulders. Immune to spells. |n|n|cffffcc00Attacks land and air units.|r"
+[n00G]
+Name="Necro Rock Golem"
+Tip=Summon Rock Golem
+Ubertip="Heavy melee unit that hurls boulders at opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n00F]
+Name="Clay Golem"
+Hotkey=U
+Tip=Summon M|cffffcc00u|rd Golem
+Ubertip="Light melee unit that can Slow opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n00E]
+Name="Nightmare Necro Skeleton "
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n00D]
+Name="Dark Necro Skeleton L2 "
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n00C]
+Name="Dark Necro Skeleton "
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n00B]
+Name="Greater Necro Skeleton "
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n00A]
+Name="Necro Skeleton Warrior Level 3"
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n009]
+Name="Necro Skeleton Warrior Level 2"
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n008]
+Name="Necro Skeleton Warrior"
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n007]
+Name="Skeleton Level 2"
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n006]
+Name="Skeleton "
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+[n001]
+Name=Marketplace
+Tip=Build Marketplace
+Description=A store for purchasing goods.
+[n000]
+Name="Death Helper"
+Tip=Hire Draenei Dark|cffffcc00s|rlayer
+Hotkey=S
+Ubertip="Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+[N034]
+Name=Dark Ranger
+Propernames=Clea Eagleye
+Hotkey=R
+Tip=Summon Dark |cffffcc00R|ranger
+Ubertip="Range Hero, adept at dealing high damage from afar. Can learn Black Arrow, Shadow Bow, Venom Curse, Death Pack and Zeal. "
+Revivetip=Revive Dark |cffffcc00R|ranger
+Awakentip=Revive Dark |cffffcc00R|ranger
+EditorSuffix="Dragon"
+[N033]
+Name=Dark Ranger
+Propernames=Clea Eagleye
+Hotkey=R
+Tip=Summon Dark |cffffcc00R|ranger
+Ubertip="Range Hero, adept at dealing high damage from afar. Can learn Black Arrow, Shadow Bow, Venom Curse, Death Pack and Zeal. "
+Revivetip=Revive Dark |cffffcc00R|ranger
+Awakentip=Revive Dark |cffffcc00R|ranger
+EditorSuffix="Chaos"
+[N032]
+Name=Dark Ranger
+Propernames=Clea Eagleye
+Hotkey=R
+Tip=Summon Dark |cffffcc00R|ranger
+Ubertip="Range Hero, adept at dealing high damage from afar. Can learn Black Arrow, Shadow Bow, Venom Curse, Death Pack and Zeal. "
+Revivetip=Revive Dark |cffffcc00R|ranger
+Awakentip=Revive Dark |cffffcc00R|ranger
+EditorSuffix="Hero"
+[N031]
+Name="Pandaren Battlemaster"
+Propernames=Chen
+Hotkey=N
+Tip="|cffffcc00nP|randaren Battlemaster"
+Ubertip="Warrior Hero, exceptional at absorbing damage and melee combat. Can learn Pandaren Slam, Frozen Prision, Guard, Divine Punishment and Enlightenment. "
+Revivetip="|cffffcc00nP|randaren Battlemaster"
+Awakentip="|cffffcc00nP|randaren Battlemaster"
+EditorSuffix="Dragon"
+[N030]
+Name="Pandaren Battlemaster"
+Propernames=Chen
+Hotkey=N
+Tip="|cffffcc00nP|randaren Battlemaster"
+Ubertip="Warrior Hero, exceptional at absorbing damage and melee combat. Can learn Pandaren Slam, Frozen Prision, Guard, Divine Punishment and Enlightenment. "
+Revivetip="|cffffcc00nP|randaren Battlemaster"
+Awakentip="|cffffcc00nP|randaren Battlemaster"
+EditorSuffix="Chaos"
+[N02Z]
+Name="Pandaren Battlemaster"
+Propernames=Chen
+Hotkey=N
+Tip="|cffffcc00nP|randaren Battlemaster"
+Ubertip="Warrior Hero, exceptional at absorbing damage and melee combat. Can learn Pandaren Slam, Frozen Prision, Guard, Divine Punishment and Enlightenment. "
+Revivetip="|cffffcc00nP|randaren Battlemaster"
+Awakentip="|cffffcc00nP|randaren Battlemaster"
+EditorSuffix="Hero"
+[N02Y]
+Name=Dark Ranger
+Propernames=Clea Eagleye
+Hotkey=R
+Tip="|cffffcc00Dark Ranger"
+Ubertip="Range Hero, adept at dealing high damage from afar. Can learn Black Arrow, Shadow Bow, Venom Curse, Death Pack and Zeal. |n|nDifficulty to use: |CFF20C000Hard.|r"
+Revivetip=Revive Dark |cffffcc00R|ranger
+Awakentip=Revive Dark |cffffcc00R|ranger
+[N027]
+Name=Beastmaster
+Propernames=Gaz Talonfang
+Hotkey=S
+Tip=Summon Bea|cffffcc00s|rtmaster
+Ubertip="Warrior Hero, adept at summoning beasts into battle. Can learn Summon Bear, Summon Quilbeast, Summon Hawk, and Stampede. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Bea|cffffcc00s|rtmaster
+Awakentip=Revive Bea|cffffcc00s|rtmaster
+EditorSuffix="Dragon"
+[N026]
+Name=Beastmaster
+Propernames=Gaz Talonfang
+Hotkey=S
+Tip=Summon Bea|cffffcc00s|rtmaster
+Ubertip="Warrior Hero, adept at summoning beasts into battle. Can learn Summon Bear, Summon Quilbeast, Summon Hawk, and Stampede. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Bea|cffffcc00s|rtmaster
+Awakentip=Revive Bea|cffffcc00s|rtmaster
+EditorSuffix="Chaos"
+[N025]
+Name=Beastmaster
+Propernames=Gaz Talonfang
+Hotkey=S
+Tip=Summon Bea|cffffcc00s|rtmaster
+Ubertip="Warrior Hero, adept at summoning beasts into battle. Can learn Summon Bear, Summon Quilbeast, Summon Hawk, and Stampede. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Bea|cffffcc00s|rtmaster
+Awakentip=Revive Bea|cffffcc00s|rtmaster
+EditorSuffix="Hero"
+[N024]
+Name=Firelord
+Propernames=Ragepyre,Blazefury,Volcanus,Everburning,Singeslayer
+Hotkey=O
+Tip=Summon Firel|cffffcc00o|rrd
+Ubertip="Mystical Hero, adept at disrupting spells and dealing large amounts of fire damage.  Can learn Wave of Fire, Wall of Fire, Soul Burn, Summon Lava Spawn, and Volcano."
+Revivetip=Revive Firel|cffffcc00o|rrd
+Awakentip=Revive Firel|cffffcc00o|rrd
+EditorSuffix="Dragon"
+[N023]
+Name=Firelord
+Propernames=Ragepyre,Blazefury,Volcanus,Everburning,Singeslayer
+Hotkey=O
+Tip=Summon Firel|cffffcc00o|rrd
+Ubertip="Mystical Hero, adept at disrupting spells and dealing large amounts of fire damage.  Can learn Wave of Fire, Wall of Fire, Soul Burn, Summon Lava Spawn, and Volcano."
+Revivetip=Revive Firel|cffffcc00o|rrd
+Awakentip=Revive Firel|cffffcc00o|rrd
+EditorSuffix="Chaos"
+[N022]
+Name=Firelord
+Propernames=Ragepyre,Blazefury,Volcanus,Everburning,Singeslayer
+Hotkey=O
+Tip=Summon Firel|cffffcc00o|rrd
+Ubertip="Mystical Hero, adept at disrupting spells and dealing large amounts of fire damage.  Can learn Wave of Fire, Wall of Fire, Soul Burn, Summon Lava Spawn, and Volcano."
+Revivetip=Revive Firel|cffffcc00o|rrd
+Awakentip=Revive Firel|cffffcc00o|rrd
+EditorSuffix="Hero"
+[n04D]
+Name="Lord of Fire and Ice"
+Tip=Summon Berserk Elemental
+Ubertip="Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n04E]
+Name="Ninja"
+Tip=Hire Draenei Dark|cffffcc00s|rlayer
+Hotkey=S
+Ubertip="Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+[n04F]
+Name="Shelob"
+Tip=Summon Brood Mother
+Ubertip="Heavy melee unit that poisons opponents and carries its young into battle. Can cast Ensnare. |n|n|cffffcc00Attacks land units.|r"
+[n04H]
+Name="Nightmare Necro Skeleton "
+Tip=Hire Skeleton Warrior
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="(Child necromancer)"
+[n04I]
+Name="Skeletal King"
+Tip=Hire Revenant of the Seas
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n04J]
+Name=Vile Temptress
+Tip="Savage Vampire"
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n04K]
+Name="Hydra Hatchling"
+Tip=Hire Elder Hydra
+Ubertip="Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="neutral"
+[n04L]
+Name="Hydra"
+Tip=Hire Elder Hydra
+Ubertip="Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="neutral"
+[n04M]
+Name="Greater Hydra"
+Tip=Hire Elder Hydra
+Ubertip="Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="neutral"
+[n04N]
+Name="Legendary Hydra"
+Tip=Hire Elder Hydra
+Ubertip="Heavy ranged amphibious unit with Faerie Fire. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="neutral"
+[n04O]
+Name="Komodo"
+Tip=Hire Elder Voidwalker
+Ubertip="Heavy ranged unit that can cast Devour Magic and Forked Lightning. |n|n|cffffcc00Attacks land and air units.|r"
+[n04P]
+Name="Minotaur"
+Tip=Summon Enraged Jungle Stalker
+Ubertip="Heavy melee unit that can Slam opponents. |n|n|cffffcc00Attacks land units.|r"
+[n04S]
+Name="Water Elemental"
+Tip=Summon Berserk Elemental
+Ubertip="Heavy melee unit that can cast Frost Nova. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+[n04T]
+Name=Villager
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix="2"
+[n04U]
+Name=Child
+Ubertip="A tiny villager."
+Tip=Hire Villager
+EditorSuffix="2"
+[n04V]
+Name=Villager
+Tip=Hire Villager
+Ubertip="An intelligent villager."
+EditorSuffix=" (Female)2"
+[n04W]
+Name="Rage Winterchill"
+Tip=Summon Ghost
+Ubertip="Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="wave"
+[n04X]
+Name="Clan Lord"
+Hotkey=E
+Tip=Hire |cffffcc00E|rnforcer
+Ubertip="Light melee unit with Shadowmeld and Evasion. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="q2"
+[n04Y]
+Name="Bandit"
+Hotkey=R
+Tip=Hire |cffffcc00R|rogue
+Ubertip="Light melee unit with Shadowmeld. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="q2"
+[n04Z]
+Name="Bandit"
+Tip=Hire |cffffcc00A|rssassin
+Hotkey=A
+Ubertip="Medium ranged unit that fires envenomed bolts and can Shadowmeld. |n|n|cffffcc00Attacks land and air units.|r"
+EditorSuffix="q2a"
+[n050]
+Name="Tommy"
+Ubertip="A tiny villager."
+Tip=Hire Villager
+[n051]
+Name="Silversmith"
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix="2"
+[n052]
+Name="Helder"
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix="2"
+[n053]
+Name="Runemaster"
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix="2"
+[n054]
+Name="Satyr"
+Tip=Hire Unbroken Darkweaver
+Ubertip="Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="nb"
+[n055]
+Name="Satyr Trickster"
+Tip=Hire Unbroken Darkweaver
+Ubertip="Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="nb"
+[n056]
+Name="Satyr Shadowdancer"
+Tip=Hire Unbroken Darkweaver
+Ubertip="Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="nb"
+[n057]
+Name="Satyr Hellcaller"
+Tip=Hire Unbroken Darkweaver
+Ubertip="Medium melee unit with Unholy Frenzy. |n|n|cffffcc00Attacks land units.|r"
+EditorSuffix="nb"
+[n058]
+Name="Earth and Storm Elementalist"
+Tip=Hire Stonemaul Warchief
+Ubertip="Lord of the Ogres. This powerfully built Ogre can crush lesser beasts with his bare hands. Has Taunt, Bash, and Endurance Aura. |n|n|cffffcc00Attacks land units.|r"
+[n04R]
+Name="Elite Hell Skeletal "
+Tip=Summon Skeletal Orc Grunt
+Ubertip="Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n05C]
+Name="Silversmith's brother"
+Tip=Hire Villager
+Ubertip="A hearty villager."
+EditorSuffix=(Male)
+[n05E]
+Name="Wolf Cub"
+Tip=Summon Timber Wolf
+Ubertip="Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+[n05F]
+Name="Alpha Wolf"
+Tip=Summon Dire Wolf
+Ubertip="Medium melee unit with Critical Strike. Can cast Roar. |n|n|cffffcc00Attacks land units.|r"
+[n05G]
+Name="Greater Frost Wolf"
+Tip=Summon Giant Frost Wolf
+Ubertip="Medium melee unit with Critical Strike |n|n|cffffcc00Attacks land units.|r"

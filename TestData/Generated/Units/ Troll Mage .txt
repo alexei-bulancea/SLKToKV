@@ -1,0 +1,22 @@
+UnitId : nfsp
+Descriprion : 
+	Id : nfsp
+	Name : "Troll Mage"
+	Ubertip : "Shadow Priest of healing magic. Hurls fiery missiles. Can cast Abolish Magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0NC
+Descriprion : 
+	Id : A0NC
+	Name : "Frenzy TM"
+	Ubertip : "Increases the unit's attack rate by <Afzy,DataA1,%>% and movement speed by <Afzy,DataB1,%>% for <Afzy,Dur1> seconds."
+
+
+AbilityId : A0NE
+Descriprion : 
+	Id : A0NE
+	Name : "Breath of fire TM ORB"
+	Ubertip : 
+
+
+Hero ability list:

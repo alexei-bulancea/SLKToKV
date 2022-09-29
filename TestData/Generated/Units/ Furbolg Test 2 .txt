@@ -1,0 +1,29 @@
+UnitId : n02N
+Descriprion : 
+	Id : n02N
+	Name : "Furbolg Test 2"
+	Ubertip : "Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+Hero ability list:

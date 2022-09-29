@@ -1,0 +1,36 @@
+UnitId : hsor
+Descriprion : 
+	Id : hsor
+	Name : Sorceress
+	Ubertip : "Versatile spellcaster. Can initially cast Slow, which decreases movement and attack speed on enemy units. Can also learn Invisibility and Polymorph. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aivs
+Descriprion : 
+	Id : Aivs
+	Name : Invisibility
+	Ubertip : "Makes a unit invisible. If the unit attacks, uses an ability or casts a spell, it will become visible. |nLasts <Aivs,Dur1> seconds."
+
+
+AbilityId : Aply
+Descriprion : 
+	Id : Aply
+	Name : Polymorph
+	Ubertip : "Turns a target enemy unit into a sheep. The targeted unit retains its hit points and armor, but cannot attack. |nCannot be cast on Heroes. |nLasts <Aply,Dur1> seconds."
+
+
+AbilityId : Aslo
+Descriprion : 
+	Id : Aslo
+	Name : Slow
+	Ubertip : "Slows a target enemy unit's attack rate by <Aslo,DataB1,%>% and movement speed by <Aslo,DataA1,%>%. |nLasts <Aslo,Dur1> seconds."
+
+
+AbilityId : Aihn
+Descriprion : 
+	Id : Aihn
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

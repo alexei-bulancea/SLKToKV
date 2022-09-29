@@ -1,0 +1,22 @@
+UnitId : n03J
+Descriprion : 
+	Id : n03J
+	Name : "Kelt Orc Skeletal "
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1BE
+Descriprion : 
+	Id : A1BE
+	Name : "Attack Speed +82%"
+	Ubertip : 
+
+
+AbilityId : A0XA
+Descriprion : 
+	Id : A0XA
+	Name : "Spiked Shell 60%"
+	Ubertip : "Razor-sharp spikes on the Turtle's shell deal <ANth,DataA1,%>% of an enemy unit's melee attack damage back to it."
+
+
+Hero ability list:

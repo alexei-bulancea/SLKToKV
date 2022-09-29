@@ -1,0 +1,43 @@
+UnitId : h08D
+Descriprion : 
+	Id : h08D
+	Name : "Royal Knight S"
+	Ubertip : "Powerful mounted warrior. Can learn Animal War Training and Bash. "
+
+Ability List:
+AbilityId : A1QS
+Descriprion : 
+	Id : A1QS
+	Name : "Royal Knight S Bash"
+	Ubertip : "Gives a 14% chance that an attack will do 5000 bonus damage this attack cant miss."
+
+
+AbilityId : A0TP
+Descriprion : 
+	Id : A0TP
+	Name : "Elune's Grace'"
+	Ubertip : "Reduces the damage taken from Dragons and spells in 70%."
+
+
+AbilityId : A0WU
+Descriprion : 
+	Id : A0WU
+	Name : "Spell Damage Reduction 80"
+	Ubertip : 
+
+
+AbilityId : A02X
+Descriprion : 
+	Id : A02X
+	Name : "Critical Strike Wolf"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+AbilityId : A1WE
+Descriprion : 
+	Id : A1WE
+	Name : "Knight damage"
+	Ubertip : "15% to deal Initial Bonus Armor * 10 + Initial Bonus Damage * 3 in spell damage."
+
+
+Hero ability list:

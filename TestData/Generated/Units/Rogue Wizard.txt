@@ -1,0 +1,29 @@
+UnitId : nwzr
+Descriprion : 
+	Id : nwzr
+	Name : Rogue Wizard
+	Ubertip : "Light ranged unit that can cast Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0NJ
+Descriprion : 
+	Id : A0NJ
+	Name : "Blizzard NEw Mage"
+	Ubertip : "Calls down <ACbz,DataA1> freezing ice shard waves; each wave deals <ACbz,DataB1> damage to units in a small area."
+
+
+AbilityId : A0NL
+Descriprion : 
+	Id : A0NL
+	Name : "N.M Cripple"
+	Ubertip : "Reduces movement speed by 50%, attack rate by 90%, and damage by 70% of a target enemy unit. |nLasts 6 seconds."
+
+
+AbilityId : A0NK
+Descriprion : 
+	Id : A0NK
+	Name : "N.Mage Frost Bolt "
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 5000 damage and frozen the target for 8 seconds."
+
+
+Hero ability list:

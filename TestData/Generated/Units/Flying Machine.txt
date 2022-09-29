@@ -1,0 +1,15 @@
+UnitId : h02O
+Descriprion : 
+	Id : h02O
+	Name : Flying Machine
+	Ubertip : "Fast moving flying machine. Have great damage but low resistance."
+
+Ability List:
+AbilityId : A0KZ
+Descriprion : 
+	Id : A0KZ
+	Name : "FM Misil"
+	Ubertip : "Launch a misil that deal 1800 damage and paralyzed the target for 4.5 seconds.  "
+
+
+Hero ability list:

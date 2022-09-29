@@ -1,0 +1,22 @@
+UnitId : ngzd
+Descriprion : 
+	Id : ngzd
+	Name : Misha
+	Ubertip : 
+
+Ability List:
+AbilityId : ANbh
+Descriprion : 
+	Id : ANbh
+	Name : Bash
+	Ubertip : "Gives a <ANbh,DataA1>% chance that an attack will do <ANbh,DataC1> bonus damage and stun an opponent for 1.5 seconds."
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

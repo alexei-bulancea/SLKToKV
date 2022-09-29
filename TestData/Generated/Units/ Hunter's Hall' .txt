@@ -1,0 +1,15 @@
+UnitId : edob
+Descriprion : 
+	Id : edob
+	Name : "Hunter's Hall'"
+	Ubertip : "Contains the attack and armor upgrades for all units, the Ultravision and Well Spring upgrades."
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+Hero ability list:

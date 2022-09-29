@@ -1,0 +1,15 @@
+UnitId : nshw
+Descriprion : 
+	Id : nshw
+	Name : Sheep
+	Ubertip : "Call upon the spirit of Sheep to save you."
+
+Ability List:
+AbilityId : Awan
+Descriprion : 
+	Id : Awan
+	Name : Wander
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : u00R
+Descriprion : 
+	Id : u00R
+	Name : "Hades"
+	Ubertip : "Essential spellcaster. Can initially cast Raise Dead on corpses. Can also learn Unholy Frenzy and Cripple. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A19I
+Descriprion : 
+	Id : A19I
+	Name : "Hades Order"
+	Ubertip : "s"
+
+
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+AbilityId : AIft
+Descriprion : 
+	Id : AIft
+	Name : Melee Cold Damage Bonus
+	Ubertip : 
+
+
+AbilityId : A0E6
+Descriprion : 
+	Id : A0E6
+	Name : "Spell Damage Reduction 86"
+	Ubertip : 
+
+
+AbilityId : A0X3
+Descriprion : 
+	Id : A0X3
+	Name : "Attack Speed +500%"
+	Ubertip : 
+
+
+Hero ability list:

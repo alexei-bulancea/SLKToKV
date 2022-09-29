@@ -1,0 +1,22 @@
+UnitId : nass
+Descriprion : 
+	Id : nass
+	Name : Assassin
+	Ubertip : "Medium ranged unit that fires envenomed bolts and can Shadowmeld. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Ashm
+Descriprion : 
+	Id : Ashm
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+AbilityId : ACvs
+Descriprion : 
+	Id : ACvs
+	Name : Envenomed Weapons
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds."
+
+
+Hero ability list:

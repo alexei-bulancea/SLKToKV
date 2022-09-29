@@ -1,0 +1,15 @@
+UnitId : ntkt
+Descriprion : 
+	Id : ntkt
+	Name : Tuskarr Trapper
+	Ubertip : "Medium ranged unit with Ensnare. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Arsk
+Descriprion : 
+	Id : Arsk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the Mountain Giant immune to certain spells."
+
+
+Hero ability list:

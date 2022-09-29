@@ -1,0 +1,50 @@
+UnitId : H003
+Descriprion : 
+	Id : H003
+	Name : Paladin
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AHtc
+Descriprion : 
+	Id : AHtc
+	Name : Thunder Clap
+	Ubertip : "Slams the ground, dealing <AHtc,DataA1> damage to nearby enemy land units and slowing their movement by <AHtc,DataC1,%>% and attack rate by <AHtc,DataD1,%>%, last 5 seconds.|n|n|cffc3dbffCooldown: 17 seconds.|r","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>% last 5.5 seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%, last 6 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Slams the ground, dealing <AHtc,DataA4> damage to nearby enemy land units and slowing their movement by <AHtc,DataC4,%>% and attack rate by <AHtc,DataD4,%>%, last 6.5 seconds.|n|n|cffc3dbffCooldown: 14 seconds.|r","Slams the ground, dealing <AHtc,DataA5> damage to nearby enemy land units and slowing their movement by <AHtc,DataC5,%>% and attack rate by <AHtc,DataD5,%>%, last 7 seconds.|n|n|cffc3dbffCooldown: 13.5 seconds.|r","Slams the ground, dealing <AHtc,DataA6> damage to nearby enemy land units and slowing their movement by <AHtc,DataC6,%>% and attack rate by <AHtc,DataD6,%>%, last 8 seconds.|n|n|cffc3dbffCooldown: 13 seconds.|r","Slams the ground, dealing <AHtc,DataA7> damage to nearby enemy land units and slowing their movement by <AHtc,DataC7,%>% and attack rate by <AHtc,DataD7,%>%, last 9 seconds.|n|n|cffc3dbffCooldown: 12 seconds.|r","Slams the ground, dealing <AHtc,DataA8> damage to nearby enemy land units and slowing their movement by <AHtc,DataC8,%>% and attack rate by <AHtc,DataD8,%>%, last 10 seconds.|n|n|cffc3dbffCooldown: 11 seconds.|r","Slams the ground, dealing <AHtc,DataA9> damage to nearby enemy land units and slowing their movement by <AHtc,DataC9,%>% and attack rate by <AHtc,DataD9,%>%, last 11 seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : A15H
+Descriprion : 
+	Id : A15H
+	Name : "Blessing of King"
+	Ubertip : "Heal a unit for 400 + 7x str, give 94% resistance against magic damage, also increases move speed by 12% and attack speed by 20%, last 3 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Heal a unit for 800 + 8x str, give 94% resistance against magic damage, also increases move speed by 16% and attack speed by 25%, last 3.5 seconds.|n|n|cffc3dbffCooldown: 49 seconds|r","Heal a unit for 1200 + 9x str, give 94% resistance against magic damage, also increases move speed by 20% and attack speed by 30%, last 4 seconds.|n|n|cffc3dbffCooldown: 48 seconds|r","Heal a unit for 1600 + 10x str, give 94% resistance against magic damage, also increases move speed by 24% and attack speed by 35%, last 4.5 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Heal a unit for 2000 + 11x str, give 94% resistance against magic damage, also increases move speed by 28% and attack speed by 40%, last 5 seconds.|n|n|cffc3dbffCooldown: 43 seconds|r","Heal a unit for 2400 + 12x str, give 94% resistance against magic damage, also increases move speed by 32% and attack speed by 45%, last 5.5 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Heal a unit for 2800 + 13x str, give 94% resistance against magic damage, also increases move speed by 36% and attack speed by 50%, last 6 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r","Heal a unit for 3200 + 14x str, give 94% resistance against magic damage, also increases move speed by 40% and attack speed by 60%, last 6.5 seconds.|n|n|cffc3dbffCooldown: 32 seconds|r","Heal a unit for 3600 + 15x str, give 94% resistance against magic damage, also increases move speed by 70% and attack speed by 90%, last 7 seconds.|n|n|cffc3dbffCooldown: 24 seconds|r"
+
+
+AbilityId : Ainf
+Descriprion : 
+	Id : Ainf
+	Name : Inner Fire
+	Ubertip : "Increases a target friendly unit's damage by <Ainf,DataA1,%>% , armor by <Ainf,DataB1>. and regeneration rate in 10.  |nLasts <Ainf,Dur1> seconds.|n|n|cffc3dbffCooldown: 60 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA2,%>% , armor by <Ainf,DataB2>. and regeneration rate in 15.  |nLasts <Ainf,Dur2> seconds.|n|n|cffc3dbffCooldown: 57 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA3,%>% , armor by <Ainf,DataB3>. and regeneration rate in 20.  |nLasts <Ainf,Dur3> seconds.|n|n|cffc3dbffCooldown: 54 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA4,%>% , armor by <Ainf,DataB4>. and regeneration rate in 25.  |nLasts <Ainf,Dur4> seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA5,%>% , armor by <Ainf,DataB5>. and regeneration rate in 30.  |nLasts <Ainf,Dur5> seconds.|n|n|cffc3dbffCooldown: 46 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA6,%>% , armor by <Ainf,DataB6>. and regeneration rate in 40.  |nLasts <Ainf,Dur6> seconds.|n|n|cffc3dbffCooldown: 42 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA7,%>% , armor by <Ainf,DataB7>. and regeneration rate in 50.  |nLasts <Ainf,Du7> seconds.|n|n|cffc3dbffCooldown: 38 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA8,%>% , armor by <Ainf,DataB8>. and regeneration rate in 60.  |nLasts <Ainf,Dur8> seconds.|n|n|cffc3dbffCooldown: 34 seconds|r.","Increases a target friendly unit's damage by <Ainf,DataA9,%>% , armor by <Ainf,DataB9>. and regeneration rate in 80.  |nLasts <Ainf,Dur9> seconds.|n|n|cffc3dbffCooldown: 30 seconds|r."
+
+
+AbilityId : A1EB
+Descriprion : 
+	Id : A1EB
+	Name : "Sacred Hammer"
+	Ubertip : "Dealing 250 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 6 on your first 10 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 500 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 9 on your first 12 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 750 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 12 on your first 14 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 1000 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 15 on your first 16 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 1500 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 18 on your first 18 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 2000 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 21 on your first 20 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 3000 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 24 on your first 22 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 5000 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 27 on your first 24 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r.","Dealing 8000 damage to nearby enemy units in 200 AOE and stunning them for 2.5 seconds and increases your base strength by 30 on your first 26 hits last 30 seconds when the effect is over heals you for 20 x strength collected.|n|n|cffc3dbffCooldown: 50 seconds|r."
+
+
+AbilityId : A02V
+Descriprion : 
+	Id : A02V
+	Name : "Divine Power"
+	Ubertip : "Gives 600 bonus attack damage. Also Paladin deals damage based on his total stats in pure damage on every attack. |nLasts 9 seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r","Gives 1500 bonus attack damage.Also Paladin deals damage based on his total stats in pure damage on every attack |nLasts 11 seconds.|n|n|cffc3dbffCooldown: 110 seconds.|r","Gives 4000 bonus attack damage.Also Paladin deals damage based on his total stats in pure damage on every attack |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r","Gives 18000 bonus attack damage.Also Paladin deals damage based on his total stats in pure damage on every attack |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+
+

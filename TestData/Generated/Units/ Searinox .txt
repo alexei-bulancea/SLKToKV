@@ -1,0 +1,43 @@
+UnitId : n048
+Descriprion : 
+	Id : n048
+	Name : "Searinox"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0H3
+Descriprion : 
+	Id : A0H3
+	Name : "40% Accurate"
+	Ubertip : "Gillermo Tell never miss."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A0EB
+Descriprion : 
+	Id : A0EB
+	Name : "Critical Strike Ancient Green Dragon"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack.","Gives a 22% chance to do 3.6  times normal damage on an attack.","Gives a 22% chance to do 3.6  times normal damage on an attack.","Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+AbilityId : A05X
+Descriprion : 
+	Id : A05X
+	Name : "Breath of Dragon"
+	Ubertip : "Breathes a cone of fire at enemy units that deals 4000 initial damage, and 250 damage per second over 50 seconds.","Breathes a cone of fire at enemy units that deals 5000 initial damage, and 300 damage per second over 50 seconds.","Breathes a cone of fire at enemy units that deals 6000 initial damage, and 350 damage per second over 50 seconds.","Breathes a cone of fire at enemy units that deals 7000 initial damage, and 400 damage per second over 50 seconds."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

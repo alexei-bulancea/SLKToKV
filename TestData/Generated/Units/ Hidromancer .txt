@@ -1,0 +1,22 @@
+UnitId : o017
+Descriprion : 
+	Id : o017
+	Name : "Hidromancer"
+	Ubertip : 
+
+Ability List:
+AbilityId : ACmo
+Descriprion : 
+	Id : ACmo
+	Name : Monsoon
+	Ubertip : "Calls down a storm of lightning to strike enemy units for <ACmo,DataA1> damage in a small target area. |nLasts <ACmo,Dur1> seconds.","Calls down a storm of lightning to strike enemy units for <ACmo,DataA2> damage in a medium target area. |nLasts <ACmo,Dur1> seconds.","Calls down a storm of lightning to strike enemy units for <ACmo,DataA3> damage in a large target area. |nLasts <ACmo,Dur1> seconds."
+
+
+AbilityId : ACad
+Descriprion : 
+	Id : ACad
+	Name : Animate Dead
+	Ubertip : "Raises <ACad,DataA1> dead units in an area for <ACad,Dur1> seconds."
+
+
+Hero ability list:

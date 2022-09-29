@@ -1,0 +1,8 @@
+UnitId : h02R
+Descriprion : 
+	Id : h02R
+	Name : "Book of War"
+	Ubertip : "Contains auras with infinite area of effect that affect all allies units. "
+
+Ability List:
+Hero ability list:

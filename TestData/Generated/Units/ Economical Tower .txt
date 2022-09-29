@@ -1,0 +1,15 @@
+UnitId : o00N
+Descriprion : 
+	Id : o00N
+	Name : "Economical Tower"
+	Ubertip : "this tower is weaker than the others but is very cheap. "
+
+Ability List:
+AbilityId : A0K9
+Descriprion : 
+	Id : A0K9
+	Name : "Sell Tower 1"
+	Ubertip : "Sell this tower and recover 80% of all your gold spend in this and previous upgrades."
+
+
+Hero ability list:

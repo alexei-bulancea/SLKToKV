@@ -1,0 +1,57 @@
+UnitId : H009
+Descriprion : 
+	Id : H009
+	Name : Blood Mage
+	Ubertip : "Mystical Hero, adept at controlling magic and ranged assaults. Can learn Orb of Annihilation, Forked Lightning, Entangling Roots, Brillance Aura and Mana Shield."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Asph
+Descriprion : 
+	Id : Asph
+	Name : Sphere
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : Afak
+Descriprion : 
+	Id : Afak
+	Name : Orb of Annihilation
+	Ubertip : "Adds <Afak,DataA1> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 6 seconds|r|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA2> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 5 seconds|r|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA3> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 4 seconds|r|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA4> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 2.9 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA5> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 1.7 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA6> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 1.15 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA7> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 0.8 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA8> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 0.3 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA9> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r."
+
+
+AbilityId : A07Z
+Descriprion : 
+	Id : A07Z
+	Name : "Entanglin Roots T"
+	Ubertip : "Causes roots to burst from the ground, immobilizing a target enemy unit for 0.5 seconds, and dealing 200 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 1 seconds, and dealing 300 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 1.5 seconds, and dealing 400 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 2 seconds, and dealing 500 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 3 seconds, and dealing 600 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 4 seconds, and dealing 700 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 5 seconds, and dealing 800 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 5.5 seconds, and dealing 1000 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Causes roots to burst from the ground, immobilizing a target enemy unit for 6 seconds, and dealing 1250 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : AHab
+Descriprion : 
+	Id : AHab
+	Name : Brilliance Aura
+	Ubertip : "Gives 1 additional mana point regeneration per second to kael.When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 2 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 3 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 5 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 7 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 10 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 13 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 16 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level.","Gives 20 additional mana point regeneration per second to kael. When under the buff of this aura Kael Deals damage based on intelligence and abilty level."
+
+
+AbilityId : ANms
+Descriprion : 
+	Id : ANms
+	Name : Mana Shield
+	Ubertip : "Activates a shield that absorbs 5 damage per point of mana. 50% of the damage goes to mana.","Activates a shield that absorbs 6 damage per point of mana. 70% of the damage goes to mana.","Activates a shield that absorbs 8 damage per point of mana. 85% of the damage goes to mana.","Activates a shield that absorbs 10 damage per point of mana. 95% of the damage goes to mana."
+
+
+AbilityId : ANfl
+Descriprion : 
+	Id : ANfl
+	Name : Forked Lightning
+	Ubertip : "Calls forth a cone of lightning on a target enemy unit, hitting up to <ANfl,DataB1> enemy units for <ANfl,DataA1> damage. |n|n|cffc3dbffCooldown: 30 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB2> enemy units for <ANfl,DataA2> damage.|n|n|cffc3dbffCooldown: 26 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB3> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 22 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB4> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 18 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB5> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 14 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB6> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 10 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB7> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 6 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB8> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 4 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB9> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 1 seconds|r"
+
+

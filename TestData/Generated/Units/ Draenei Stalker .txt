@@ -1,0 +1,43 @@
+UnitId : ndrw
+Descriprion : 
+	Id : ndrw
+	Name : "Draenei Stalker"
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0VN
+Descriprion : 
+	Id : A0VN
+	Name : "Attack Speed +30%"
+	Ubertip : 
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A0GA
+Descriprion : 
+	Id : A0GA
+	Name : "Stalker Critical Strike"
+	Ubertip : "Gives a 13% chance to do 3.8  times normal damage on an attack."
+
+
+AbilityId : ACes
+Descriprion : 
+	Id : ACes
+	Name : Evasion
+	Ubertip : "Gives a <ACes,DataA1,%>% percent chance to avoid an attack."
+
+
+Hero ability list:

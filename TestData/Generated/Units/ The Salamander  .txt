@@ -1,0 +1,43 @@
+UnitId : nsll
+Descriprion : 
+	Id : nsll
+	Name : "The Salamander "
+	Ubertip : "Heavy ranged unit that hurls fiery missiles. Has the ability to Devour opponents. Can cast Immolation and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A18A
+Descriprion : 
+	Id : A18A
+	Name : "SalaA"
+	Ubertip : "Beware who oppose to me."
+
+
+AbilityId : A0CE
+Descriprion : 
+	Id : A0CE
+	Name : "Bear Bash"
+	Ubertip : "Gives a 10% chance that an attack will do 100 bonus damage and stun an opponent for 1.2 seconds.","2","3","4"
+
+
+AbilityId : A17T
+Descriprion : 
+	Id : A17T
+	Name : "Salamander Shield"
+	Ubertip : "a"
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : otrb
+Descriprion : 
+	Id : otrb
+	Name : Orc Burrow
+	Ubertip : "Provides food, which increases the maximum number of units that can be trained. Peons can garrison inside to attack enemy units. Can learn the Reinforced Defenses upgrade. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Abds
+Descriprion : 
+	Id : Abds
+	Name : Blight Dispel Small
+	Ubertip : 
+
+
+AbilityId : Aspi
+Descriprion : 
+	Id : Aspi
+	Name : Spiked Barricades
+	Ubertip : 
+
+
+AbilityId : Abun
+Descriprion : 
+	Id : Abun
+	Name : Cargo Hold (Orc Burrow)
+	Ubertip : 
+
+
+AbilityId : Abtl
+Descriprion : 
+	Id : Abtl
+	Name : Battle Stations
+	Ubertip : "Causes nearby Peons to run into the Burrow so that they can defend their base."
+
+
+AbilityId : Astd
+Descriprion : 
+	Id : Astd
+	Name : Stand Down
+	Ubertip : "Causes Peons within the Burrow to return to work."
+
+
+AbilityId : Arbr
+Descriprion : 
+	Id : Arbr
+	Name : Reinforced Burrows Upgrade
+	Ubertip : "Gives Burrows Fortified armor."
+
+
+Hero ability list:

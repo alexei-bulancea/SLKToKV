@@ -1,0 +1,57 @@
+UnitId : E006
+Descriprion : 
+	Id : E006
+	Name : "Half Demon Wizzard"
+	Ubertip : "Mystical Hero, adept at using unholy spells.Can learn Healing Wave, Hell Magma, Hell Lighting, Spirit Touch and Pandemonium Portal. "
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : ANdp
+Descriprion : 
+	Id : ANdp
+	Name : Dark Portal
+	Ubertip : "Opens a portal, allowing 3 up to 4 demons to step through. Last 120 seconds.Whenever Azura opens a portal all of his summons will get 600 Base hit points, 50 base damage, 5 armor permanently. |n|n|cffc3dbffCooldown: 300 seconds|r.","Opens a portal, allowing 4 up to 6 demons to step through. Last 120 seconds Whenever Azura opens a portal all of his summons will get 600 Base hit points, 50 base damage, 5 armor permanently.|n|n|cffc3dbffCooldown: 300 seconds|r.","Opens a portal, allowing 5 up to 9 demons to step through. Last 120 seconds Whenever Azura opens a portal all of his summons will get 600 Base hit points, 50 base damage, 5 armor permanently.|n|n|cffc3dbffCooldown: 300 seconds|r.","Opens a portal, allowing 7 up to 11 demons to step through. Last 120 seconds Whenever Azura opens a portal all of his summons will get 600 Base hit points, 50 base damage, 5 armor permanently.|n|n|cffc3dbffCooldown: 300 seconds|r."
+
+
+AbilityId : A07F
+Descriprion : 
+	Id : A07F
+	Name : "Hell Magma"
+	Ubertip : "Extract magma from the underground dealing 140 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|n|cffc3dbffCooldown: 18 seconds.|r","Extract magma from the underground dealing 200 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 17 seconds.|r","Extract magma from the underground dealing 260 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 16 seconds.|r","Extract magma from the underground dealing 350 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 15 seconds.|r","Extract magma from the underground dealing 460 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 14 seconds.|r","Extract magma from the underground dealing 600 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 13 seconds.|r","Extract magma from the underground dealing 780 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 12 seconds.|r","Extract magma from the underground dealing 960 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 11 seconds.|r","Extract magma from the underground dealing 1200 damage in 400 AOE and stunning them for 2.8 second.|n|n|cffc3dbffChanneling|r|r|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : AOhw
+Descriprion : 
+	Id : AOhw
+	Name : Healing Wave
+	Ubertip : "Calls forth a wave of healing energy that bounces up to <AOhw,DataB1> times, healing <AOhw,DataA1> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB2> times, healing <AOhw,DataA2> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB3> times, healing <AOhw,DataA3> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB4> times, healing <AOhw,DataA4> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB5> times, healing <AOhw,DataA5> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB6> times, healing <AOhw,DataA6> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB7> times, healing <AOhw,DataA7> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB8> times, healing <AOhw,DataA8> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a wave of healing energy that bounces up to <AOhw,DataB9> times, healing <AOhw,DataA9> damage on the primary target. Each jump heals less damage.|n|n|cffc3dbffCooldown: 20 seconds.|r"
+
+
+AbilityId : AOcl
+Descriprion : 
+	Id : AOcl
+	Name : "Hell Lightning"
+	Ubertip : "Calls forth a bolt of lightning that deal <AOcl,DataA1> damage.|n|n|cffc3dbffCooldown: 26 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA2> damage.|n|n|cffc3dbffCooldown: 25 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA3> damage.|n|n|cffc3dbffCooldown: 24 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA4> damage.|n|n|cffc3dbffCooldown: 23 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA5> damage.|n|n|cffc3dbffCooldown: 22 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA6> damage.|n|n|cffc3dbffCooldown: 21 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA7> damage.|n|n|cffc3dbffCooldown: 20 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA8> damage.|n|n|cffc3dbffCooldown: 19 seconds.|r","Calls forth a bolt of lightning that deal <AOcl,DataA9> damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : Arpm
+Descriprion : 
+	Id : Arpm
+	Name : Spirit Touch
+	Ubertip : "Restores <Arpm,DataB1> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB2> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB3> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB4> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB5> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB6> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB7> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB8> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r","Restores <Arpm,DataB9> mana to nearby friendly units.|n|n|cffc3dbffCooldown: 20 seconds.|r"
+
+

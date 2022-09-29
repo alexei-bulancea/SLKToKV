@@ -1,0 +1,57 @@
+UnitId : n04W
+Descriprion : 
+	Id : n04W
+	Name : "Rage Winterchill"
+	Ubertip : "Light ranged unit that can cast Possession. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0NP
+Descriprion : 
+	Id : A0NP
+	Name : "Lich Frost Nova IT"
+	Ubertip : 
+
+
+AbilityId : A0NO
+Descriprion : 
+	Id : A0NO
+	Name : "Lich Frost Armor"
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds <ACfa,DataB1> armor and slows melee units that attack it for <ACfa,Dur1> seconds. |nLasts <ACfa,DataA1> seconds."
+
+
+AbilityId : S00C
+Descriprion : 
+	Id : S00C
+	Name : "Lich Frost Aura"
+	Ubertip : "Increases all friendly units attack speed by 80%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A09K
+Descriprion : 
+	Id : A09K
+	Name : "Demolish 2"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+AbilityId : A049
+Descriprion : 
+	Id : A049
+	Name : "Unbeatable Defense"
+	Ubertip : "Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+
+
+AbilityId : A0GQ
+Descriprion : 
+	Id : A0GQ
+	Name : "Life Regeneration Sacred stregt"
+	Ubertip : 
+
+
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

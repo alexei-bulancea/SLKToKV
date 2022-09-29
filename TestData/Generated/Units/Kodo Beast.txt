@@ -1,0 +1,29 @@
+UnitId : o01K
+Descriprion : 
+	Id : o01K
+	Name : Kodo Beast
+	Ubertip : "Kodos are more resilient than a horses. often used to carry items to dangerous places."
+
+Ability List:
+AbilityId : A064
+Descriprion : 
+	Id : A064
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : A1H9
+Descriprion : 
+	Id : A1H9
+	Name : "Tp Horse"
+	Ubertip : "Teleport [ |c00FFFC01Q|r ]"
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+Hero ability list:

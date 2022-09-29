@@ -1,0 +1,50 @@
+UnitId : H061
+Descriprion : 
+	Id : H061
+	Name : "Arcane Wizard"
+	Ubertip : "Mystical Hero, exceptional at dealing huge amount of damage during long battles and abilities to survive strong enemies for a long time . Can learn Arcane Blast, Magical Chains, Fulguration, Curse of The Dark Star and Reaper.|n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0IK
+Descriprion : 
+	Id : A0IK
+	Name : "Arcane Blast"
+	Ubertip : "Deal 60 damage in 600 area of effect around the target, target take a total of 160 damage.|n|n|cffc3dbffCooldown: 16 seconds.|r","Deal 140 damage in 600 area of effect around the target, target take a total of 300 damage.|n|n|cffc3dbffCooldown: 14 seconds.|r","Deal 220 damage in 600 area of effect around the target, target take a total of 400 damage.|n|n|cffc3dbffCooldown: 12 seconds.|r","Deal 300 damage in 600 area of effect around the target, target take a total of 600 damage.|n|n|cffc3dbffCooldown: 10 seconds.|r","Deal 400 damage in 600 area of effect around the target, target take a total of 800 damage.|n|n|cffc3dbffCooldown: 9 seconds.|r","Deal 500 damage in 600 area of effect around the target, target take a total of 1000 damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Deal 600 damage in 600 area of effect around the target, target take a total of 1200 damage.|n|n|cffc3dbffCooldown: 7 seconds.|r","Deal 800 damage in 600 area of effect around the target, target take a total of 1500 damage.|n|n|cffc3dbffCooldown: 5 seconds.|r","Deal 1000 damage in 600 area of effect around the target, target take a total of 1900 damage.|n|n|cffc3dbffCooldown: 2.4 seconds.|r"
+
+
+AbilityId : A0ZX
+Descriprion : 
+	Id : A0ZX
+	Name : "Arc Curse"
+	Ubertip : "Curse an enemy unit last 26 seconds, when duration end cursed unit will take 800 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 120 seconds.|r","Curse an enemy unit last 29 seconds, when duration end cursed unit will take 1600 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 116 seconds.|r","Curse an enemy unit last 32 seconds, when duration end cursed unit will take 2400 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 112 seconds.|r","Curse an enemy unit last 35 seconds, when duration end cursed unit will take 3200 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 108 seconds.|r","Curse an enemy unit last 38 seconds, when duration end cursed unit will take 4000 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 104 seconds.|r","Curse an enemy unit last 41 seconds, when duration end cursed unit will take 4800 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 100 seconds.|r","Curse an enemy unit last 44 seconds, when duration end cursed unit will take 5600 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 95 seconds.|r","Curse an enemy unit last 47 seconds, when duration end cursed unit will take 6400 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 90 seconds.|r","Curse an enemy unit last 50 seconds, when duration end cursed unit will take 7200 damage for each spell that targeted him during the Curse of The Dark Star. If the current damage of the curse is enough to kill the unit the curse will activate to do it.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+
+
+AbilityId : A0ZV
+Descriprion : 
+	Id : A0ZV
+	Name : "Fulguration"
+	Ubertip : "Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 40(x3) damage and paralyze the target for 1(x3) second.|n|n|cffc3dbffCooldown: 40 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 100(x3) damage and paralyze the target for 1.2(x3) seconds.|n|n|cffc3dbffCooldown: 38 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 160(x3) damage and paralyze the target for 1.4(x3) seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 220(x3) damage and paralyze the target for 1.6(x3) seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 300(x3) damage and paralyze the target for 1.8(x3) seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 400(x3) damage and paralyze the target for 2(x3) seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 500(x3) damage and paralyze the target for 2.3(x3) seconds.|n|n|cffc3dbffCooldown: 26 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 700(x3) damage and paralyze the target for 2.6(x3) seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Conjure a strong discharge that will remain on the target and hurt him 2 more times every 3 seconds, deal 1100(x3) damage and paralyze the target for 3(x3) seconds.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : A0ZR
+Descriprion : 
+	Id : A0ZR
+	Name : "Arc Slow"
+	Ubertip : "An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 3 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 50 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 5 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 48 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 7 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 46 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 9 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 44 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 11 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 42 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 13 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 40 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 15 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 38 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 17 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 35 seconds.|r","An ancient spell that reduce damage by 180, move by 280 and attack speed by 80%. Last 19 seconds. Effects of this spell can't be removed before his duration end.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A0ZY
+Descriprion : 
+	Id : A0ZY
+	Name : "Reaper"
+	Ubertip : "Attack a unit with reaper dealing 600 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 26 seconds the count is reset.|n|n|cffc3dbffCooldown: 10 seconds.|r","Attack a unit with reaper dealing 1000 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 16 seconds the count is reset.|n|n|cffc3dbffCooldown: 8 seconds.|r","Attack a unit with reaper dealing 1500 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 26 seconds the count is reset.|n|n|cffc3dbffCooldown: 6 seconds.|r","Attack a unit with reaper dealing 2300 damage, if a unit is hitting by reaper more than one time it take bonus damage depending on the number of times that was hitting by this spell. If a unit isn't hitting by Reaper during 26 seconds the count is reset.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+
+

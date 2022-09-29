@@ -1,0 +1,64 @@
+UnitId : u00Y
+Descriprion : 
+	Id : u00Y
+	Name : "Divine Dragon"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A068
+Descriprion : 
+	Id : A068
+	Name : "Death Critical Strike"
+	Ubertip : "Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack."
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : A1LN
+Descriprion : 
+	Id : A1LN
+	Name : "Vivacious twist"
+	Ubertip : "Move...or wait dont move!","Move...or wait dont move!","Move...or wait dont move!","Move...or wait dont move!"
+
+
+AbilityId : A1LX
+Descriprion : 
+	Id : A1LX
+	Name : "divinebreath"
+	Ubertip : 
+
+
+AbilityId : A1LY
+Descriprion : 
+	Id : A1LY
+	Name : "Cursedivinedraggon"
+	Ubertip : "Curses a target enemy unit, causing it to have a <ACcs,DataA1,%>% chance to miss on an attack. |nLasts <ACcs,Dur1> seconds."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A1PP
+Descriprion : 
+	Id : A1PP
+	Name : "TK"
+	Ubertip : "Up in the air.. No down in the ground","Up in the air.. No down in the ground2","Up in the air.. No down in the ground3","Up in the air.. No down in the ground4"
+
+
+Hero ability list:

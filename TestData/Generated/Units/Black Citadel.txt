@@ -1,0 +1,36 @@
+UnitId : unp2
+Descriprion : 
+	Id : unp2
+	Name : Black Citadel
+	Ubertip : "Upgrade to Black Citadel to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0E6
+Descriprion : 
+	Id : A0E6
+	Name : "Spell Damage Reduction 86"
+	Ubertip : 
+
+
+AbilityId : Afra
+Descriprion : 
+	Id : Afra
+	Name : Frost Attack
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement and attack speed."
+
+
+AbilityId : Abgl
+Descriprion : 
+	Id : Abgl
+	Name : Blight Growth Large
+	Ubertip : 
+
+
+AbilityId : A06K
+Descriprion : 
+	Id : A06K
+	Name : "G.S.Frozen Bcitadel"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : owyv
+Descriprion : 
+	Id : owyv
+	Name : Wind Rider
+	Ubertip : "Highly mobile flying creature. Excellent at scouting. Can learn Envenomed Spears. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aven
+Descriprion : 
+	Id : Aven
+	Name : Envenomed Spears
+	Ubertip : "Deals <Aven,DataA1> poison damage per second. |nLasts <Aven,Dur1> seconds."
+
+
+Hero ability list:

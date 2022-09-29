@@ -1,0 +1,15 @@
+UnitId : h06M
+Descriprion : 
+	Id : h06M
+	Name : "Armored Scout Tower 3"
+	Ubertip : "|c006969FFMana Cost: 1100.|r|n|nIncreases hit points, armor and a few regeneration."
+
+Ability List:
+AbilityId : A1U3
+Descriprion : 
+	Id : A1U3
+	Name : "Expert build"
+	Ubertip : "Margroth got an expert at building Scout Towers. Scout Towers will no longer take damage from attacking neutral creeps. however upgraded scout towers will have a chance to send the creep back to their respawn/spawn location."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : uabo
+Descriprion : 
+	Id : uabo
+	Name : Abomination
+	Ubertip : "Heavy melee unit. Can learn the Disease Cloud ability and Cannibalize. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Aap1
+Descriprion : 
+	Id : Aap1
+	Name : Disease Cloud
+	Ubertip : "Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap1,DataB1> damage per second. |nLasts <Aap1,DataA1> seconds."
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : emtg
+Descriprion : 
+	Id : emtg
+	Name : "Aegaleus"
+	Ubertip : "Massive melee unit that can disrupt enemy attackers and take incredible amounts of punishment. Has the Taunt and War Club abilities. Can learn Hardened Skin, and Resistant Skin. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A09G
+Descriprion : 
+	Id : A09G
+	Name : "High Speed Rock"
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing 2600 points of damage and stunning the target for 3 seconds."
+
+
+AbilityId : A09D
+Descriprion : 
+	Id : A09D
+	Name : "Aegaleus Defense"
+	Ubertip : "Reduces 36% of the attacks on the Aegaleus by 500 damage. "
+
+
+AbilityId : A09F
+Descriprion : 
+	Id : A09F
+	Name : "Aegaleus Aura"
+	Ubertip : "Gives 40 additional armor to nearby friendly units."
+
+
+AbilityId : A09E
+Descriprion : 
+	Id : A09E
+	Name : "Mountain Attack"
+	Ubertip : "Aegaleus strikes with such force that 30% of their damage strikes through to enemies in 600 area of effect near the primary attacked unit."
+
+
+AbilityId : A0WU
+Descriprion : 
+	Id : A0WU
+	Name : "Spell Damage Reduction 80"
+	Ubertip : 
+
+
+AbilityId : A105
+Descriprion : 
+	Id : A105
+	Name : "Density"
+	Ubertip : "Aegaleus reach the maximum density for 16 seconds."
+
+
+Hero ability list:

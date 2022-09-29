@@ -1,0 +1,22 @@
+UnitId : n00P
+Descriprion : 
+	Id : n00P
+	Name : "Poisonous Archer"
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A08D
+Descriprion : 
+	Id : A08D
+	Name : Poison Arrows
+	Ubertip : "Adds <AHfa,DataA1> bonus poison damage per second to an attack against enemies, but drains mana with each shot fired. Last 10 seconds.","Adds <AHfa,DataA2> bonus fire damage to an attack, but drains mana with each shot fired.","Adds <AHfa,DataA3> bonus fire damage to an attack, but drains mana with each shot fired."
+
+
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+Hero ability list:

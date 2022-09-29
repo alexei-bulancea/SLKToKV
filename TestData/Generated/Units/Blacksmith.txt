@@ -1,0 +1,29 @@
+UnitId : hbla
+Descriprion : 
+	Id : hbla
+	Name : Blacksmith
+	Ubertip : "Contains upgrades for improved armor, weaponry and gunpowder."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Aneu
+Descriprion : 
+	Id : Aneu
+	Name : Select Hero
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

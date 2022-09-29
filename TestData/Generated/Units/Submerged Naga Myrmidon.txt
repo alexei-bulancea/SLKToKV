@@ -1,0 +1,15 @@
+UnitId : nmys
+Descriprion : 
+	Id : nmys
+	Name : Submerged Naga Myrmidon
+	Ubertip : "Powerful melee unit. Has the Submerge ability, which allows this unit to hide in water. Can Can learn the Ensnare ability.  |n|n|cffffcc00Attacks land units."
+
+Ability List:
+AbilityId : Asb1
+Descriprion : 
+	Id : Asb1
+	Name : Submerge
+	Ubertip : "Allows this unit to dive beneath water, hiding it from view."
+
+
+Hero ability list:

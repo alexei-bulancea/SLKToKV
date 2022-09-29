@@ -1,0 +1,15 @@
+UnitId : n01G
+Descriprion : 
+	Id : n01G
+	Name : Lava Spawn
+	Ubertip : 
+
+Ability List:
+AbilityId : A0C0
+Descriprion : 
+	Id : A0C0
+	Name : "F.Prt L2"
+	Ubertip : "-The fire consume itself dying slowly.|n-The fire can burn his enemys with every attack multiply itself.|n-The fire is hard to hit, 70% of the attacks will be reduced in 30 damage, attacks cannot be reduced below 6 damage."
+
+
+Hero ability list:

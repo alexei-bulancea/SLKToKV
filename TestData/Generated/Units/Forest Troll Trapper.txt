@@ -1,0 +1,15 @@
+UnitId : nftt
+Descriprion : 
+	Id : nftt
+	Name : Forest Troll Trapper
+	Ubertip : "Medium ranged unit that can Ensnare opponents. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACen
+Descriprion : 
+	Id : ACen
+	Name : Ensnare
+	Ubertip : "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts 4 seconds."
+
+
+Hero ability list:

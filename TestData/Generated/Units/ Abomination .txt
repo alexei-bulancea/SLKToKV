@@ -1,0 +1,50 @@
+UnitId : H041
+Descriprion : 
+	Id : H041
+	Name : "Abomination"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0RD
+Descriprion : 
+	Id : A0RD
+	Name : "|cffffcc00G|rrowth Up 8"
+	Ubertip : "This Tank can feed upon fallen enemies increasing its Strength each time. This growth costs you 10 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0NY
+Descriprion : 
+	Id : A0NY
+	Name : "Pudge boss killer"
+	Ubertip : "Shoot 15 parts of your body to nearby enemies that deal 110 damage, this ability deal 250 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 200 damage, this ability deal 500 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 300 damage, this ability deal 750 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 400 damage, this ability deal 1000 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 500 damage, this ability deal 1250 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 600 damage, this ability deal 1500 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 750 damage, this ability deal 1750 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 900 damage, this ability deal 2000 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r","Shoot 15 parts of your body to nearby enemies that deal 1200 damage, this ability deal 2250 damage to you.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A0O0
+Descriprion : 
+	Id : A0O0
+	Name : "Pudge Fast move"
+	Ubertip : "Give maximum move speed lasts 3 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 4 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 5 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 6 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 8 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 10 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 12 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 14 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r","Give maximum move speed lasts 16 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r"
+
+
+AbilityId : A0NX
+Descriprion : 
+	Id : A0NX
+	Name : "Pudge Cannibalize"
+	Ubertip : "Bite an enemy unit immobilizing and dealing 100 damage per second. Last 3 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 150 damage per second. Last 4 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 200 damage per second. Last 5 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 250 damage per second. Last 6 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 300 damage per second. Last 7 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 350 damage per second. Last 8 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 400 damage per second. Last 9 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 500 damage per second. Last 10 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Bite an enemy unit immobilizing and dealing 600 damage per second. Last 12 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r"
+
+
+AbilityId : A0O1
+Descriprion : 
+	Id : A0O1
+	Name : "Pudge Disease Cloud"
+	Ubertip : "Infects nearby enemy units with Disease Cloud. Disease Cloud deals 20 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 30 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 40 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 50 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 60 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 80 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 100 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 140 damage per second. |nLasts 5 seconds.","Infects nearby enemy units with Disease Cloud. Disease Cloud deals 200 damage per second. |nLasts 5 seconds."
+
+

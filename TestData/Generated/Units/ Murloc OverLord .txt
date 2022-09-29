@@ -1,0 +1,22 @@
+UnitId : nmbg
+Descriprion : 
+	Id : nmbg
+	Name : "Murloc OverLord"
+	Ubertip : "Light ranged amphibious unit with Heal. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A11I
+Descriprion : 
+	Id : A11I
+	Name : Slam
+	Ubertip : "Slams the ground.","2","3","4"
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+Hero ability list:

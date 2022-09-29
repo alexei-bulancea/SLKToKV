@@ -1,0 +1,50 @@
+UnitId : H03R
+Descriprion : 
+	Id : H03R
+	Name : "Hermit"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0QV
+Descriprion : 
+	Id : A0QV
+	Name : "|cffffcc00G|rrowth Up 8"
+	Ubertip : "A warrior type hero that mastered the art of fighting with an unstoppable skills convination, This growth costs you 13 levels."
+
+
+AbilityId : A0EU
+Descriprion : 
+	Id : A0EU
+	Name : "V Punch Hermit"
+	Ubertip : "Throw a hard punch at a target enemy unit, dealing 200 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 400 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 700 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1000 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1400 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 1800 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 2200 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 2600 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r","Throw a hard punch at a target enemy unit, dealing 3000 damage and stunning the target for 5 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A0ET
+Descriprion : 
+	Id : A0ET
+	Name : "Hurl Boulder Hermit"
+	Ubertip : "A boulder that is thrown at an enemy unit, causing 100 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 200 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 300 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 450 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 600 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 800 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 1100 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 1500 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r","A boulder that is thrown at an enemy unit, causing 2000 points of damage and stunning the target for 4 seconds. Has 1100 cast range.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : A0EV
+Descriprion : 
+	Id : A0EV
+	Name : "Tekai 2"
+	Ubertip : "Gives 1000 bonus armor, last 4 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 5 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 6 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 7 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 8 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 9 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 10 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 11 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r.","Gives 1000 bonus armor, last 12 seconds.|n|n|cffc3dbffCooldown: 35 seconds|r."
+
+
+AbilityId : A0ES
+Descriprion : 
+	Id : A0ES
+	Name : "M.A Martial Arts Hermit"
+	Ubertip : "Gives a 4% chance to dodge an attack, 6% chance to deal 3.3 times normal damage and increase base strength by 3.","Gives a 8% chance to dodge an attack, 8% chance to deal 3.3 times normal damage and increase base strength by 6.","Gives a 12% chance to dodge an attack, 10% chance to deal 3.3 times normal damage and increase base strength by 9.","Gives a 16% chance to dodge an attack, 13% chance to deal 3.3 times normal damage and increase base strength by 12.","Gives a 20% chance to dodge an attack, 16% chance to deal 3.3 times normal damage and increase base strength by 15.","Gives a 24% chance to dodge an attack, 20% chance to deal 3.3 times normal damage and increase base strength by 18.","Gives a 28% chance to dodge an attack, 24% chance to deal 3.3 times normal damage and increase base strength by 21.","Gives a 32% chance to dodge an attack, 28% chance to deal 3.3 times normal damage and increase base strength by 24.","Gives a 36% chance to dodge an attack, 33% chance to deal 3.3 times normal damage and increase base strength by 27."
+
+

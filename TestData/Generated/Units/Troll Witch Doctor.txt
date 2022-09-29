@@ -1,0 +1,36 @@
+UnitId : odoc
+Descriprion : 
+	Id : odoc
+	Name : Troll Witch Doctor
+	Ubertip : "Supporting spellcaster. Can initially cast Sentry Ward, which summons an invisible detector. Can also learn Stasis Trap and Healing Ward. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Aeye
+Descriprion : 
+	Id : Aeye
+	Name : Sentry Ward
+	Ubertip : "Summons an invisible and immovable ward that provides vision in an area. |nCan see invisible units. |nLasts <Aeye,Dur1> seconds."
+
+
+AbilityId : Ahwd
+Descriprion : 
+	Id : Ahwd
+	Name : Healing Ward
+	Ubertip : "Summons an immovable ward that heals <Aoar,DataA1,%>% of a nearby friendly non-mechanical unit's hit points per second. |nLasts <Ahwd,Dur1> seconds."
+
+
+AbilityId : Asta
+Descriprion : 
+	Id : Asta
+	Name : Stasis Trap
+	Ubertip : "Summons an invisible and immovable ward that stuns enemy land units around it. The trap activates when an enemy land unit approaches and destroys all other stasis wards in its area of effect. |nThe trap lasts <Asta,Dur1> seconds. |nThe stun lasts <Asta,DataD1> seconds."
+
+
+AbilityId : Aion
+Descriprion : 
+	Id : Aion
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : N02Z
+Descriprion : 
+	Id : N02Z
+	Name : "Pandaren Battlemaster"
+	Ubertip : "Warrior Hero, exceptional at absorbing damage and melee combat. Can learn Pandaren Slam, Frozen Prision, Guard, Divine Punishment and Enlightenment. "
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A113
+Descriprion : 
+	Id : A113
+	Name : "P Divine Punishment"
+	Ubertip : "Add 6 x strength magic damage to your next 3 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 52 seconds|r","Add 6 x strength magic damage to your next 3 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 51 seconds|r","Add 6 x strength magic damage to your next 4 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r","Add 6 x strength magic damage to your next 4 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 46 seconds|r","Add 6 x strength magic damage to your next 5 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 45 seconds|r","Add 6 x strength magic damage to your next 5 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r","Add 6 x strength magic damage to your next 6 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 38 seconds|r","Add 6 x strength magic damage to your next 6 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Add 6 x strength magic damage to your next 7 attacks. Lasts 16 seconds.|n|n|cffc3dbffCooldown: 22 seconds|r"
+
+
+AbilityId : A117
+Descriprion : 
+	Id : A117
+	Name : "P T Enlightenment"
+	Ubertip : "Increases Pandaren strength by 400%, last 15 seconds, at the end of the effect Pandaren will heal for the strength bonus amount and have high resistance to cold effects.|n|n|cffc3dbffCooldown: 300 seconds.|r","Increases Pandaren strength by 400%, last 20 seconds, at the end of the effect Pandaren will heal for the strength bonus amount and have high resistance to cold effects.|n|n|cffc3dbffCooldown: 240 seconds.|r","Increases Pandaren strength by 400%, last 25 seconds, at the end of the effect Pandaren will heal for the strength bonus amount and have high resistance to cold effects.|n|n|cffc3dbffCooldown: 180 seconds.|r","Increases Pandaren strength by 400%, last 30 seconds, at the end of the effect Pandaren will heal for the strength bonus amount and have high resistance to cold effects.|n|n|cffc3dbffCooldown: 90 seconds.|r"
+
+
+AbilityId : A115
+Descriprion : 
+	Id : A115
+	Name : "P Frozen Prision"
+	Ubertip : "Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 68 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 66 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 62 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 58 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 54 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 46 seconds.|r","Deal 8 x strength cold damage to enemies around the target and freeze the target for a duration based in your strength and how strong the target is. Cold damage reduce units movement and attack speed last 5 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r"
+
+
+AbilityId : A112
+Descriprion : 
+	Id : A112
+	Name : "P Guard"
+	Ubertip : "Increases 30 armor bonus last 4 seconds, passively increases base strength by 5.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 60 armor bonus last 4 seconds, passively increases base strength by 10.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 90 armor bonus last 4 seconds, passively increases base strength by 15.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 120 armor bonus last 4 seconds, passively increases base strength by 20.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 150 armor bonus last 4 seconds, passively increases base strength by 25.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 180 armor bonus last 4 seconds, passively increases base strength by 30.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 220 armor bonus last 4 seconds, passively increases base strength by 35.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 260 armor bonus last 4 seconds, passively increases base strength by 40.|n|n|cffc3dbffCooldown: 7 seconds.|r","Increases 300 armor bonus last 4 seconds, passively increases base strength by 45.|n|n|cffc3dbffCooldown: 7 seconds.|r"
+
+
+AbilityId : A111
+Descriprion : 
+	Id : A111
+	Name : "P Pandaren Slam"
+	Ubertip : "Pandaren imbue his weapon with magic to make a devastating hit that deal 3 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 4 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 5 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 6 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 7 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 8 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 9 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 10 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r","Pandaren imbue his weapon with magic to make a devastating hit that deal 11 x his strength in damage and heal him for the same amount. Pandaren Slam can't be blocked by spell shield ability.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+

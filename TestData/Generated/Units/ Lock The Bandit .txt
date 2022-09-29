@@ -1,0 +1,57 @@
+UnitId : nenf
+Descriprion : 
+	Id : nenf
+	Name : "Lock The Bandit"
+	Ubertip : "Light melee unit with Shadowmeld and Evasion. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1EW
+Descriprion : 
+	Id : A1EW
+	Name : "Devotion Aura Lock"
+	Ubertip : "Gives 90 additional armor to nearby friendly units.","Gives 120 additional armor to nearby friendly units.","Gives 160 additional armor to nearby friendly units.","Gives 200 additional armor to nearby friendly units."
+
+
+AbilityId : A1EY
+Descriprion : 
+	Id : A1EY
+	Name : "Frost Shield"
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds 300 armor and slows melee units that attack it for 11 seconds. |nLasts 10 seconds."
+
+
+AbilityId : A1EX
+Descriprion : 
+	Id : A1EX
+	Name : Howl of Terror
+	Ubertip : "Emits a terrifying howl that reduces nearby enemy units' attack damage by 60% and reduce armor by 80 for 7 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : ACt2
+Descriprion : 
+	Id : ACt2
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 400 points of damage and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : Ashm
+Descriprion : 
+	Id : Ashm
+	Name : Shadow Meld
+	Ubertip : "Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+
+
+AbilityId : ACev
+Descriprion : 
+	Id : ACev
+	Name : Evasion
+	Ubertip : "Gives a <ACev,DataA1,%>% percent chance to avoid an attack.","2","3","4"
+
+
+Hero ability list:

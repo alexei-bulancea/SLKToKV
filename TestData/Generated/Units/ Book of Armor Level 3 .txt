@@ -1,0 +1,15 @@
+UnitId : h02Z
+Descriprion : 
+	Id : h02Z
+	Name : "Book of Armor Level 3"
+	Ubertip : "Stronger Aura of Armor. "
+
+Ability List:
+AbilityId : A0LD
+Descriprion : 
+	Id : A0LD
+	Name : "Book Armor Aura 3"
+	Ubertip : "Gives 75 additional armor to all friendly units."
+
+
+Hero ability list:

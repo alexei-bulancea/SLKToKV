@@ -1,0 +1,43 @@
+UnitId : ubsp
+Descriprion : 
+	Id : ubsp
+	Name : Destroyer
+	Ubertip : "Large flying unit that must consume magic to sustain its mana. Excellent at destroying enemy casters and clusters of ground forces. Initially has Spell Immunity, Devour Magic, Absorb Mana, and Orb of Annihilation. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Advm
+Descriprion : 
+	Id : Advm
+	Name : Devour Magic
+	Ubertip : "Consumes all magical buffs from units in an area. Each unit that is devoured of magic gives the Destroyer <Advm,DataA1> hit points and <Advm,DataB1> mana. |n|cffffcc00Deals <Advm,DataE1> damage to summoned units.|r"
+
+
+AbilityId : Afak
+Descriprion : 
+	Id : Afak
+	Name : Orb of Annihilation
+	Ubertip : "Adds <Afak,DataA1> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 6 seconds|r|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA2> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 5 seconds|r|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA3> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 4 seconds|r|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA4> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 2.9 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA5> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 1.7 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA6> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 1.15 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA7> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 0.8 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA8> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 0.3 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <Afak,DataA9> bonus damage and causes his attacks to do area of effect damage.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r."
+
+
+AbilityId : Aave
+Descriprion : 
+	Id : Aave
+	Name : "Destroyer Form"
+	Ubertip : 
+
+
+AbilityId : Aabs
+Descriprion : 
+	Id : Aabs
+	Name : Absorb Mana
+	Ubertip : "Takes all mana from one of your units and gives it to the Destroyer."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

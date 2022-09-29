@@ -1,0 +1,15 @@
+UnitId : n004
+Descriprion : 
+	Id : n004
+	Name : "Advanced Stun Tower"
+	Ubertip : "Have more damage, more hit points , armor , life regeneration and chance to bash."
+
+Ability List:
+AbilityId : A06E
+Descriprion : 
+	Id : A06E
+	Name : "Bash Tower level 2"
+	Ubertip : "Gives a 20% chance that an attack will do 100 bonus damage and stun an opponent for 1.2 seconds."
+
+
+Hero ability list:

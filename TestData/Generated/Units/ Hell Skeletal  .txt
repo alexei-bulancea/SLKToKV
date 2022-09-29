@@ -1,0 +1,15 @@
+UnitId : n02P
+Descriprion : 
+	Id : n02P
+	Name : "Hell Skeletal "
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0WM
+Descriprion : 
+	Id : A0WM
+	Name : "Hell Skeletal Strike"
+	Ubertip : "Gives a 15% chance that an attack will do 400 bonus damage andparalize an opponent for 1.5 seconds."
+
+
+Hero ability list:

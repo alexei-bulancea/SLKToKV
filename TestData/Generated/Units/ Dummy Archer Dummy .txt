@@ -1,0 +1,15 @@
+UnitId : h08N
+Descriprion : 
+	Id : h08N
+	Name : "Dummy Archer Dummy"
+	Ubertip : "Long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Fragmentation Shards and Flare abilities. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

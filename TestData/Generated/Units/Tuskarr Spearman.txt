@@ -1,0 +1,15 @@
+UnitId : ntka
+Descriprion : 
+	Id : ntka
+	Name : Tuskarr Spearman
+	Ubertip : "Light ranged unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+Hero ability list:

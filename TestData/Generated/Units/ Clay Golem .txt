@@ -1,0 +1,43 @@
+UnitId : n00F
+Descriprion : 
+	Id : n00F
+	Name : "Clay Golem"
+	Ubertip : "Light melee unit that can Slow opponents. Immune to spells. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1NF
+Descriprion : 
+	Id : A1NF
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 200 points of damage in 400 AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 750 points of damage in 600 AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 2000 points of damage in 800 AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 7500 points of damage in 1000 AOE and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : A1NH
+Descriprion : 
+	Id : A1NH
+	Name : "Armor Bonus (Golem)"
+	Ubertip : 
+
+
+AbilityId : A075
+Descriprion : 
+	Id : A075
+	Name : "Clay Property"
+	Ubertip : "Give 25% chance to Reduces 60 damage on that unit."
+
+
+AbilityId : ACsw
+Descriprion : 
+	Id : ACsw
+	Name : Slow
+	Ubertip : "Slows enemy unit's attack rate by <ACsw,DataB1,%>% and movement speed by <ACsw,DataA1,%>%. Lasts <ACsw,Dur1> seconds."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

@@ -1,0 +1,43 @@
+UnitId : n04H
+Descriprion : 
+	Id : n04H
+	Name : "Nightmare Necro Skeleton "
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+AbilityId : A06Q
+Descriprion : 
+	Id : A06Q
+	Name : Evasion
+	Ubertip : "Gives a 6% percent chance to avoid an attack. 7% to do 8% max health in pure damage upon being attacked","Gives a 13% percent chance to avoid an attack. 9% to do 16% max health in pure damage upon being attacked","Gives a 18% percent chance to avoid an attack. 12% to do 24% max health in pure damage upon being attacked","Gives a 22% percent chance to avoid an attack. 14% to do 32% max health in pure damage upon being attacked","Gives a 30% percent chance to avoid an attack. 16% to do 40% max health in pure damage upon being attacked"
+
+
+AbilityId : Afbb
+Descriprion : 
+	Id : Afbb
+	Name : Feedback
+	Ubertip : "Each hit burns 40 mana. dealing bonus damage"
+
+
+AbilityId : A0E5
+Descriprion : 
+	Id : A0E5
+	Name : "Critical Sliser"
+	Ubertip : "Gives a 26% chance to do 6  times normal damage on an attack."
+
+
+AbilityId : A1N6
+Descriprion : 
+	Id : A1N6
+	Name : "Destroy Unit"
+	Ubertip : "Kills the unit making room for new ones to spawn"
+
+
+Hero ability list:

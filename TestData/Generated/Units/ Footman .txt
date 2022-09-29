@@ -1,0 +1,50 @@
+UnitId : H04I
+Descriprion : 
+	Id : H04I
+	Name : "Footman"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0RI
+Descriprion : 
+	Id : A0RI
+	Name : "|cffffcc00G|rrowth Up 4"
+	Ubertip : "Stronger Footman. This growth cost you 6 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0P6
+Descriprion : 
+	Id : A0P6
+	Name : "Footman Aoe Attack"
+	Ubertip : "Make an attack dealing 100 damage in 300 AOE + 4x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 200 damage in 300 AOE + 5x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 400 damage in 300 AOE + 6x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 600 damage in 300 AOE + 7x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 800 damage in 300 AOE + 8x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 1000 damage in 300 AOE + 9x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 1300 damage in 300 AOE + 10x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 1600 damage in 300 AOE + 11x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Make an attack dealing 2000 damage in 300 AOE + 12x str on in spell damage main target.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+
+
+AbilityId : A0P2
+Descriprion : 
+	Id : A0P2
+	Name : "Footman Defense"
+	Ubertip : "Reduces all attacks on Footman by 10 damage and increases your armor by 9.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 15 damage and increases your armor by 17.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 20 damage and increases your armor by 30.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 25 damage and increases your armor by 40.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 30 damage and increases your armor by 50.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 35 damage and increases your armor by 60.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 40 damage and increases your armor by 70.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 47 damage and increases your armor by 85.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r ","Reduces all attacks on Footman by 62 damage and increases your armor by 100.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r "
+
+
+AbilityId : A0P5
+Descriprion : 
+	Id : A0P5
+	Name : "Footman Stance"
+	Ubertip : "Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 65 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 58 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 52 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 45 seconds.|r","Change to guard stance Increasing your armor by 5 permanently and by 1300 for 10 seconds. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r"
+
+
+AbilityId : A0P4
+Descriprion : 
+	Id : A0P4
+	Name : "Footman melee damage reduction"
+	Ubertip : "Reduce 15% damage from melee units on Footman and return 35% damage. also increases your armor by 10","Reduce 20% damage from melee units on Footman and return 35% damage. also increases your armor by 20","Reduce 25% damage from melee units on Footman and return 35% damage. also increases your armor by 30","Reduce 30% damage from melee units on Footman and return 35% damage. also increases your armor by 40","Reduce 35% damage from melee units on Footman and return 35% damage. also increases your armor by 50","Reduce 40% damage from melee units on Footman and return 35% damage. also increases your armor by 60","Reduce 45% damage from melee units on Footman and return 35% damage. also increases your armor by 70","Reduce 50% damage from melee units on Footman and return 35% damage. also increases your armor by 80","Reduce 60% damage from melee units on Footman and return 35% damage. also increases your armor by 90"
+
+

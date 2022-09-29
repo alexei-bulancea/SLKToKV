@@ -1,0 +1,29 @@
+UnitId : n052
+Descriprion : 
+	Id : n052
+	Name : "Helder"
+	Ubertip : "A hearty villager."
+
+Ability List:
+AbilityId : Asid
+Descriprion : 
+	Id : Asid
+	Name : Sell Items
+	Ubertip : "Permits the sale of items."
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : A1VI
+Descriprion : 
+	Id : A1VI
+	Name : "Magic tome Locator"
+	Ubertip : "Pings all current locations of (Quest) books on the map"
+
+
+Hero ability list:

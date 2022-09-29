@@ -1,0 +1,22 @@
+UnitId : n00S
+Descriprion : 
+	Id : n00S
+	Name : "Blaspheme"
+	Ubertip : "Medium ranged unit that hurls Demon fire. Can cast Raise Dead and Carrion Swarm. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A098
+Descriprion : 
+	Id : A098
+	Name : "Attack Corruption Assassin BL2"
+	Ubertip : 
+
+
+AbilityId : A09J
+Descriprion : 
+	Id : A09J
+	Name : "Demolish 1"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

@@ -1,0 +1,36 @@
+UnitId : nano
+Descriprion : 
+	Id : nano
+	Name : Overlord Arachnathid
+	Ubertip : "Heavy melee unit with Command Aura. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A00H
+Descriprion : 
+	Id : A00H
+	Name : "armor defense 4"
+	Ubertip : "Reduces all attacks on that unit by <Assk,DataC1> damage."
+
+
+AbilityId : A022
+Descriprion : 
+	Id : A022
+	Name : "Envenomed Weapons BM"
+	Ubertip : "Deals 25 poison damage per second. |nLasts 15 seconds."
+
+
+AbilityId : A09U
+Descriprion : 
+	Id : A09U
+	Name : "Shadow Strike Aracnic"
+	Ubertip : "Hurls a poisoned dagger with incredible force at an enemy, dealing <ACss,DataE1> initial damage, and <ACss,DataA1> damage every <ACss,Cast1> seconds for <ACss,Dur1> seconds. The poison slows the attack rate and movement speed of the enemy for a short duration."
+
+
+AbilityId : A04T
+Descriprion : 
+	Id : A04T
+	Name : "Spell Damage Reduction 30"
+	Ubertip : 
+
+
+Hero ability list:

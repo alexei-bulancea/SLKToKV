@@ -1,0 +1,15 @@
+UnitId : nitw
+Descriprion : 
+	Id : nitw
+	Name : Ice Troll Warlord
+	Ubertip : "Heavy ranged unit with Trueshot Aura. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : SCae
+Descriprion : 
+	Id : SCae
+	Name : Endurance Aura
+	Ubertip : "Increases nearby friendly units' movement speed by <SCae,DataA1,%>% and attack rate by <SCae,DataB1,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+Hero ability list:

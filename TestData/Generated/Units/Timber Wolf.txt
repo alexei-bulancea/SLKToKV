@@ -1,0 +1,15 @@
+UnitId : nwlt
+Descriprion : 
+	Id : nwlt
+	Name : Timber Wolf
+	Ubertip : "Light melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A02X
+Descriprion : 
+	Id : A02X
+	Name : "Critical Strike Wolf"
+	Ubertip : "Gives a 22% chance to do 3.6  times normal damage on an attack."
+
+
+Hero ability list:

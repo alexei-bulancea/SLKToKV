@@ -1,0 +1,15 @@
+UnitId : o01F
+Descriprion : 
+	Id : o01F
+	Name : Spirit Wolf
+	Ubertip : 
+
+Ability List:
+AbilityId : A0VE
+Descriprion : 
+	Id : A0VE
+	Name : "Spell Damage Reduction 15"
+	Ubertip : 
+
+
+Hero ability list:

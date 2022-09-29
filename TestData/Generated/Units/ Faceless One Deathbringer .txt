@@ -1,0 +1,57 @@
+UnitId : nfor
+Descriprion : 
+	Id : nfor
+	Name : "Faceless One Deathbringer"
+	Ubertip : "Heavy melee unit with Purge and Curse. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A107
+Descriprion : 
+	Id : A107
+	Name : "Magic Reduccion Azze"
+	Ubertip : "Reduces the damage.,%>%."
+
+
+AbilityId : A11S
+Descriprion : 
+	Id : A11S
+	Name : "Mana Shield F"
+	Ubertip : "Activates a shield that absorbs 0.9 damage per point of mana. 80% of the damage goes to mana.","2","3","4"
+
+
+AbilityId : A11U
+Descriprion : 
+	Id : A11U
+	Name : "Chain Lightning FCL"
+	Ubertip : "Hurls a bolt of lightning that bounces up to <ACcl,DataB1> times, dealing <ACcl,DataA1> damage to the primary target. Each jump deals less damage.","2","3","4"
+
+
+AbilityId : Afr2
+Descriprion : 
+	Id : Afr2
+	Name : "Frost AttackX"
+	Ubertip : "Adds a cold effect to this unit's attacks that slows enemy units' movement speed."
+
+
+AbilityId : A03D
+Descriprion : 
+	Id : A03D
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : A092
+Descriprion : 
+	Id : A092
+	Name : "Attack Speed +140%"
+	Ubertip : 
+
+
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+Hero ability list:

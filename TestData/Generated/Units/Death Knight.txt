@@ -1,0 +1,43 @@
+UnitId : Uear
+Descriprion : 
+	Id : Uear
+	Name : Death Knight
+	Ubertip : "Warrior Hero, evil counterpart to the Human Paladin. Can learn Death Coil, Death Pact, Unholy Aura, and Animate Dead. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : AUdc
+Descriprion : 
+	Id : AUdc
+	Name : Death Coil
+	Ubertip : "A soul that can heal a friendly Undead unit for <AUdc,DataA1> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 26 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA2> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 24 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA3> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 22 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA4> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 20 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA5> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 18 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA6> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 16 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA7> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 14 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA8> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 12 seconds.|r","A soul that can heal a friendly Undead unit for <AUdc,DataA9> hit points, or deal half damage to an enemy living unit.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : AUdp
+Descriprion : 
+	Id : AUdp
+	Name : Death Pact
+	Ubertip : "Kills a target friendly Undead unit, giving <AUdp,DataB1,%>% of its hit points to the Death Knight.","Kills a target friendly Undead unit, giving <AUdp,DataB2,%>% of its hit points to the Death Knight.","Kills a target friendly Undead unit, giving <AUdp,DataB3,%>% of its hit points to the Death Knight."
+
+
+AbilityId : AUau
+Descriprion : 
+	Id : AUau
+	Name : "Holy Aura"
+	Ubertip : "Increases nearby friendly units' movement speed by <AUau,DataA1,%>% and life regeneration rate by 2. Also increases Dark Knight base damage by 6.","Increases nearby friendly units' movement speed by <AUau,DataA2,%>% and life regeneration rate by 3. Also increases Dark Knight base damage by 14.","Increases nearby friendly units' movement speed by <AUau,DataA3,%>% and life regeneration rate by 4. Also increases Dark Knight base damage by 22.","Increases nearby friendly units' movement speed by <AUau,DataA4,%>% and life regeneration rate by 5. Also increases Dark Knight base damage by 30.","Increases nearby friendly units' movement speed by <AUau,DataA5,%>% and life regeneration rate by 6. Also increases Dark Knight base damage by 38.","Increases nearby friendly units' movement speed by <AUau,DataA6,%>% and life regeneration rate by 7. Also increases Dark Knight base damage by 46.","Increases nearby friendly units' movement speed by <AUau,DataA7,%>% and life regeneration rate by 8. Also increases Dark Knight base damage by 54.","Increases nearby friendly units' movement speed by <AUau,DataA8,%>% and life regeneration rate by 9.Also increases Dark Knight base damage by 62.","Increases nearby friendly units' movement speed by <AUau,DataA9,%>% and life regeneration rate by 17. Also increases Dark Knight base damage by 70."
+
+
+AbilityId : AUan
+Descriprion : 
+	Id : AUan
+	Name : "Necromancer Animate Dead"
+	Ubertip : "Raises 1 dead unit in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 100 seconds.|r","Raises 1 dead unit in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 95 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 90 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 85 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 80 seconds.|r","Raises 2 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 70 seconds.|r","Raises 3 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 60 seconds.|r","Raises 3 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 50 seconds.|r","Raises 3 dead units in an area to fight for you for 80 seconds. |n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+

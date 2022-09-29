@@ -1,0 +1,29 @@
+UnitId : edtm
+Descriprion : 
+	Id : edtm
+	Name : Druid of the Talon
+	Ubertip : "Maneuverable spellcaster. Can initially cast Faerie Fire, which reduces armor and gives vision of an enemy unit. Can also learn Storm Crow Form, Cyclone and Mark of the Talon. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Arav
+Descriprion : 
+	Id : Arav
+	Name : Storm Crow Form
+	Ubertip : "Transforms the Druid into a storm crow, giving him the ability to fly."
+
+
+AbilityId : Afa2
+Descriprion : 
+	Id : Afa2
+	Name : Faerie Fire
+	Ubertip : "Reduces a target enemy unit's armor by <Afae,DataA1> and gives vision of that unit. |nLasts <Afae,Dur1> seconds."
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:

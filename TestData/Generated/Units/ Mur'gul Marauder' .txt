@@ -1,0 +1,15 @@
+UnitId : nmrv
+Descriprion : 
+	Id : nmrv
+	Name : "Mur'gul Marauder'"
+	Ubertip : "Heavy melee amphibious unit with Command Aura. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : ACac
+Descriprion : 
+	Id : ACac
+	Name : Command Aura
+	Ubertip : "Gives 20% extra damage to the attacks of nearby friendly units.","Gives 30% extra damage to the attacks of nearby friendly units.","Gives 40% extra damage to the attacks of nearby friendly units.","Gives 50% extra damage to the attacks of nearby friendly units.","Gives 60% extra damage to the attacks of nearby friendly units.","Gives 70% extra damage to the attacks of nearby friendly units.","Gives 80% extra damage to the attacks of nearby friendly units.","Gives 90% extra damage to the attacks of nearby friendly units.","Gives 110% extra damage to the attacks of nearby friendly units."
+
+
+Hero ability list:

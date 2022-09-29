@@ -1,0 +1,22 @@
+UnitId : hspt
+Descriprion : 
+	Id : hspt
+	Name : Spell Breaker
+	Ubertip : "Elven warrior trained to destroy spellcasters. Initially has Spell Steal, which manipulates buffs to your advantage, Spell Immunity and Feedback. Can also learn Control Magic. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A1W0
+Descriprion : 
+	Id : A1W0
+	Name : "Inventory illusion target"
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

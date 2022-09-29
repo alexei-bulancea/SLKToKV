@@ -1,0 +1,29 @@
+UnitId : u007
+Descriprion : 
+	Id : u007
+	Name : "Skeletal Mage Level 8"
+	Ubertip : 
+
+Ability List:
+AbilityId : A06X
+Descriprion : 
+	Id : A06X
+	Name : "|cffffcc00F|rrost Bolt "
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 120 damage + 35% of max mana in spell damage and stun the target for 2.0 seconds. |n|n|cffc3dbffCooldown: 23 seconds.|r","Throws a magical shard of ice at a target enemy unit, dealing 240 damage + 70% of max mana in spell damage and stun the target for 2.0 seconds. |n|n|cffc3dbffCooldown: 23 seconds.|r","Throws a magical shard of ice at a target enemy unit, dealing 2000 damage + 105% of max mana in spell damage and stun the target for 2.0 seconds. |n|n|cffc3dbffCooldown: 23 seconds.|r","Throws a magical shard of ice at a target enemy unit, dealing 4500 damage + 140% of max mana in spell damage and stun the target for 2.0 seconds. |n|n|cffc3dbffCooldown: 23 seconds.|r","Throws a magical shard of ice at a target enemy unit, dealing 10000 damage + 175% of max in spell damage mana and stun the target for 2.0 seconds. |n|n|cffc3dbffCooldown: 23 seconds.|r"
+
+
+AbilityId : A06U
+Descriprion : 
+	Id : A06U
+	Name : "Rain of Fire Level 3"
+	Ubertip : "Calls down waves of fire that damage units in an area. Each wave deals 315 initial damage and 30 damage per second for 5 seconds. |nLasts for 5 waves."
+
+
+AbilityId : A06Y
+Descriprion : 
+	Id : A06Y
+	Name : Cripple
+	Ubertip : "Reduces movement speed by 25%, attack rate by 40%, and damage by 40% of a target enemy unit. |nLasts 6 seconds."
+
+
+Hero ability list:

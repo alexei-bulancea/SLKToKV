@@ -1,0 +1,29 @@
+UnitId : nbwm
+Descriprion : 
+	Id : nbwm
+	Name : "Dark Dragon"
+	Ubertip : "Heavy ranged flying unit that can Devour opponents and is immune to magic. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A060
+Descriprion : 
+	Id : A060
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A01F
+Descriprion : 
+	Id : A01F
+	Name : "Critical Strike Corrupted Dragon"
+	Ubertip : "Gives a 7% chance to do 5.1 times normal damage on an attack."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+Hero ability list:

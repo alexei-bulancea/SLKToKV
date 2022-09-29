@@ -1,0 +1,50 @@
+UnitId : H04E
+Descriprion : 
+	Id : H04E
+	Name : "Skeleton Viking"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A1R8
+Descriprion : 
+	Id : A1R8
+	Name : "Mind Trick"
+	Ubertip : "Mind Trick an enemy causing them to: become yours (Max level 9), deal 2x str in pure damage or they give you intel on how to improve yourself (1-19 str or 7 armor).|n|n|cffc3dbffCooldown: 60 seconds|r.","Mind Trick an enemy causing them to: become yours (Max level 18), deal 4x str in pure damage or they give you intel on how to improve yourself (2-19 str or 7 armor).|n|n|cffc3dbffCooldown: 55 seconds|r.","Mind Trick an enemy causing them to: become yours (Max level 27), deal 6x str in pure damage or they give you intel on how to improve yourself (3-19 str or 7 armor).|n|n|cffc3dbffCooldown: 48 seconds|r.","Mind Trick an enemy causing them to: become yours(Max level 36), deal 8x str in pure damage or they give you intel on how to improve yourself (4-19 str or 7 armor).|n|n|cffc3dbffCooldown: 40 seconds|r.","Mind Trick an enemy causing them to: become yours (Max level 45), deal 10x str in pure damage or they give you intel on how to improve yourself (5-19 str or 7 armor).|n|n|cffc3dbffCooldown: 32 seconds|r.","Decreases armor by 15; deals 70 damage per second.|nLasts 20 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 20; deals 80 damage per second.|nLasts 22 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 26; deals 100 damage per second.|nLasts 24 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Decreases armor by 34; deals 120 damage per second.|nLasts 26 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : A0OG
+Descriprion : 
+	Id : A0OG
+	Name : "Skeletal Bones property"
+	Ubertip : "The skeletons are hard hitting from afar, have a chance 16% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 20% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 25% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 30% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 36% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 42% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 50% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 60% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r","The skeletons are hard hitting from afar, have a chance 70% to reduce organic ranged attacks, minimum damage recive 7, Maximum ignored damage is 1900.|n|cffc3dbffThis ability dont stack with armors and shields block ability.|r"
+
+
+AbilityId : A0OJ
+Descriprion : 
+	Id : A0OJ
+	Name : "Skeletal Strength Bash "
+	Ubertip : "Gives a 10% chance that an attack will do 200 bonus damage and stun an opponent for 0.8 seconds.","Gives a 10% chance that an attack will do 300 bonus damage and stun an opponent for 0.9 seconds.","Gives a 10% chance that an attack will do 400 bonus damage and stun an opponent for 1 second.","Gives a 10% chance that an attack will do 600 bonus damage and stun an opponent for 1.1 seconds.","Gives a 10% chance that an attack will do 800 bonus damage and stun an opponent for 1.2 seconds.","Gives a 10% chance that an attack will do 1300 bonus damage and stun an opponent for 1.4 seconds.","Gives a 10% chance that an attack will do 2000 bonus damage and stun an opponent for 1.6 seconds.","Gives a 10% chance that an attack will do 3000 bonus damage and stun an opponent for 1.8 seconds.","Gives a 10% chance that an attack will do 8000 bonus damage and stun an opponent for 2 seconds."
+
+
+AbilityId : A0OM
+Descriprion : 
+	Id : A0OM
+	Name : "Skeleton Strength Hammer"
+	Ubertip : "Thrown a hammer at an enemy unit, causing 200 damage, stunning the target and physical attacks deal 40 bonus pure damage for 4 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 40 seconds.|r","Thrown a hammer at an enemy unit, causing 400 damage, stunning the target and physical attacks deal 80 bonus pure damage for 4.5 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 38 seconds.|r","Thrown a hammer at an enemy unit, causing 600 damage, stunning the target and physical attacks deal 120 bonus pure damage for 5 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 35 seconds.|r","Thrown a hammer at an enemy unit, causing 800 damage, stunning the target and physical attacks deal 160 bonus pure damage for 5.5 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 33 seconds.|r","Thrown a hammer at an enemy unit, causing 1000 damage, stunning the target and physical attacks deal 200 bonus pure damage for 6 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 30 seconds.|r","Thrown a hammer at an enemy unit, causing 1400 damage, stunning the target and physical attacks deal 240 bonus pure damage for 6.5 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 28 seconds.|r","Thrown a hammer at an enemy unit, causing 2000 damage, stunning the target and physical attacks deal 280 bonus pure damage for 7 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 26 seconds.|r","Thrown a hammer at an enemy unit, causing 4000 damage, stunning the target and physical attacks deal 320 bonus pure damage for 7.5 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 25 seconds.|r","Thrown a hammer at an enemy unit, causing 10000 damage, stunning the target and physical attacks deal 360 bonus pure damage for 8 seconds. Have 600 cast range.|n|n|cffc3dbffCooldown: 24 seconds.|r"
+
+
+AbilityId : A1R9
+Descriprion : 
+	Id : A1R9
+	Name : "Regenerative Bones"
+	Ubertip : "Increases your hitpoints regeneration by 8.","Increases your hitpoints regeneration by 16.","Increases your hitpoints regeneration by 30.","Increases your hitpoints regeneration by 46.","Increases your hitpoints regeneration by 70.","Increases your hitpoints regeneration by 90.","Increases your hitpoints regeneration by 110.","Increases your hitpoints regeneration by 145.","Increases your hitpoints regeneration by 200."
+
+

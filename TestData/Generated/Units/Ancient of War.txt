@@ -1,0 +1,8 @@
+UnitId : eaom
+Descriprion : 
+	Id : eaom
+	Name : Ancient of War
+	Ubertip : "Keeper of primary assault troops. Trains Archers, Huntresses, and Glaive Throwers. |nAlso contains Archer, Huntress and Glaive Thrower upgrades. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

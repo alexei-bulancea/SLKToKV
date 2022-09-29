@@ -1,0 +1,43 @@
+UnitId : H04V
+Descriprion : 
+	Id : H04V
+	Name : "Martial Arts Master"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0PN
+Descriprion : 
+	Id : A0PN
+	Name : "Master Punch"
+	Ubertip : "Throw a trained punch at a target enemy unit, dealing 2 x STR + 50% base damage in pure damage, stunning the target for 1.6 seconds and training your fists more (+2 base damage).|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 75% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 14 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 100% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 12 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 125% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 12 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 150% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 12 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 175% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 11 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 200% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 11 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 225% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 11 seconds.|r","Throw a trained punch at a target enemy unit, dealing 2 x STR + 250% base damage in pure damage, stunning the target for 1.6 seconds and training your fists even more (+2 base damage).|n|n|cffc3dbffCooldown: 10 seconds.|r"
+
+
+AbilityId : A1I2
+Descriprion : 
+	Id : A1I2
+	Name : "Martial Speed"
+	Ubertip : "Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 14 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 16 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 20 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 24 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Increases the attack rate in 150% and move speed by 50%. When ever you kill a unit under this effect increase your base damage by 2. |nLasts 28 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r"
+
+
+AbilityId : A0PO
+Descriprion : 
+	Id : A0PO
+	Name : "Master Tekkai"
+	Ubertip : "An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 28 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 26 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 23 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 17 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 14 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 11 seconds|r.","An Ancient martial arts technique that contract and tense your muscles making it harder than steel Increasing your armor in 3000 last 4 seconds.|n|n|cffc3dbffCooldown: 7 seconds|r."
+
+
+AbilityId : A0ES
+Descriprion : 
+	Id : A0ES
+	Name : "M.A Martial Arts Hermit"
+	Ubertip : "Gives a 4% chance to dodge an attack, 6% chance to deal 3.3 times normal damage and increase base strength by 3.","Gives a 8% chance to dodge an attack, 8% chance to deal 3.3 times normal damage and increase base strength by 6.","Gives a 12% chance to dodge an attack, 10% chance to deal 3.3 times normal damage and increase base strength by 9.","Gives a 16% chance to dodge an attack, 13% chance to deal 3.3 times normal damage and increase base strength by 12.","Gives a 20% chance to dodge an attack, 16% chance to deal 3.3 times normal damage and increase base strength by 15.","Gives a 24% chance to dodge an attack, 20% chance to deal 3.3 times normal damage and increase base strength by 18.","Gives a 28% chance to dodge an attack, 24% chance to deal 3.3 times normal damage and increase base strength by 21.","Gives a 32% chance to dodge an attack, 28% chance to deal 3.3 times normal damage and increase base strength by 24.","Gives a 36% chance to dodge an attack, 33% chance to deal 3.3 times normal damage and increase base strength by 27."
+
+

@@ -1,0 +1,8 @@
+UnitId : h07U
+Descriprion : 
+	Id : h07U
+	Name : "Dummy Projectile"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

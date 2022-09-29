@@ -1,0 +1,15 @@
+UnitId : uaco
+Descriprion : 
+	Id : uaco
+	Name : Acolyte
+	Ubertip : "Basic worker. Can summon structures, harvest gold, and Restore. Acolytes may be sacrificed at a Sacrificial Pit to create Shades. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

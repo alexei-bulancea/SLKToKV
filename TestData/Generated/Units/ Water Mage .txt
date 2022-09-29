@@ -1,0 +1,50 @@
+UnitId : u00X
+Descriprion : 
+	Id : u00X
+	Name : "Water Mage"
+	Ubertip : 
+
+Ability List:
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A1PN
+Descriprion : 
+	Id : A1PN
+	Name : "Illuswm"
+	Ubertip : "Illusion 25","Illusion 50","Illusion 75","Illusion 100"
+
+
+AbilityId : A1PR
+Descriprion : 
+	Id : A1PR
+	Name : Summon Water Elemental
+	Ubertip : "Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur1> seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur2> seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur3> seconds.|n|n|cffc3dbffCooldown: 70 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur4> seconds. |n|n|cffc3dbffCooldown: 80 seconds.|r","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur5> seconds.|n|n|cffc3dbffCooldown: 90 seconds.|r ","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur6> seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r ","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur7> seconds. |n|n|cffc3dbffCooldown: 110 seconds.|r ","Summons a water elemental to attack your enemies. |nLasts <AHwe,Dur8> seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r ","Summons a water elemental to attack your enemies. Can't have more than one water elemental, you can't summon a new one while Water Elemental is alive.|n|n|cffc3dbffCooldown: 150 seconds.|r "
+
+
+AbilityId : A1PQ
+Descriprion : 
+	Id : A1PQ
+	Name : "EWWM"
+	Ubertip : "elementalw1","elementalw2","elementalw3","elementalw4"
+
+
+Hero ability list:

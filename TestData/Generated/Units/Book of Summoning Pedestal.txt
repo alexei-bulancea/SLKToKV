@@ -1,0 +1,29 @@
+UnitId : nbsm
+Descriprion : 
+	Id : nbsm
+	Name : Book of Summoning Pedestal
+	Ubertip : 
+
+Ability List:
+AbilityId : A1V5
+Descriprion : 
+	Id : A1V5
+	Name : "Recipes"
+	Ubertip : "Shows the list of Hidden Recipes"
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : A1VP
+Descriprion : 
+	Id : A1VP
+	Name : "Mission codes"
+	Ubertip : "Shows the list of Mission Codes"
+
+
+Hero ability list:

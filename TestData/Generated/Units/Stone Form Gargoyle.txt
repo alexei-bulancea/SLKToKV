@@ -1,0 +1,22 @@
+UnitId : ugrm
+Descriprion : 
+	Id : ugrm
+	Name : Stone Form Gargoyle
+	Ubertip : "Flying attack creature. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Astn
+Descriprion : 
+	Id : Astn
+	Name : Stone Form
+	Ubertip : "Transforms the Gargoyle into a statue that is immune to spells, gains additional armor and has a regeneration rate of <Astn,DataE1> hit points per second. |nThe Gargoyle cannot attack in this form."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

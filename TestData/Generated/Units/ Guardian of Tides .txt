@@ -1,0 +1,71 @@
+UnitId : nerw
+Descriprion : 
+	Id : nerw
+	Name : "Guardian of Tides"
+	Ubertip : "Heavy ranged unit with Bash. Can cast Finger of Pain and Mana Shield. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A107
+Descriprion : 
+	Id : A107
+	Name : "Magic Reduccion Azze"
+	Ubertip : "Reduces the damage.,%>%."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A06L
+Descriprion : 
+	Id : A06L
+	Name : Firebolt
+	Ubertip : "Hurls a fiery bolt that stuns a target enemy unit.","2","222","2222"
+
+
+AbilityId : Afod
+Descriprion : 
+	Id : Afod
+	Name : Finger of Death
+	Ubertip : "Instantly turns a creature or building inside-out.","Instantly turns a creature or building inside-out.","Instantly turns a creature or building inside-out.","Instantly turns a creature or building inside-out."
+
+
+AbilityId : A121
+Descriprion : 
+	Id : A121
+	Name : "50% Accurate"
+	Ubertip : "50%"
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A0CR
+Descriprion : 
+	Id : A0CR
+	Name : Hex
+	Ubertip : "Transforms an enemy unit into a random critter for <AChx,Dur1> seconds.","1","11","111"
+
+
+AbilityId : A0XJ
+Descriprion : 
+	Id : A0XJ
+	Name : "+1600 Bonus Damage"
+	Ubertip : 
+
+
+AbilityId : A0IU
+Descriprion : 
+	Id : A0IU
+	Name : "Move Speed Admiral"
+	Ubertip : 
+
+
+Hero ability list:

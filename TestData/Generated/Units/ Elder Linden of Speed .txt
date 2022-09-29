@@ -1,0 +1,15 @@
+UnitId : h02A
+Descriprion : 
+	Id : h02A
+	Name : "Elder Linden of Speed"
+	Ubertip : "Have an aura of attack speed that affect allieds building."
+
+Ability List:
+AbilityId : S005
+Descriprion : 
+	Id : S005
+	Name : "Tower Speed Aura"
+	Ubertip : "Increases nearby friendly building  attack speed by 40%","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+Hero ability list:

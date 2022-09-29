@@ -1,0 +1,22 @@
+UnitId : nssp
+Descriprion : 
+	Id : nssp
+	Name : Spitting Spider
+	Ubertip : "Light ranged unit that spits poison at opponents. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACvs
+Descriprion : 
+	Id : ACvs
+	Name : Envenomed Weapons
+	Ubertip : "Deals <ACvs,DataA1> poison damage per second. |nLasts <ACvs,Dur1> seconds."
+
+
+AbilityId : A09L
+Descriprion : 
+	Id : A09L
+	Name : "Demolish 3"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

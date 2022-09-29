@@ -1,0 +1,50 @@
+UnitId : H03B
+Descriprion : 
+	Id : H03B
+	Name : "Magnataur"
+	Ubertip : "Tank Hero, exceptional at absorbing damage and defense. Can learn Crushing Blow, Divine Skin, Thorns, Power/Speed and Cellular Evolution.|n|nDifficult to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0CW
+Descriprion : 
+	Id : A0CW
+	Name : "Move speed regeneration"
+	Ubertip : "Increases your base strength by 6 and your move speed by 3%","Increases your base strength by 12 and your move speed by 5%","Increases your base strength by 18 and your move speed by 7%","Increases your base strength by 24 and your move speed by 9%","Increases your base strength by 30 and your move speed by 11%","Increases your base strength by 36 and your move speed by 13%","Increases your base strength by 42 and your move speed by 16%","Increases your base strength by 48 and your move speed by 20%","Increases your base strength by 54 and your move speed by 32%"
+
+
+AbilityId : AEah
+Descriprion : 
+	Id : AEah
+	Name : Thorns Aura
+	Ubertip : "Return damage to Attacker's units, range units will take 5 damage, melee 15 damage.","Return damage to Attacker's units, range units will take 12 damage, melee 32 damage.","Return damage to Attacker's units, range units will take 20 damage, melee 50 damage.","Return damage to Attacker's units, range units will take 28 damage, melee 68 damage.","Return damage to Attacker's units, range units will take 38 damage, melee 88 damage.","Return damage to Attacker's units, range units will take 50 damage, melee 110 damage.","Return damage to Attacker's units, range units will take 125% of your strength in damage, melee 130 + 125% of your strength in damage.","Return damage to Attacker's units, range units will take 175% of your strength in damage, melee 160 + 175% of your strength in damage.","Return damage to Attacker's units, range units will take 210% of your strength in damage, melee 220 + 210% of your strength in damage.|nIf your spellpower is 2250 or greater you will deal 260% of your strength instead."
+
+
+AbilityId : A0CX
+Descriprion : 
+	Id : A0CX
+	Name : "Crushing blow [Q]"
+	Ubertip : "Hit an enemy unit so hard that it will create a shockwave dealing 200 damage to enemies unit behind the target. Target take 400 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 300 damage to enemies unit behind the target. Target take 700 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 400 damage to enemies unit behind the target. Target take 1000 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 600 damage to enemies unit behind the target. Target take 1400 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 800 damage to enemies unit behind the target. Target take 1800 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 1000 damage to enemies unit behind the target. Target take 2300 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 1200 damage to enemies unit behind the target. Target take 2800 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 1400 damage to enemies unit behind the target. Target take 3400 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hit an enemy unit so hard that it will create a shockwave dealing 1600 damage to enemies unit behind the target. Target take 4800 total damage and get paralize for 1.7 seconds other units hit by the schock wave for 0.3 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+
+AbilityId : A0CY
+Descriprion : 
+	Id : A0CY
+	Name : "Cellular Evolution [T]"
+	Ubertip : "Use your energy dealing 500 damage to all nearby enemies and increases your hit points by 460, strenght by 15 and base damage by 18 for the entire game.|n|n|cffc3dbffCooldown: 240 seconds.|r","Use your energy dealing 800 damage to all nearby enemies and increases your hit points by 460, strenght by 15 and base damage by 18 for the entire game.|n|n|cffc3dbffCooldown: 200 seconds.|r","Use your energy dealing 1200 damage to all nearby enemies and increases your hit points by 460, strenght by 15 and base damage by 18 for the entire game.|n|n|cffc3dbffCooldown: 150 seconds.|r","Use your energy dealing 2400 damage to all nearby enemies and increases your hit points by 460, strenght by 15 and base damage by 18 for the entire game.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+
+
+AbilityId : A0CU
+Descriprion : 
+	Id : A0CU
+	Name : "Divine Skin [W]"
+	Ubertip : "Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 5 seconds.|n|n|cffc3dbffCooldown: 70 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 6 seconds.|n|n|cffc3dbffCooldown: 68 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 7 seconds.|n|n|cffc3dbffCooldown: 66 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 8 seconds.|n|n|cffc3dbffCooldown: 64 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 9 seconds.|n|n|cffc3dbffCooldown: 62 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 10 seconds.|n|n|cffc3dbffCooldown: 60 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 11 seconds.|n|n|cffc3dbffCooldown: 57 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 12 seconds.|n|n|cffc3dbffCooldown: 54 seconds|r","Reduces normal incoming damage by 99%, absorbs 75% of spell damage (heal) and increases move speed by 22%, last 14 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r"
+
+

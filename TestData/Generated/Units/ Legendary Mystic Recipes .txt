@@ -1,0 +1,29 @@
+UnitId : h05G
+Descriprion : 
+	Id : h05G
+	Name : "Legendary Mystic Recipes"
+	Ubertip : "Summons Heroes. Revives slain Heroes."
+
+Ability List:
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Apit
+Descriprion : 
+	Id : Apit
+	Name : Shop Purchase Item
+	Ubertip : 
+
+
+Hero ability list:

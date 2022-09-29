@@ -1,0 +1,8 @@
+UnitId : nrzg
+Descriprion : 
+	Id : nrzg
+	Name : Razormane Chieftain
+	Ubertip : "Heavy melee unit with Thorns Aura. Can hurl boulders at enemies. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

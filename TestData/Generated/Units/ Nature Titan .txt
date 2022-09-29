@@ -1,0 +1,36 @@
+UnitId : n01C
+Descriprion : 
+	Id : n01C
+	Name : "Nature Titan"
+	Ubertip : "Titans are extremely strong but very slow."
+
+Ability List:
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0LF
+Descriprion : 
+	Id : A0LF
+	Name : "Titan Nature Armor"
+	Ubertip : "Reduces 80% of all attacks on the Nature Titan by 680 damage.","Reduces 85% of all attacks on the Nature Titan by 1200 damage.","Reduces 90% of all attacks on the Nature Titan by 2600 damage.","Reduces 95% of all attacks on the Nature Titan by 4800 damage.","Reduces 100% of all attacks on the Nature Titan by 9000 damage."
+
+
+AbilityId : A0LG
+Descriprion : 
+	Id : A0LG
+	Name : "Titan Rejuvenation"
+	Ubertip : "Heals a target friendly unit for 30000 hit points over 40 seconds.","Heals a target friendly unit for 70000 hit points 5000 mana points over 40 seconds.","Heals a target friendly unit for 90000 hit points 20000 mana points over 40 seconds.","Heals a target friendly unit for 170000 hit points 30000 mana points over 40 seconds.","Heals a target friendly unit for 280000 hit points 40000 mana points over 40 seconds."
+
+
+AbilityId : A0LE
+Descriprion : 
+	Id : A0LE
+	Name : "Titan Cleaving Attack"
+	Ubertip : "The Titan strikes with such force that 16% of their damage strikes through to enemies near the primary attacked unit in a huge AOE."
+
+
+Hero ability list:

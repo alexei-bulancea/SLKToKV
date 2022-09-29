@@ -1,0 +1,22 @@
+UnitId : oeye
+Descriprion : 
+	Id : oeye
+	Name : Sentry Ward
+	Ubertip : 
+
+Ability List:
+AbilityId : Adt1
+Descriprion : 
+	Id : Adt1
+	Name : Detector
+	Ubertip : 
+
+
+AbilityId : Aeth
+Descriprion : 
+	Id : Aeth
+	Name : Ghost
+	Ubertip : 
+
+
+Hero ability list:

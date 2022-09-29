@@ -1,0 +1,36 @@
+UnitId : n04G
+Descriprion : 
+	Id : n04G
+	Name : "Shelob Hatchling"
+	Ubertip : 
+
+Ability List:
+AbilityId : A01E
+Descriprion : 
+	Id : A01E
+	Name : "Attack Speed +70%"
+	Ubertip : 
+
+
+AbilityId : ACsw
+Descriprion : 
+	Id : ACsw
+	Name : Slow
+	Ubertip : "Slows enemy unit's attack rate by <ACsw,DataB1,%>% and movement speed by <ACsw,DataA1,%>%. Lasts <ACsw,Dur1> seconds."
+
+
+AbilityId : A0G1
+Descriprion : 
+	Id : A0G1
+	Name : "Final Desease Envenomed Weapons"
+	Ubertip : "Deals 25 poison damage per second. |nLasts 15 seconds."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

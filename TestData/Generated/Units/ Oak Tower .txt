@@ -1,0 +1,8 @@
+UnitId : e00F
+Descriprion : 
+	Id : e00F
+	Name : "Oak Tower"
+	Ubertip : "Have high damage, more range and a lot of hit points but slow attack speed."
+
+Ability List:
+Hero ability list:

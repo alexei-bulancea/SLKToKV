@@ -1,0 +1,36 @@
+UnitId : nrdr
+Descriprion : 
+	Id : nrdr
+	Name : "Red Dragon"
+	Ubertip : "Small ranged flying unit. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1CA
+Descriprion : 
+	Id : A1CA
+	Name : "DCCDragon Breath"
+	Ubertip : "Breathes fire at enemies dealing 4000 initial damage, and 600 damage per second over 8 seconds.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+
+
+AbilityId : A1CB
+Descriprion : 
+	Id : A1CB
+	Name : "DC Hell Blaze"
+	Ubertip : "Damage ground units in a line for 9000 and stunning them for 4 seconds. Cooldown: 20 seconds."
+
+
+AbilityId : A1CC
+Descriprion : 
+	Id : A1CC
+	Name : "DC Command Aura"
+	Ubertip : "Increases Hero damage by 100% of his base damage and strength bonus.","Increases Hero damage by 180% of his base damage and strength bonus.","Increases Hero damage by 360% of his base damage and strength bonus."
+
+
+AbilityId : A1D6
+Descriprion : 
+	Id : A1D6
+	Name : "DCC Red Lighting"
+	Ubertip : "Deal 14000 + (270 x tasks) damage to a single target."
+
+
+Hero ability list:

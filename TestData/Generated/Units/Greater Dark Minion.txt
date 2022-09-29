@@ -1,0 +1,8 @@
+UnitId : ndr3
+Descriprion : 
+	Id : ndr3
+	Name : Greater Dark Minion
+	Ubertip : 
+
+Ability List:
+Hero ability list:

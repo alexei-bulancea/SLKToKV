@@ -1,0 +1,29 @@
+UnitId : nsqa
+Descriprion : 
+	Id : nsqa
+	Name : "Ancient Demon"
+	Ubertip : "Heavy melee unit that can Slam opponents. Can cast Force of Nature. Also has Reincarnation. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A16V
+Descriprion : 
+	Id : A16V
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing 9000 damage to nearby enemy units and stunning them for 8 seconds."
+
+
+AbilityId : ACpv
+Descriprion : 
+	Id : ACpv
+	Name : Pulverize
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units."
+
+
+AbilityId : ACt2
+Descriprion : 
+	Id : ACt2
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 400 points of damage and slowing the movement and attack rate of nearby enemy units."
+
+
+Hero ability list:

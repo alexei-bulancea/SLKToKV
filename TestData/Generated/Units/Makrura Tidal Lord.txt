@@ -1,0 +1,43 @@
+UnitId : nlkl
+Descriprion : 
+	Id : nlkl
+	Name : Makrura Tidal Lord
+	Ubertip : "Heavy melee unit with Devotion Aura and Cleaving Attack. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A03D
+Descriprion : 
+	Id : A03D
+	Name : Cleaving Attack
+	Ubertip : "The creature strikes with such force that 45% of their damage strikes through to enemies near the primary attacked unit."
+
+
+AbilityId : ACct
+Descriprion : 
+	Id : ACct
+	Name : Critical Strike
+	Ubertip : "Gives a <ACct,DataA1>% chance to do <ACct,DataB1> times normal damage on an attack."
+
+
+AbilityId : A03L
+Descriprion : 
+	Id : A03L
+	Name : "armor defense 60"
+	Ubertip : "Reduces all attacks on that unit by 60 damage."
+
+
+AbilityId : A03M
+Descriprion : 
+	Id : A03M
+	Name : "Magic Reduccion 60%"
+	Ubertip : "Reduces the damage taken from spells and to 60%"
+
+
+AbilityId : A09K
+Descriprion : 
+	Id : A09K
+	Name : "Demolish 2"
+	Ubertip : "Causes attacks to do bonus damage to buildings."
+
+
+Hero ability list:

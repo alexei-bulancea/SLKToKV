@@ -1,0 +1,50 @@
+UnitId : H05Z
+Descriprion : 
+	Id : H05Z
+	Name : "Hellscream"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Thunder Clap, Curse, Inner Fire, Devotion Aura and Divine Power.|n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0Z9
+Descriprion : 
+	Id : A0Z9
+	Name : "Counter Attack [R]"
+	Ubertip : "Every time you are attacked you have a 8% chance to counter-attack a unit around you dealing 100 + 5 x your strength in pure damage with 4.9 seconds cooldown, also gives 1 armor bonus.","Every time you are attacked you have a 14% chance to counter-attack a unit around you dealing 100 + 6 x your strength in pure damage with 4.4 seconds cooldown, also gives 3 armor bonus.","Every time you are attacked you have a 20% chance to counter-attack a unit around you dealing 100 + 7 x your strength in pure damage with 3.9 seconds cooldown, also gives 5 armor bonus.","Every time you are attacked you have a 26% chance to counter-attack a unit around you dealing 100 + 8 x your strength in pure damage with 3.4 seconds cooldown, also gives 7 armor bonus.","Every time you are attacked you have a 32% chance to counter-attack a unit around you dealing 100 + 9 x your strength in pure damage with 2.9 seconds cooldown, also gives 9 armor bonus.","Every time you are attacked you have a 36% chance to counter-attack a unit around you dealing 100 + 10 x your strength in pure damage with 2.4 seconds cooldown, also gives 12 armor bonus.","Every time you are attacked you have a 42% chance to counter-attack a unit around you dealing 100 + 11 x your strength in pure damage with 1.9 seconds cooldown, also gives 16 armor bonus.","Every time you are attacked you have a 48% chance to counter-attack a unit around you dealing 100 + 12 x your strength in pure damage with 1.4 seconds cooldown, also gives 22 armor bonus.","Every time you are attacked you have a 54% chance to counter-attack a unit around you dealing 100 + 13 x your strength in pure damage with 0.9 seconds cooldown, also gives 30 armor bonus."
+
+
+AbilityId : A0Z5
+Descriprion : 
+	Id : A0Z5
+	Name : "Bladestorm [Q]"
+	Ubertip : "Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 100 damage per second to nearby enemy units. Lasts 3 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 130 damage per second to nearby enemy units. Lasts 4 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 160 damage per second to nearby enemy units. Lasts 5 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 200 damage per second to nearby enemy units. Lasts 6 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 250 damage per second to nearby enemy units. Lasts 7 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 300 damage per second to nearby enemy units. Lasts 8 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 380 damage per second to nearby enemy units. Lasts 10 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 500 damage per second to nearby enemy units. Lasts 12 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r","Causes a bladestorm of destructive force around the Hero, rendering him immune to magic and dealing 720 damage per second to nearby enemy units. Lasts 15 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+
+
+AbilityId : A0Z8
+Descriprion : 
+	Id : A0Z8
+	Name : "Overgrow [E]"
+	Ubertip : "Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 9 seconds. Also deal 300 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 90 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 10 seconds. Also deal 450 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 86 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 12 seconds. Also deal 600 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 82 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 13 seconds. Also deal 900 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 76 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 14 seconds. Also deal 1200 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 70 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 15 seconds. Also deal 1800 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 64 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 16 seconds. Also deal 2400 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 55 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 17 seconds. Also deal 3000 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 40 seconds.|r","Increases your strength by 11 x your level (25 x if you are level 35 or higher), last 18 seconds. Also deal 4000 damage in an small area of effect and stun enemies for 1 second.|nIf your spellpower is greater than 1750 it will increase your str by 22 x your level (40 x if you are level 35 or higher).|n|n|cffc3dbffCooldown: 22 seconds.|r"
+
+
+AbilityId : A0Z6
+Descriprion : 
+	Id : A0Z6
+	Name : "Hallo Strike [W]"
+	Ubertip : "Hit target enemy dealing 5% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 48 seconds.|r","Hit target enemy dealing 7% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 46 seconds.|r","Hit target enemy dealing 9% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 44 seconds.|r","Hit target enemy dealing 11% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 42 seconds.|r","Hit target enemy dealing 13% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 40 seconds.|r","Hit target enemy dealing 15% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 37 seconds.|r","Hit target enemy dealing 17% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 34 seconds.|r","Hit target enemy dealing 19% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hit target enemy dealing 21% of target current hit point in spell damage and increase the hero armor by 300 for 3 seconds, also stun the target for 0.8 seconds and increases your strength by 2 permanently.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+
+
+AbilityId : A0ZA
+Descriprion : 
+	Id : A0ZA
+	Name : "GR Throwing Axe"
+	Ubertip : "Gives Grom 10 armor bonus. Every 6 seconds throws an axe with light speed to a random unit within 700 range that deals 400 + 7x str damage.","Gives Grom 22 armor bonus. Every 6 seconds throws an axe with light speed to a random unit within 700 range that deals 400 + 14x str damage.","Gives Grom 40 armor bonus. Every 6 seconds throws an axe with light speed to a random unit within 700 range that deals 400 + 21x str damage.","Gives Grom 100 armor bonus. Every 6 seconds throws an axe with light speed to a random unit within 700 range that deals 400 + 28x str damage."
+
+

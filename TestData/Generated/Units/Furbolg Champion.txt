@@ -1,0 +1,8 @@
+UnitId : nfrg
+Descriprion : 
+	Id : nfrg
+	Name : Furbolg Champion
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

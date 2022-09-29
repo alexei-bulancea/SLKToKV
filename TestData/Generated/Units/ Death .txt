@@ -1,0 +1,64 @@
+UnitId : o012
+Descriprion : 
+	Id : o012
+	Name : "Death"
+	Ubertip : "Supporting spellcaster. Can initially cast Sentry Ward, which summons an invisible detector. Can also learn Stasis Trap and Healing Ward. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0CF
+Descriprion : 
+	Id : A0CF
+	Name : "Bear Bash L2"
+	Ubertip : "Gives a 10% chance that an attack will do 400 bonus damage and stun an opponent for 1.4 seconds."
+
+
+AbilityId : A0YC
+Descriprion : 
+	Id : A0YC
+	Name : "Tranquility Death"
+	Ubertip : "Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r"
+
+
+AbilityId : S00K
+Descriprion : 
+	Id : S00K
+	Name : "D spped aura"
+	Ubertip : "Increases all friendly units attack speed by 18%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : A0UU
+Descriprion : 
+	Id : A0UU
+	Name : "Attack Speed +160%"
+	Ubertip : 
+
+
+AbilityId : A0Y8
+Descriprion : 
+	Id : A0Y8
+	Name : "Critical Strike Death"
+	Ubertip : "Give 9% chance to do 7 times normal damage."
+
+
+AbilityId : A0YI
+Descriprion : 
+	Id : A0YI
+	Name : "Evasion 35%"
+	Ubertip : "Gives a 35% percent chance to avoid an attack."
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+Hero ability list:

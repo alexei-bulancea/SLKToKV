@@ -1,0 +1,15 @@
+UnitId : u00G
+Descriprion : 
+	Id : u00G
+	Name : Locust
+	Ubertip : 
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+Hero ability list:

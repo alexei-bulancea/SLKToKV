@@ -1,0 +1,50 @@
+UnitId : H08M
+Descriprion : 
+	Id : H08M
+	Name : "Admiral"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0IA
+Descriprion : 
+	Id : A0IA
+	Name : "Battle Knowledge"
+	Ubertip : "Increases Admiral attack speed by 20%.","Increases Admiral attack speed by 30%.","Increases Admiral attack speed by 40%.","Increases Admiral attack speed by 50%.","Increases Admiral attack speed by 60%.","Increases Admiral attack speed by 75%.","Increases Admiral attack speed by 90%.","Increases Admiral attack speed by 110%.","Increases Admiral attack speed by 135%."
+
+
+AbilityId : A0IL
+Descriprion : 
+	Id : A0IL
+	Name : "Explosive Attack"
+	Ubertip : "The Admiral makes a powerful attack dealing 3.7x his strength + 100% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 20 seconds.|r","The Admiral makes a powerful attack dealing 6.4x his strength + 125% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 19 seconds.|r","The Admiral makes a powerful attack dealing 9.1x his strength + 150% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 18 seconds.|r","The Admiral makes a powerful attack dealing 11.8x his strength + 175% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 17 seconds.|r","The Admiral makes a powerful attack dealing 14.5x his strength + 200% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 16 seconds.|r","The Admiral makes a powerful attack dealing 17.2x his strength + 225% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 15 seconds.|r","The Admiral makes a powerful attack dealing 19.9x his strength + 250% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","The Admiral makes a powerful attack dealing 22.6x his strength + 275% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 13 seconds.|r","The Admiral makes a powerful attack dealing 25.3x his strength + 300% base damage in 400 AOE around the target.|n|n|cffc3dbffCooldown: 12 seconds.|r"
+
+
+AbilityId : A0I8
+Descriprion : 
+	Id : A0I8
+	Name : "Imbued Sword"
+	Ubertip : "The Admiral attacks deal damage in 320 area of effect. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 36 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 20%. |nLasts 12seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 40%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 34 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 60%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 33 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 80%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 32 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 100%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 31 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 120%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 150%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","The Admiral attacks deal damage in 320 area of effect and increases his damage by 190%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+
+
+AbilityId : A0I7
+Descriprion : 
+	Id : A0I7
+	Name : "Infinite Growth"
+	Ubertip : "Increases the strength of admiral by 3 permanently.|n|n|cffc3dbffCooldown: 280 seconds.|r","Increases the strength of admiral by 6 permanently.|n|n|cffc3dbffCooldown: 275 seconds.|r","Increases the strength of admiral by 9 permanently.|n|n|cffc3dbffCooldown: 270 seconds.|r","Increases the strength of admiral by 12 permanently.|n|n|cffc3dbffCooldown: 260 seconds.|r","Increases the strength of admiral by 15 permanently.|n|n|cffc3dbffCooldown: 250 seconds.|r","Increases the strength of admiral by 18 permanently.|n|n|cffc3dbffCooldown: 230 seconds.|r","Increases the strength of admiral by 21 permanently.|n|n|cffc3dbffCooldown: 200 seconds.|r","Increases the strength of admiral by 24 permanently.|n|n|cffc3dbffCooldown: 160 seconds.|r","Increases the strength of admiral by 27 permanently and deal 5800 damage to enemies units in 800 AOE.|n|n|cffc3dbffCooldown: 88 seconds.|r"
+
+
+AbilityId : A1V4
+Descriprion : 
+	Id : A1V4
+	Name : "Adrenaline Control"
+	Ubertip : "Decreases your attack cooldown by 0.25 seconds and increases your movement speed by 20.","Decreases your attack cooldown by 0.5 seconds, increases your movement speed by 45.","Decreases your attack cooldown by 0.75 seconds, increases your movement speed by 80.","Decreases your attack cooldown by 1.02 seconds, increases movement speed by 120 and grants you Chaos damage.","Gives a total of 20 points to Agility, and Intelligence.","Gives a total of 26 points to Agility, and Intelligence.","Gives a total of 34 points to Agility, and Intelligence.","Gives a total of 42 points to Agility, and Intelligence.","Gives a total of 55 points to Agility, and Intelligence."
+
+

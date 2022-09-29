@@ -1,0 +1,29 @@
+UnitId : o011
+Descriprion : 
+	Id : o011
+	Name : "Peon Inmo"
+	Ubertip : "Basic worker unit. Can harvest gold and lumber, build structures, and Repair. Can also go inside Orc Burrows to give it an attack. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : Ahar
+Descriprion : 
+	Id : Ahar
+	Name : Harvest
+	Ubertip : "Mines gold from gold mines and harvests lumber from trees."
+
+
+AbilityId : Arep
+Descriprion : 
+	Id : Arep
+	Name : Repair
+	Ubertip : "Repairs mechanical units and structures at the cost of resources."
+
+
+AbilityId : Asal
+Descriprion : 
+	Id : Asal
+	Name : Pillage
+	Ubertip : "Gain 2% of the damage deal in gold, decimals are added.","Gain 3% of the damage deal in gold, decimals are added.","Gain 4% of the damage deal in gold, decimals are added.","Gain 5% of the damage deal in gold, decimals are added.","Gain 6% of the damage deal in gold, decimals are added.","Gain 7% of the damage deal in gold, decimals are added.","Gain 8% of the damage deal in gold, decimals are added.","Gain 10% of the damage deal in gold, decimals are added.","Gain 15% of the damage deal in gold, decimals are added."
+
+
+Hero ability list:

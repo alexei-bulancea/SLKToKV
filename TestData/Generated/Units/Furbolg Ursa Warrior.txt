@@ -1,0 +1,15 @@
+UnitId : nfra
+Descriprion : 
+	Id : nfra
+	Name : Furbolg Ursa Warrior
+	Ubertip : "Heavy melee unit with Command Aura. Can also War Stomp. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : Awrs
+Descriprion : 
+	Id : Awrs
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+Hero ability list:

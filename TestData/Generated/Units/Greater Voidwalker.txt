@@ -1,0 +1,29 @@
+UnitId : nvdg
+Descriprion : 
+	Id : nvdg
+	Name : Greater Voidwalker
+	Ubertip : "Heavy ranged unit that casts Chain Lightning and Frost Armor. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A04R
+Descriprion : 
+	Id : A04R
+	Name : "Spell Damage Reduction 25"
+	Ubertip : 
+
+
+AbilityId : ACf2
+Descriprion : 
+	Id : ACf2
+	Name : Frost Armor
+	Ubertip : "Creates a shield of frost around a target friendly unit. The shield adds <ACfa,DataB1> armor and slows melee units that attack it for <ACfa,Dur1> seconds. |nLasts <ACfa,DataA1> seconds."
+
+
+AbilityId : A05E
+Descriprion : 
+	Id : A05E
+	Name : "Chain lighting IT"
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : H03N
+Descriprion : 
+	Id : H03N
+	Name : "Little Child"
+	Ubertip : "Little Child starts very weak but he can grow up into something very powerful, all forms have something usefull isnt nessesary reach a final form, final forms have one less invetory slot, Little Child cant change his attack tipe with weapons like Excalibur or Dragon Slayer.  |n|nDifficulty to use: |c00FF0000Very Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0EH
+Descriprion : 
+	Id : A0EH
+	Name : "|cffffcc00G|rrowth Up"
+	Ubertip : "Growth up following the path of the warrior, Villager have fighting skills, more hit points and less mana points. This growth cost you 2 levels.","Slams the ground, dealing <AHtc,DataA2> damage to nearby enemy land units and slowing their movement by <AHtc,DataC2,%>% and attack rate by <AHtc,DataD2,%>%.","Slams the ground, dealing <AHtc,DataA3> damage to nearby enemy land units and slowing their movement by <AHtc,DataC3,%>% and attack rate by <AHtc,DataD3,%>%."
+
+
+AbilityId : A0SA
+Descriprion : 
+	Id : A0SA
+	Name : "Hurl Boulder LC"
+	Ubertip : "A boulder that is thrown at an enemy unit, causing 50 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 12 seconds.|r","A boulder that is thrown at an enemy unit, causing 90 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 11 seconds.|r","A boulder that is thrown at an enemy unit, causing 140 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 10 seconds.|r","A boulder that is thrown at an enemy unit, causing 200 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 9 seconds.|r","A boulder that is thrown at an enemy unit, causing 260 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 8 seconds.|r","A boulder that is thrown at an enemy unit, causing 340 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 7 seconds.|r","A boulder that is thrown at an enemy unit, causing 450 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 6 seconds.|r","A boulder that is thrown at an enemy unit, causing 570 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 5 seconds.|r","A boulder that is thrown at an enemy unit, causing 700 points of damage and stunning the target for 1 seconds. Have 700 cast range.|n|n|cffc3dbffCooldown: 3 seconds.|r"
+
+
+AbilityId : A0SB
+Descriprion : 
+	Id : A0SB
+	Name : "LC Hiper activity"
+	Ubertip : "Increases the attack rate in 170% and move speed by 60%. |nLasts 4 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 7 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 9 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r","Increases the attack rate in 170% and move speed by 60%. |nLasts 15 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r"
+
+
+AbilityId : A0SD
+Descriprion : 
+	Id : A0SD
+	Name : "LC Evasion"
+	Ubertip : "Gives a 4% chance to avoid an attack.","Gives a 8% chance to avoid an attack.","Gives a 12% chance to avoid an attack.","Gives a 16% chance to avoid an attack.","Gives a 20% chance to avoid an attack.","Gives a 24% chance to avoid an attack.","Gives a 28% chance to avoid an attack.","Gives a 32% chance to avoid an attack.","Gives a 38% chance to avoid an attack."
+
+
+AbilityId : A0SE
+Descriprion : 
+	Id : A0SE
+	Name : "LC Death Lighting"
+	Ubertip : "Little Child manage to learn a powerfull and forbidden spell that deal 450 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 60 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 600 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 58 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 800 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 56 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 1000 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 54 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 1400 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 52 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 2000 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 50 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 2900 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 47 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 4000 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 44 seconds|r","Little Child manage to learn a powerfull and forbidden spell that deal 6000 damage + 17% of the total hit points of the target. |n|n|cffc3dbffCooldown: 40 seconds|r"
+
+

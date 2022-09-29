@@ -1,0 +1,22 @@
+UnitId : n00X
+Descriprion : 
+	Id : n00X
+	Name : "Emily"
+	Ubertip : 
+
+Ability List:
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : A17B
+Descriprion : 
+	Id : A17B
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:

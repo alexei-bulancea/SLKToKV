@@ -1,0 +1,22 @@
+UnitId : n035
+Descriprion : 
+	Id : n035
+	Name : "Hidro Elemental"
+	Ubertip : "Medium ranged unit that can Bash opponents. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A0H2
+Descriprion : 
+	Id : A0H2
+	Name : "Spell Damage Reduction 50"
+	Ubertip : 
+
+
+AbilityId : A11G
+Descriprion : 
+	Id : A11G
+	Name : "H WSD"
+	Ubertip : "Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : h02D
+Descriprion : 
+	Id : h02D
+	Name : "Treasure Box"
+	Ubertip : "Increases your gold in 1 per second. This Building only can be build one time."
+
+Ability List:
+AbilityId : A0KI
+Descriprion : 
+	Id : A0KI
+	Name : "Gold Mine 1"
+	Ubertip : 
+
+
+Hero ability list:

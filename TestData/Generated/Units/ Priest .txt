@@ -1,0 +1,50 @@
+UnitId : H005
+Descriprion : 
+	Id : H005
+	Name : "Priest"
+	Ubertip : "Healing Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Rejuvenation , Sword and Shield , Restauration and Tranquility."
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : Aroa
+Descriprion : 
+	Id : Aroa
+	Name : "Restauration"
+	Ubertip : "Gives friendly nearby units a 12 hit points regeneration per second, 8 bonus armor and <Aroa,DataA1,%>% bonus to damage. |nLasts <Aroa,Dur1> seconds.|n|n|cffc3dbffCooldown: 24 seconds|r.","Gives friendly nearby units a 15 hit points regeneration per second, 8 bonus armor and <Aroa,DataA2,%>% bonus to damage. |nLasts <Aroa,Dur2> seconds.|n|n|cffc3dbffCooldown: 23 seconds|r.","Gives friendly nearby units a 18 hit points regeneration per second, 8 bonus armor and <Aroa,DataA3,%>% bonus to damage. |nLasts <Aroa,Dur3> seconds.|n|n|cffc3dbffCooldown: 22 seconds|r.","Gives friendly nearby units a 22 hit points regeneration per second, 8 bonus armor and <Aroa,DataA4,%>% bonus to damage. |nLasts <Aroa,Dur4> seconds.|n|n|cffc3dbffCooldown: 21 seconds|r.","Gives friendly nearby units a 26 hit points regeneration per second, 8 bonus armor and <Aroa,DataA5,%>% bonus to damage. |nLasts <Aroa,Dur5> seconds.|n|n|cffc3dbffCooldown: 20 seconds|r.","Gives friendly nearby units a 30 hit points regeneration per second, 8 bonus armor and <Aroa,DataA6,%>% bonus to damage. |nLasts <Aroa,Dur6> seconds.|n|n|cffc3dbffCooldown: 19 seconds|r.","Gives friendly nearby units a 40 hit points regeneration per second, 8 bonus armor and <Aroa,DataA7,%>% bonus to damage. |nLasts <Aroa,Dur7> seconds.|n|n|cffc3dbffCooldown: 18 seconds|r.","Gives friendly nearby units a 55 hit points regeneration per second, 8 bonus armor and <Aroa,DataA8,%>% bonus to damage. |nLasts <Aroa,Dur8> seconds.|n|n|cffc3dbffCooldown: 17 seconds|r.","Gives friendly nearby units a 80 hit points regeneration per second, 8 bonus armor and <Aroa,DataA9,%>% bonus to damage. |nLasts <Aroa,Dur9> seconds.|n|n|cffc3dbffCooldown: 16 seconds|r."
+
+
+AbilityId : AHhb
+Descriprion : 
+	Id : AHhb
+	Name : "Holy Light P"
+	Ubertip : 
+
+
+AbilityId : Arej
+Descriprion : 
+	Id : Arej
+	Name : Rejuvenation
+	Ubertip : "Heals a target friendly unit for <Arej,DataA1> hit points over <Arej,Dur1> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 60 seconds.|r","Heals a target friendly unit for <Arej,DataA2> hit points over <Arej,Dur2> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 55 seconds.|r","Heals a target friendly unit for <Arej,DataA3> hit points over <Arej,Dur3> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 50 seconds.|r","Heals a target friendly unit for <Arej,DataA4> hit points over <Arej,Dur4> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 45 seconds.|r","Heals a target friendly unit for <Arej,DataA5> hit points over <Arej,Dur5> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 40 seconds.|r","Heals a target friendly unit for <Arej,DataA6> hit points over <Arej,Dur6> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for <Arej,DataA7> hit points over <Arej,Dur7> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 30 seconds.|r","Heals a target friendly unit for <Arej,DataA8> hit points over <Arej,Dur8> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 23 seconds.|r","Heals a target friendly unit for <Arej,DataA9> hit points over <Arej,Dur9> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+
+
+AbilityId : A1HO
+Descriprion : 
+	Id : A1HO
+	Name : "ward priest"
+	Ubertip : "Create a Healing ward that heals nearby friendly units for 7 seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Create a Healing ward that heals nearby friendly units for 14 seconds.|n|n|cffc3dbffCooldown: 160 seconds.|r.","Create a Healing ward that heals nearby friendly units for 20 seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r.","Create a Healing ward that heals nearby friendly units for 35 seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r."
+
+
+AbilityId : A02W
+Descriprion : 
+	Id : A02W
+	Name : "Sword and Shield"
+	Ubertip : "Increases a target friendly unit's damage by 30% and armor by 10. Last 30 seconds.|n|n|cffc3dbffCooldown: 50 seconds|r.","Increases a target friendly unit's damage by 40% and armor by 14. Last 32 seconds.|n|n|cffc3dbffCooldown: 47 seconds|r.","Increases a target friendly unit's damage by 50% and armor by 18. Last 34 seconds.|n|n|cffc3dbffCooldown: 44 seconds|r.","Increases a target friendly unit's damage by 60% and armor by 23. Last 36 seconds.|n|n|cffc3dbffCooldown: 40 seconds|r.","Increases a target friendly unit's damage by 70% and armor by 30. Last 38 seconds.|n|n|cffc3dbffCooldown: 36 seconds|r.","Increases a target friendly unit's damage by 80% and armor by 40. Last 40 seconds.|n|n|cffc3dbffCooldown: 32 seconds|r.","Increases a target friendly unit's damage by 100% and armor by 60. Last 42 seconds.|n|n|cffc3dbffCooldown: 27 seconds|r.","Increases a target friendly unit's damage by 120% and armor by 90. Last 45 seconds.|n|n|cffc3dbffCooldown: 20 seconds|r.","Increases a target friendly unit's damage by 150% and armor by 140. Last 50 seconds.|n|n|cffc3dbffCooldown: 12 seconds|r."
+
+

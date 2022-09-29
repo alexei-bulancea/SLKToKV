@@ -1,0 +1,15 @@
+UnitId : u000
+Descriprion : 
+	Id : u000
+	Name : Skeletal Mage
+	Ubertip : 
+
+Ability List:
+AbilityId : ACrg
+Descriprion : 
+	Id : ACrg
+	Name : Rain of Fire
+	Ubertip : "Calls down waves of fire that damage units in an area. Each wave deals <ACrg,DataB1> initial damage and <ACrg,DataE1> damage per second for <ACrg,Dur1> seconds. |nLasts for <ACrg,DataA1> waves."
+
+
+Hero ability list:

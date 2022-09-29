@@ -1,0 +1,43 @@
+UnitId : n04O
+Descriprion : 
+	Id : n04O
+	Name : "Komodo"
+	Ubertip : "Heavy ranged unit that can cast Devour Magic and Forked Lightning. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A03M
+Descriprion : 
+	Id : A03M
+	Name : "Magic Reduccion 60%"
+	Ubertip : "Reduces the damage taken from spells and to 60%"
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0M1
+Descriprion : 
+	Id : A0M1
+	Name : "Bash trident 3"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : A1PM
+Descriprion : 
+	Id : A1PM
+	Name : "Phoenix Fire.F"
+	Ubertip : "Fires down streams of flame, lighting nearby enemies on fire."
+
+
+AbilityId : ACen
+Descriprion : 
+	Id : ACen
+	Name : Ensnare
+	Ubertip : "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts 4 seconds."
+
+
+Hero ability list:

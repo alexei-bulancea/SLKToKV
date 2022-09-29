@@ -1,0 +1,15 @@
+UnitId : h01L
+Descriprion : 
+	Id : h01L
+	Name : "Soldier"
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0IY
+Descriprion : 
+	Id : A0IY
+	Name : "Shield Block"
+	Ubertip : "Have 15% chance to reduce damage in 100"
+
+
+Hero ability list:

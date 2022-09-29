@@ -1,0 +1,15 @@
+UnitId : h02H
+Descriprion : 
+	Id : h02H
+	Name : "Bank"
+	Ubertip : "Increases your gold in 20 per second."
+
+Ability List:
+AbilityId : A0KM
+Descriprion : 
+	Id : A0KM
+	Name : "Gold Mine 20"
+	Ubertip : 
+
+
+Hero ability list:

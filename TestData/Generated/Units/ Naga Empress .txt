@@ -1,0 +1,43 @@
+UnitId : n03V
+Descriprion : 
+	Id : n03V
+	Name : "Naga Empress"
+	Ubertip : "Powerful summoner. Can initially cast Parasite, which damages an enemy unit over time and can spawn a Watery Minion from their corpse. Can also learn Frost Armor, and Cyclone. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1FD
+Descriprion : 
+	Id : A1FD
+	Name : "NE NovWE"
+	Ubertip : "A magical boulder that is thrown at an enemy unit, causing 400 points of damage and stunning the target for 2 seconds.","2","3","4"
+
+
+AbilityId : A1F6
+Descriprion : 
+	Id : A1F6
+	Name : Forked Lightning
+	Ubertip : "Calls forth a cone of lightning on a target enemy unit, hitting up to <ACfl,DataB1> enemy units for <ACfl,DataA1> damage.","2","3","4"
+
+
+AbilityId : A06J
+Descriprion : 
+	Id : A06J
+	Name : "Spell Damage Reduction 40"
+	Ubertip : 
+
+
+AbilityId : A03W
+Descriprion : 
+	Id : A03W
+	Name : "Attack Speed +100%"
+	Ubertip : 
+
+
+AbilityId : A1F7
+Descriprion : 
+	Id : A1F7
+	Name : "H Crushing Wave NE"
+	Ubertip : "Sends a gigantic wave which deals 6000 damage to each enemy land unit in a line and create water elemetals."
+
+
+Hero ability list:

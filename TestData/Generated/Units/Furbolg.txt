@@ -1,0 +1,8 @@
+UnitId : n01F
+Descriprion : 
+	Id : n01F
+	Name : Furbolg
+	Ubertip : "Medium melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+Hero ability list:

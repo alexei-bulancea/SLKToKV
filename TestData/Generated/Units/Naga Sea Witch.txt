@@ -1,0 +1,43 @@
+UnitId : Nngs
+Descriprion : 
+	Id : Nngs
+	Name : Naga Sea Witch
+	Ubertip : "Mystical Hero, adept at ranged combat. Can learn Forked Lightning, Frost Arrows, Mana Shield, and Tornado. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : ANfl
+Descriprion : 
+	Id : ANfl
+	Name : Forked Lightning
+	Ubertip : "Calls forth a cone of lightning on a target enemy unit, hitting up to <ANfl,DataB1> enemy units for <ANfl,DataA1> damage. |n|n|cffc3dbffCooldown: 30 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB2> enemy units for <ANfl,DataA2> damage.|n|n|cffc3dbffCooldown: 26 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB3> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 22 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB4> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 18 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB5> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 14 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB6> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 10 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB7> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 6 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB8> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 4 seconds|r","Calls forth a cone of lightning , hitting up to <ANfl,DataB9> enemy units for <ANfl,DataA2> damage. |n|n|cffc3dbffCooldown: 1 seconds|r"
+
+
+AbilityId : ANfa
+Descriprion : 
+	Id : ANfa
+	Name : "Skeleton Frost Arrows"
+	Ubertip : "Adds a cold effect to each attack, dealing <ANfa,DataA1> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB1,%>% and movement by <ANfa,DataC1,%>% for <ANfa,Dur1> seconds.|n|n|cffc3dbffCooldown: 6 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA2> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB2,%>% and movement by <ANfa,DataC2,%>% for <ANfa,Dur2> seconds.|n|n|cffc3dbffCooldown: 5.5 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA3> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB3,%>% and movement by <ANfa,DataC3,%>% for <ANfa,Dur3> seconds.|n|n|cffc3dbffCooldown: 5 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA4> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB4,%>% and movement by <ANfa,DataC4,%>% for <ANfa,Dur4> seconds.|n|n|cffc3dbffCooldown: 4.5 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA5> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB5,%>% and movement by <ANfa,DataC5,%>% for <ANfa,Dur5> seconds.|n|n|cffc3dbffCooldown: 4 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA6> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB6,%>% and movement by <ANfa,DataC6,%>% for <ANfa,Dur6> seconds.|n|n|cffc3dbffCooldown: 3.2 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA7> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB7,%>% and movement by <ANfa,DataC7,%>% for <ANfa,Dur7> seconds.|n|n|cffc3dbffCooldown: 2.3 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA8> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB8,%>% and movement by <ANfa,DataC8,%>% for <ANfa,Dur8> seconds.|n|n|cffc3dbffCooldown: 1 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds a cold effect to each attack, dealing <ANfa,DataA9> bonus damage, slowing a target enemy unit's attacks by <ANfa,DataB9,%>% and movement by <ANfa,DataC9,%>% for <ANfa,Dur9> seconds.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r."
+
+
+AbilityId : ANms
+Descriprion : 
+	Id : ANms
+	Name : Mana Shield
+	Ubertip : "Activates a shield that absorbs 5 damage per point of mana. 50% of the damage goes to mana.","Activates a shield that absorbs 6 damage per point of mana. 70% of the damage goes to mana.","Activates a shield that absorbs 8 damage per point of mana. 85% of the damage goes to mana.","Activates a shield that absorbs 10 damage per point of mana. 95% of the damage goes to mana."
+
+
+AbilityId : ANto
+Descriprion : 
+	Id : ANto
+	Name : Tornado
+	Ubertip : "Summons a fierce controllable Tornado that slows enemy units' movement speed, randomly tosses enemy ground units into the air and damages enemy buildings. |nLasts <ANto,Dur1> seconds."
+
+

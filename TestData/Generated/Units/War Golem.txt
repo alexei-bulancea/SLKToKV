@@ -1,0 +1,29 @@
+UnitId : nwrg
+Descriprion : 
+	Id : nwrg
+	Name : War Golem
+	Ubertip : "Heavy melee unit, good at resisting mass enemys attacks. Immune to spells."
+
+Ability List:
+AbilityId : A0AT
+Descriprion : 
+	Id : A0AT
+	Name : "Golem war Defense"
+	Ubertip : "Reduces all attacks on that unit by 60 damage."
+
+
+AbilityId : A073
+Descriprion : 
+	Id : A073
+	Name : Slam
+	Ubertip : "Slams the ground, dealing 500 points of damage in (550) AOE and slowing the movement and attack rate of nearby enemy units.","Slams the ground, dealing 2500 points of damage in (550) AOE and slowing the movement and attack rate of nearby enemy units."
+
+
+AbilityId : ACmi
+Descriprion : 
+	Id : ACmi
+	Name : Spell Immunity
+	Ubertip : "Renders this unit immune to all spells."
+
+
+Hero ability list:

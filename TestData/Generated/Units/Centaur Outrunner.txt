@@ -1,0 +1,22 @@
+UnitId : ncen
+Descriprion : 
+	Id : ncen
+	Name : Centaur Outrunner
+	Ubertip : "Medium melee attacker wielding a large axe. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A16R
+Descriprion : 
+	Id : A16R
+	Name : "Cen outR"
+	Ubertip : "Increases damage to Hell Magma by 1600 x level of Hell Magma in normal damage while this unit is near to you hero."
+
+
+AbilityId : A04S
+Descriprion : 
+	Id : A04S
+	Name : "Spell Damage Reduction 60"
+	Ubertip : 
+
+
+Hero ability list:

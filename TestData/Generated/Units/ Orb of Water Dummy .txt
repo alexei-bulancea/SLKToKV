@@ -1,0 +1,15 @@
+UnitId : h081
+Descriprion : 
+	Id : h081
+	Name : "Orb of Water Dummy"
+	Ubertip : "Basic worker unit. Can harvest gold and lumber, build structures and Repair. Can become Militia. |n|n|cffffcc00Attacks land units and trees.|r"
+
+Ability List:
+AbilityId : Aloc
+Descriprion : 
+	Id : Aloc
+	Name : Locust
+	Ubertip : 
+
+
+Hero ability list:

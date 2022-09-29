@@ -1,0 +1,22 @@
+UnitId : ndrd
+Descriprion : 
+	Id : ndrd
+	Name : Draenei Darkslayer
+	Ubertip : "Medium melee unit with Immolation. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0IO
+Descriprion : 
+	Id : A0IO
+	Name : "Attack Corruption Defiler"
+	Ubertip : 
+
+
+AbilityId : A16P
+Descriprion : 
+	Id : A16P
+	Name : "Corrup EVa"
+	Ubertip : "Gives a 50% percent chance to avoid an attack and reduce armor of his target by 80 on attack. Orb effect do not stack."
+
+
+Hero ability list:

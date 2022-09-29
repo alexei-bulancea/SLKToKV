@@ -1,0 +1,64 @@
+UnitId : n042
+Descriprion : 
+	Id : n042
+	Name : "Belphegor"
+	Ubertip : "Heavy ranged unit can cast Dispel Magic, War Stomp, Cripple and Rain of Fire. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A1GW
+Descriprion : 
+	Id : A1GW
+	Name : "BLHS"
+	Ubertip : "Throws a magical shard of ice at a target enemy unit, dealing 600 damage and frozen the target for 2.8 seconds."
+
+
+AbilityId : A1G7
+Descriprion : 
+	Id : A1G7
+	Name : "BelPAA"
+	Ubertip : "Gives <ACav,DataA1> additional armor to nearby friendly units."
+
+
+AbilityId : A1G8
+Descriprion : 
+	Id : A1G8
+	Name : "BelpDA"
+	Ubertip : "Increases Hero damage by 100% of his base damage and strength bonus."
+
+
+AbilityId : S011
+Descriprion : 
+	Id : S011
+	Name : "BelpSA"
+	Ubertip : "Increases all friendly units attack speed by 18%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+AbilityId : A0V4
+Descriprion : 
+	Id : A0V4
+	Name : "Attack Speed +300%"
+	Ubertip : 
+
+
+AbilityId : A16L
+Descriprion : 
+	Id : A16L
+	Name : "PO"
+	Ubertip : "Gives a <ACpv,DataA1>% chance that an attack will deal <ACpv,DataB1> damage to nearby units.","2","3","4"
+
+
+Hero ability list:

@@ -1,0 +1,50 @@
+UnitId : H06W
+Descriprion : 
+	Id : H06W
+	Name : "Party Archer"
+	Ubertip : "Mystical Hero, adept at ranged assaults. Can learn Blizzard, Set Fire, Shock, Divine Shield and Amplify Magic. |n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : A14P
+Descriprion : 
+	Id : A14P
+	Name : "Inventory TP"
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A145
+Descriprion : 
+	Id : A145
+	Name : "TPA Archery Mastery"
+	Ubertip : "Increases base damage of Archer by 4.","Increases base damage of Archer by 22.","Increases base damage of Archer by 40.","Increases base damage of Archer by 58.","Increases base damage of Archer by 76.","Increases base damage of Archer by 94.","Increases base damage of Archer by 112.","Increases base damage of Archer by 130.","Increases base damage of Archer by 148.","Increases base damage of Archer by 166.","Increases base damage of Archer by 184.","Increases base damage of Archer by 202.","Increases base damage of Archer by 220."
+
+
+AbilityId : A142
+Descriprion : 
+	Id : A142
+	Name : "TPA Critical Shot"
+	Ubertip : "Gives a 16% chance to do 4 times normal damage on an attack.","Gives a 16% chance to do 5 times normal damage on an attack.","Gives a 16% chance to do 7 times normal damage on an attack.","Gives a 16% chance to do 10 times normal damage on an attack."
+
+
+AbilityId : A146
+Descriprion : 
+	Id : A146
+	Name : "TPA Phantom Arrow"
+	Ubertip : "Shoot an invisible arrow that deal your agility x 4 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 7 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 10 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 13 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 16 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 19 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 22 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 25 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 28 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 31 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 34 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 14 seconds.|r","Shoot an invisible arrow that deal your agility x 37 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 13 seconds.|r","Shoot an invisible arrow that deal your agility x 40 in normal damage and 200 damage in 300 aoe around the target.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+
+
+AbilityId : A147
+Descriprion : 
+	Id : A147
+	Name : "TPA Sacred Bow"
+	Ubertip : "Imbue your bow with magic increasing your base agility by 40  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 70  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 100  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 130  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 160  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 190  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 220  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 250  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 280  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 310  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 340  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 370  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Imbue your bow with magic increasing your base agility by 400  for 10 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r"
+
+
+AbilityId : A143
+Descriprion : 
+	Id : A143
+	Name : "TPA Sonic Arrow"
+	Ubertip : "Shot an Arrow with the speed of sound at an enemy unit dealing 100 damage, stunning the target and reducing his armor by 130 last 2 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 55 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 250 damage, stunning the target and reducing his armor by 130 last 2.35 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 53 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 400 damage, stunning the target and reducing his armor by 130 last 2.7 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 50 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 550 damage, stunning the target and reducing his armor by 130 last 3 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 47 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 700 damage, stunning the target and reducing his armor by 130 last 3.4 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 44 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 850 damage, stunning the target and reducing his armor by 130 last 3.75 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 40 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 1000 damage, stunning the target and reducing his armor by 130 last 4.1 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 36 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 1150 damage, stunning the target and reducing his armor by 130 last 4.45 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 32 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 1300 damage, stunning the target and reducing his armor by 130 last 4.8 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 28 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 1600 damage, stunning the target and reducing his armor by 130 last 5.15 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 24 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 2000 damage, stunning the target and reducing his armor by 130 last 5.5 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 20 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 2600 damage, stunning the target and reducing his armor by 130 last 5.85 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 16 seconds.|r","Shot an Arrow with the speed of sound at an enemy unit dealing 3500 damage, stunning the target and reducing his armor by 130 last 6.2 seconds, armor reduction can't be removed before the duration end.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+
+

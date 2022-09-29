@@ -1,0 +1,29 @@
+UnitId : ncnk
+Descriprion : 
+	Id : ncnk
+	Name : Centaur Khan
+	Ubertip : "Heavy melee unit with Endurance Aura. Has the abilities War Stomp and Reincarnation."
+
+Ability List:
+AbilityId : SCae
+Descriprion : 
+	Id : SCae
+	Name : Endurance Aura
+	Ubertip : "Increases nearby friendly units' movement speed by <SCae,DataA1,%>% and attack rate by <SCae,DataB1,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA2,%>% and attack rate by <SCae,DataB2,%>%.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : ACrn
+Descriprion : 
+	Id : ACrn
+	Name : Reincarnation
+	Ubertip : 
+
+
+AbilityId : Awrs
+Descriprion : 
+	Id : Awrs
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+Hero ability list:

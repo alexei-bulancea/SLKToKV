@@ -1,0 +1,29 @@
+UnitId : n00R
+Descriprion : 
+	Id : n00R
+	Name : "Centaur Overlord"
+	Ubertip : "Has improved Endurance Aura and War Stomp.|n|n|cffff0000Endurace Aura of centaurs do not stack with each others|r."
+
+Ability List:
+AbilityId : ACrk
+Descriprion : 
+	Id : ACrk
+	Name : Resistant Skin
+	Ubertip : "Reduces the duration of negative spells and renders the unit immune to certain spells."
+
+
+AbilityId : S004
+Descriprion : 
+	Id : S004
+	Name : Endurance Aura
+	Ubertip : "Increases nearby friendly units' movement speed by 20% and attack rate by 55% in 1300 AOE.","Increases nearby friendly units' movement speed by 45% and attack rate by 80% in 1500 AOE.","Increases nearby friendly units' movement speed by <SCae,DataA3,%>% and attack rate by <SCae,DataB3,%>%."
+
+
+AbilityId : Awrh
+Descriprion : 
+	Id : Awrh
+	Name : War Stomp
+	Ubertip : "Slams the ground, dealing <Awrh,DataA1> damage to nearby enemy land units and stunning them for <Awrh,Dur1> seconds.","Slams the ground, dealing <Awrh,DataA2> damage to nearby enemy land units and stunning them for <Awrh,Dur2> seconds."
+
+
+Hero ability list:

@@ -1,0 +1,15 @@
+UnitId : e00L
+Descriprion : 
+	Id : e00L
+	Name : "Ancient Black Oak "
+	Ubertip : "Have a chance to stun enemys and deal even more bonus damage."
+
+Ability List:
+AbilityId : A0JT
+Descriprion : 
+	Id : A0JT
+	Name : "Mega Bash"
+	Ubertip : "Gives a 12% chance that an attack will do 2000 bonus damage and stun the enemy for 1.8 seconds, this attack cant miss."
+
+
+Hero ability list:

@@ -1,0 +1,992 @@
+[Bvng]
+Bufftip=Spirit of Vengeance
+Buffubertip="Vengeance was here."
+[Apsh]
+Name=Phase Shift
+Tip=Phas|cffffcc00e|r Shift
+Ubertip="Causes this unit to shift out of existence whenever it takes damage, temporarily avoiding any further damage. |nLasts <Apsh,Dur1> second."
+Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=E
+Unhotkey=E
+[Bpsh]
+Bufftip=Phase Shift
+Buffubertip="This unit has shifted out of existence and cannot be harmed temporarily."
+[Aetl]
+Name=Ethereal
+Tip=Ethereal
+Ubertip="Ethereal creatures cannot attack, but can cast spells and will take extra damage from Magic attacks and spells."
+Hotkey=E
+[Agra]
+Name=War Club
+Tip=|cffffcc00W|rar Club
+Ubertip="Picks up a tree to give the Mountain Giant Siege damage, and increased attack range. |nLasts for <Agra,DataE1> strikes."
+Hotkey=W
+[Assk]
+Name=Hardened Skin
+Tip=Hardened Skin
+Ubertip="Reduces all attacks on this unit by 12 damage. Attacks cannot be reduced below 1 damage."
+Hotkey=K
+EditorSuffix="B"
+[Arsk]
+Name=Resistant Skin
+Tip=Resistant Skin
+Ubertip="Reduces the duration of negative spells and renders the Mountain Giant immune to certain spells."
+Hotkey=E
+[Atau]
+Name=Taunt
+Tip=|cffffcc00T|raunt
+Ubertip="The closest <Atau,DataA1> enemies are forced to attack this unit."
+Hotkey=T
+[Btau]
+Bufftip=Taunt
+Buffubertip="This unit has been taunted and is now immune."
+[AEbl]
+Name=Blink
+Tip=|cffffcc00B|rlink - [|cffffcc00Level 1|r],|cffffcc00B|rlink - [|cffffcc00Level 2|r],|cffffcc00B|rlink - [|cffffcc00Level 3|r]
+Ubertip="Teleports the Warden a short distance, allowing her to move in and out of combat.","Teleports the Warden a short distance, allowing her to move in and out of combat.","Teleports the Warden a short distance, allowing her to move in and out of combat."
+Hotkey=B
+Researchtip="Learn |cffffcc00B|rlink - [|cffffcc00Level %d|r]"
+Researchubertip="Short distance teleportation that allows the Warden to move in and out of combat. |n|n|cffffcc00Level 1|r - <AEbl,Cool1> second cooldown, <AEbl,Cost1> mana. |n|cffffcc00Level 2|r - <AEbl,Cool2> second cooldown, <AEbl,Cost2> mana. |n|cffffcc00Level 3|r - <AEbl,Cool3> second cooldown, <AEbl,Cost3> mana."
+Researchhotkey=B
+[AEfk]
+Name=Fan of Knives
+Tip="Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Throw 2 shurikens at nearby enemies. Each knife does <AEfk,DataA1> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 2 shurikens at nearby enemies. Each knife does <AEfk,DataA2> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 3 shurikens at nearby enemies. Each knife does <AEfk,DataA3> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 3 shurikens at nearby enemies. Each knife does <AEfk,DataA4> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 4 shurikens at nearby enemies. Each knife does <AEfk,DataA5> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 4 shurikens at nearby enemies. Each knife does <AEfk,DataA6> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 5 shurikens at nearby enemies. Each knife does <AEfk,DataA7> damage.|n|n|cffc3dbffCooldown: 8 seconds.|r","Throw 5 shurikens at nearby enemies. Each knife does <AEfk,DataA8> damage.|n|n|cffc3dbffCooldown: 7 seconds.|r","Throw 6 shurikens at nearby enemies. Each knife does <AEfk,DataA9> damage.|n|n|cffc3dbffCooldown: 5 seconds.|r"
+Hotkey=W
+Researchtip="Learn Shuriken Fury [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Throw shurikens to a limit number of targets of nearby enemies units. Number of targets improve per level. |n|n|cffffcc00Level 1|r - <AEfk,DataA1> damage per target. |n|cffffcc00Level 2|r - <AEfk,DataA2> damage per target. |n|cffffcc00Level 3|r - <AEfk,DataA3> damage per target.|n|cffffcc00Level 4|r - <AEfk,DataA4> damage per target.|n|cffffcc00Level 5|r - <AEfk,DataA5> damage per target.|n|cffffcc00Level 6|r - <AEfk,DataA6> damage per target.|n|cffffcc00Level 7|r - <AEfk,DataA7> damage per target.|n|cffffcc00Level 8|r - <AEfk,DataA8> damage per target.|n|cffffcc00Level 9|r - <AEfk,DataA9> damage per target."
+Researchhotkey="W"
+[AEsh]
+Name="Shadow Needle"
+Tip="Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 3lr]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE1> damage per second for <AEsh,Dur1> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 26 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE2> damage per second for <AEsh,Dur2> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE3> damage per second for <AEsh,Dur3> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE4> damage per second for <AEsh,Dur4> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 23 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE5> damage per second for <AEsh,Dur5> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 22 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE6> damage per second for <AEsh,Dur6> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 20 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE7> damage per second for <AEsh,Dur7> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE8> damage per second for <AEsh,Dur8> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing <AEsh,DataE9> damage per second for <AEsh,Dur9> seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 13 seconds.|r"
+Hotkey=Q
+Researchtip="Learn Shadow Needle [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a poisoned dagger which deals damage over time. The poisoned unit has its movement and attack speed slowed for a short duration.Cooldown, duration , attack and move speed reduction improvement per level.|n|n|cffffcc00Level 1|r - <AEsh,DataE1> damage. |n|cffffcc00Level 2|r - <AEsh,DataE2> damage.|n|cffffcc00Level 3|r - <AEsh,DataE3> damage.|n|cffffcc00Level 4|r - <AEsh,DataE4> damage.|n|cffffcc00Level 5|r - <AEsh,DataE5> damage.|n|cffffcc00Level 6|r - <AEsh,DataE6> damage.|n|cffffcc00Level 7|r - <AEsh,DataE7> damage.|n|cffffcc00Level 8|r - <AEsh,DataE8> damage.|n|cffffcc00Level 9|r - <AEsh,DataE9> damage."
+Researchhotkey="Q"
+[BEsh]
+Bufftip=Poison
+Buffubertip=It will take damage over time and move more slowly.
+[BEsi]
+Bufftip=Shadow Strike
+Buffubertip="This unit was hit by Shadow Strike; it will take damage over time and move more slowly."
+[Slo2]
+Name=Load Wisp
+Tip=|cffffcc00L|road Wisp
+Ubertip="Loads a targeted friendly Wisp."
+Hotkey=L
+[Amgl]
+Name=Moon Glaive
+Tip=Moon Glaive
+Ubertip="Gives the Huntress the ability to strike additional units with her bouncing glaive attacks."
+[Amgr]
+Name="Water Bounce"
+EditorSuffix= (Naisha)
+Tip="Water Bounce"
+Ubertip="Gives the Huntress the ability to strike additional units with her bouncing glaive attacks."
+[Aspo]
+Name=Slow Poison
+Tip=Slow Poison
+Ubertip="A poison attack that deals <Aspo,DataA1> damage per second, and slows the target enemy's movement by <Aspo,DataB1,%>% and attack by <Aspo,DataC1,%>% for <Aspo,Dur1> seconds."
+[Bspo]
+Bufftip=Slow Poison
+Buffubertip="This unit was hit by Slow Poison; its movement speed and attack rate have been reduced, and it will take damage over time."
+EditorSuffix= (Non-stacking)
+[Bssd]
+Bufftip=Slow Poison
+Buffubertip="This unit was hit by Slow Poison; its movement speed and attack rate have been reduced, and it will take damage over time."
+EditorSuffix= (Stacking)
+[Ashm]
+Name=Shadow Meld
+Tip=H|cffffcc00i|rde
+Ubertip="Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+Hotkey=I
+[Ahid]
+Name=Shadow Meld
+Tip=H|cffffcc00i|rde
+Ubertip="Stops the unit from auto-acquiring enemies, allowing it to Shadowmeld and remain unseen at night."
+Hotkey=I
+EditorSuffix= (Akama)
+[Aesn]
+Name=Sentinel
+Tip=S|cffffcc00e|rntinel
+Ubertip="Send an owl to a nearby tree to reveal the area around it. |nCan see invisible units."
+Hotkey=E
+[Aeat]
+Name=Eat Tree
+Tip=|cffffcc00E|rat Tree
+Ubertip="Consume a tree to restore <Aeat,DataC1> hit points over <Aeat,Dur1> seconds."
+Hotkey=E
+[Ambt]
+Name=Replenish Mana and Life
+Tip=|cffffcc00R|replenish Mana and Life
+Ubertip="Replenish the life and mana of a target friendly unit."
+Untip="|cffc3dbff|cffc3dbffRight-click to activate auto-casting.|r|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+Order=replenish
+[Awha]
+Name=Gather
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from Entangled Gold Mines and harvests lumber from trees."
+Hotkey=G
+EditorSuffix= (Wisp Gold and Lumber)
+[Adtn]
+Name=Detonate
+Tip=|cffffcc00D|retonate
+Ubertip="Destroys the Wisp, dispelling all magical buffs and draining <Adtn,DataA1> mana from each unit in an area around the Wisp. |n|cffffcc00Deals <Adtn,DataB1> damage to summoned units.|r"
+Hotkey=D
+[Awhe]
+Name=Heal
+Tip=Hea|cffffcc00l|r
+Ubertip="Heals nearby friendly wounded units."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=L
+Unhotkey=L
+[Aent]
+Name=Entangle Gold Mine
+Tip=Entangle |cffffcc00G|rold Mine
+Ubertip="Entangles the gold mine, allowing Wisps to enter and mine the gold."
+Hotkey=G
+[Aenc]
+Name=Load
+EditorSuffix= (Entangled Gold Mine)
+Tip=|cffffcc00L|road
+Ubertip="Orders a Wisp to enter the gold mine."
+Hotkey=L
+Untip=|cffffcc00U|rnload All
+Unubertip="Removes all Wisps from the gold mine."
+Unhotkey=U
+[Aroo]
+Name=Root
+Tip=|cffffcc00R|root
+Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
+Hotkey=R
+Untip=Up|cffffcc00r|root
+Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move. Also gives the Ancient Heavy armor."
+Unhotkey=R
+[Abrf]
+Name=Bear Form
+Tip=Bear |cffffcc00F|rorm
+Ubertip="Transforms the Druid into a bear, slowing mana regeneration, but making him an excellent warrior."
+Hotkey=F
+Untip=Night Elf |cffffcc00F|rorm
+Unubertip="Transforms the Druid into a Night Elf."
+Unhotkey=F
+[Sbr2]
+EditorSuffix= (Alternate)
+[Arav]
+Name=Storm Crow Form
+Tip=Storm Crow |cffffcc00F|rorm
+Ubertip="Transforms the Druid into a storm crow, giving him the ability to fly."
+Hotkey=F
+Untip=Night Elf |cffffcc00F|rorm
+Unubertip="Transforms the Druid into a Night Elf."
+Unhotkey=F
+[Sra2]
+EditorSuffix= (Alternate)
+[Aadm]
+Name=Abolish Magic
+Tip=A|cffffcc00b|rolish Magic
+Ubertip="Dispels positive buffs from enemy units, and negative buffs from friendly units. |n|cffffcc00Deals <Aadm,DataB1> damage to summoned units.|r"
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=B
+Unhotkey=B
+[Amim]
+Name=Spell Immunity
+Tip=Spell Immunity
+Ubertip="Renders this unit immune to all spells."
+[Ault]
+Name=Ultravision
+[Aegr]
+Name="Elune's Grace'"
+Tip="Elune's Grace'"
+Ubertip="Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+[Aco2]
+Name=Mount Hippogryph
+Tip=Mo|cffffcc00u|rnt Hippogryph
+Ubertip="Mounts a Hippogryph so that the Archer can attack from the air. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=U
+Order=coupletarget
+[Aco3]
+Name=Pick up Archer
+Tip=Pick |cffffcc00u|rp Archer
+Ubertip="Picks up an Archer so that the Archer can attack from the air. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=U
+Order=coupletarget
+[Adec]
+Name=Dismount
+Tip=Dismo|cffffcc00u|rnt Archer & Hippogryph
+Ubertip="Dismounts the Archer from the Hippogryph."
+Hotkey=U
+[Acor]
+Name=Corrosive Breath
+Tip=Corrosive Breath
+Ubertip="Hurls a ball of corrosive bile that is effective against buildings."
+[Bcor]
+Bufftip=Corrosive Breath
+Buffubertip="This building was hit by Corrosive Breath; it will take damage over time."
+[AEmb]
+Name="Militia Mana Burn"
+Tip="Mana |cffffcc00B|rurn - [|cffffcc00Level 1|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 2|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 3|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 4|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 5|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 6|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 7|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 8|r]","Mana |cffffcc00B|rurn - [|cffffcc00Level 9|r]"
+Ubertip="Sends a bolt of negative energy that burns up to <AEmb,DataA1> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA2> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA3> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA4> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA5> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA6> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA7> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA8> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r","Sends a bolt of negative energy that burns up to <AEmb,DataA9> points of a target enemy unit's mana. The mana combusts, dealing damage equal to the amount of mana burned.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+Hotkey=B
+Researchtip="Learn Mana |cffffcc00B|rurn - [|cffffcc00Level %d|r]"
+Researchubertip="Sends a bolt of negative energy that burns a target enemy unit's mana. Burned mana combusts, dealing damage to the target equal to the amount of mana burned. Cast range improve per level. |n|n|cffffcc00Level 1|r - Burns up to <AEmb,DataA1> mana. |n|cffffcc00Level 2|r - Burns up to <AEmb,DataA2> mana. |n|cffffcc00Level 3|r - Burns up to <AEmb,DataA3> mana.|n|cffffcc00Level 4|r - Burns up to <AEmb,DataA4> mana.|n|cffffcc00Level 5|r - Burns up to <AEmb,DataA5> mana.|n|cffffcc00Level 6|r - Burns up to <AEmb,DataA6> mana.|n|cffffcc00Level 7|r - Burns up to <AEmb,DataA7> mana.|n|cffffcc00Level 8|r - Burns up to <AEmb,DataA8> mana.|n|cffffcc00Level 9|r - Burns up to <AEmb,DataA9> mana."
+Researchhotkey=B
+[AEim]
+Name="Set Fire"
+Tip="Set |cffffcc00F|rire - [|cffffcc00Level 1|r]","Set |cffffcc00F|rire - [|cffffcc00Level 2|r]","Set |cffffcc00F|rire - [|cffffcc00Level 3|r]","Set |cffffcc00F|rire - [|cffffcc00Level 4|r]","Set |cffffcc00F|rire - [|cffffcc00Level 5|r]","Set |cffffcc00F|rire - [|cffffcc00Level 6|r]","Set |cffffcc00F|rire - [|cffffcc00Level 7|r]","Set |cffffcc00F|rire - [|cffffcc00Level 8|r]","Set |cffffcc00F|rire - [|cffffcc00Level 9|r]"
+Ubertip="Jaina use a holy fire that burn only his enemys, causing <AEim,DataA1> damage per second to nearby enemy units in 460 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 30 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA2> damage per second to nearby enemy units in 470 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA3> damage per second to nearby enemy units in 480 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 26 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA4> damage per second to nearby enemy units in 490 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 24 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA5> damage per second to nearby enemy units in 500 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 22 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA6> damage per 0.9 second to nearby enemy units in 520 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA7> damage per 0.85 second to nearby enemy units in 540 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 19 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA8> damage per 0.80 second to nearby enemy units in 570 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 18 seconds.|r","Jaina use a holy fire that burn only his enemys, causing <AEim,DataA9> damage per 0.7 second to nearby enemy units in 600 AOE. Last 12 seconds.|n|n|cffc3dbffCooldown: 17 seconds.|r"
+Unubertip="Deactivate Immolation to stop draining mana."
+Hotkey=F
+Untip=Deactivate Immo|cffffcc00l|ration
+Unhotkey=
+Researchtip="Learn Set |cffffcc00F|rire  - [|cffffcc00Level %d|r]"
+Researchubertip="Jaina use a holy fire that burn only his enemys, causing damage per second. Last 12 seconds. AOE improvement per level.|n|n|cffffcc00Level 1|r - <AEim,DataA1> damage per second. |n|cffffcc00Level 2|r - <AEim,DataA2> damage per second. |n|cffffcc00Level 3|r - <AEim,DataA3> damage per second.|n|cffffcc00Level 4|r - <AEim,DataA4> damage per second.|n|cffffcc00Level 5|r - <AEim,DataA5> damage per second.|n|cffffcc00Level 6|r - <AEim,DataA6> damage per second.|n|cffffcc00Level 7|r - <AEim,DataA7> damage per second.|n|cffffcc00Level 8|r - <AEim,DataA8> damage per second.|n|cffffcc00Level 9|r - <AEim,DataA9> damage per second."
+Researchhotkey="F"
+[BEim]
+Bufftip=Set Fire
+Buffubertip=Nearby enemy ground units will take damage over time.
+[AEev]
+Name=Evasion
+Tip="Evasion - [|cffffcc00Level 1|r]","Evasion - [|cffffcc00Level 2|r]","Evasion - [|cffffcc00Level 3|r]","Evasion - [|cffffcc00Level 4|r]","Evasion - [|cffffcc00Level 5|r]","Evasion - [|cffffcc00Level 6|r]","Evasion - [|cffffcc00Level 7|r]","Evasion - [|cffffcc00Level 8|r]","Evasion - [|cffffcc00Level 9|r]"
+Ubertip="Gives a <AEev,DataA1,%>% chance to avoid an attack.","Gives a <AEev,DataA2,%>% chance to avoid an attack.","Gives a <AEev,DataA3,%>% chance to avoid an attack.","Gives a <AEev,DataA4,%>% chance to avoid an attack.","Gives a <AEev,DataA5,%>% chance to avoid an attack.","Gives a <AEev,DataA6,%>% chance to avoid an attack.","Gives a <AEev,DataA7,%>% chance to avoid an attack.","Gives a <AEev,DataA8,%>% chance to avoid an attack.","Gives a <AEev,DataA9,%>% chance to avoid an attack."
+Researchtip="Learn Evasion [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a percent chance to avoid attacks. |n|n|cffffcc00Level 1|r - <AEev,DataA1,%>% chance to evade.|n|cffffcc00Level 2|r - <AEev,DataA2,%>% chance to evade.|n|cffffcc00Level 3|r - <AEev,DataA3,%>% chance to evade.|n|cffffcc00Level 4|r - <AEev,DataA4,%>% chance to evade.|n|cffffcc00Level 5|r - <AEev,DataA5,%>% chance to evade.|n|cffffcc00Level 6|r - <AEev,DataA6,%>% chance to evade.|n|cffffcc00Level 7|r - <AEev,DataA7,%>% chance to evade.|n|cffffcc00Level 8|r - <AEev,DataA8,%>% chance to evade.|n|cffffcc00Level 9|r - <AEev,DataA9,%>% chance to evade."
+Researchhotkey="R"
+[AEme]
+Name=Metamorphosis
+Tip=Me|cffffcc00t|ramorphosis
+Ubertip="Transforms the Demon Hunter into a powerful Demon with a ranged attack and <AEme,DataE1> bonus hit points. |nLasts <AEme,HeroDur1> seconds."
+Hotkey=T
+Researchtip=Learn Me|cffffcc00t|ramorphosis
+Researchubertip="Transforms the Demon Hunter into a powerful Demon with a ranged attack and <AEme,DataE1> bonus hit points. |nLasts <AEme,HeroDur1> seconds."
+Researchhotkey=T
+Globalmessage=
+Globalsound=
+[BEme]
+Bufftip=Adrenaline
+Buffubertip=
+[AEer]
+Name=Entangling Roots
+Tip="|cffffcc00E|rntangling Roots - [|cffffcc00Level 1|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 2|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 3|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 4|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 5|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 6|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 7|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 8|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 9|r]"
+Ubertip="Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur1> seconds, and dealing <AEer,DataA1> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur2> seconds, and dealing <AEer,DataA2> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur3> seconds, and dealing <AEer,DataA3> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur4> seconds, and dealing <AEer,DataA4> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur5> seconds, and dealing <AEer,DataA5> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur6> seconds, and dealing <AEer,DataA6> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur7> seconds, and dealing <AEer,DataA7> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur8> seconds, and dealing <AEer,DataA8> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur9> seconds, and dealing <AEer,DataA9> damage per second."
+Hotkey=E
+Researchtip="Learn |cffffcc00E|rntangling Roots - [|cffffcc00Level %d|r]"
+Researchubertip="Causes roots to burst from the ground, immobilizing and damaging a target enemy temporarily. |n|n|cffffcc00Level 1|r - <AEer,DataA1> damage for 0.5 seconds. |n|cffffcc00Level 2|r - <AEer,DataA2> damage for <AEer,Dur2> seconds. |n|cffffcc00Level 3|r - <AEer,DataA3> damage for 1.5 seconds. |n|cffffcc00Level 4|r - <AEer,DataA4> damage for <AEer,Dur4> seconds. |n|cffffcc00Level 5|r - <AEer,DataA5> damage for <AEer,Dur5> seconds. |n|cffffcc00Level 6|r - <AEer,DataA6> damage for <AEer,Dur6> seconds. |n|cffffcc00Level 7|r - <AEer,DataA7> damage for <AEer,Dur7> seconds. |n|cffffcc00Level 8|r - <AEer,DataA8> damage for <AEer,Dur8> seconds. |n|cffffcc00Level 9|r - <AEer,DataA9> damage for <AEer,Dur9> seconds. "
+Researchhotkey=E
+[BEer]
+Bufftip=Entangling Roots
+Buffubertip="This unit has been hit by Entangling Roots; it cannot move and takes damage over time."
+[AEah]
+Name=Thorns Aura
+Tip="Thorns - [|cffffcc00Level 1|r]","Thorns - [|cffffcc00Level 2|r]","Thorns - [|cffffcc00Level 3|r]","Thorns - [|cffffcc00Level 4|r]","Thorns - [|cffffcc00Level 5|r]","Thorns - [|cffffcc00Level 6|r]","Thorns - [|cffffcc00Level 7|r]","Thorns - [|cffffcc00Level 8|r]","Thorns - [|cffffcc00Level 9|r]"
+Ubertip="Return damage to Attacker's units, range units will take 5 damage, melee 15 damage.","Return damage to Attacker's units, range units will take 12 damage, melee 32 damage.","Return damage to Attacker's units, range units will take 20 damage, melee 50 damage.","Return damage to Attacker's units, range units will take 28 damage, melee 68 damage.","Return damage to Attacker's units, range units will take 38 damage, melee 88 damage.","Return damage to Attacker's units, range units will take 50 damage, melee 110 damage.","Return damage to Attacker's units, range units will take 125% of your strength in damage, melee 130 + 125% of your strength in damage.","Return damage to Attacker's units, range units will take 175% of your strength in damage, melee 160 + 175% of your strength in damage.","Return damage to Attacker's units, range units will take 210% of your strength in damage, melee 220 + 210% of your strength in damage.|nIf your spellpower is 2250 or greater you will deal 260% of your strength instead."
+Researchtip="Learn Thorns [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Attackers organic units will take damage, melee attackers will take more damage. |n|n|cffffcc00Level 1|r - Returns 5 damage. |n|cffffcc00Level 2|r - Returns 12 damage. |n|cffffcc00Level 3|r - Returns 20 damage.|n|cffffcc00Level 4|r - Returns 28 damage.|n|cffffcc00Level 5|r - Returns 38 damage.|n|cffffcc00Level 6|r - Returns 50 damage.|n|cffffcc00Level 7|r - Returns 125% STR damage.|n|cffffcc00Level 8|r - Returns 175% STR damage.|n|cffffcc00Level 9|r - Returns 210% of your strength in damage."
+Researchhotkey="E"
+[BEah]
+Bufftip=Thorns Aura
+Buffubertip=This unit is under the effects of Thorns Aura; units that attack it will take damage.
+[AEtq]
+Name=Tranquility
+Tip="|cffffcc00T|rranquility - [|cffffcc00Level 1|r]","|cffffcc00T|rranquility - [|cffffcc00Level 2|r]","|cffffcc00T|rranquility - [|cffffcc00Level 3|r]","|cffffcc00T|rranquility - [|cffffcc00Level 4|r]"
+Ubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r","Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA2> hit points per second. |nLasts <AEtq,Dur2> seconds.|n|n|cffc3dbffCooldown: 100 seconds.|r","Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA3> hit points per second. |nLasts <AEtq,Dur3> seconds.|n|n|cffc3dbffCooldown: 80 seconds.|r","Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA4> hit points per second. |nLasts <AEtq,Dur4> seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r"
+Hotkey=T
+Researchtip="Learn |cffffcc00T|rranquility"
+Researchubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units. |nLasts <AEtq,Dur1> seconds."
+Researchhotkey=T
+Globalmessage=
+Globalsound=
+[AEst]
+Name=Scout
+Tip=S|cffffcc00c|rout - [|cffffcc00Level 1|r],S|cffffcc00c|rout - [|cffffcc00Level 2|r],S|cffffcc00c|rout - [|cffffcc00Level 3|r]
+Ubertip="Summons an Owl Scout, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur1> seconds.","Summons a fast Owl Scout, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur2> seconds.","Summons a very fast Owl Scout, which can be used to scout.|nCan see invisible units. |nLasts <AEst,Dur3> seconds."
+Hotkey=C
+Researchtip="Learn S|cffffcc00c|rout - [|cffffcc00Level %d|r]"
+Researchubertip="Temporarily summons an Owl Scout, which can be used to scout the map. |nCan see invisible units. |n|n|cffffcc00Level 1|r - Summons an Owl Scout for <AEst,Cost1> mana. |n|cffffcc00Level 2|r - Summons a better Owl Scout for <AEst,Cost2> mana. |n|cffffcc00Level 3|r - Summons the best Owl Scout for <AEst,Cost3> mana."
+Researchhotkey=C
+[BEst]
+Bufftip=Scout
+Buffubertip="Summoned units take damage from dispels."
+[AHfa]
+Name=Searing Arrows
+Tip="Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 1|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 2|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 3|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 4|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 5|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 6|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 7|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 8|r]","Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Adds <AHfa,DataA1> bonus fire damage to an attack against enemies, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 4.5 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA2> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 3.4 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA3> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 2.2 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA4> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0.9 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA5> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA6> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA7> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA8> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r.","Adds <AHfa,DataA9> bonus fire damage to an attack, but drains mana with each shot fired.|n|n|cffc3dbffCooldown: 0 seconds|r.|n|n|cffff0000Orb effects do not stack|r."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=Q
+Unhotkey=Q
+Researchtip="Learn Searing Arrow [ |c00FFFC01Q|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Increases the damage by adding fire. Cooldown and cast range improved per level. |n|n|cffffcc00Level 1|r - <AHfa,DataA1> bonus damage. |n|cffffcc00Level 2|r - <AHfa,DataA2> bonus damage. |n|cffffcc00Level 3|r - <AHfa,DataA3> bonus damage. |n|cffffcc00Level 4|r - <AHfa,DataA4> bonus damage.|n|cffffcc00Level 5|r - <AHfa,DataA5> bonus damage.|n|cffffcc00Level 6|r - <AHfa,DataA6> bonus damage.|n|cffffcc00Level 7|r - <AHfa,DataA7> bonus damage.|n|cffffcc00Level 8|r - <AHfa,DataA8> bonus damage.|n|cffffcc00Level 9|r - <AHfa,DataA9> bonus damage.|n|n|cffff0000Orb effects do not stack|r."
+Researchhotkey="Q"
+[AEar]
+Name="Trueshot Aura I"
+Tip="Trueshot - [|cffffcc00Level 1|r]","Trueshot - [|cffffcc00Level 2|r]","Trueshot - [|cffffcc00Level 3|r]","Trueshot - [|cffffcc00Level 4|r]","Trueshot - [|cffffcc00Level 5|r]","Trueshot - [|cffffcc00Level 6|r]","Trueshot - [|cffffcc00Level 7|r]","Trueshot - [|cffffcc00Level 8|r]","Trueshot - [|cffffcc00Level 9|r]"
+Ubertip="Gives a <AEar,DataA1,%>% bonus damage to your ranged attacks and increases base agility by 3.","Gives a <AEar,DataA2,%>% bonus damage to your ranged attacks and increases base agility by 6.","Gives a <AEar,DataA3,%>% bonus damage to your ranged attacks and increases base agility by 9.","Gives a <AEar,DataA4,%>% bonus damage to your ranged attacks and increases base agility by 12.","Gives a <AEar,DataA5,%>% bonus damage to your ranged attacks and increases base agility by 15.","Gives a <AEar,DataA6,%>% bonus damage to your ranged attacks and increases base agility by 18.","Gives a <AEar,DataA7,%>% bonus damage to your ranged attacks and increases base agility by 21.","Gives a <AEar,DataA8,%>% bonus damage to your ranged attacks and increases base agility by 24.","Gives a <AEar,DataA9,%>% bonus damage to your ranged attacks and increases base agility by 27."
+Researchtip="Learn Trueshot - [|cffffcc00Level %d|r]"
+Researchubertip="Increases your damage by a percentage of your base damage and agility bonus and increases your base agility. |n|n|cffffcc00Level 1|r - Increases base ranged damage by <AEar,DataA1,%>%. |n|cffffcc00Level 2|r - Increases base ranged damage by <AEar,DataA2,%>%. |n|cffffcc00Level 3|r - Increases base ranged damage by <AEar,DataA3,%>%. |n|cffffcc00Level 4|r - Increases base ranged damage by <AEar,DataA4,%>%.|n|cffffcc00Level 5|r - Increases base ranged damage by <AEar,DataA5,%>%.|n|cffffcc00Level 6|r - Increases base ranged damage by <AEar,DataA6,%>%.|n|cffffcc00Level 7|r - Increases base ranged damage by <AEar,DataA7,%>%.|n|cffffcc00Level 8|r - Increases base ranged damage by <AEar,DataA8,%>%.|n|cffffcc00Level 9|r - Increases base ranged damage by <AEar,DataA9,%>%."
+Researchhotkey="R"
+Hotkey=R
+[BEar]
+Bufftip=Trueshot 
+Buffubertip=Its ranged attacks will deal more damage.
+[AEsf]
+Name="Starfall."
+Tip="Star|cffffcc00f|rall - [|cffffcc00Level 1|r]","Star|cffffcc00f|rall - [|cffffcc00Level 2|r]","Star|cffffcc00f|rall - [|cffffcc00Level 3|r]","Star|cffffcc00f|rall - [|cffffcc00Level 4|r]"
+Ubertip="Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA1> damage in 800 AOE. |nLasts for <AEsf,Dur1> seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA2> damage in 900 AOE. |nLasts for <AEsf,Dur2> seconds.|n|n|cffc3dbffCooldown: 210 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA3> damage in 1100 AOE. |nLasts for <AEsf,Dur3> seconds.|n|n|cffc3dbffCooldown: 225 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA4> damage in 1360 AOE. |nLasts for <AEsf,Dur4> seconds.|n|n|cffc3dbffCooldown: 250 seconds.|r"
+Hotkey=F
+Researchtip=Learn Star|cffffcc00f|rall
+Researchubertip="Calls down waves of falling stars that damage nearby enemy units. |nLasts for <AEsf,Dur1> seconds. Stars call down fater every level."
+Researchhotkey=F
+[Afae]
+Name=Faerie Fire
+Tip=Fae|cffffcc00r|rie Fire
+Ubertip="Reduces a target enemy unit's armor by <Afae,DataA1> and gives vision of that unit. |nLasts <Afae,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+[Afa2]
+Name=Faerie Fire
+EditorSuffix=(Morph)
+Tip=Fae|cffffcc00r|rie Fire
+Ubertip="Reduces a target enemy unit's armor by <Afae,DataA1> and gives vision of that unit. |nLasts <Afae,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+[Bfae]
+Bufftip=Terror
+Buffubertip=It has reduced armor and can be seen by the enemy.
+[Acyc]
+Name=Cyclone
+Tip=|cffffcc00C|ryclone
+Ubertip="Tosses a target non-mechanical enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <Acyc,Dur1> seconds."
+Hotkey=C
+[Bcyc]
+Bufftip=Cyclone
+Buffubertip="This unit is in a Cyclone; it cannot move, attack or cast spells."
+[Bcy2]
+Bufftip=Cyclone
+Buffubertip="This unit is in a Cyclone; it cannot move, attack or cast spells."
+EditorSuffix= (Extra)
+[Arej]
+Name=Rejuvenation
+Tip="Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 1|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 2|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 3|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 4|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 5|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 6|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 7|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 8|r]","Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Heals a target friendly unit for <Arej,DataA1> hit points over <Arej,Dur1> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 60 seconds.|r","Heals a target friendly unit for <Arej,DataA2> hit points over <Arej,Dur2> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 55 seconds.|r","Heals a target friendly unit for <Arej,DataA3> hit points over <Arej,Dur3> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 50 seconds.|r","Heals a target friendly unit for <Arej,DataA4> hit points over <Arej,Dur4> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 45 seconds.|r","Heals a target friendly unit for <Arej,DataA5> hit points over <Arej,Dur5> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 40 seconds.|r","Heals a target friendly unit for <Arej,DataA6> hit points over <Arej,Dur6> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for <Arej,DataA7> hit points over <Arej,Dur7> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 30 seconds.|r","Heals a target friendly unit for <Arej,DataA8> hit points over <Arej,Dur8> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 23 seconds.|r","Heals a target friendly unit for <Arej,DataA9> hit points over <Arej,Dur9> seconds.During the effect if you cast Holy Light target will be heal for an extra based on Intelligence and Holy Light level, if you cast Sword and Shield target will gain 2 str and 3 Int until it change his attack type.|n|n|cffc3dbffCooldown: 16 seconds.|r"
+Hotkey=W
+Researchhotkey="W"
+Researchtip="Learn Rejuvenation [ |c00FFFC01W|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Heals a target friendly unit over time. Cooldown improvement per level. |n|n|cffffcc00Level 1|r - Heals <Arej,DataA1> hit points over <Arej,Dur1> seconds. |n|cffffcc00Level 2|r - Heals <Arej,DataA2> hit points over <Arej,Dur2> seconds. |n|cffffcc00Level 3|r - Heals <Arej,DataA3> hit points over <Arej,Dur3> seconds. |n|cffffcc00Level 4|r - Heals <Arej,DataA4> hit points over <Arej,Dur4> seconds. |n|cffffcc00Level 5|r - Heals <Arej,DataA5> hit points over <Arej,Dur5> seconds. |n|cffffcc00Level 6|r - Heals <Arej,DataA6> hit points over <Arej,Dur6> seconds. |n|cffffcc00Level 7|r - Heals <Arej,DataA7> hit points over <Arej,Dur7> seconds. |n|cffffcc00Level 8|r - Heals <Arej,DataA8> hit points over <Arej,Dur8> seconds. |n|cffffcc00Level 9|r - Heals <Arej,DataA9> hit points over <Arej,Dur9> seconds."
+[Brej]
+Bufftip=Rejuvenation
+Buffubertip="This unit has Rejuvenation; it is healing hit points over time."
+[Aren]
+Name=Renew
+Tip=|cffffcc00R|renew
+Ubertip="Renews friendly Night Elf buildings, allied buildings, and friendly mechanical units."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+[Aroa]
+Name="Restauration"
+Tip="Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Gives friendly nearby units a 12 hit points regeneration per second, 8 bonus armor and <Aroa,DataA1,%>% bonus to damage. |nLasts <Aroa,Dur1> seconds.|n|n|cffc3dbffCooldown: 24 seconds|r.","Gives friendly nearby units a 15 hit points regeneration per second, 8 bonus armor and <Aroa,DataA2,%>% bonus to damage. |nLasts <Aroa,Dur2> seconds.|n|n|cffc3dbffCooldown: 23 seconds|r.","Gives friendly nearby units a 18 hit points regeneration per second, 8 bonus armor and <Aroa,DataA3,%>% bonus to damage. |nLasts <Aroa,Dur3> seconds.|n|n|cffc3dbffCooldown: 22 seconds|r.","Gives friendly nearby units a 22 hit points regeneration per second, 8 bonus armor and <Aroa,DataA4,%>% bonus to damage. |nLasts <Aroa,Dur4> seconds.|n|n|cffc3dbffCooldown: 21 seconds|r.","Gives friendly nearby units a 26 hit points regeneration per second, 8 bonus armor and <Aroa,DataA5,%>% bonus to damage. |nLasts <Aroa,Dur5> seconds.|n|n|cffc3dbffCooldown: 20 seconds|r.","Gives friendly nearby units a 30 hit points regeneration per second, 8 bonus armor and <Aroa,DataA6,%>% bonus to damage. |nLasts <Aroa,Dur6> seconds.|n|n|cffc3dbffCooldown: 19 seconds|r.","Gives friendly nearby units a 40 hit points regeneration per second, 8 bonus armor and <Aroa,DataA7,%>% bonus to damage. |nLasts <Aroa,Dur7> seconds.|n|n|cffc3dbffCooldown: 18 seconds|r.","Gives friendly nearby units a 55 hit points regeneration per second, 8 bonus armor and <Aroa,DataA8,%>% bonus to damage. |nLasts <Aroa,Dur8> seconds.|n|n|cffc3dbffCooldown: 17 seconds|r.","Gives friendly nearby units a 80 hit points regeneration per second, 8 bonus armor and <Aroa,DataA9,%>% bonus to damage. |nLasts <Aroa,Dur9> seconds.|n|n|cffc3dbffCooldown: 16 seconds|r."
+Hotkey=E
+Researchhotkey="E"
+Researchtip="Learn Restauration [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Gives friendly nearby units hit points regeneration per second, 8 bonus armor and  bonus damage. Duration, cooldown and bonus damage improvement per level. |n|n|cffffcc00Level 1|r - Heal 12 hit points per second.|n|cffffcc00Level 2|r - Heal 15 hit points per second.|n|cffffcc00Level 3|r - Heal 18 hit points per second.|n|cffffcc00Level 4|r - Heal 22 hit points per second.|n|cffffcc00Level 5|r - Heal 26 hit points per second.|n|cffffcc00Level 6|r - Heal 30 hit points per second.|n|cffffcc00Level 7|r - Heal 40 hit points per second.|n|cffffcc00Level 8|r - Heal 55 hit points per second.|n|cffffcc00Level 9|r - Heal 80 hit points per second."
+[Ara2]
+Name=Roar
+EditorSuffix=(Morph)
+Tip=|cffffcc00R|roar
+Ubertip="Gives friendly nearby units a <Ara2,DataA1,%>% bonus to damage. |nLasts <Ara2,Dur1> seconds."
+Hotkey=R
+[Broa]
+Bufftip=Roar
+Buffubertip="This unit has Roar; its attack damage has been increased."
+[Alit]
+Name=Lightning Attack
+[Bbar]
+Bufftip=Barkskin
+Buffubertip="This unit has Barkskin; it has increased armor."
+[Atol]
+[BEia]
+EditorName=Immolation (Caster)
+[Beat]
+EditorName=Eat Tree
+[Bgra]
+EditorName=War Club
+[AEsd]
+EditorName=Starfall (Target)
+[AEtr]
+EditorName=Tranquility (Target)
+[Bult]
+EditorName=Ultravision
+[XEsf]
+EditorName=Starfall (Effect)
+[XEtq]
+EditorName=Tranquility (Effect)
+[XEsn]
+EditorName=Sentinel (Effect)
+[Xfns]
+EditorName=Building Damage - Night Elf Small
+[Xfnm]
+EditorName=Building Damage - Night Elf Medium
+[Xfnl]
+EditorName=Building Damage - Night Elf Large
+[A1J2]
+Name="Armage2 B - Falling"
+Tip=Fae|cffffcc00r|rie Fire
+Ubertip="Reduces a target enemy unit's armor by <Afae,DataA1> and gives vision of that unit. |nLasts <Afae,Dur1> seconds."
+Untip="|cffc3dbffRight-click to activate auto-casting.|r"
+Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
+Hotkey=R
+Unhotkey=R
+[A1IP]
+Name="MK 10hp"
+Tip="Fury [ |c00FFFC01Y|r ]"
+Ubertip="Set Mountain King's Hitpoints to 10%.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+Hotkey=Y
+EditorSuffix=" (Clay Golem)"
+[A1HL]
+Name="Lunar Starlight"
+Tip="Lunar Starlight"
+Ubertip="Calls down waves of falling stars that damage nearby enemy units for 10 seconds.|n|cffff0000Item is undroppable while this abilty is on cooldown.|r |n|n|cffc3dbffCooldown: 160 seconds.|r "
+Hotkey=
+Researchtip=""
+Researchubertip=""
+Researchhotkey=""
+[A1GX]
+Name="SpFMf"
+EditorSuffix=""
+[A1GA]
+Name="SpFMI"
+EditorSuffix=""
+[A1G9]
+Name="SpFMF"
+EditorSuffix=""
+[A1CT]
+Name="FI multsho"
+Tip="Multisho|cffffcc00t|r - [|cffffcc00Level 1|r]","|cffffcc00F|ran of Knives - [|cffffcc00Level 2|r]","|cffffcc00F|ran of Knives - [|cffffcc00Level 3|r]"
+Ubertip="Shoot arrows that deal 70 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","The Warden hurls a flurry of knives, damaging nearby enemies. Each knife does <AEfk,DataA2> damage.","The Warden hurls a flurry of knives damaging, nearby enemies. Each knife does <AEfk,DataA3> damage."
+Hotkey=T
+Researchtip="Learn Multisho|cffffcc00t|r - [|cffffcc00Level %d|r]"
+Researchubertip="Shoot arrows to multiple enemies with a 1000 maximum range.  |n|n|cffffcc00Level 1|r - 70 damage per target. |n|cffffcc00Level 2|r - 150 damage per target. |n|cffffcc00Level 3|r - 240 damage per target. |n|cffffcc00Level 4|r - 350 damage per target. |n|cffffcc00Level 5|r - 500 damage per target. |n|cffffcc00Level 6|r - 700 damage per target. |n|cffffcc00Level 7|r - 1000 damage per target. |n|cffffcc00Level 8|r - 1300 damage per target. |n|cffffcc00Level 9|r - 1800 damage per target."
+Researchhotkey="T"
+[A1CE]
+Name="KarFAB"
+Tip="|cffffcc00E|rntomb - [|cffffcc00Level 1|r]"
+Ubertip="A ritual that heal 160 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r"
+Hotkey=E
+Researchtip="Learn |cffffcc00E|rntomb - [|cffffcc00Level %d|r]"
+Researchubertip="A ritual that heal Zombie hit points for 4 seconds.|n|n|cffffcc00Level 1|r - Heal 160 hit points per second. |n|cffffcc00Level 2|r - Heal 270 hit points per second.|n|cffffcc00Level 3|r - Heal 380 hit points per second.|n|cffffcc00Level 4|r - Heal 500 hit points per second.|n|cffffcc00Level 5|r - Heal 700 hit points per second.|n|cffffcc00Level 6|r - Heal 1000 hit points per second.|n|cffffcc00Level 7|r - Heal 1800 hit points per second.|n|cffffcc00Level 8|r - Heal 3200 hit points per second.|n|cffffcc00Level 9|r - Heal 5800 hit points per second."
+Researchhotkey="E"
+Globalmessage=
+Globalsound=
+[A1C2]
+Name="DC Dragon Blood"
+Tip="Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Dragon Blood [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Give 30 hit points regeneration per second, 40 bonus armor and 10% bonus to damage. |nLasts 5 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 40 hit points regeneration per second, 45 bonus armor and 15% bonus to damage. |nLasts 6 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 50 hit points regeneration per second, 50 bonus armor and 20% bonus to damage. |nLasts 7 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 60 hit points regeneration per second, 60 bonus armor and 25% bonus to damage. |nLasts 8 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 80 hit points regeneration per second, 70 bonus armor and 30% bonus to damage. |nLasts 9 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 100 hit points regeneration per second, 80 bonus armor and 40% bonus to damage. |nLasts 10 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 120 hit points regeneration per second, 90 bonus armor and 50% bonus to damage. |nLasts 11 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 150 hit points regeneration per second, 100 bonus armor and 70% bonus to damage. |nLasts 12 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r.","Give 200 hit points regeneration per second, 120 bonus armor and 100% bonus to damage. |nLasts 13 seconds.|n|n|cffc3dbffCooldown: 13 seconds|r."
+Hotkey=E
+Researchhotkey="E"
+Researchtip="|cffffcc00R|restauration - [|cffffcc00Level %d|r]"
+Researchubertip="Gives friendly nearby units hit points regeneration per second, 8 bonus armor and  bonus damage. Duration, cooldown and bonus damage improvement per level. |n|n|cffffcc00Level 1|r - Heal 12 hit points per second.|n|cffffcc00Level 2|r - Heal 15 hit points per second.|n|cffffcc00Level 3|r - Heal 18 hit points per second.|n|cffffcc00Level 4|r - Heal 22 hit points per second.|n|cffffcc00Level 5|r - Heal 26 hit points per second.|n|cffffcc00Level 6|r - Heal 30 hit points per second.|n|cffffcc00Level 7|r - Heal 40 hit points per second.|n|cffffcc00Level 8|r - Heal 55 hit points per second.|n|cffffcc00Level 9|r - Heal 80 hit points per second."
+[A1BA]
+Name="Lord NA"
+Tip="Multisho|cffffcc00t|r - [|cffffcc00Level 1|r]","|cffffcc00F|ran of Knives - [|cffffcc00Level 2|r]","|cffffcc00F|ran of Knives - [|cffffcc00Level 3|r]"
+Ubertip="Shoot arrows that deal 70 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","The Warden hurls a flurry of knives, damaging nearby enemies. Each knife does <AEfk,DataA2> damage.","The Warden hurls a flurry of knives damaging, nearby enemies. Each knife does <AEfk,DataA3> damage."
+Hotkey=T
+Researchtip="Learn Multisho|cffffcc00t|r - [|cffffcc00Level %d|r]"
+Researchubertip="Shoot arrows to multiple enemies with a 1000 maximum range.  |n|n|cffffcc00Level 1|r - 70 damage per target. |n|cffffcc00Level 2|r - 150 damage per target. |n|cffffcc00Level 3|r - 240 damage per target. |n|cffffcc00Level 4|r - 350 damage per target. |n|cffffcc00Level 5|r - 500 damage per target. |n|cffffcc00Level 6|r - 700 damage per target. |n|cffffcc00Level 7|r - 1000 damage per target. |n|cffffcc00Level 8|r - 1300 damage per target. |n|cffffcc00Level 9|r - 1800 damage per target."
+Researchhotkey="T"
+[A1AC]
+Name="Zombie Scorge 2"
+Tip="Scou|cffffcc00r|rge - [|cffffcc00Level 1|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 2|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 3|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 4|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 5|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 6|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 7|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 8|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 9|r]"
+Ubertip="Throw poison at your enemies in a big aoe dealing 800 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 60 seconds.|r","Throw poison at your enemies in a big aoe dealing 900 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 58 seconds.|r","Throw poison at your enemies in a big aoe dealing 1000 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 56 seconds.|r","Throw poison at your enemies in a big aoe dealing 1200 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 53 seconds.|r","Throw poison at your enemies in a big aoe dealing 1500 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 50 seconds.|r","Throw poison at your enemies in a big aoe dealing 2000 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 46 seconds.|r","Throw poison at your enemies in a big aoe dealing 2800 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 42 seconds.|r","Throw poison at your enemies in a big aoe dealing 4000 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 38 seconds.|r","Throw poison at your enemies in a big aoe dealing 6000 damage to each and increasing the hit points of your current form by 380.|n|n|cffc3dbffCooldown: 31 seconds.|r"
+Hotkey=R
+Researchtip="Learn Scou|cffffcc00r|rge - [|cffffcc00Level %d|r]"
+Researchubertip="Throw poison up to 16 enemies in a big aoe and increases the hit points of your current form.  |n|n|cffffcc00Level 1|r - 800 damage per target. |n|cffffcc00Level 2|r - 900 damage per target. |n|cffffcc00Level 3|r - 1000 damage per target. |n|cffffcc00Level 4|r - 1200 damage per target. |n|cffffcc00Level 5|r - 1500 damage per target. |n|cffffcc00Level 6|r - 2000 damage per target. |n|cffffcc00Level 7|r - 2800 damage per target. |n|cffffcc00Level 8|r - 4000 damage per target. |n|cffffcc00Level 9|r - 6000 damage per target."
+Researchhotkey="R"
+[A1AB]
+Name="Zombie Scorge 1"
+Tip="Scou|cffffcc00r|rge - [|cffffcc00Level 1|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 2|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 3|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 4|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 5|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 6|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 7|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 8|r]","Scou|cffffcc00r|rge - [|cffffcc00Level 9|r]"
+Ubertip="Throw poison at your enemies in a big aoe dealing 200 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 34 seconds.|r","Throw poison at your enemies in a big aoe dealing 400 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 33 seconds.|r","Throw poison at your enemies in a big aoe dealing 600 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 32 seconds.|r","Throw poison at your enemies in a big aoe dealing 900 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 31 seconds.|r","Throw poison at your enemies in a big aoe dealing 1200 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 30 seconds.|r","Throw poison at your enemies in a big aoe dealing 1500 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 28 seconds.|r","Throw poison at your enemies in a big aoe dealing 1800 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 26 seconds.|r","Throw poison at your enemies in a big aoe dealing 2200 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 22 seconds.|r","Throw poison at your enemies in a big aoe dealing 3000 damage to each and increasing the hit points of your current form by 42.|n|n|cffc3dbffCooldown: 15 seconds.|r"
+Hotkey=R
+Researchtip="Learn Scou|cffffcc00r|rge - [|cffffcc00Level %d|r]"
+Researchubertip="Throw poison up to 16 enemies in a big aoe and increases the hit points of your current form.  |n|n|cffffcc00Level 1|r - 200 damage per target. |n|cffffcc00Level 2|r - 400 damage per target. |n|cffffcc00Level 3|r - 600 damage per target. |n|cffffcc00Level 4|r - 900 damage per target. |n|cffffcc00Level 5|r - 1200 damage per target. |n|cffffcc00Level 6|r - 1500 damage per target. |n|cffffcc00Level 7|r - 1800 damage per target. |n|cffffcc00Level 8|r - 2200 damage per target. |n|cffffcc00Level 9|r - 3000 damage per target."
+Researchhotkey="R"
+[A190]
+Name="WB Power Release"
+Tip="|cffffcc00Power Release|r"
+Ubertip="|n|n|cffff0000This ability can be used only one time.|r|n|nRelease all the power you was hidden to greatly increase your base damage, base strength, mana, attack and move speed based in how much times you used Hidden Power."
+Hotkey=
+Researchtip=""
+Researchubertip=""
+Researchhotkey=""
+Globalmessage=
+Globalsound=
+[A18Z]
+Name="WB Hidden Power"
+Tip="Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 1|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 2|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 3|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 4|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 5|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 6|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 7|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 8|r]","Hidden Power [ |c00FFFC01R|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 300 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9%, and mana by 20.|n|n|cffc3dbffCooldown: 280 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 260 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 240 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 220 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 200 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 170 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 130 seconds.|r","Seal your power in order to obtain a bigger one after you release it, reduces your damage by 8, attack speed by 9% and mana by 20.|n|n|cffc3dbffCooldown: 85 seconds.|r"
+Hotkey=R
+Researchtip="s"
+Researchubertip="s"
+Researchhotkey="R"
+[A16Z]
+Name="Darkness"
+Tip="Darkness"
+Ubertip="Reduces damage taken from spells and Dragons."
+[A137]
+Name="TP DuFB"
+Tip="Multisho|cffffcc00t|r - [|cffffcc00Level 1|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 2|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 3|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 4|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 5|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 6|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 7|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 8|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 9|r]"
+Ubertip="Shoot arrows that deal 70 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 150 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 240 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 350 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 500 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 700 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1000 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1300 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1800 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+Hotkey=T
+Researchtip="Learn Multisho|cffffcc00t|r - [|cffffcc00Level %d|r]"
+Researchubertip="Shoot arrows to multiple enemies with a 1000 maximum range.  |n|n|cffffcc00Level 1|r - 70 damage per target. |n|cffffcc00Level 2|r - 150 damage per target. |n|cffffcc00Level 3|r - 240 damage per target. |n|cffffcc00Level 4|r - 350 damage per target. |n|cffffcc00Level 5|r - 500 damage per target. |n|cffffcc00Level 6|r - 700 damage per target. |n|cffffcc00Level 7|r - 1000 damage per target. |n|cffffcc00Level 8|r - 1300 damage per target. |n|cffffcc00Level 9|r - 1800 damage per target."
+Researchhotkey="T"
+[A131]
+Name="Magroth Blessing"
+Tip="Magroth Blessing"
+Ubertip="Reduces Dragon and Spell damage in 60%."
+[A12E]
+Name="Rejuvenation FX"
+Tip="|cffffcc00R|rejuvenation - [|cffffcc00Level 1|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 2|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 3|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 4|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 5|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 6|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 7|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 8|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 9|r]"
+Ubertip="Heals a target friendly unit for <Arej,DataA1> hit points over <Arej,Dur1> seconds.|n|n|cffc3dbffCooldown: 60 seconds.|r","Heals a target friendly unit for <Arej,DataA2> hit points over <Arej,Dur2> seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r","Heals a target friendly unit for <Arej,DataA3> hit points over <Arej,Dur3> seconds.|n|n|cffc3dbffCooldown: 50 seconds.|r","Heals a target friendly unit for <Arej,DataA4> hit points over <Arej,Dur4> seconds.|n|n|cffc3dbffCooldown: 45 seconds.|r","Heals a target friendly unit for <Arej,DataA5> hit points over <Arej,Dur5> seconds.|n|n|cffc3dbffCooldown: 40 seconds.|r","Heals a target friendly unit for <Arej,DataA6> hit points over <Arej,Dur6> seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for <Arej,DataA7> hit points over <Arej,Dur7> seconds.|n|n|cffc3dbffCooldown: 28 seconds.|r","Heals a target friendly unit for <Arej,DataA8> hit points over <Arej,Dur8> seconds.|n|n|cffc3dbffCooldown: 20 seconds.|r","Heals a target friendly unit for <Arej,DataA9> hit points over <Arej,Dur9> seconds.|n|n|cffc3dbffCooldown: 10 seconds.|r"
+Hotkey=R
+Researchhotkey="R"
+Researchtip="|cffffcc00R|rejuvenation - [|cffffcc00Level %d|r]"
+Researchubertip="Heals a target friendly unit over time. Cooldown improvement per level. |n|n|cffffcc00Level 1|r - Heals <Arej,DataA1> hit points over <Arej,Dur1> seconds. |n|cffffcc00Level 2|r - Heals <Arej,DataA2> hit points over <Arej,Dur2> seconds. |n|cffffcc00Level 3|r - Heals <Arej,DataA3> hit points over <Arej,Dur3> seconds. |n|cffffcc00Level 4|r - Heals <Arej,DataA4> hit points over <Arej,Dur4> seconds. |n|cffffcc00Level 5|r - Heals <Arej,DataA5> hit points over <Arej,Dur5> seconds. |n|cffffcc00Level 6|r - Heals <Arej,DataA6> hit points over <Arej,Dur6> seconds. |n|cffffcc00Level 7|r - Heals <Arej,DataA7> hit points over <Arej,Dur7> seconds. |n|cffffcc00Level 8|r - Heals <Arej,DataA8> hit points over <Arej,Dur8> seconds. |n|cffffcc00Level 9|r - Heals <Arej,DataA9> hit points over <Arej,Dur9> seconds."
+[A120]
+Name="Magic Reduccion O"
+Tip="Magic Scales"
+Ubertip="Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+[A107]
+Name="Magic Reduccion Azze"
+Tip="Magic Scales"
+Ubertip="Reduces the damage.,%>%."
+[A0ZX]
+Name="Arc Curse"
+Tip="Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 1|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 2|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 3|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 4|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 5|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 6|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 7|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 8|r]","Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Curse an enemy unit last 26 seconds, when duration end cursed unit will take 800 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 120 seconds.|r","Curse an enemy unit last 29 seconds, when duration end cursed unit will take 1600 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 116 seconds.|r","Curse an enemy unit last 32 seconds, when duration end cursed unit will take 2400 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 112 seconds.|r","Curse an enemy unit last 35 seconds, when duration end cursed unit will take 3200 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 108 seconds.|r","Curse an enemy unit last 38 seconds, when duration end cursed unit will take 4000 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 104 seconds.|r","Curse an enemy unit last 41 seconds, when duration end cursed unit will take 4800 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 100 seconds.|r","Curse an enemy unit last 44 seconds, when duration end cursed unit will take 5600 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 95 seconds.|r","Curse an enemy unit last 47 seconds, when duration end cursed unit will take 6400 damage for each spell that targeted him during the Curse of The Dark Star.|n|n|cffc3dbffCooldown: 90 seconds.|r","Curse an enemy unit last 50 seconds, when duration end cursed unit will take 7200 damage for each spell that targeted him during the Curse of The Dark Star. If the current damage of the curse is enough to kill the unit the curse will activate to do it.|n|n|cffc3dbffCooldown: 80 seconds.|r"
+Hotkey=R
+Researchtip="Learn Curse of The Dark Star [ |c00FFFC01R|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Curse an enemy unit, when duration end cursed unit will take damage based in all spells that target him during the Curse of The Dark Star. If the current damage of the curse if enough to kill the unit the curse will activate to do it. Cooldown and duration improve per level. |n|n|cffffcc00Level 1|r - 800 damage for each spell. |n|cffffcc00Level 2|r - 1600 damage for each spell. |n|cffffcc00Level 3|r - 2400 damage for each spell.|n|cffffcc00Level 4|r - 3200 damage for each spell.|n|cffffcc00Level 5|r - 4000 damage for each spell.|n|cffffcc00Level 6|r - 4800 damage for each spell.|n|cffffcc00Level 7|r - 5600 damage for each spell.|n|cffffcc00Level 8|r - 6400 damage for each spell.|n|cffffcc00Level 9|r - 7200 damage for each spell."
+Researchhotkey="R"
+[A0YC]
+Name="Tranquility Death"
+Tip="|cffffcc00T|rranquility - [|cffffcc00Level 1|r]"
+Ubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds.|n|n|cffc3dbffCooldown: 120 seconds.|r"
+Hotkey=T
+Researchtip="Learn |cffffcc00T|rranquility"
+Researchubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units. |nLasts <AEtq,Dur1> seconds."
+Researchhotkey=T
+Globalmessage=
+Globalsound=
+[A0UZ]
+Name=Hardened Skin
+Tip=Hardened Skin
+Ubertip="Reduces all attacks on the Mountain Giant by <Assk,DataC1> damage. Attacks cannot be reduced below <Assk,DataB1> damage."
+Hotkey=K
+EditorSuffix="Y"
+[A0UA]
+Name="Bear Form TT"
+Tip="Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Ubertip="Reduce your attack Cooldown by 1.3, and give the maximun move speed for 6 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 150 seconds.|r","Reduce your attack Cooldown by 1.3, and give the maximun move speed for 9 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 145 seconds.|r","Reduce your attack Cooldown by 1.85, and give the maximun move speed for 12 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 140 seconds.|r","Reduce your attack Cooldown by 1.85, and give the maximun move speed for 15 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 130 seconds.|r"
+Hotkey=T
+Untip="Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]"
+Unubertip="Reduce your attack Cooldown by 1.3, and give the maximum move speed for 7 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 150 seconds.|r","Reduce your attack Cooldown by 1.3, and give the maximum move speed for 9 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 145 seconds.|r","Reduce your attack Cooldown by 1.85, give the maximum move speed and give Chaos attack type for 10 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 140 seconds.|r","Reduce your attack Cooldown by 1.85, give the maximum move speed and give Chaos attack type for 16 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 130 seconds.|r"
+Unhotkey=T
+Researchhotkey="T"
+Researchtip="Learn Adrenaline Control [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Reduce your attack Cooldown ( faster attack speed than any other hero), and grants the maximum move speed for a short time|n|n.|cffff8c00Using this ability will cause admiral to lose some external abilities that you can buy or find like God Skill Tome|r|n|n|cffffcc00You can change this skill for one that not have this problem using the command -admiralwave you can only use this command if you have not level up this skill, if you have at least level 15 and you need 2 or more skill points.|r"
+[A0TP]
+Name="Elune's Grace'"
+Tip="Elune's Grace'"
+Ubertip="Reduces the damage taken from Dragons and spells in 70%."
+EditorSuffix="Royal Knight"
+[A0SD]
+Name="LC Evasion"
+Tip="Evasion - [|cffffcc00Level 1|r]","Evasion - [|cffffcc00Level 2|r]","Evasion - [|cffffcc00Level 3|r]","Evasion - [|cffffcc00Level 4|r]","Evasion - [|cffffcc00Level 5|r]","Evasion - [|cffffcc00Level 6|r]","Evasion - [|cffffcc00Level 7|r]","Evasion - [|cffffcc00Level 8|r]","Evasion - [|cffffcc00Level 9|r]"
+Ubertip="Gives a 4% chance to avoid an attack.","Gives a 8% chance to avoid an attack.","Gives a 12% chance to avoid an attack.","Gives a 16% chance to avoid an attack.","Gives a 20% chance to avoid an attack.","Gives a 24% chance to avoid an attack.","Gives a 28% chance to avoid an attack.","Gives a 32% chance to avoid an attack.","Gives a 38% chance to avoid an attack."
+Researchtip="Learn |cffffcc00E|rvasion - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a percent chance to avoid attacks. |n|n|cffffcc00Level 1|r - 4% chance to evade.|n|cffffcc00Level 2|r - 8% chance to evade.|n|cffffcc00Level 3|r - 12% chance to evade.|n|cffffcc00Level 4|r - 16% chance to evade.|n|cffffcc00Level 5|r - 20% chance to evade.|n|cffffcc00Level 6|r - 24% chance to evade.|n|cffffcc00Level 7|r - 28% chance to evade.|n|cffffcc00Level 8|r - 32% chance to evade.|n|cffffcc00Level 9|r - 38% chance to evade."
+Researchhotkey=E
+[A0SC]
+Name=Evasion
+Tip="Evasion - [|cffffcc00Level 1|r]","Evasion - [|cffffcc00Level 2|r]","Evasion - [|cffffcc00Level 3|r]","Evasion - [|cffffcc00Level 4|r]","Evasion - [|cffffcc00Level 5|r]","Evasion - [|cffffcc00Level 6|r]","Evasion - [|cffffcc00Level 7|r]","Evasion - [|cffffcc00Level 8|r]","Evasion - [|cffffcc00Level 9|r]"
+Ubertip="Gives a <AEev,DataA1,%>% chance to avoid an attack.","Gives a <AEev,DataA2,%>% chance to avoid an attack.","Gives a <AEev,DataA3,%>% chance to avoid an attack.","Gives a <AEev,DataA4,%>% chance to avoid an attack.","Gives a <AEev,DataA5,%>% chance to avoid an attack.","Gives a <AEev,DataA6,%>% chance to avoid an attack.","Gives a <AEev,DataA7,%>% chance to avoid an attack.","Gives a <AEev,DataA8,%>% chance to avoid an attack.","Gives a <AEev,DataA9,%>% chance to avoid an attack."
+Researchtip="Learn |cffffcc00E|rvasion - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a percent chance to avoid attacks. |n|n|cffffcc00Level 1|r - <AEev,DataA1,%>% chance to evade.|n|cffffcc00Level 2|r - <AEev,DataA2,%>% chance to evade.|n|cffffcc00Level 3|r - <AEev,DataA3,%>% chance to evade.|n|cffffcc00Level 4|r - <AEev,DataA4,%>% chance to evade.|n|cffffcc00Level 5|r - <AEev,DataA5,%>% chance to evade.|n|cffffcc00Level 6|r - <AEev,DataA6,%>% chance to evade.|n|cffffcc00Level 7|r - <AEev,DataA7,%>% chance to evade.|n|cffffcc00Level 8|r - <AEev,DataA8,%>% chance to evade.|n|cffffcc00Level 9|r - <AEev,DataA9,%>% chance to evade."
+Researchhotkey=E
+[A0QS]
+Name=Entangling Roots
+Tip="|cffffcc00E|rntangling Roots - [|cffffcc00Level 1|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 2|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 3|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 4|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 5|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 6|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 7|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 8|r]","|cffffcc00E|rntangling Roots - [|cffffcc00Level 9|r]"
+Ubertip="Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur1> seconds, and dealing <AEer,DataA1> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur2> seconds, and dealing <AEer,DataA2> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur3> seconds, and dealing <AEer,DataA3> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur4> seconds, and dealing <AEer,DataA4> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur5> seconds, and dealing <AEer,DataA5> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur6> seconds, and dealing <AEer,DataA6> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur7> seconds, and dealing <AEer,DataA7> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur8> seconds, and dealing <AEer,DataA8> damage per second.","Causes roots to burst from the ground, immobilizing and disarming a target enemy unit for <AEer,Dur9> seconds, and dealing <AEer,DataA9> damage per second."
+Hotkey=E
+Researchtip="Learn |cffffcc00E|rntangling Roots - [|cffffcc00Level %d|r]"
+Researchubertip="Causes roots to burst from the ground, immobilizing and damaging a target enemy temporarily. |n|n|cffffcc00Level 1|r - <AEer,DataA1> damage for 0.5 seconds. |n|cffffcc00Level 2|r - <AEer,DataA2> damage for <AEer,Dur2> seconds. |n|cffffcc00Level 3|r - <AEer,DataA3> damage for 1.5 seconds. |n|cffffcc00Level 4|r - <AEer,DataA4> damage for <AEer,Dur4> seconds. |n|cffffcc00Level 5|r - <AEer,DataA5> damage for <AEer,Dur5> seconds. |n|cffffcc00Level 6|r - <AEer,DataA6> damage for <AEer,Dur6> seconds. |n|cffffcc00Level 7|r - <AEer,DataA7> damage for <AEer,Dur7> seconds. |n|cffffcc00Level 8|r - <AEer,DataA8> damage for <AEer,Dur8> seconds. |n|cffffcc00Level 9|r - <AEer,DataA9> damage for <AEer,Dur9> seconds. "
+Researchhotkey=E
+[A0QA]
+Name="White Mage Rejuvenation 2"
+Tip="|cffffcc00R|rejuvenation - [|cffffcc00Level 1|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 2|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 3|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 4|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 5|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 6|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 7|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 8|r]","|cffffcc00R|rejuvenation - [|cffffcc00Level 9|r]"
+Ubertip="Heals a target friendly unit for 1000 hit points and 150 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 2000 hit points and 200 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 3000 hit points and 250 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 4000 hit points and 300 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 6000 hit points and 375 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 8000 hit points and 500 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 10000 hit points and 750 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 13000 hit points and 1500 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r","Heals a target friendly unit for 20000 hit points and 3000 mana over 20 seconds.|n|n|cffc3dbffCooldown: 35 seconds.|r"
+Hotkey=R
+Researchhotkey="R"
+Researchtip="|cffffcc00R|rejuvenation - [|cffffcc00Level %d|r]"
+Researchubertip="Heals a target friendly unit over 20 seconds. |n|n|cffffcc00Level 1|r - Heals 1000 hit points and 150 mana over 20 seconds. |n|cffffcc00Level 2|r - Heals 2000 hit points and 200 mana over 20 seconds.  |n|cffffcc00Level 3|r - Heals 3000 hit points and 250 mana over 20 seconds. |n|cffffcc00Level 4|r - Heals 4000 hit points and 300 mana over 20 seconds. |n|cffffcc00Level 5|r - Heals 6000 hit points and 375 mana over 20 seconds. |n|cffffcc00Level 6|r - Heals 8000 hit points and 500 mana over 20 seconds. |n|cffffcc00Level 7|r - Heals 10000 hit points and 750 mana over 20 seconds. |n|cffffcc00Level 8|r - Heals 13000 hit points and 1500 mana over 20 seconds. |n|cffffcc00Level 9|r - Heals 20000 hit points and 3000 mana over 20 seconds."
+[A0PB]
+Name="Swordman spell reduction"
+Tip="Enchanted Armor - [|cffffcc00Level 1|r]","Enchanted Armor - [|cffffcc00Level 2|r]","Enchanted Armor - [|cffffcc00Level 3|r]","Enchanted Armor - [|cffffcc00Level 4|r]","Enchanted Armor - [|cffffcc00Level 5|r]","Enchanted Armor - [|cffffcc00Level 6|r]","Enchanted Armor - [|cffffcc00Level 7|r]","Enchanted Armor - [|cffffcc00Level 8|r]","Enchanted Armor - [|cffffcc00Level 9|r]"
+Ubertip="The Armor of Swordman have magical properties that reduces 10% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 15% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 20% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 25% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 30% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 35% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 40% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 50% damage taken from Spells and dragons.","The Armor of Swordman have magical properties that reduces 60% damage taken from Spells and dragons."
+Researchtip="Learn |cffffcc00E|rnchanted Armor - [|cffffcc00Level %d|r]"
+Researchubertip="The Armor of Swordman have magical properties that reduces the damage taken from Spells and dragons. |n|n|cffffcc00Level 1|r - 10% damage reduction. |n|cffffcc00Level 2|r - 15% damage reduction.|n|cffffcc00Level 3|r - 20% damage reduction.|n|cffffcc00Level 4|r - 25% damage reduction.|n|cffffcc00Level 5|r - 30% damage reduction.|n|cffffcc00Level 6|r - 35% damage reduction.|n|cffffcc00Level 7|r - 40% damage reduction.|n|cffffcc00Level 8|r - 50% damage reduction.|n|cffffcc00Level 9|r - 60% damage reduction."
+[A0P1]
+Name="Militia Thorns Aura"
+Tip="Thorns - [|cffffcc00Level 1|r]","Thorns - [|cffffcc00Level 2|r]","Thorns - [|cffffcc00Level 3|r]","Thorns - [|cffffcc00Level 4|r]","Thorns - [|cffffcc00Level 5|r]"
+Ubertip="A damage shield, which deals 100% of an enemy unit's melee attack damage back to it.","A damage shield, which deals 200% of an enemy unit's melee attack damage back to it.","A damage shield, which deals 300% of an enemy unit's melee attack damage back to it.","A damage shield, which deals 400% of an enemy unit's melee attack damage back to it.","A damage shield, which deals 500% of an enemy unit's melee attack damage back to it."
+Researchtip="Learn Tho|cffffcc00r|rns - [|cffffcc00Level %d|r]"
+Researchubertip="Damage shield, which returns a percentage of a melee attacker's damage back to it. "
+Researchhotkey=R
+[A0OO]
+Name="Skeleton Multishot"
+Tip="Multisho|cffffcc00t|r - [|cffffcc00Level 1|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 2|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 3|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 4|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 5|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 6|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 7|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 8|r]","Multisho|cffffcc00t|r - [|cffffcc00Level 9|r]"
+Ubertip="Shoot arrows that deal 70 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 150 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 240 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 350 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 500 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 700 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1000 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1300 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r","Shoot arrows that deal 1800 damage to multiple enemies with a 1000 maximum range. Up to 10 enemies.|n|n|cffc3dbffCooldown: 11 seconds.|r"
+Hotkey=T
+Researchtip="Learn Multisho|cffffcc00t|r - [|cffffcc00Level %d|r]"
+Researchubertip="Shoot arrows to multiple enemies with a 1000 maximum range.  |n|n|cffffcc00Level 1|r - 70 damage per target. |n|cffffcc00Level 2|r - 150 damage per target. |n|cffffcc00Level 3|r - 240 damage per target. |n|cffffcc00Level 4|r - 350 damage per target. |n|cffffcc00Level 5|r - 500 damage per target. |n|cffffcc00Level 6|r - 700 damage per target. |n|cffffcc00Level 7|r - 1000 damage per target. |n|cffffcc00Level 8|r - 1300 damage per target. |n|cffffcc00Level 9|r - 1800 damage per target."
+Researchhotkey="T"
+[A0OL]
+Name="Skeleton Fan of Knives"
+Tip="Killer |cffffcc00B|rones - [|cffffcc00Level 1|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 2|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 3|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 4|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 5|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 6|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 7|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 8|r]","Killer |cffffcc00B|rones - [|cffffcc00Level 9|r]"
+Ubertip="Throw 6 bones at nearby enemies. Each bone does 120 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 200 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 320 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 450 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 600 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 900 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 1300 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 1900 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r","Throw 6 bones at nearby enemies. Each bone does 2700 damage.|n|n|cffc3dbffCooldown: 18 seconds.|r"
+Hotkey=B
+Researchtip="Learn Killer |cffffcc00B|rones - [|cffffcc00Level %d|r]"
+Researchubertip="Throw up to 6 bones to nearby enemies units.  |n|n|cffffcc00Level 1|r - 120 damage per target. |n|cffffcc00Level 2|r - 200 damage per target. |n|cffffcc00Level 3|r - 320 damage per target. |n|cffffcc00Level 4|r - 450 damage per target. |n|cffffcc00Level 5|r - 600 damage per target. |n|cffffcc00Level 6|r - 900 damage per target. |n|cffffcc00Level 7|r - 1300 damage per target. |n|cffffcc00Level 8|r - 1900 damage per target. |n|cffffcc00Level 9|r - 2700 damage per target."
+Researchhotkey="B"
+[A0OD]
+Name="Vampire Strike"
+Tip="|cffffcc00V|rampire Strike - [|cffffcc00Level 1|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 2|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 3|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 4|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 5|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 6|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 7|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 8|r]","|cffffcc00V|rampire Strike - [|cffffcc00Level 9|r]"
+Ubertip="Hurls a poisoned dagger which deals 80 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 100 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 120 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 150 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 180 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 220 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 280 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 350 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r","Hurls a poisoned dagger which deals 460 damage per second for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 25 seconds.|r"
+Hotkey=V
+Researchtip="Learn |cffffcc00V|rampire Strike - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a poisoned dagger which deals damage over time. The poisoned unit has its movement and attack speed slowed for a short duration.  |n|n|cffffcc00Level 1|r - 80 damage per second. |n|cffffcc00Level 2|r - 100 damage per second. |n|cffffcc00Level 3|r - 120 damage per second.|n|cffffcc00Level 4|r - 150 damage per second.|n|cffffcc00Level 5|r - 180 damage per second.|n|cffffcc00Level 6|r - 220 damage per second.|n|cffffcc00Level 7|r - 280 damage per second.|n|cffffcc00Level 8|r - 350 damage per second.|n|cffffcc00Level 9|r - 460 damage per second."
+Researchhotkey="V"
+[A0N0]
+Name="Sapphire Ability 10"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MZ]
+Name="Sapphire Ability 9"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MY]
+Name="Sapphire Ability 8"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MX]
+Name="Sapphire Ability 7"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MW]
+Name="Sapphire Ability 6"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MV]
+Name="Sapphire Ability 5"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MU]
+Name="Sapphire Ability 4"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MT]
+Name="Sapphire Ability 3"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MS]
+Name="Sapphire Ability 2"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0MR]
+Name="Sapphire Ability 1"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0LR]
+Name="Shadow Strike s"
+Tip="Sha|cffffcc00d|row Strike - [|cffffcc00Level 1|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 2|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 3|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 4|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 5|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 6|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 7|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 8|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 9|r]"
+Ubertip="Hurls a poisoned dagger at a target enemy unit, dealing 150 initial damage, and 80 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 200 initial damage, and 100 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 28 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 300 initial damage, and 200 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 26 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 400 initial damage, and 300 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 24 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 600 initial damage, and 450 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 22 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 800 initial damage, and 600 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 20 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 1000 initial damage, and 900 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 1400 initial damage, and 1400 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 2200 initial damage, and 2850 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+Hotkey=D
+Researchtip="Learn Sha|cffffcc00d|row Strike - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement and attack speed slowed for a short duration. Cooldown and slowed speed improve per level. |n|n|cffffcc00Level 1|r - 150 strike damage, 80 duration damage. |n|cffffcc00Level 2|r - 200 strike damage, 100 duration damage. |n|cffffcc00Level 3|r - 300 strike damage, 200 duration damage. |n|cffffcc00Level 4|r - 400 strike damage, 300 duration damage. |n|cffffcc00Level 5|r - 600 strike damage, 450 duration damage. |n|cffffcc00Level 6|r - 800 strike damage, 600 duration damage. |n|cffffcc00Level 7|r - 1000 strike damage, 900 duration damage. |n|cffffcc00Level 8|r - 1400 strike damage, 1400 duration damage. |n|cffffcc00Level 9|r - 2200 strike damage, 2850 duration damage."
+Researchhotkey=D
+[A0KY]
+Name="PriestTranquility"
+Tip=|cffffcc00T|rranquility
+Ubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units for 1600 hit points per second. |nLasts 10 seconds."
+Hotkey=T
+Researchtip="Learn |cffffcc00T|rranquility"
+Researchubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds."
+Researchhotkey=T
+Globalmessage=
+Globalsound=
+[A0KS]
+Name="Total Defense"
+Tip="|cffffcc00T|rotal Defense"
+Ubertip="Gives Light Warrior an insane bonus armor for a short time. |nLasts 8 seconds."
+Hotkey=R
+EditorSuffix="(Skeletal Orc Champion)"
+[A0JL]
+Name="N.Build Flak Cannon"
+Tip="Star|cffffcc00f|rall - [|cffffcc00Level 1|r]","Star|cffffcc00f|rall - [|cffffcc00Level 2|r]","Star|cffffcc00f|rall - [|cffffcc00Level 3|r]","Star|cffffcc00f|rall - [|cffffcc00Level 4|r]"
+Ubertip="Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA1> damage in 700 AOE. |nLasts for <AEsf,Dur1> seconds.|n|n|cffc3dbffCooldown: 200 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA2> damage in 900 AOE. |nLasts for <AEsf,Dur1> seconds.|n|n|cffc3dbffCooldown: 210 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA3> damage in 1100 AOE. |nLasts for <AEsf,Dur1> seconds.|n|n|cffc3dbffCooldown: 225 seconds.|r","Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA4> damage in 1360 AOE. |nLasts for <AEsf,Dur1> seconds.|n|n|cffc3dbffCooldown: 250 seconds.|r"
+Hotkey=F
+Researchtip=Learn Star|cffffcc00f|rall
+Researchubertip="Calls down waves of falling stars that damage nearby enemy units. |nLasts for <AEsf,Dur1> seconds. Stars call down fater every level."
+Researchhotkey=F
+[A0I6]
+Name="Adrenaline |cffffcc00C|rontrol"
+Tip="Adrenaline |cffffcc00C|rontrol - [|cffffcc00Level 1|r]","Adrenaline |cffffcc00C|rontrol - [|cffffcc00Level 2|r]","Adrenaline |cffffcc00C|rontrol - [|cffffcc00Level 3|r]","Adrenaline |cffffcc00C|rontrol - [|cffffcc00Level 4|r]"
+Ubertip="Reduce your attack Cooldown by 1.3, give the maximun move speed and 200 hit points bonus for 8 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 170 seconds.|r","Reduce your attack Cooldown by 1.3, give the maximun move speed and 500 hit points bonus for 10 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 160 seconds.|r","Reduce your attack Cooldown by 1.4, give the maximun move speed, 800 hit points bonus and give Chaos attack damage. Last 12 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 150 seconds.|r","Reduce your attack Cooldown by 1.4, give the maximun move speed, 1300 hit points bonus and give Chaos attack damage. Last 15 seconds.|n|cffc3dbffNote: If you uses Imbued Sword before this ability you will not have the Splash attack.|r|n|n|cffc3dbffCooldown: 100 seconds.|r"
+Hotkey=C
+Researchtip="Learn Adrenaline |cffffcc00C|rontrol - [|cffffcc00Level %d|r]"
+Researchubertip="Reduce your attack Cooldown ( faster attack speed), give the maximun move speed and increases hit points bonus for a short time."
+Researchhotkey="C"
+Globalmessage=
+Globalsound=
+[A0FA]
+Name="Zombie Entomb 2"
+Tip="|cffffcc00E|rntomb - [|cffffcc00Level 1|r]","|cffffcc00E|rntomb - [|cffffcc00Level 2|r]","|cffffcc00E|rntomb - [|cffffcc00Level 3|r]","|cffffcc00E|rntomb - [|cffffcc00Level 4|r]","|cffffcc00E|rntomb - [|cffffcc00Level 5|r]","|cffffcc00E|rntomb - [|cffffcc00Level 6|r]","|cffffcc00E|rntomb - [|cffffcc00Level 7|r]","|cffffcc00E|rntomb - [|cffffcc00Level 8|r]","|cffffcc00E|rntomb - [|cffffcc00Level 9|r]"
+Ubertip="A ritual that heal 160 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 270 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 380 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 500 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 700 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 1000 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 1800 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 3200 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r","A ritual that heal 5800 hit points per second, Last 4 seconds.|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 13 seconds.|r"
+Hotkey=E
+Researchtip="Learn |cffffcc00E|rntomb - [|cffffcc00Level %d|r]"
+Researchubertip="A ritual that heal Zombie hit points for 4 seconds.|n|n|cffffcc00Level 1|r - Heal 160 hit points per second. |n|cffffcc00Level 2|r - Heal 270 hit points per second.|n|cffffcc00Level 3|r - Heal 380 hit points per second.|n|cffffcc00Level 4|r - Heal 500 hit points per second.|n|cffffcc00Level 5|r - Heal 700 hit points per second.|n|cffffcc00Level 6|r - Heal 1000 hit points per second.|n|cffffcc00Level 7|r - Heal 1800 hit points per second.|n|cffffcc00Level 8|r - Heal 3200 hit points per second.|n|cffffcc00Level 9|r - Heal 5800 hit points per second."
+Researchhotkey="E"
+Globalmessage=
+Globalsound=
+[A0F1]
+Name="Zombie Entomb"
+Tip="|cffffcc00E|rntomb - [|cffffcc00Level 1|r]","|cffffcc00E|rntomb - [|cffffcc00Level 2|r]","|cffffcc00E|rntomb - [|cffffcc00Level 3|r]","|cffffcc00E|rntomb - [|cffffcc00Level 4|r]","|cffffcc00E|rntomb - [|cffffcc00Level 5|r]","|cffffcc00E|rntomb - [|cffffcc00Level 6|r]","|cffffcc00E|rntomb - [|cffffcc00Level 7|r]","|cffffcc00E|rntomb - [|cffffcc00Level 8|r]","|cffffcc00E|rntomb - [|cffffcc00Level 9|r]"
+Ubertip="A ritual that heal 100 hit points per second, Last 4 seconds.|nPassively increases movespeed by 10 and attack speed by 5% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 150 hit points per second, Last 4 seconds.|nPassively increases movespeed by 20 and attack speed by 10% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 200 hit points per second, Last 4 seconds.|nPassively increases movespeed by 30 and attack speed by 15% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 250 hit points per second, Last 4 seconds.|nPassively increases movespeed by 40 and attack speed by 20% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 300 hit points per second, Last 4 seconds.|nPassively increases movespeed by 50 and attack speed by 25% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 400 hit points per second, Last 4 seconds.|nPassively increases movespeed by 60 and attack speed by 30% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 580 hit points per second, Last 4 seconds.|nPassively increases movespeed by 70 and attack speed by 35% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 820 hit points per second, Last 4 seconds.|nPassively increases movespeed by 80 and attack speed by 40% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r","A ritual that heal 1490 hit points per second, Last 4 seconds.|nPassively increases movespeed by 90 and attack speed by 45% to all your zombies and zombie forms (does stack with previous levels).|n|cffc3dbffChanneling|r|n|n|cffc3dbffCooldown: 5 seconds.|r"
+Hotkey=E
+Researchtip="Learn |cffffcc00E|rntomb - [|cffffcc00Level %d|r]"
+Researchubertip="A ritual that heal Zombie hit points for 4 seconds and passively increases movespeed and attack speed of all your zombies.|n|n|cffffcc00Level 1|r - Heal 100 hit points per second. |n|cffffcc00Level 2|r - Heal 150 hit points per second.|n|cffffcc00Level 3|r - Heal 200 hit points per second.|n|cffffcc00Level 4|r - Heal 250 hit points per second.|n|cffffcc00Level 5|r - Heal 300 hit points per second.|n|cffffcc00Level 6|r - Heal 400 hit points per second.|n|cffffcc00Level 7|r - Heal 580 hit points per second.|n|cffffcc00Level 8|r - Heal 820 hit points per second.|n|cffffcc00Level 9|r - Heal 1490 hit points per second."
+Researchhotkey="E"
+Globalmessage=
+Globalsound=
+[A0E8]
+Name="Armagedon UltD"
+Tip=Star|cffffcc00f|rall
+Ubertip="Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA1> damage. |nLasts for <AEsf,Dur1> seconds."
+Hotkey=F
+Researchtip=Learn Star|cffffcc00f|rall
+Researchubertip="Calls down waves of falling stars that damage nearby enemy units. Each wave deals <AEsf,DataA1> damage. |nLasts for <AEsf,Dur1> seconds."
+Researchhotkey=F
+[A0AG]
+Name="Water Bonce L4"
+Tip="Water Bounce"
+Ubertip="The Water Elemental strike 4 additional units with his bouncing attack."
+[A0AF]
+Name="Water Bonce L3"
+Tip="Water Bounce"
+Ubertip="The Water Elemental strike 3 additional units with his bouncing attack."
+[A0AE]
+Name="Water Bonce L2"
+Tip="Water Bounce"
+Ubertip="The Water Elemental strike 2 additional units with his bouncing attack."
+[A0AD]
+Name="Water Bonce L1"
+Tip="Water Bounce"
+Ubertip="The Water Elemental strike 1 additional unit with his bouncing attack."
+[A04D]
+Name="Magic Reduccion 30%"
+Tip="Elune's Grace'"
+Ubertip="Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+[A03M]
+Name="Magic Reduccion 60%"
+Tip="Magic Scales"
+Ubertip="Reduces the damage taken from spells and to 60%"
+[A021]
+Name="Magic Reduccion"
+Tip="Elune's Grace'"
+Ubertip="Reduces the damage taken from Piercing attacks to <Aegr,DataA1,%>%, and spells and Magic attacks to <Aegr,DataE1,%>%."
+[A020]
+Name="Metam.A.Ar"
+Tip=Me|cffffcc00t|ramorphosis
+Ubertip="Transforms the Demon Hunter into a powerful Demon with a ranged attack and <AEme,DataE1> bonus hit points. |nLasts <AEme,HeroDur1> seconds."
+Hotkey=T
+Researchtip=Learn Me|cffffcc00t|ramorphosis
+Researchubertip="Transforms the Demon Hunter into a powerful Demon with a ranged attack and <AEme,DataE1> bonus hit points. |nLasts <AEme,HeroDur1> seconds."
+Researchhotkey=T
+Globalmessage=
+Globalsound=
+[A1K0]
+Name="MAN Rejuvenatioon + spellp"
+Tip="Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 1|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 2|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 3|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 4|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 5|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 6|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 7|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 8|r]","Enchanted Re|cffffcc00j|ruvenation - [|cffffcc00Level 9|r]"
+Ubertip="Heals a target friendly unit for 1000 hit points over 30 seconds and increases your spell damage by 1 permanently.|n|n|cffc3dbffCooldown: 230 seconds.|r","Heals a target friendly unit for 2000 hit points over 30 seconds and increases your spell damage by 2 permanently.|n|n|cffc3dbffCooldown: 220 seconds.|r","Heals a target friendly unit for 3000 hit points over 30 seconds and increases your spell damage by 3 permanently.|n|n|cffc3dbffCooldown: 210 seconds.|r","Heals a target friendly unit for 4000 hit points over 30 seconds and increases your spell damage by 4 permanently.|n|n|cffc3dbffCooldown: 200 seconds.|r","Heals a target friendly unit for 6000 hit points over 30 seconds and increases your spell damage by 5 permanently.|n|n|cffc3dbffCooldown: 180 seconds.|r","Heals a target friendly unit for 8000 hit points over 30 seconds and increases your spell damage by 6 permanently.|n|n|cffc3dbffCooldown: 160 seconds.|r","Heals a target friendly unit for 10000 hit points over 30 seconds and increases your spell damage by 7 permanently.|n|n|cffc3dbffCooldown: 140 seconds.|r","Heals a target friendly unit for 15000 hit points over 30 seconds and increases your spell damage by 8 permanently.|n|n|cffc3dbffCooldown: 110 seconds.|r","Heals a target friendly unit for 30000 hit points over 30 seconds and increases your spell damage by 9 permanently.|n|n|cffc3dbffCooldown: 75 seconds.|r"
+Hotkey=J
+Researchhotkey="J"
+Researchtip="|cffffcc00R|rejuvenation - [|cffffcc00Level %d|r]"
+Researchubertip="Heals a target friendly unit over 40 seconds. |n|n|cffffcc00Level 1|r - Heals 1000 hit points over 40 seconds. |n|cffffcc00Level 2|r - Heals 2000 hit points over 40 seconds.  |n|cffffcc00Level 3|r - Heals 3000 hit points over 40 seconds. |n|cffffcc00Level 4|r - Heals 4000 hit points over 40 seconds. |n|cffffcc00Level 5|r - Heals 6000 hit points over 40 seconds. |n|cffffcc00Level 6|r - Heals 8000 hit points over 40 seconds. |n|cffffcc00Level 7|r - Heals 10000 hit points over 40 seconds. |n|cffffcc00Level 8|r - Heals 13000 hit points over 40 seconds. |n|cffffcc00Level 9|r - Heals 20000 hit points over 40 seconds."
+[A1K1]
+Name="MAN Cold Neutral"
+Tip="H|cffffcc00y|rpothermia - [|cffffcc00Level 1|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 2|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 3|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 4|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 5|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 6|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 7|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 8|r]","H|cffffcc00y|rpothermia - [|cffffcc00Level 9|r]"
+Ubertip="Slows the movement and attack speed of the target unit for a short duration, deal 60 damage per second, last 9 seconds, 4 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 30 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 80 damage per second, last 9 seconds, 5 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 28 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 100 damage per second, last 9 seconds, 6 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 26 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 140 damage per second, last 9 seconds, 7 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 24 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 180 damage per second, last 9 seconds, 8 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 22 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 220 damage per second, last 9 seconds, 9 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 20 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 260 damage per second, last 9 seconds, 10 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 18 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 300 damage per second, last 9 seconds, 11 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 16 seconds.|r","Slows the movement and attack speed of the targeted unit for a short duration deal 400 damage per second, last 9 seconds, 12 x spell power initial damage, |CFF0042FFCold Ability|r deal bonus damage to enemies with a curse of frost.|n|n|cffc3dbffCooldown: 13 seconds.|r"
+Hotkey=Y
+Researchtip="Learn Sha|cffffcc00d|row Strike - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement and attack speed slowed for a short duration. Cooldown and slowed speed improve per level. |n|n|cffffcc00Level 1|r - 150 strike damage, 80 duration damage. |n|cffffcc00Level 2|r - 200 strike damage, 100 duration damage. |n|cffffcc00Level 3|r - 300 strike damage, 200 duration damage. |n|cffffcc00Level 4|r - 400 strike damage, 300 duration damage. |n|cffffcc00Level 5|r - 600 strike damage, 450 duration damage. |n|cffffcc00Level 6|r - 800 strike damage, 600 duration damage. |n|cffffcc00Level 7|r - 1000 strike damage, 900 duration damage. |n|cffffcc00Level 8|r - 1400 strike damage, 1400 duration damage. |n|cffffcc00Level 9|r - 2200 strike damage, 2850 duration damage."
+Researchhotkey="Y"
+[A1K2]
+Name="MAN Evasion&Counter"
+Tip="Evasion & Counter - [|cffffcc00Level 1|r]","Evasion & Counter - [|cffffcc00Level 2|r]","Evasion & Counter - [|cffffcc00Level 3|r]","Evasion & Counter - [|cffffcc00Level 4|r]","Evasion & Counter - [|cffffcc00Level 5|r]","Evasion & Counter - [|cffffcc00Level 6|r]","Evasion & Counter - [|cffffcc00Level 7|r]","Evasion & Counter - [|cffffcc00Level 8|r]","Evasion & Counter - [|cffffcc00Level 9|r]"
+Ubertip="Gives a 8% chance to avoid an attack and 10% chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a 9% chance to avoid an attack and 11% chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a 12% chance to avoid an attack and 13% chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a 14% chance to avoid an attack and 14% chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a 16% chance to avoid an attack and 16% chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a 20% chance to avoid an attack and 20% chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a 24% chance to avoid an attack and 25% chance to damage the attacker by your level x 10 and heal for half of this amount.","Gives a 28% chance to avoid an attack and 33% chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units.","Gives a 35% chance to avoid an attack and 50% chance to damage the attacker by your level x 10 and heal for half of this amount. Counter will not work against level 1 units."
+Researchtip="Learn |cffffcc00E|rvasion - [|cffffcc00Level %d|r]"
+Researchubertip="Gives a percent chance to avoid attacks. |n|n|cffffcc00Level 1|r - <AEev,DataA1,%>% chance to evade.|n|cffffcc00Level 2|r - <AEev,DataA2,%>% chance to evade.|n|cffffcc00Level 3|r - <AEev,DataA3,%>% chance to evade.|n|cffffcc00Level 4|r - <AEev,DataA4,%>% chance to evade.|n|cffffcc00Level 5|r - <AEev,DataA5,%>% chance to evade.|n|cffffcc00Level 6|r - <AEev,DataA6,%>% chance to evade.|n|cffffcc00Level 7|r - <AEev,DataA7,%>% chance to evade.|n|cffffcc00Level 8|r - <AEev,DataA8,%>% chance to evade.|n|cffffcc00Level 9|r - <AEev,DataA9,%>% chance to evade."
+Researchhotkey=E
+[A1L7]
+Name="Black Gunpowder"
+Tip="Black Gunpowder [|cffffcc00R|r]"
+Ubertip="Load the Flak Cannon with cannons that are enchanted with black magic. Each attack will burn mana of target by 100."
+Hotkey=R
+Researchtip="Learn |cffffcc00T|rranquility"
+Researchubertip="Causes rains of healing energy to pour down in a large area, healing friendly allied units for <AEtq,DataA1> hit points per second. |nLasts <AEtq,Dur1> seconds."
+Researchhotkey=T
+Globalmessage=
+Globalsound=
+[A1PG]
+Name=Roar
+EditorSuffix="hydra1"
+Tip=|cffffcc00R|roar
+Ubertip="Gives friendly nearby units a 200% bonus to damage,50 armor and 50 life regeneration. |nLasts 10 seconds."
+Hotkey=R
+[A1PI]
+Name=Roar
+EditorSuffix="hydra2"
+Tip=|cffffcc00R|roar
+Ubertip="Gives friendly nearby units a 250% bonus to damage,100 armor and 100 life regeneration. |nLasts 10 seconds."
+Hotkey=R
+[A1PL]
+Name=Roar
+EditorSuffix="hydra3"
+Tip=|cffffcc00R|roar
+Ubertip="Gives friendly nearby units a <Ara2,DataA1,%>% bonus to damage. |nLasts <Ara2,Dur1> seconds."
+Hotkey=R
+[A1PU]
+Name=Roar
+EditorSuffix="bandt"
+Tip=|cffffcc00R|roar
+Ubertip="Gives friendly nearby units a <Ara2,DataA1,%>% bonus to damage. |nLasts <Ara2,Dur1> seconds."
+Hotkey=R
+[A1RF]
+Name="Shadow Strike Dark mage + Vamp Lord"
+Tip="Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 1|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 2|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 3|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 4|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 5|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 6|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 7|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 8|r]","Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level 9|r]"
+Ubertip="Hurls a poisoned dagger at a target enemy unit, dealing 4x spellpower initial damage, and 1x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 5x spellpower initial damage, and 2x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 6x spellpower initial damage, and 3x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 7x spellpower initial damage, and 4x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 8x spellpower initial damage, and 5x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 9x spellpower initial damage, and 6x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 10x spellpower initial damage, and 7x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 11x spellpower initial damage, and 8x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 12x spellpower initial damage, and 9x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+Hotkey=E
+Researchtip="Learn Shadow Strike [ |c00FFFC01E|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a poisoned dagger which deals large initial damage, and then deals damage over time. The poisoned unit has its movement and attack speed slowed for a short duration. Cooldown and slowed speed improve per level. |n|n|cffffcc00Level 1|r - 4x spellpower strike damage, 1x int duration damage. |n|cffffcc00Level 2|r - 5x spellpower strike damage, 2x int duration damage. |n|cffffcc00Level 3|r - 6x spellpower strike damage, 3x int duration damage. |n|cffffcc00Level 4|r - 7x spellpower strike damage, 4x int duration damage. |n|cffffcc00Level 5|r - 8x spellpower strike damage, 5x int duration damage. |n|cffffcc00Level 6|r - 9x spellpower strike damage, 6x int duration damage. |n|cffffcc00Level 7|r - 10x spellpower strike damage, 7x int duration damage. |n|cffffcc00Level 8|r - 11x spellpower strike damage, 8x int duration damage. |n|cffffcc00Level 9|r - 12x spellpower strike damage, 9x int duration damage."
+Researchhotkey="E"
+[A1RJ]
+Name="Venom Strike"
+Tip="Venom Strike [ |c00FFFC01T|r ] - [|cffffcc00Level 1|r]","Venom Strike [ |c00FFFC01T|r ] - [|cffffcc00Level 2|r]","Venom Strike [ |c00FFFC01T|r ] - [|cffffcc00Level 3|r]","Venom Strike [ |c00FFFC01T|r ] - [|cffffcc00Level 4|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 5|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 6|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 7|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 8|r]","Sha|cffffcc00d|row Strike - [|cffffcc00Level 9|r]"
+Ubertip="Teleport to the target and poison it.The poison deals 100 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 75 seconds.|r","Teleport to the target and poison it.The poison deals 1000 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 65 seconds.|r","Teleport to the target and poison it.The poison deals 3000 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 55 seconds.|r","Teleport to the target and poison it.The poison deals 7000 damage per second, slows the movement and attack speed of the targeted unit by 60%.|nlasts 30 seconds.|n|n|cffc3dbffCooldown: 42 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 600 initial damage, and 450 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 22 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 800 initial damage, and 600 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 20 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 1000 initial damage, and 900 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 18 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 1400 initial damage, and 1400 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 16 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 2200 initial damage, and 2850 damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 14 seconds.|r"
+Hotkey=T
+Researchtip="Learn Venom Strike [ |c00FFFC01T|r ] - [|cffffcc00Level %d|r]"
+Researchubertip="Teleports to the unit and poison them for 30 seconds. |n|n|cffffcc00Level 1|r - Deals 100 damage per second. |n|cffffcc00Level 2|r - Deals 1000 damage per second.|n|cffffcc00Level 3|r - Deals 3000 damage per second.|n|cffffcc00Level 4|r - Deals 7000 damage per second"
+Researchhotkey="T"
+[X000]
+EditorName=Tranquility (Effect Zero)
+[B07V]
+Bufftip=Ultima
+Buffubertip=Ultima
+EditorName=Ultima
+[B07U]
+Bufftip=Lighning Shock
+Buffubertip=Lighning Shock
+EditorName=Lighning Shock
+[B07T]
+Bufftip=Falling Light
+Buffubertip=Falling Light
+EditorName=Falling Light
+[B07S]
+Bufftip=Eclipse
+Buffubertip=Eclipse
+EditorName=Eclipse
+[B07R]
+Bufftip=MK rage
+Buffubertip=MK rage
+EditorName=MK rage
+[B063]
+Bufftip=Rejuvenation
+Buffubertip="This unit has Rejuvenation; it is healing hit points over time."
+EditorSuffix=v
+[B02M]
+Bufftip=Mark
+Buffubertip=This unit will be a vampire victim.
+[B02C]
+EditorName=Entomb
+[B02B]
+EditorName=Armagedon Buff
+[B01X]
+Bufftip=Demonic Speed
+Buffubertip=Transforms the Demon Hunter into a powerful Demon.
+[B01S]
+Bufftip=Assassin Path
+Buffubertip=This unit will Kill
+[B01F]
+Bufftip=Imbued Sword
+Buffubertip=Have damage increases and 100% splash damage.
+[B017]
+Bufftip=Hyper Regeneration
+Buffubertip=This unit Regenerate a lot.
+[B012]
+Bufftip=Bloodlust
+Buffubertip=It has increases armor and attack speed.
+[B00V]
+Bufftip=Ares Blessing
+Buffubertip=This unit has been blessing by a god.
+[B00K]
+Bufftip=Infernal Fire
+Buffubertip=Nearby enemy ground units will burn to his aches.
+[B00C]
+Bufftip=Slow Poison
+Buffubertip="This unit was hit by Slow Poison; its movement speed and attack rate have been reduced, and it will take damage over time."
+EditorSuffix=(Non-stacking)
+[B006]
+Bufftip=Stone Scales
+Buffubertip=Stone Scales
+EditorName=S.S
+[B005]
+Bufftip=Roar
+Buffubertip="This unit has Roar; its attack damage has been increased."
+[B08G]
+Bufftip=Set Fire
+Buffubertip=Nearby enemy ground units will take damage over time.
+EditorName=pulsar

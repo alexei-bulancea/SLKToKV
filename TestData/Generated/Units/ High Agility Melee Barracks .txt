@@ -1,0 +1,29 @@
+UnitId : n00N
+Descriprion : 
+	Id : n00N
+	Name : "High Agility Melee Barracks"
+	Ubertip : "Primary troop production building. Trains High Elven Swordsmen, High Elven Archers and Dragon Hawks. |nAlso contains the Defend upgrade for High Elven Swordsmen."
+
+Ability List:
+AbilityId : Asud
+Descriprion : 
+	Id : Asud
+	Name : Sell Units
+	Ubertip : "Permits the sale of units."
+
+
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

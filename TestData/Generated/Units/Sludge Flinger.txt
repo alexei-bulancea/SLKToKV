@@ -1,0 +1,15 @@
+UnitId : nslf
+Descriprion : 
+	Id : nslf
+	Name : Sludge Flinger
+	Ubertip : "Light ranged unit that can Slow opponents. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACsw
+Descriprion : 
+	Id : ACsw
+	Name : Slow
+	Ubertip : "Slows enemy unit's attack rate by <ACsw,DataB1,%>% and movement speed by <ACsw,DataA1,%>%. Lasts <ACsw,Dur1> seconds."
+
+
+Hero ability list:

@@ -9,6 +9,6 @@ namespace SLKToKV
     public class FullItemData
     {
         public ItemData Stats { get; set; }
-        public ItemString Description { get; set; }
+        public GenericDescription Description { get; set; }
     }
 }

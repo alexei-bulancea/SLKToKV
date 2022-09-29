@@ -1,0 +1,29 @@
+UnitId : h01Q
+Descriprion : 
+	Id : h01Q
+	Name : "High Range Soldier "
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0IZ
+Descriprion : 
+	Id : A0IZ
+	Name : "Fortified Shield Block"
+	Ubertip : "Have 23% chance to reduce damage in 200"
+
+
+AbilityId : A0J0
+Descriprion : 
+	Id : A0J0
+	Name : "Soldier Critical Strike"
+	Ubertip : "Gives a 12% chance to do 2.6  times normal damage on an attack."
+
+
+AbilityId : A1LF
+Descriprion : 
+	Id : A1LF
+	Name : "H WSD"
+	Ubertip : "This unit can be sacrificed to please Titans"
+
+
+Hero ability list:

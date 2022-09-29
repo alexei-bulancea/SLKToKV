@@ -1,0 +1,50 @@
+UnitId : H046
+Descriprion : 
+	Id : H046
+	Name : "Vampire Lord"
+	Ubertip : "Warrior Hero, exceptional at defense and augmenting nearby friendly troops. Can learn Holy Light, Divine Shield, Devotion Aura and Resurrection. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0OF
+Descriprion : 
+	Id : A0OF
+	Name : "Vampire Aerial Shackles"
+	Ubertip : "Paralize a unit for 11 seconds dealing 800 damage per second. |n|n|cffc3dbffCooldown: 160 seconds.|r","Paralize a unit for 11 seconds dealing 1000 damage per second. |n|n|cffc3dbffCooldown: 150 seconds.|r","Paralize a unit for 11 seconds dealing 1400 damage per second. |n|n|cffc3dbffCooldown: 140 seconds.|r","Paralize a unit for 11 seconds dealing 2000 damage per second. |n|n|cffc3dbffCooldown: 125 seconds.|r","Paralize a unit for 11 seconds dealing 3000 damage per second. |n|n|cffc3dbffCooldown: 100 seconds.|r"
+
+
+AbilityId : A0OC
+Descriprion : 
+	Id : A0OC
+	Name : "Vampire Mind Control 2"
+	Ubertip : "Takes control of a target enemy unit. Cannot be used on units above level 8. Gives 10% attack speed, 10 armor, 100 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 12. Gives 15% attack speed, 20 armor, 150 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 16. Gives 25% attack speed, 30 armor, 250 damage and 3500 hitpoints to the unit.|n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 20. Gives 30% attack speed, 50 armor, 375 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 24. Gives 40% attack speed, 75 armor, 500 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 30. Gives 50% attack speed, 100 armor, 650 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 38. Gives 55% attack speed, 130 armor, 850 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 48. Gives 60% attack speed, 160 armor, 1025 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r","Takes control of a target enemy unit. Cannot be used on units above level 61. Gives 80% attack speed, 200 armor, 1500 damage and 3500 hitpoints to the unit. |n|n|cffc3dbffCooldown: 180 seconds.|r"
+
+
+AbilityId : A1W5
+Descriprion : 
+	Id : A1W5
+	Name : "Deadly Mist"
+	Ubertip : "Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 550 + 2x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 110 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 1100 + 3x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 105 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 1650 + 4x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 100 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 2200 + 5x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 95 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 2750 + 6x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 87 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 3300 + 7x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 80 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 3850 + 8x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 74 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 4400 + 9x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 70 seconds.|r","Creates a Deadly Mist at the targeted location. Slowing all enemies in the targeted location and deal 4950 + 10x INT in spell damage per second. Last 8 Seconds. |n|n|cffc3dbffCooldown: 65 seconds.|r"
+
+
+AbilityId : A1RF
+Descriprion : 
+	Id : A1RF
+	Name : "Shadow Strike Dark mage + Vamp Lord"
+	Ubertip : "Hurls a poisoned dagger at a target enemy unit, dealing 4x spellpower initial damage, and 1x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 5x spellpower initial damage, and 2x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 6x spellpower initial damage, and 3x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 7x spellpower initial damage, and 4x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 8x spellpower initial damage, and 5x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 9x spellpower initial damage, and 6x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 10x spellpower initial damage, and 7x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 11x spellpower initial damage, and 8x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r","Hurls a poisoned dagger at a target enemy unit, dealing 12x spellpower initial damage, and 9x int damage every 3 seconds for 15 seconds. The poison slows the movement and attack speed of the targeted unit for a short duration.|n|n|cffc3dbffCooldown: 30 seconds.|r"
+
+
+AbilityId : A0O3
+Descriprion : 
+	Id : A0O3
+	Name : "Vampire Carrion Swarm"
+	Ubertip : "Sends a horde of bats to deal 250 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 400 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 700 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 1000 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 1500 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 2000 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 2700 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 3900 damage to each enemy unit in a cone. |n|n|cffc3dbffCooldown: 18 seconds.|r","Sends a horde of bats to deal 6700 damage to each enemy unit in a cone and increases your INT by 3. |n|n|cffc3dbffCooldown: 18 seconds.|r"
+
+

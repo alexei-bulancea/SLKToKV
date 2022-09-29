@@ -1,0 +1,50 @@
+UnitId : E011
+Descriprion : 
+	Id : E011
+	Name : "Assassin"
+	Ubertip : "Cunning Hero, adept at dealing high amounts of damage in a short time. Assassin can not use Bows items. Can learn Kyusho Jitsu, Furtive Attack, Sharpest Blades, Mastery and Execute.|n|nDifficulty to use: |CFF20C000Hard.|r"
+
+Ability List:
+AbilityId : AInv
+Descriprion : 
+	Id : AInv
+	Name : Inventory
+	Ubertip : 
+
+
+AbilityId : Ault
+Descriprion : 
+	Id : Ault
+	Name : Ultravision
+	Ubertip : 
+
+
+Hero ability list:
+AbilityId : A0ZJ
+Descriprion : 
+	Id : A0ZJ
+	Name : "Ass Mastery"
+	Ubertip : "Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.06. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.10. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.14. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.18. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.22. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.26. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.30. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.34. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now.","Assassin becomes more accuarate with each kill increasing his damage permanently, damage increment depends on how strong the victim was, minimum damage increase is 0.38. You can tipe -QD to see some examples of how much your damage will increase if you kill some enemies right now."
+
+
+AbilityId : A0ZN
+Descriprion : 
+	Id : A0ZN
+	Name : "Ass Execute"
+	Ubertip : "Make one deadly attack that deal 20 times your normal damage to an organic enemy unit during the next 8 seconds. It not work if Assassin is invisible. If the attack is interrupted it will not work.|n|n|cffc3dbffCooldown: 180 seconds.|r","Make one deadly attack that deal 25 times your normal damage to an organic enemy unit during the next 8 seconds. It not work if Assassin is invisible. If the attack is interrupted it will not work, this attack can't be evaded.|n|n|cffc3dbffCooldown: 160 seconds.|r","Make one deadly attack that deal 30 times your normal damage to an organic enemy unit during the next 8 seconds. It not work if Assassin is invisible. If the attack is interrupted it will not work, this attack can't be evaded.|n|n|cffc3dbffCooldown: 120 seconds.|r","Make one deadly attack that deal 40 times your normal damage to an organic enemy unit during the next 8 seconds. It not work if Assassin is invisible. If the attack is interrupted it will not work, this attack can't be evaded.|n|n|cffc3dbffCooldown: 70 seconds.|r"
+
+
+AbilityId : A0ZM
+Descriprion : 
+	Id : A0ZM
+	Name : "Ass Invi"
+	Ubertip : "Assassin become invisible and move with a high speed for 4 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 0.6 seconds.|n|n|cffc3dbffCooldown: 30 seconds|r.","Assassin become invisible and move with a high speed for 4.5 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 0.7 seconds.|n|n|cffc3dbffCooldown: 29 seconds|r.","Assassin become invisible and move with a high speed for 5 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 0.8 seconds.|n|n|cffc3dbffCooldown: 28 seconds|r.","Assassin become invisible and move with a high speed for 5.5 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 0.9 seconds.|n|n|cffc3dbffCooldown: 26 seconds|r.","Assassin become invisible and move with a high speed for 6 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 1 second.|n|n|cffc3dbffCooldown: 24 seconds|r.","Assassin become invisible and move with a high speed for 7 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 1.1 seconds.|n|n|cffc3dbffCooldown: 22 seconds|r.","Assassin become invisible and move with a high speed for 8 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 1.2 second.|n|n|cffc3dbffCooldown: 20 seconds|r.","Assassin become invisible and move with a high speed for 9 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 1.4 second.|n|n|cffc3dbffCooldown: 17 seconds|r.","Assassin become invisible and move with a high speed for 10 seconds. When Assassin attacks a unit to break invisibility, she will deal 7 x her agiity in spell damage and stun the target for 1.7 second.|n|n|cffc3dbffCooldown: 14 seconds|r."
+
+
+AbilityId : A0ZP
+Descriprion : 
+	Id : A0ZP
+	Name : "Ass area"
+	Ubertip : "Assassin cut all the vital points in one instand of a random enemy on the target area dealing 600 + 0.8 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 40 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 1200 + 1.6 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 39 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 1800 + 2.4 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 38 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 2400 + 3.2 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 37 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 3000 + 4 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 35 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 4500 + 4.8 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 33 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 5250 + 5.6 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 31 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 6000 + 6.4 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 28 seconds|r.","Assassin cut all the vital points in one instand of a random enemy on the target area dealing 9000 + 7.2 x agility in spell magic damage. Have 1 second casting time.|n|n|cffc3dbffCooldown: 25 seconds|r."
+
+

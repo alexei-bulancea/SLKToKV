@@ -1,0 +1,29 @@
+UnitId : uzg2
+Descriprion : 
+	Id : uzg2
+	Name : "Skull Tower"
+	Ubertip : "Upgrade to create a defensive structure that deals cold damage and slows enemy units. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : Adtg
+Descriprion : 
+	Id : Adtg
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+AbilityId : ANss
+Descriprion : 
+	Id : ANss
+	Name : Spell Shield
+	Ubertip : 
+
+
+AbilityId : A0H8
+Descriprion : 
+	Id : A0H8
+	Name : "Spell Damage Reduction 70"
+	Ubertip : 
+
+
+Hero ability list:

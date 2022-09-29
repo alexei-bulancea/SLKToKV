@@ -1,0 +1,8 @@
+UnitId : h02P
+Descriprion : 
+	Id : h02P
+	Name : "University"
+	Ubertip : "Contains upgrades for Workshop and Obelisk."
+
+Ability List:
+Hero ability list:

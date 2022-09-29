@@ -1,0 +1,29 @@
+UnitId : n04J
+Descriprion : 
+	Id : n04J
+	Name : Vile Temptress
+	Ubertip : "Heavy melee unit. |n|n|cffffcc00Attacks land units.|r"
+
+Ability List:
+AbilityId : A0A3
+Descriprion : 
+	Id : A0A3
+	Name : "Life Steal Nosferatu"
+	Ubertip : 
+
+
+AbilityId : A1PF
+Descriprion : 
+	Id : A1PF
+	Name : "Vampiric Reflex"
+	Ubertip : "Gives a 40% chance to dodge an attack and a 25% chance to deal 5.6 times normal damage. This attack can never miss.","Gives a <ANdb,DataD2,%>% chance to dodge an attack and a <ANdb,DataA2>% chance to deal <ANdb,DataB2> times normal damage.","Gives a <ANdb,DataD3,%>% chance to dodge an attack and a <ANdb,DataA3>% chance to deal <ANdb,DataB3> times normal damage."
+
+
+AbilityId : A03M
+Descriprion : 
+	Id : A03M
+	Name : "Magic Reduccion 60%"
+	Ubertip : "Reduces the damage taken from spells and to 60%"
+
+
+Hero ability list:

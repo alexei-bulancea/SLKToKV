@@ -1,0 +1,22 @@
+UnitId : nmrf
+Descriprion : 
+	Id : nmrf
+	Name : Mercenary Camp
+	Ubertip : 
+
+Ability List:
+AbilityId : Ane2
+Descriprion : 
+	Id : Ane2
+	Name : Select Unit
+	Ubertip : 
+
+
+AbilityId : Avul
+Descriprion : 
+	Id : Avul
+	Name : Invulnerable
+	Ubertip : 
+
+
+Hero ability list:

@@ -1,0 +1,22 @@
+UnitId : ogrk
+Descriprion : 
+	Id : ogrk
+	Name : "Gar'thok'"
+	Ubertip : 
+
+Ability List:
+AbilityId : Asal
+Descriprion : 
+	Id : Asal
+	Name : Pillage
+	Ubertip : "Gain 2% of the damage deal in gold, decimals are added.","Gain 3% of the damage deal in gold, decimals are added.","Gain 4% of the damage deal in gold, decimals are added.","Gain 5% of the damage deal in gold, decimals are added.","Gain 6% of the damage deal in gold, decimals are added.","Gain 7% of the damage deal in gold, decimals are added.","Gain 8% of the damage deal in gold, decimals are added.","Gain 10% of the damage deal in gold, decimals are added.","Gain 15% of the damage deal in gold, decimals are added."
+
+
+AbilityId : Aion
+Descriprion : 
+	Id : Aion
+	Name : Unit Inventory
+	Ubertip : "Allows this unit to carry items for Heroes. Items cannot be used from this unit's inventory."
+
+
+Hero ability list:

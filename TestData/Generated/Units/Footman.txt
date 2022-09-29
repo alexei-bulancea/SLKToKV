@@ -1,0 +1,15 @@
+UnitId : hfoo
+Descriprion : 
+	Id : hfoo
+	Name : Footman
+	Ubertip : "Versatile foot soldier. Can learn the Defend ability. "
+
+Ability List:
+AbilityId : A0KQ
+Descriprion : 
+	Id : A0KQ
+	Name : "Shield Defense"
+	Ubertip : "Have 24% chance to block 500 damage."
+
+
+Hero ability list:

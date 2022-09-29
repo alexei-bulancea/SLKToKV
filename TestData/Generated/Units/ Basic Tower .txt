@@ -1,0 +1,8 @@
+UnitId : o00J
+Descriprion : 
+	Id : o00J
+	Name : "Basic Tower"
+	Ubertip : "Have interesting upgrades and low hit points regeneration rate. "
+
+Ability List:
+Hero ability list:

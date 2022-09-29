@@ -1,0 +1,43 @@
+UnitId : ufro
+Descriprion : 
+	Id : ufro
+	Name : "Apocalypse"
+	Ubertip : "Flying heavy assault creature. Can learn the Freezing Breath ability. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : A068
+Descriprion : 
+	Id : A068
+	Name : "Death Critical Strike"
+	Ubertip : "Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack.","Gives a 5% chance to do 7.6  times normal damage on an attack."
+
+
+AbilityId : A0EA
+Descriprion : 
+	Id : A0EA
+	Name : "Breath of Death"
+	Ubertip : "Breathes a cone of frost at enemy units that deals <ACbf,DataA1> initial damage, and <ACbf,DataE1> damage per second over <ACbf,Dur1> seconds."
+
+
+AbilityId : A0SP
+Descriprion : 
+	Id : A0SP
+	Name : "Ice Age"
+	Ubertip : "Slams the ground, dealing <Awrs,DataA1> damage to nearby enemy land units and stunning them for <Awrs,Dur1> seconds."
+
+
+AbilityId : A05W
+Descriprion : 
+	Id : A05W
+	Name : "G.S.Frozen Dragon"
+	Ubertip : "Gives a <ACbh,DataA1>% chance that an attack will do <ACbh,DataC1> bonus damage and stun an opponent for <ACbh,Dur1> seconds."
+
+
+AbilityId : ANtr
+Descriprion : 
+	Id : ANtr
+	Name : True Sight
+	Ubertip : "Reveals nearby invisible units."
+
+
+Hero ability list:

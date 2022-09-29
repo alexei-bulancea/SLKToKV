@@ -1,0 +1,29 @@
+UnitId : nhrh
+Descriprion : 
+	Id : nhrh
+	Name : Harpy Storm-hag
+	Ubertip : "Medium flying ranged unit that hurls bolts of lightning. Can Curse opponents and cast Sleep. |n|n|cffffcc00Attacks land and air units.|r"
+
+Ability List:
+AbilityId : ACcs
+Descriprion : 
+	Id : ACcs
+	Name : Curse
+	Ubertip : "Curses a target enemy unit, causing it to have a <ACcs,DataA1,%>% chance to miss on an attack. |nLasts <ACcs,Dur1> seconds."
+
+
+AbilityId : SCc1
+Descriprion : 
+	Id : SCc1
+	Name : Cyclone
+	Ubertip : "Tosses a target enemy unit into the air, rendering it unable to move, attack or cast spells, and stopping others from attacking or casting on it. |nLasts <SCc1,Dur1> seconds."
+
+
+AbilityId : A16Q
+Descriprion : 
+	Id : A16Q
+	Name : "HL IB"
+	Ubertip : "Increases Hell Lighting damage by (3 + Hell Lighting level) x Intelligence while this unit is near."
+
+
+Hero ability list:
